@@ -19,4 +19,4 @@ Feeds for some popular programming languages, such as Python and JavaScript, hav
 - [hebertialmeida / MarkdownSyntax](https://github.com/hebertialmeida/MarkdownSyntax)
 - [hartbit / Yaap](https://github.com/hartbit/Yaap)
 - [jgthms / bulma](https://github.com/jgthms/bulma)
-- [redreamality / SwiftAsciidoctor](https://github.com/redreamality/SwiftAsciidoctor)
+- [mshibanami / SwiftAsciidoctor](https://github.com/mshibanami/SwiftAsciidoctor)

@@ -13,7 +13,7 @@ let package = Package(
         .package(url: "https://github.com/hebertialmeida/MarkdownSyntax", from: "1.1.0"),
         .package(url: "https://github.com/scinfu/SwiftSoup", from: "2.3.2"),
         .package(url: "https://github.com/stencilproject/Stencil", from: "0.14.1"),
-        .package(url: "https://github.com/redreamality/SwiftAsciidoctor", from: "1.0.2"),
+        .package(url: "https://github.com/mshibanami/SwiftAsciidoctor", from: "1.0.2"),
         .package(url: "https://github.com/apple/swift-algorithms", from: "1.2.0"),
     ],
     targets: [

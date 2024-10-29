@@ -66,7 +66,7 @@
       },
       {
         "package": "SwiftAsciidoctor",
-        "repositoryURL": "https://github.com/redreamality/SwiftAsciidoctor",
+        "repositoryURL": "https://github.com/mshibanami/SwiftAsciidoctor",
         "state": {
           "branch": null,
           "revision": "37e99e5baf2a6f4e643f322370b00fb7787f0265",
