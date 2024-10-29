@@ -31,45 +31,23 @@ public class Const {
         return url
     }
 
-    public static let googleAnalyticsTrackingCode = "UA-46019833-3"
+    public static let googleAnalyticsTrackingCode = "G-MH6YQR4DW2"
 
     public private(set) static var gitHubClientID: String!
     public private(set) static var gitHubClientSecret: String!
 
     public static let popularLanguages = [
         "all",
-        "applescript",
         "c",
         "c++",
         "c#",
-        "common-lisp",
-        "css",
-        "dart",
         "dockerfile",
-        "emacs-lisp",
-        "f#",
         "go",
-        "haskell",
-        "haxe",
         "html",
         "java",
         "javascript",
         "jupyter-notebook",
-        "kotlin",
-        "lua",
-        "objective-c",
-        "perl",
-        "php",
-        "powershell",
         "python",
-        "r",
-        "ruby",
-        "rust",
-        "scala",
-        "shell",
-        "swift",
-        "svg",
-        "tex",
         "typescript",
         "xml",
         "xslt",
