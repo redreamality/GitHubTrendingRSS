@@ -27,8 +27,8 @@ final class SiteGeneratorTests: XCTestCase {
 
     func testGenerateRSSListHTML() throws {
         let html = try maker.makeHomeHTML(from: [
-            LanguageTrendingLink(displayName: "Hello", href: "/mshibanami/hello"),
-            LanguageTrendingLink(displayName: "World", href: "/mshibanami/world"),
+            LanguageTrendingLink(displayName: "Hello", href: "/redreamality/hello"),
+            LanguageTrendingLink(displayName: "World", href: "/redreamality/world"),
         ])
 
         XCTAssertTrue(html.contains(information.pageTitle))
