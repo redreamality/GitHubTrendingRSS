@@ -12,7 +12,7 @@ public class Const {
     public static let gitHubBaseURL = URL(string: "https://github.com")!
     public static let gitHubRepositoryURL = URL(string: "https://github.com/redreamality/GitHubTrendingRSS")!
     public static let pageTitle = "GitHub Trending RSS"
-    public static let author = "Manabu Nakazawa"
+    public static let author = "redreamality"
 
     public static let outputDirectoryName = "output"
     public static let outputDirectory = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)

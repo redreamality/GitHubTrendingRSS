@@ -97,7 +97,7 @@ public class GitHubDownloader {
 
     public func fetchSupportedEmojis() -> AnyPublisher<[GitHubEmoji], Swift.Error> {
         return downloadManager
-            .fetch(url: Const.gitHubAPIEmojisURL, basicAuthInfo: basicAuthInfo)
+            .fetch(url: Const.gitHubAPIEmojisURL, basicAuthInfo: nil)
             .tryMap { body -> [GitHubEmoji] in
                 guard let data = body.data(using: .utf8) else {
                     throw Error.unsupportedFormat
