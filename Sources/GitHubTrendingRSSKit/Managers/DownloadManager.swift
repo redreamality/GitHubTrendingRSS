@@ -95,7 +95,6 @@ public struct BasicAuthInfo {
             throw Error.invalidUserNameOrPassword
         }
         let credential = credentialData.base64EncodedString(options: [])
-        NSLog("User \(userName.prefix(14))")
         return "Basic \(credential)"
     }
 }
