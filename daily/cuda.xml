@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Cuda Daily Trending</title>
+    <description>Daily Trending of Cuda in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:15:05 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>karpathy/llm.c</title>
+      <link>https://github.com/karpathy/llm.c</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA/CUDALibrarySamples</title>
+      <link>https://github.com/NVIDIA/CUDALibrarySamples</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>flashinfer-ai/flashinfer</title>
+      <link>https://github.com/flashinfer-ai/flashinfer</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA/nccl-tests</title>
+      <link>https://github.com/NVIDIA/nccl-tests</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rapidsai/cugraph</title>
+      <link>https://github.com/rapidsai/cugraph</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nerfstudio-project/gsplat</title>
+      <link>https://github.com/nerfstudio-project/gsplat</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NVlabs/instant-ngp</title>
+      <link>https://github.com/NVlabs/instant-ngp</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Tony-Tan/CUDA_Freshman</title>
+      <link>https://github.com/Tony-Tan/CUDA_Freshman</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rapidsai/wholegraph</title>
+      <link>https://github.com/rapidsai/wholegraph</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rapidsai/cuvs</title>
+      <link>https://github.com/rapidsai/cuvs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rapidsai/raft</title>
+      <link>https://github.com/rapidsai/raft</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Dao-AILab/causal-conv1d</title>
+      <link>https://github.com/Dao-AILab/causal-conv1d</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA/cub</title>
+      <link>https://github.com/NVIDIA/cub</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

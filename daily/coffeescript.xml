@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CoffeeScript Daily Trending</title>
+    <description>Daily Trending of CoffeeScript in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:14:56 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FelisCatus/SwitchyOmega</title>
+      <link>https://github.com/FelisCatus/SwitchyOmega</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Leonidas-from-XIV/node-xml2js</title>
+      <link>https://github.com/Leonidas-from-XIV/node-xml2js</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>slackapi/hubot-slack</title>
+      <link>https://github.com/slackapi/hubot-slack</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dropbox/zxcvbn</title>
+      <link>https://github.com/dropbox/zxcvbn</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>adaltas/node-csv</title>
+      <link>https://github.com/adaltas/node-csv</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

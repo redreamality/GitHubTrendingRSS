@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PLpgSQL Monthly Trending</title>
+    <description>Monthly Trending of PLpgSQL in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:37:48 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pgpartman/pg_partman</title>
+      <link>https://github.com/pgpartman/pg_partman</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openmaptiles/openmaptiles</title>
+      <link>https://github.com/openmaptiles/openmaptiles</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>digoal/blog</title>
+      <link>https://github.com/digoal/blog</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

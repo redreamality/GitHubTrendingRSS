@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Sass Daily Trending</title>
+    <description>Daily Trending of Sass in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:19:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pradyunsg/furo</title>
+      <link>https://github.com/pradyunsg/furo</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>heroku/boomerang</title>
+      <link>https://github.com/heroku/boomerang</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>readthedocs/sphinx_rtd_theme</title>
+      <link>https://github.com/readthedocs/sphinx_rtd_theme</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

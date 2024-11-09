@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Julia Daily Trending</title>
+    <description>Daily Trending of Julia in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:17:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>JuliaRegistries/General</title>
+      <link>https://github.com/JuliaRegistries/General</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>JuliaDSP/DSP.jl</title>
+      <link>https://github.com/JuliaDSP/DSP.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>gridap/Gridap.jl</title>
+      <link>https://github.com/gridap/Gridap.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>MakieOrg/Makie.jl</title>
+      <link>https://github.com/MakieOrg/Makie.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>JuliaPlots/Plots.jl</title>
+      <link>https://github.com/JuliaPlots/Plots.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rafaqz/DimensionalData.jl</title>
+      <link>https://github.com/rafaqz/DimensionalData.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Deltares/Ribasim</title>
+      <link>https://github.com/Deltares/Ribasim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>trixi-framework/Trixi.jl</title>
+      <link>https://github.com/trixi-framework/Trixi.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>SciML/NonlinearSolve.jl</title>
+      <link>https://github.com/SciML/NonlinearSolve.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaOcean.jl</title>
+      <link>https://github.com/CliMA/ClimaOcean.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>LuxDL/Lux.jl</title>
+      <link>https://github.com/LuxDL/Lux.jl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

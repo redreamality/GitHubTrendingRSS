@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Java Daily Trending</title>
+    <description>Daily Trending of Java in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:16:41 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>prestodb/presto</title>
+      <link>https://github.com/prestodb/presto</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>StarRocks/starrocks</title>
+      <link>https://github.com/StarRocks/starrocks</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dataease/dataease</title>
+      <link>https://github.com/dataease/dataease</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>iBotPeaches/Apktool</title>
+      <link>https://github.com/iBotPeaches/Apktool</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>comet-ml/opik</title>
+      <link>https://github.com/comet-ml/opik</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dbeaver/dbeaver</title>
+      <link>https://github.com/dbeaver/dbeaver</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Graylog2/graylog2-server</title>
+      <link>https://github.com/Graylog2/graylog2-server</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>alibaba/arthas</title>
+      <link>https://github.com/alibaba/arthas</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>binarywang/WxJava</title>
+      <link>https://github.com/binarywang/WxJava</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>apache/tomcat</title>
+      <link>https://github.com/apache/tomcat</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>quarkusio/quarkus</title>
+      <link>https://github.com/quarkusio/quarkus</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>halo-dev/halo</title>
+      <link>https://github.com/halo-dev/halo</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>eugenp/tutorials</title>
+      <link>https://github.com/eugenp/tutorials</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>doocs/advanced-java</title>
+      <link>https://github.com/doocs/advanced-java</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NationalSecurityAgency/ghidra</title>
+      <link>https://github.com/NationalSecurityAgency/ghidra</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/gson</title>
+      <link>https://github.com/google/gson</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>spring-projects/spring-security</title>
+      <link>https://github.com/spring-projects/spring-security</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>redis/jedis</title>
+      <link>https://github.com/redis/jedis</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jenkinsci/jenkins</title>
+      <link>https://github.com/jenkinsci/jenkins</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>trinodb/trino</title>
+      <link>https://github.com/trinodb/trino</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>netty/netty</title>
+      <link>https://github.com/netty/netty</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>brettwooldridge/HikariCP</title>
+      <link>https://github.com/brettwooldridge/HikariCP</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>alibaba/easyexcel</title>
+      <link>https://github.com/alibaba/easyexcel</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Stirling-Tools/Stirling-PDF</title>
+      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

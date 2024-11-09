@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub VHDL Daily Trending</title>
+    <description>Daily Trending of VHDL in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:20:21 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>OSVVM/OSVVM</title>
+      <link>https://github.com/OSVVM/OSVVM</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ghdl/ghdl</title>
+      <link>https://github.com/ghdl/ghdl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>stnolting/neorv32</title>
+      <link>https://github.com/stnolting/neorv32</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>VUnit/vunit</title>
+      <link>https://github.com/VUnit/vunit</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>UVVM/UVVM</title>
+      <link>https://github.com/UVVM/UVVM</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

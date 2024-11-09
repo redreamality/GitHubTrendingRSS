@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Clojure Monthly Trending</title>
+    <description>Monthly Trending of Clojure in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:31:22 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>metabase/metabase</title>
+      <link>https://github.com/metabase/metabase</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>logseq/logseq</title>
+      <link>https://github.com/logseq/logseq</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>penpot/penpot</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tonsky/FiraCode</title>
+      <link>https://github.com/tonsky/FiraCode</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>hyperfiddle/electric-v2-starter-app</title>
+      <link>https://github.com/hyperfiddle/electric-v2-starter-app</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nextjournal/clerk-demo</title>
+      <link>https://github.com/nextjournal/clerk-demo</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cognitect-labs/test-runner</title>
+      <link>https://github.com/cognitect-labs/test-runner</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nubank/matcher-combinators</title>
+      <link>https://github.com/nubank/matcher-combinators</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nubank/state-flow</title>
+      <link>https://github.com/nubank/state-flow</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nubank/clj-github</title>
+      <link>https://github.com/nubank/clj-github</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nubank/k8s-api</title>
+      <link>https://github.com/nubank/k8s-api</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

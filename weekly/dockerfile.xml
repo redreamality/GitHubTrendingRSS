@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dockerfile Weekly Trending</title>
+    <description>Weekly Trending of Dockerfile in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:22:18 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>yewtudotbe/invidious-custom</title>
+      <link>https://github.com/yewtudotbe/invidious-custom</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>linuxserver/docker-wireguard</title>
+      <link>https://github.com/linuxserver/docker-wireguard</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>linuxserver/docker-qbittorrent</title>
+      <link>https://github.com/linuxserver/docker-qbittorrent</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vulhub/vulhub</title>
+      <link>https://github.com/vulhub/vulhub</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>microsoft/vscode-remote-release</title>
+      <link>https://github.com/microsoft/vscode-remote-release</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>piyushsachdeva/CKA-2024</title>
+      <link>https://github.com/piyushsachdeva/CKA-2024</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dunglas/symfony-docker</title>
+      <link>https://github.com/dunglas/symfony-docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>laradock/laradock</title>
+      <link>https://github.com/laradock/laradock</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>goldbergyoni/nodebestpractices</title>
+      <link>https://github.com/goldbergyoni/nodebestpractices</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>autowarefoundation/autoware</title>
+      <link>https://github.com/autowarefoundation/autoware</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jaywcjlove/reference</title>
+      <link>https://github.com/jaywcjlove/reference</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>apache/apisix-docker</title>
+      <link>https://github.com/apache/apisix-docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>OWASP/wstg</title>
+      <link>https://github.com/OWASP/wstg</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>sou6av/deploy-raganork</title>
+      <link>https://github.com/sou6av/deploy-raganork</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mikeroyal/Self-Hosting-Guide</title>
+      <link>https://github.com/mikeroyal/Self-Hosting-Guide</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vala Daily Trending</title>
+    <description>Daily Trending of Vala in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:20:17 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>neithern/g4music</title>
+      <link>https://github.com/neithern/g4music</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ErikReider/SwayNotificationCenter</title>
+      <link>https://github.com/ErikReider/SwayNotificationCenter</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>phw/peek</title>
+      <link>https://github.com/phw/peek</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

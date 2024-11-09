@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dockerfile Monthly Trending</title>
+    <description>Monthly Trending of Dockerfile in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:31:51 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jaywcjlove/reference</title>
+      <link>https://github.com/jaywcjlove/reference</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>linuxserver/docker-qbittorrent</title>
+      <link>https://github.com/linuxserver/docker-qbittorrent</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>AndreRH/hangover</title>
+      <link>https://github.com/AndreRH/hangover</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>microsoft/dotnet-framework-docker</title>
+      <link>https://github.com/microsoft/dotnet-framework-docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vulhub/vulhub</title>
+      <link>https://github.com/vulhub/vulhub</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>odoo/docker</title>
+      <link>https://github.com/odoo/docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>imagegenius/docker-immich</title>
+      <link>https://github.com/imagegenius/docker-immich</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kagisearch/kagi-docs</title>
+      <link>https://github.com/kagisearch/kagi-docs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dunglas/symfony-docker</title>
+      <link>https://github.com/dunglas/symfony-docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>goldbergyoni/nodebestpractices</title>
+      <link>https://github.com/goldbergyoni/nodebestpractices</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>OWASP/wstg</title>
+      <link>https://github.com/OWASP/wstg</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>CoolKit-Technologies/ha-addon</title>
+      <link>https://github.com/CoolKit-Technologies/ha-addon</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>laradock/laradock</title>
+      <link>https://github.com/laradock/laradock</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mikeroyal/Self-Hosting-Guide</title>
+      <link>https://github.com/mikeroyal/Self-Hosting-Guide</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

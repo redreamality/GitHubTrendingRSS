@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nim Monthly Trending</title>
+    <description>Monthly Trending of Nim in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:37:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nim-lang/Nim</title>
+      <link>https://github.com/nim-lang/Nim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

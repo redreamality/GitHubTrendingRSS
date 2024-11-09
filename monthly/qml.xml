@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub QML Monthly Trending</title>
+    <description>Monthly Trending of QML in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:38:16 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vinceliuice/WhiteSur-kde</title>
+      <link>https://github.com/vinceliuice/WhiteSur-kde</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>catsout/wallpaper-engine-kde-plugin</title>
+      <link>https://github.com/catsout/wallpaper-engine-kde-plugin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

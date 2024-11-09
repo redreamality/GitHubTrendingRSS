@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Go Daily Trending</title>
+    <description>Daily Trending of Go in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:16:03 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FiloSottile/mkcert</title>
+      <link>https://github.com/FiloSottile/mkcert</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>gruntwork-io/terragrunt</title>
+      <link>https://github.com/gruntwork-io/terragrunt</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>chaitin/SafeLine</title>
+      <link>https://github.com/chaitin/SafeLine</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kubernetes/kube-state-metrics</title>
+      <link>https://github.com/kubernetes/kube-state-metrics</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ollama/ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>onsi/ginkgo</title>
+      <link>https://github.com/onsi/ginkgo</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>IBM/sarama</title>
+      <link>https://github.com/IBM/sarama</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kubernetes/ingress-nginx</title>
+      <link>https://github.com/kubernetes/ingress-nginx</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kubernetes-sigs/gateway-api</title>
+      <link>https://github.com/kubernetes-sigs/gateway-api</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>grafana/k6</title>
+      <link>https://github.com/grafana/k6</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>hashicorp/vault</title>
+      <link>https://github.com/hashicorp/vault</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rancher/rancher</title>
+      <link>https://github.com/rancher/rancher</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>prometheus-operator/prometheus-operator</title>
+      <link>https://github.com/prometheus-operator/prometheus-operator</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jpillora/chisel</title>
+      <link>https://github.com/jpillora/chisel</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cilium/cilium</title>
+      <link>https://github.com/cilium/cilium</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kubernetes/minikube</title>
+      <link>https://github.com/kubernetes/minikube</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>coder/coder</title>
+      <link>https://github.com/coder/coder</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>evanw/esbuild</title>
+      <link>https://github.com/evanw/esbuild</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>argoproj/argo-cd</title>
+      <link>https://github.com/argoproj/argo-cd</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>danielmiessler/fabric</title>
+      <link>https://github.com/danielmiessler/fabric</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>gravitational/teleport</title>
+      <link>https://github.com/gravitational/teleport</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>grafana/loki</title>
+      <link>https://github.com/grafana/loki</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

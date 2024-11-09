@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub GLSL Weekly Trending</title>
+    <description>Weekly Trending of GLSL in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:23:03 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>SaschaWillems/Vulkan</title>
+      <link>https://github.com/SaschaWillems/Vulkan</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>patriciogonzalezvivo/lygia</title>
+      <link>https://github.com/patriciogonzalezvivo/lygia</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>KhronosGroup/SPIRV-Cross</title>
+      <link>https://github.com/KhronosGroup/SPIRV-Cross</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Open4Es/Open4Es-Shader-Android</title>
+      <link>https://github.com/Open4Es/Open4Es-Shader-Android</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>patriciogonzalezvivo/thebookofshaders</title>
+      <link>https://github.com/patriciogonzalezvivo/thebookofshaders</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

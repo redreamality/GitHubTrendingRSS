@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haxe Weekly Trending</title>
+    <description>Weekly Trending of Haxe in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:23:22 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FNF-CNE-Devs/CodenameEngine</title>
+      <link>https://github.com/FNF-CNE-Devs/CodenameEngine</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ShadowMario/FNF-PsychEngine</title>
+      <link>https://github.com/ShadowMario/FNF-PsychEngine</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>FunkinCrew/Funkin</title>
+      <link>https://github.com/FunkinCrew/Funkin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>HaxeFoundation/haxe</title>
+      <link>https://github.com/HaxeFoundation/haxe</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

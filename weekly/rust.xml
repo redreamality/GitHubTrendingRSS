@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Weekly Trending</title>
+    <description>Weekly Trending of Rust in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:26:21 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tw93/Pake</title>
+      <link>https://github.com/tw93/Pake</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kitao/pyxel</title>
+      <link>https://github.com/kitao/pyxel</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cloudflare/pingora</title>
+      <link>https://github.com/cloudflare/pingora</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>sharkdp/fd</title>
+      <link>https://github.com/sharkdp/fd</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openobserve/openobserve</title>
+      <link>https://github.com/openobserve/openobserve</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>firecracker-microvm/firecracker</title>
+      <link>https://github.com/firecracker-microvm/firecracker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jtroo/kanata</title>
+      <link>https://github.com/jtroo/kanata</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>qdrant/qdrant</title>
+      <link>https://github.com/qdrant/qdrant</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>zellij-org/zellij</title>
+      <link>https://github.com/zellij-org/zellij</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rustlings</title>
+      <link>https://github.com/rust-lang/rustlings</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>zed-industries/zed</title>
+      <link>https://github.com/zed-industries/zed</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nushell/nushell</title>
+      <link>https://github.com/nushell/nushell</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>solana-labs/solana-program-library</title>
+      <link>https://github.com/solana-labs/solana-program-library</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>spaceandtimelabs/sxt-proof-of-sql</title>
+      <link>https://github.com/spaceandtimelabs/sxt-proof-of-sql</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>benfred/py-spy</title>
+      <link>https://github.com/benfred/py-spy</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>GyulyVGC/sniffnet</title>
+      <link>https://github.com/GyulyVGC/sniffnet</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vectordotdev/vector</title>
+      <link>https://github.com/vectordotdev/vector</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>modrinth/code</title>
+      <link>https://github.com/modrinth/code</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>meilisearch/meilisearch</title>
+      <link>https://github.com/meilisearch/meilisearch</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>glzr-io/zebar</title>
+      <link>https://github.com/glzr-io/zebar</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vercel/turborepo</title>
+      <link>https://github.com/vercel/turborepo</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>apache/opendal</title>
+      <link>https://github.com/apache/opendal</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tikv/tikv</title>
+      <link>https://github.com/tikv/tikv</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

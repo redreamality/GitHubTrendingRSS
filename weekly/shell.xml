@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Weekly Trending</title>
+    <description>Weekly Trending of Shell in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:28:57 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bluesky-social/pds</title>
+      <link>https://github.com/bluesky-social/pds</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>VSCodium/vscodium</title>
+      <link>https://github.com/VSCodium/vscodium</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>RPi-Distro/pi-gen</title>
+      <link>https://github.com/RPi-Distro/pi-gen</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>termux/termux-packages</title>
+      <link>https://github.com/termux/termux-packages</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>QwenLM/Qwen2.5</title>
+      <link>https://github.com/QwenLM/Qwen2.5</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>appleboy/ssh-action</title>
+      <link>https://github.com/appleboy/ssh-action</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>DDS-Derek/xiaoya-alist</title>
+      <link>https://github.com/DDS-Derek/xiaoya-alist</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tom-snow/wechat-windows-versions</title>
+      <link>https://github.com/tom-snow/wechat-windows-versions</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>007revad/Synology_HDD_db</title>
+      <link>https://github.com/007revad/Synology_HDD_db</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mylinuxforwork/dotfiles</title>
+      <link>https://github.com/mylinuxforwork/dotfiles</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>youngyangyang04/leetcode-master</title>
+      <link>https://github.com/youngyangyang04/leetcode-master</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Joshua-Riek/ubuntu-rockchip</title>
+      <link>https://github.com/Joshua-Riek/ubuntu-rockchip</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>JamesTurland/JimsGarage</title>
+      <link>https://github.com/JamesTurland/JimsGarage</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ONLYOFFICE/Docker-DocumentServer</title>
+      <link>https://github.com/ONLYOFFICE/Docker-DocumentServer</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

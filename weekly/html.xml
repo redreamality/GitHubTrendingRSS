@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HTML Weekly Trending</title>
+    <description>Weekly Trending of HTML in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:23:26 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mdn/learning-area</title>
+      <link>https://github.com/mdn/learning-area</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>htr-tech/zphisher</title>
+      <link>https://github.com/htr-tech/zphisher</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>docker/awesome-compose</title>
+      <link>https://github.com/docker/awesome-compose</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>durgeshsamariya/awesome-github-profile-readme-templates</title>
+      <link>https://github.com/durgeshsamariya/awesome-github-profile-readme-templates</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>CaiJimmy/hugo-theme-stack</title>
+      <link>https://github.com/CaiJimmy/hugo-theme-stack</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>HugoBlox/hugo-blox-builder</title>
+      <link>https://github.com/HugoBlox/hugo-blox-builder</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>chiphuyen/machine-learning-systems-design</title>
+      <link>https://github.com/chiphuyen/machine-learning-systems-design</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>boostorg/boost</title>
+      <link>https://github.com/boostorg/boost</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>github/training-kit</title>
+      <link>https://github.com/github/training-kit</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>comfyanonymous/ComfyUI_examples</title>
+      <link>https://github.com/comfyanonymous/ComfyUI_examples</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>techchipnet/CamPhish</title>
+      <link>https://github.com/techchipnet/CamPhish</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>squidfunk/mkdocs-material</title>
+      <link>https://github.com/squidfunk/mkdocs-material</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>drduh/YubiKey-Guide</title>
+      <link>https://github.com/drduh/YubiKey-Guide</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>milvus-io/bootcamp</title>
+      <link>https://github.com/milvus-io/bootcamp</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>f/awesome-chatgpt-prompts</title>
+      <link>https://github.com/f/awesome-chatgpt-prompts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rfordatascience/tidytuesday</title>
+      <link>https://github.com/rfordatascience/tidytuesday</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Cython Monthly Trending</title>
+    <description>Monthly Trending of Cython in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:31:39 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>TA-Lib/ta-lib-python</title>
+      <link>https://github.com/TA-Lib/ta-lib-python</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>MagicStack/uvloop</title>
+      <link>https://github.com/MagicStack/uvloop</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openai/mujoco-py</title>
+      <link>https://github.com/openai/mujoco-py</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pysam-developers/pysam</title>
+      <link>https://github.com/pysam-developers/pysam</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

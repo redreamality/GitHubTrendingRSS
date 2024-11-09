@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vim Script Monthly Trending</title>
+    <description>Monthly Trending of Vim Script in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:39:49 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vim/vim</title>
+      <link>https://github.com/vim/vim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>neovim/neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-dadbod</title>
+      <link>https://github.com/tpope/vim-dadbod</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vimwiki/vimwiki</title>
+      <link>https://github.com/vimwiki/vimwiki</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-projectionist</title>
+      <link>https://github.com/tpope/vim-projectionist</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-commentary</title>
+      <link>https://github.com/tpope/vim-commentary</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>lambdalisue/vim-fern</title>
+      <link>https://github.com/lambdalisue/vim-fern</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-obsession</title>
+      <link>https://github.com/tpope/vim-obsession</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>andymass/vim-matchup</title>
+      <link>https://github.com/andymass/vim-matchup</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>editorconfig/editorconfig-vim</title>
+      <link>https://github.com/editorconfig/editorconfig-vim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>prabirshrestha/asyncomplete-lsp.vim</title>
+      <link>https://github.com/prabirshrestha/asyncomplete-lsp.vim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nvie/vim-flake8</title>
+      <link>https://github.com/nvie/vim-flake8</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tomasiser/vim-code-dark</title>
+      <link>https://github.com/tomasiser/vim-code-dark</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

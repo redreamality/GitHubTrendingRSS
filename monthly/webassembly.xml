@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub WebAssembly Monthly Trending</title>
+    <description>Monthly Trending of WebAssembly in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:39:53 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>WebAssembly/spec</title>
+      <link>https://github.com/WebAssembly/spec</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WebAssembly/binaryen</title>
+      <link>https://github.com/WebAssembly/binaryen</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>AssemblyScript/assemblyscript</title>
+      <link>https://github.com/AssemblyScript/assemblyscript</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

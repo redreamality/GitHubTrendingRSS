@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vim Script Weekly Trending</title>
+    <description>Weekly Trending of Vim Script in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:29:48 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vim/vim</title>
+      <link>https://github.com/vim/vim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>neovim/neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>amix/vimrc</title>
+      <link>https://github.com/amix/vimrc</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Exafunction/codeium.vim</title>
+      <link>https://github.com/Exafunction/codeium.vim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>christoomey/vim-tmux-navigator</title>
+      <link>https://github.com/christoomey/vim-tmux-navigator</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rhysd/committia.vim</title>
+      <link>https://github.com/rhysd/committia.vim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>sainnhe/everforest</title>
+      <link>https://github.com/sainnhe/everforest</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>SpaceVim/SpaceVim</title>
+      <link>https://github.com/SpaceVim/SpaceVim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nvie/vim-flake8</title>
+      <link>https://github.com/nvie/vim-flake8</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-markdown</title>
+      <link>https://github.com/tpope/vim-markdown</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vim-jp/vimdoc-ja</title>
+      <link>https://github.com/vim-jp/vimdoc-ja</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>junegunn/vim-plug</title>
+      <link>https://github.com/junegunn/vim-plug</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

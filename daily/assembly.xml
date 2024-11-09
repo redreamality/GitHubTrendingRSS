@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Assembly Daily Trending</title>
+    <description>Daily Trending of Assembly in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:11:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>bytedance/sonic</title>
+      <link>https://github.com/bytedance/sonic</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openhwgroup/cva6</title>
+      <link>https://github.com/openhwgroup/cva6</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>BLAKE3-team/BLAKE3</title>
+      <link>https://github.com/BLAKE3-team/BLAKE3</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>SpinalHDL/VexRiscv</title>
+      <link>https://github.com/SpinalHDL/VexRiscv</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>riscv-non-isa/riscv-arch-test</title>
+      <link>https://github.com/riscv-non-isa/riscv-arch-test</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>riscvarchive/riscv-v-spec</title>
+      <link>https://github.com/riscvarchive/riscv-v-spec</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>intel/isa-l_crypto</title>
+      <link>https://github.com/intel/isa-l_crypto</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kanaka/mal</title>
+      <link>https://github.com/kanaka/mal</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>leachim6/hello-world</title>
+      <link>https://github.com/leachim6/hello-world</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>boostorg/context</title>
+      <link>https://github.com/boostorg/context</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>chrislgarry/Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ROCm/hipBLASLt</title>
+      <link>https://github.com/ROCm/hipBLASLt</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>supranational/blst</title>
+      <link>https://github.com/supranational/blst</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

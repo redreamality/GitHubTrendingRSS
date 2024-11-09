@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Lua Monthly Trending</title>
+    <description>Monthly Trending of Lua in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:34:11 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>xmake-io/xmake</title>
+      <link>https://github.com/xmake-io/xmake</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Saghen/blink.cmp</title>
+      <link>https://github.com/Saghen/blink.cmp</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>neovim/nvim-lspconfig</title>
+      <link>https://github.com/neovim/nvim-lspconfig</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>LazyVim/LazyVim</title>
+      <link>https://github.com/LazyVim/LazyVim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tris203/precognition.nvim</title>
+      <link>https://github.com/tris203/precognition.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>IntQuant/noita_entangled_worlds</title>
+      <link>https://github.com/IntQuant/noita_entangled_worlds</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>catppuccin/nvim</title>
+      <link>https://github.com/catppuccin/nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ray-x/go.nvim</title>
+      <link>https://github.com/ray-x/go.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ThePrimeagen/refactoring.nvim</title>
+      <link>https://github.com/ThePrimeagen/refactoring.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>zbirenbaum/copilot.lua</title>
+      <link>https://github.com/zbirenbaum/copilot.lua</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nvim-lualine/lualine.nvim</title>
+      <link>https://github.com/nvim-lualine/lualine.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NeogitOrg/neogit</title>
+      <link>https://github.com/NeogitOrg/neogit</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>lukas-reineke/indent-blankline.nvim</title>
+      <link>https://github.com/lukas-reineke/indent-blankline.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>overextended/ox_lib</title>
+      <link>https://github.com/overextended/ox_lib</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>folke/trouble.nvim</title>
+      <link>https://github.com/folke/trouble.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jdhao/nvim-config</title>
+      <link>https://github.com/jdhao/nvim-config</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>gaboolic/rime-frost</title>
+      <link>https://github.com/gaboolic/rime-frost</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>williamboman/mason-lspconfig.nvim</title>
+      <link>https://github.com/williamboman/mason-lspconfig.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>stevearc/aerial.nvim</title>
+      <link>https://github.com/stevearc/aerial.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pwntester/octo.nvim</title>
+      <link>https://github.com/pwntester/octo.nvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

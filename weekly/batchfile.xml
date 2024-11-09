@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Batchfile Weekly Trending</title>
+    <description>Weekly Trending of Batchfile in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:21:13 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>PaperMC/Folia</title>
+      <link>https://github.com/PaperMC/Folia</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>StunlockStudios/vrising-dedicated-server-instructions</title>
+      <link>https://github.com/StunlockStudios/vrising-dedicated-server-instructions</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>lstprjct/IDM-Activation-Script</title>
+      <link>https://github.com/lstprjct/IDM-Activation-Script</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>enhorse/java-interview</title>
+      <link>https://github.com/enhorse/java-interview</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mhvuze/MonsterHunterRiseModding</title>
+      <link>https://github.com/mhvuze/MonsterHunterRiseModding</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>isc30/ryzen-7000-series-proxmox</title>
+      <link>https://github.com/isc30/ryzen-7000-series-proxmox</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

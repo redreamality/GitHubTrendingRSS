@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub YAML Weekly Trending</title>
+    <description>Weekly Trending of YAML in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:30:05 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>kubeflow/manifests</title>
+      <link>https://github.com/kubeflow/manifests</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>k3s-io/k3s-ansible</title>
+      <link>https://github.com/k3s-io/k3s-ansible</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mustache/spec</title>
+      <link>https://github.com/mustache/spec</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>usnistgov/macos_security</title>
+      <link>https://github.com/usnistgov/macos_security</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ansible-lockdown/RHEL8-CIS</title>
+      <link>https://github.com/ansible-lockdown/RHEL8-CIS</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>secureblue/secureblue</title>
+      <link>https://github.com/secureblue/secureblue</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

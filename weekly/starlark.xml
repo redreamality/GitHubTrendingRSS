@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Starlark Weekly Trending</title>
+    <description>Weekly Trending of Starlark in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:29:12 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GoogleContainerTools/distroless</title>
+      <link>https://github.com/GoogleContainerTools/distroless</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/bazel-common</title>
+      <link>https://github.com/google/bazel-common</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/rules_foreign_cc</title>
+      <link>https://github.com/bazel-contrib/rules_foreign_cc</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pybind/pybind11_bazel</title>
+      <link>https://github.com/pybind/pybind11_bazel</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>grpc/grpc-proto</title>
+      <link>https://github.com/grpc/grpc-proto</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>0xPolygon/kurtosis-cdk</title>
+      <link>https://github.com/0xPolygon/kurtosis-cdk</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tilt-dev/tilt-extensions</title>
+      <link>https://github.com/tilt-dev/tilt-extensions</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/bazel-central-registry</title>
+      <link>https://github.com/bazelbuild/bazel-central-registry</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mvukov/rules_ros</title>
+      <link>https://github.com/mvukov/rules_ros</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/rules_jvm_external</title>
+      <link>https://github.com/bazel-contrib/rules_jvm_external</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>aspect-build/rules_ts</title>
+      <link>https://github.com/aspect-build/rules_ts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_scala</title>
+      <link>https://github.com/bazelbuild/rules_scala</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/bazel-skylib</title>
+      <link>https://github.com/bazelbuild/bazel-skylib</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_rust</title>
+      <link>https://github.com/bazelbuild/rules_rust</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>googleapis/googleapis</title>
+      <link>https://github.com/googleapis/googleapis</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tidbyt/community</title>
+      <link>https://github.com/tidbyt/community</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/cel-spec</title>
+      <link>https://github.com/google/cel-spec</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ethpandaops/ethereum-package</title>
+      <link>https://github.com/ethpandaops/ethereum-package</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rules-proto-grpc/rules_proto_grpc</title>
+      <link>https://github.com/rules-proto-grpc/rules_proto_grpc</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/rules_oci</title>
+      <link>https://github.com/bazel-contrib/rules_oci</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_apple</title>
+      <link>https://github.com/bazelbuild/rules_apple</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

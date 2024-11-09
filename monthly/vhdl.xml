@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub VHDL Monthly Trending</title>
+    <description>Monthly Trending of VHDL in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:39:46 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>OSVVM/OSVVM</title>
+      <link>https://github.com/OSVVM/OSVVM</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ghdl/ghdl</title>
+      <link>https://github.com/ghdl/ghdl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>slaclab/surf</title>
+      <link>https://github.com/slaclab/surf</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

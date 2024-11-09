@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub P4 Daily Trending</title>
+    <description>Daily Trending of P4 in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:18:25 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>p4lang/tutorials</title>
+      <link>https://github.com/p4lang/tutorials</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

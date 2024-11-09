@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Makefile Monthly Trending</title>
+    <description>Monthly Trending of Makefile in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:34:20 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>uber-go/guide</title>
+      <link>https://github.com/uber-go/guide</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>golang-standards/project-layout</title>
+      <link>https://github.com/golang-standards/project-layout</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dbt-labs/dbt-utils</title>
+      <link>https://github.com/dbt-labs/dbt-utils</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openwrt/packages</title>
+      <link>https://github.com/openwrt/packages</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>raspberrypi/noobs</title>
+      <link>https://github.com/raspberrypi/noobs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>typoes/harry-potter-gen-z</title>
+      <link>https://github.com/typoes/harry-potter-gen-z</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>awesome-selfhosted/awesome-selfhosted-data</title>
+      <link>https://github.com/awesome-selfhosted/awesome-selfhosted-data</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>freebsd/freebsd-ports</title>
+      <link>https://github.com/freebsd/freebsd-ports</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>PartialVolume/shredos.x86_64</title>
+      <link>https://github.com/PartialVolume/shredos.x86_64</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ageitgey/face_recognition_models</title>
+      <link>https://github.com/ageitgey/face_recognition_models</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>clearlinux/common</title>
+      <link>https://github.com/clearlinux/common</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>HaveAGitGat/Tdarr</title>
+      <link>https://github.com/HaveAGitGat/Tdarr</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cilium/hubble</title>
+      <link>https://github.com/cilium/hubble</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cncf/people</title>
+      <link>https://github.com/cncf/people</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>immortalwrt/packages</title>
+      <link>https://github.com/immortalwrt/packages</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Solidity Daily Trending</title>
+    <description>Daily Trending of Solidity in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:19:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ethereum/ERCs</title>
+      <link>https://github.com/ethereum/ERCs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>PaulRBerg/prb-math</title>
+      <link>https://github.com/PaulRBerg/prb-math</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Dapp-Learning-DAO/Dapp-Learning</title>
+      <link>https://github.com/Dapp-Learning-DAO/Dapp-Learning</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Uniswap/v4-core</title>
+      <link>https://github.com/Uniswap/v4-core</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>l2beat/l2beat</title>
+      <link>https://github.com/l2beat/l2beat</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Layr-Labs/eigenlayer-middleware</title>
+      <link>https://github.com/Layr-Labs/eigenlayer-middleware</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>OpenZeppelin/openzeppelin-contracts</title>
+      <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>OpenZeppelin/openzeppelin-foundry-upgrades</title>
+      <link>https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>foundry-rs/forge-std</title>
+      <link>https://github.com/foundry-rs/forge-std</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>0xmetaschool/Learning-Projects</title>
+      <link>https://github.com/0xmetaschool/Learning-Projects</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Arachnid/solidity-stringutils</title>
+      <link>https://github.com/Arachnid/solidity-stringutils</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Layr-Labs/eigenlayer-contracts</title>
+      <link>https://github.com/Layr-Labs/eigenlayer-contracts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bnb-chain/BEPs</title>
+      <link>https://github.com/bnb-chain/BEPs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

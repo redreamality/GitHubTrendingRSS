@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub C++ Daily Trending</title>
+    <description>Daily Trending of C++ in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:14:36 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>fmtlib/fmt</title>
+      <link>https://github.com/fmtlib/fmt</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>qgis/QGIS</title>
+      <link>https://github.com/qgis/QGIS</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mrousavy/nitro</title>
+      <link>https://github.com/mrousavy/nitro</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>gabime/spdlog</title>
+      <link>https://github.com/gabime/spdlog</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>eProsima/Fast-DDS</title>
+      <link>https://github.com/eProsima/Fast-DDS</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jbeder/yaml-cpp</title>
+      <link>https://github.com/jbeder/yaml-cpp</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bitcoin/bitcoin</title>
+      <link>https://github.com/bitcoin/bitcoin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>chriskohlhoff/asio</title>
+      <link>https://github.com/chriskohlhoff/asio</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>godotengine/godot</title>
+      <link>https://github.com/godotengine/godot</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/benchmark</title>
+      <link>https://github.com/google/benchmark</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>envoyproxy/envoy</title>
+      <link>https://github.com/envoyproxy/envoy</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>facebook/folly</title>
+      <link>https://github.com/facebook/folly</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Serial-Studio/Serial-Studio</title>
+      <link>https://github.com/Serial-Studio/Serial-Studio</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nlohmann/json</title>
+      <link>https://github.com/nlohmann/json</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>protocolbuffers/protobuf</title>
+      <link>https://github.com/protocolbuffers/protobuf</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>catchorg/Catch2</title>
+      <link>https://github.com/catchorg/Catch2</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>k4yt3x/video2x</title>
+      <link>https://github.com/k4yt3x/video2x</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cocos/cocos-engine</title>
+      <link>https://github.com/cocos/cocos-engine</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ZLMediaKit/ZLMediaKit</title>
+      <link>https://github.com/ZLMediaKit/ZLMediaKit</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ClickHouse/ClickHouse</title>
+      <link>https://github.com/ClickHouse/ClickHouse</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>microsoft/terminal</title>
+      <link>https://github.com/microsoft/terminal</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tensorflow/tensorflow</title>
+      <link>https://github.com/tensorflow/tensorflow</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nasa/fprime</title>
+      <link>https://github.com/nasa/fprime</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>microsoft/onnxruntime</title>
+      <link>https://github.com/microsoft/onnxruntime</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>AztecProtocol/aztec-packages</title>
+      <link>https://github.com/AztecProtocol/aztec-packages</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

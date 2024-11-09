@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Groovy Monthly Trending</title>
+    <description>Monthly Trending of Groovy in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:32:57 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gradle/gradle</title>
+      <link>https://github.com/gradle/gradle</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nextflow-io/nextflow</title>
+      <link>https://github.com/nextflow-io/nextflow</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>palantir/gradle-git-version</title>
+      <link>https://github.com/palantir/gradle-git-version</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>palantir/gradle-docker</title>
+      <link>https://github.com/palantir/gradle-docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>palantir/gradle-processors</title>
+      <link>https://github.com/palantir/gradle-processors</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>palantir/gradle-npm-run-plugin</title>
+      <link>https://github.com/palantir/gradle-npm-run-plugin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jenkinsci/pipeline-examples</title>
+      <link>https://github.com/jenkinsci/pipeline-examples</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>GradleUp/shadow</title>
+      <link>https://github.com/GradleUp/shadow</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bregman-arie/devops-resources</title>
+      <link>https://github.com/bregman-arie/devops-resources</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/protobuf-gradle-plugin</title>
+      <link>https://github.com/google/protobuf-gradle-plugin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

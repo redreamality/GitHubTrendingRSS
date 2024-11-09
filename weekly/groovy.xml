@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Groovy Weekly Trending</title>
+    <description>Weekly Trending of Groovy in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:23:18 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gradle/gradle</title>
+      <link>https://github.com/gradle/gradle</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nextflow-io/nextflow</title>
+      <link>https://github.com/nextflow-io/nextflow</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>GradleUp/shadow</title>
+      <link>https://github.com/GradleUp/shadow</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>palantir/gradle-git-version</title>
+      <link>https://github.com/palantir/gradle-git-version</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>palantir/gradle-docker</title>
+      <link>https://github.com/palantir/gradle-docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>palantir/gradle-processors</title>
+      <link>https://github.com/palantir/gradle-processors</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>palantir/gradle-npm-run-plugin</title>
+      <link>https://github.com/palantir/gradle-npm-run-plugin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rundeck/rundeck</title>
+      <link>https://github.com/rundeck/rundeck</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>AdobeDocs/experience-manager-65.en</title>
+      <link>https://github.com/AdobeDocs/experience-manager-65.en</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openboxes/openboxes</title>
+      <link>https://github.com/openboxes/openboxes</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>gravitee-io/issues</title>
+      <link>https://github.com/gravitee-io/issues</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/protobuf-gradle-plugin</title>
+      <link>https://github.com/google/protobuf-gradle-plugin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

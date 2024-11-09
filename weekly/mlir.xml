@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub MLIR Weekly Trending</title>
+    <description>Weekly Trending of MLIR in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:24:52 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>intel/intel-xpu-backend-for-triton</title>
+      <link>https://github.com/intel/intel-xpu-backend-for-triton</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openxla/stablehlo</title>
+      <link>https://github.com/openxla/stablehlo</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>microsoft/triton-shared</title>
+      <link>https://github.com/microsoft/triton-shared</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

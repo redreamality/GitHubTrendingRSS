@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ANTLR Monthly Trending</title>
+    <description>Monthly Trending of ANTLR in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:30:27 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>antlr/grammars-v4</title>
+      <link>https://github.com/antlr/grammars-v4</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>EEVengers/ThunderScope</title>
+      <link>https://github.com/EEVengers/ThunderScope</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

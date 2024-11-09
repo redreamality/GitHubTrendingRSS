@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Mustache Daily Trending</title>
+    <description>Daily Trending of Mustache in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:17:56 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>argoproj/argo-helm</title>
+      <link>https://github.com/argoproj/argo-helm</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>amzn/selling-partner-api-models</title>
+      <link>https://github.com/amzn/selling-partner-api-models</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>temporalio/helm-charts</title>
+      <link>https://github.com/temporalio/helm-charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Kong/charts</title>
+      <link>https://github.com/Kong/charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jenkinsci/helm-charts</title>
+      <link>https://github.com/jenkinsci/helm-charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>fluent/helm-charts</title>
+      <link>https://github.com/fluent/helm-charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>prometheus-community/helm-charts</title>
+      <link>https://github.com/prometheus-community/helm-charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>swagger-api/swagger-codegen</title>
+      <link>https://github.com/swagger-api/swagger-codegen</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>aws/eks-charts</title>
+      <link>https://github.com/aws/eks-charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kedacore/charts</title>
+      <link>https://github.com/kedacore/charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>SonarSource/helm-chart-sonarqube</title>
+      <link>https://github.com/SonarSource/helm-chart-sonarqube</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rudderlabs/rudderstack-helm</title>
+      <link>https://github.com/rudderlabs/rudderstack-helm</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>codecentric/helm-charts</title>
+      <link>https://github.com/codecentric/helm-charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vmware-tanzu/helm-charts</title>
+      <link>https://github.com/vmware-tanzu/helm-charts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kubecost/cost-analyzer-helm-chart</title>
+      <link>https://github.com/kubecost/cost-analyzer-helm-chart</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>goharbor/harbor-helm</title>
+      <link>https://github.com/goharbor/harbor-helm</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>netbox-community/netbox-chart</title>
+      <link>https://github.com/netbox-community/netbox-chart</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>thmsgbrt/thmsgbrt</title>
+      <link>https://github.com/thmsgbrt/thmsgbrt</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Erlang Weekly Trending</title>
+    <description>Weekly Trending of Erlang in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:22:44 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>erlang-lager/lager</title>
+      <link>https://github.com/erlang-lager/lager</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ninenines/ranch</title>
+      <link>https://github.com/ninenines/ranch</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ninenines/cowlib</title>
+      <link>https://github.com/ninenines/cowlib</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>erlydtl/erlydtl</title>
+      <link>https://github.com/erlydtl/erlydtl</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>emqx/emqtt</title>
+      <link>https://github.com/emqx/emqtt</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>inaka/cowboy_swagger</title>
+      <link>https://github.com/inaka/cowboy_swagger</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mochi/mochiweb</title>
+      <link>https://github.com/mochi/mochiweb</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kivra/restclient</title>
+      <link>https://github.com/kivra/restclient</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dgiot/dgiot</title>
+      <link>https://github.com/dgiot/dgiot</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>proper-testing/proper</title>
+      <link>https://github.com/proper-testing/proper</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ferd/recon</title>
+      <link>https://github.com/ferd/recon</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>erlcloud/erlcloud</title>
+      <link>https://github.com/erlcloud/erlcloud</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kafka4beam/brod</title>
+      <link>https://github.com/kafka4beam/brod</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>epgsql/epgsql</title>
+      <link>https://github.com/epgsql/epgsql</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

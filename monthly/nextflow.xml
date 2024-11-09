@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nextflow Monthly Trending</title>
+    <description>Monthly Trending of Nextflow in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:37:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nf-core/modules</title>
+      <link>https://github.com/nf-core/modules</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nf-core/sarek</title>
+      <link>https://github.com/nf-core/sarek</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nf-core/rnaseq</title>
+      <link>https://github.com/nf-core/rnaseq</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

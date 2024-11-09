@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PowerShell Daily Trending</title>
+    <description>Daily Trending of PowerShell in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:18:43 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>actions/runner-images</title>
+      <link>https://github.com/actions/runner-images</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-rest-api-specs</title>
+      <link>https://github.com/Azure/azure-rest-api-specs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ansible-collections/ansible.windows</title>
+      <link>https://github.com/ansible-collections/ansible.windows</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Azure/Enterprise-Scale</title>
+      <link>https://github.com/Azure/Enterprise-Scale</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cisagov/ScubaGear</title>
+      <link>https://github.com/cisagov/ScubaGear</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dafthack/GraphRunner</title>
+      <link>https://github.com/dafthack/GraphRunner</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dotnet/core</title>
+      <link>https://github.com/dotnet/core</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-docs-powershell-azuread</title>
+      <link>https://github.com/Azure/azure-docs-powershell-azuread</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>BloodHoundAD/BloodHound</title>
+      <link>https://github.com/BloodHoundAD/BloodHound</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>microsoft/WSL</title>
+      <link>https://github.com/microsoft/WSL</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>PSAppDeployToolkit/PSAppDeployToolkit</title>
+      <link>https://github.com/PSAppDeployToolkit/PSAppDeployToolkit</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tibold/svg-explorer-extension</title>
+      <link>https://github.com/tibold/svg-explorer-extension</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Micke-K/IntuneManagement</title>
+      <link>https://github.com/Micke-K/IntuneManagement</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Raphire/Win11Debloat</title>
+      <link>https://github.com/Raphire/Win11Debloat</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>PowerShellMafia/PowerSploit</title>
+      <link>https://github.com/PowerShellMafia/PowerSploit</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Romanitho/Winget-AutoUpdate</title>
+      <link>https://github.com/Romanitho/Winget-AutoUpdate</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>microsoftgraph/microsoft-graph-docs-contrib</title>
+      <link>https://github.com/microsoftgraph/microsoft-graph-docs-contrib</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>jenkinsci/docker</title>
+      <link>https://github.com/jenkinsci/docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dotnet/machinelearning-samples</title>
+      <link>https://github.com/dotnet/machinelearning-samples</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Azure/Microsoft-Defender-for-Cloud</title>
+      <link>https://github.com/Azure/Microsoft-Defender-for-Cloud</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Azure/Azure-Functions</title>
+      <link>https://github.com/Azure/Azure-Functions</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

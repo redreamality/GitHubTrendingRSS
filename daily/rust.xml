@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Daily Trending</title>
+    <description>Daily Trending of Rust in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:19:28 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vectordotdev/vector</title>
+      <link>https://github.com/vectordotdev/vector</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/mdBook</title>
+      <link>https://github.com/rust-lang/mdBook</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>GyulyVGC/sniffnet</title>
+      <link>https://github.com/GyulyVGC/sniffnet</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rolldown/rolldown</title>
+      <link>https://github.com/rolldown/rolldown</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>neondatabase/neon</title>
+      <link>https://github.com/neondatabase/neon</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>BoundaryML/baml</title>
+      <link>https://github.com/BoundaryML/baml</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>libp2p/rust-libp2p</title>
+      <link>https://github.com/libp2p/rust-libp2p</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>web-infra-dev/rspack</title>
+      <link>https://github.com/web-infra-dev/rspack</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>MaterializeInc/materialize</title>
+      <link>https://github.com/MaterializeInc/materialize</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pola-rs/polars</title>
+      <link>https://github.com/pola-rs/polars</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>prefix-dev/pixi</title>
+      <link>https://github.com/prefix-dev/pixi</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>apache/opendal</title>
+      <link>https://github.com/apache/opendal</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>casey/just</title>
+      <link>https://github.com/casey/just</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>paritytech/polkadot-sdk</title>
+      <link>https://github.com/paritytech/polkadot-sdk</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bottlerocket-os/bottlerocket</title>
+      <link>https://github.com/bottlerocket-os/bottlerocket</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>martinvonz/jj</title>
+      <link>https://github.com/martinvonz/jj</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dtolnay/thiserror</title>
+      <link>https://github.com/dtolnay/thiserror</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>awslabs/mountpoint-s3</title>
+      <link>https://github.com/awslabs/mountpoint-s3</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vadimcn/codelldb</title>
+      <link>https://github.com/vadimcn/codelldb</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/miri</title>
+      <link>https://github.com/rust-lang/miri</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>juspay/hyperswitch</title>
+      <link>https://github.com/juspay/hyperswitch</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

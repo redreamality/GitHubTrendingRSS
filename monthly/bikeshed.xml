@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Bikeshed Monthly Trending</title>
+    <description>Monthly Trending of Bikeshed in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:30:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>w3c/csswg-drafts</title>
+      <link>https://github.com/w3c/csswg-drafts</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>gpuweb/gpuweb</title>
+      <link>https://github.com/gpuweb/gpuweb</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WICG/turtledove</title>
+      <link>https://github.com/WICG/turtledove</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WICG/first-party-sets</title>
+      <link>https://github.com/WICG/first-party-sets</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WICG/storage-buckets</title>
+      <link>https://github.com/WICG/storage-buckets</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WICG/attribution-reporting-api</title>
+      <link>https://github.com/WICG/attribution-reporting-api</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

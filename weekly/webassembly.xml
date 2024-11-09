@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub WebAssembly Weekly Trending</title>
+    <description>Weekly Trending of WebAssembly in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:29:52 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>AssemblyScript/assemblyscript</title>
+      <link>https://github.com/AssemblyScript/assemblyscript</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>iden3/circom</title>
+      <link>https://github.com/iden3/circom</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WebAssembly/spec</title>
+      <link>https://github.com/WebAssembly/spec</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WebAssembly/binaryen</title>
+      <link>https://github.com/WebAssembly/binaryen</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WebAssembly/wasi-threads</title>
+      <link>https://github.com/WebAssembly/wasi-threads</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

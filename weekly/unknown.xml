@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Weekly Trending</title>
+    <description>Weekly Trending of Unknown languages in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:20:48 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>farhanashrafdev/90DaysOfCyberSecurity</title>
+      <link>https://github.com/farhanashrafdev/90DaysOfCyberSecurity</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Hack-with-Github/Awesome-Hacking</title>
+      <link>https://github.com/Hack-with-Github/Awesome-Hacking</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ml-tooling/best-of-ml-python</title>
+      <link>https://github.com/ml-tooling/best-of-ml-python</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>0x4D31/awesome-threat-detection</title>
+      <link>https://github.com/0x4D31/awesome-threat-detection</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>github/gitignore</title>
+      <link>https://github.com/github/gitignore</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>sindresorhus/awesome</title>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>s2underground/GhostNet</title>
+      <link>https://github.com/s2underground/GhostNet</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

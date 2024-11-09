@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Astro Monthly Trending</title>
+    <description>Monthly Trending of Astro in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:30:34 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>onwidget/astrowind</title>
+      <link>https://github.com/onwidget/astrowind</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>saicaca/fuwari</title>
+      <link>https://github.com/saicaca/fuwari</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>opensourcepledge/opensourcepledge.com</title>
+      <link>https://github.com/opensourcepledge/opensourcepledge.com</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>moeyua/astro-theme-typography</title>
+      <link>https://github.com/moeyua/astro-theme-typography</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>danielcgilibert/blog-template</title>
+      <link>https://github.com/danielcgilibert/blog-template</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ColorlibHQ/AdminLTE</title>
+      <link>https://github.com/ColorlibHQ/AdminLTE</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>satnaing/astro-paper</title>
+      <link>https://github.com/satnaing/astro-paper</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Lissy93/awesome-privacy</title>
+      <link>https://github.com/Lissy93/awesome-privacy</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>hilmanski/freeStuffDev</title>
+      <link>https://github.com/hilmanski/freeStuffDev</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mhyfritz/astro-landing-page</title>
+      <link>https://github.com/mhyfritz/astro-landing-page</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>themesberg/flowbite-astro-admin-dashboard</title>
+      <link>https://github.com/themesberg/flowbite-astro-admin-dashboard</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

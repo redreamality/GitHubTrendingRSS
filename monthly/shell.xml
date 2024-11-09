@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Monthly Trending</title>
+    <description>Monthly Trending of Shell in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:38:58 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hcengineering/huly-selfhost</title>
+      <link>https://github.com/hcengineering/huly-selfhost</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>youngyangyang04/leetcode-master</title>
+      <link>https://github.com/youngyangyang04/leetcode-master</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mylinuxforwork/dotfiles</title>
+      <link>https://github.com/mylinuxforwork/dotfiles</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pi-hole/pi-hole</title>
+      <link>https://github.com/pi-hole/pi-hole</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>d3/d3</title>
+      <link>https://github.com/d3/d3</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>prasanthrangan/hyprdots</title>
+      <link>https://github.com/prasanthrangan/hyprdots</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>acmesh-official/acme.sh</title>
+      <link>https://github.com/acmesh-official/acme.sh</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp/proxy</title>
+      <link>https://github.com/WhatsApp/proxy</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>catppuccin/tmux</title>
+      <link>https://github.com/catppuccin/tmux</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>BtbN/FFmpeg-Builds</title>
+      <link>https://github.com/BtbN/FFmpeg-Builds</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

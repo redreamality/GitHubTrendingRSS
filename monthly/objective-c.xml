@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C Monthly Trending</title>
+    <description>Monthly Trending of Objective-C in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:37:25 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>khanhduytran0/LiveContainer</title>
+      <link>https://github.com/khanhduytran0/LiveContainer</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>SDWebImage/SDWebImage</title>
+      <link>https://github.com/SDWebImage/SDWebImage</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>objective-see/LuLu</title>
+      <link>https://github.com/objective-see/LuLu</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openid/AppAuth-iOS</title>
+      <link>https://github.com/openid/AppAuth-iOS</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/GoogleSignIn-iOS</title>
+      <link>https://github.com/google/GoogleSignIn-iOS</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>keycastr/keycastr</title>
+      <link>https://github.com/keycastr/keycastr</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/promises</title>
+      <link>https://github.com/google/promises</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/GoogleUtilities</title>
+      <link>https://github.com/google/GoogleUtilities</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>google/gtm-session-fetcher</title>
+      <link>https://github.com/google/gtm-session-fetcher</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>microsoft/plcrashreporter</title>
+      <link>https://github.com/microsoft/plcrashreporter</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>facebookincubator/SocketRocket</title>
+      <link>https://github.com/facebookincubator/SocketRocket</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>SDWebImage/SDWebImageWebPCoder</title>
+      <link>https://github.com/SDWebImage/SDWebImageWebPCoder</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

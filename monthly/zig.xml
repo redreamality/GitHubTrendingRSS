@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Zig Monthly Trending</title>
+    <description>Monthly Trending of Zig in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:40:12 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tigerbeetle/tigerbeetle</title>
+      <link>https://github.com/tigerbeetle/tigerbeetle</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ziglang/zig</title>
+      <link>https://github.com/ziglang/zig</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kristoff-it/superhtml</title>
+      <link>https://github.com/kristoff-it/superhtml</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>zigtools/zls</title>
+      <link>https://github.com/zigtools/zls</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>riverwm/river</title>
+      <link>https://github.com/riverwm/river</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NilsIrl/dockerc</title>
+      <link>https://github.com/NilsIrl/dockerc</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pedropark99/zig-book</title>
+      <link>https://github.com/pedropark99/zig-book</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ZigEmbeddedGroup/microzig</title>
+      <link>https://github.com/ZigEmbeddedGroup/microzig</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mitchellh/libxev</title>
+      <link>https://github.com/mitchellh/libxev</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>zig-gamedev/zig-gamedev</title>
+      <link>https://github.com/zig-gamedev/zig-gamedev</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>capy-ui/capy</title>
+      <link>https://github.com/capy-ui/capy</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kristoff-it/zine</title>
+      <link>https://github.com/kristoff-it/zine</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>hexops/mach</title>
+      <link>https://github.com/hexops/mach</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

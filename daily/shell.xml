@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Daily Trending</title>
+    <description>Daily Trending of Shell in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:19:36 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ai-dock/comfyui</title>
+      <link>https://github.com/ai-dock/comfyui</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bats-core/bats-core</title>
+      <link>https://github.com/bats-core/bats-core</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>getsentry/self-hosted</title>
+      <link>https://github.com/getsentry/self-hosted</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tfutils/tfenv</title>
+      <link>https://github.com/tfutils/tfenv</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>QwenLM/Qwen2.5</title>
+      <link>https://github.com/QwenLM/Qwen2.5</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>drwetter/testssl.sh</title>
+      <link>https://github.com/drwetter/testssl.sh</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ROCm/ROCm</title>
+      <link>https://github.com/ROCm/ROCm</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>conda-forge/miniforge</title>
+      <link>https://github.com/conda-forge/miniforge</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>zabbix/zabbix-docker</title>
+      <link>https://github.com/zabbix/zabbix-docker</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kodekloudhub/certified-kubernetes-administrator-course</title>
+      <link>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Security-Onion-Solutions/securityonion</title>
+      <link>https://github.com/Security-Onion-Solutions/securityonion</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>overleaf/toolkit</title>
+      <link>https://github.com/overleaf/toolkit</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>rbenv/rbenv</title>
+      <link>https://github.com/rbenv/rbenv</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

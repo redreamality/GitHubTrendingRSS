@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub OCaml Weekly Trending</title>
+    <description>Weekly Trending of OCaml in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:25:20 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>semgrep/semgrep</title>
+      <link>https://github.com/semgrep/semgrep</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>bcpierce00/unison</title>
+      <link>https://github.com/bcpierce00/unison</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>mattjbray/ocaml-decoders</title>
+      <link>https://github.com/mattjbray/ocaml-decoders</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ocaml/ocaml</title>
+      <link>https://github.com/ocaml/ocaml</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>semgrep/ocaml-tree-sitter-core</title>
+      <link>https://github.com/semgrep/ocaml-tree-sitter-core</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>facebook/infer</title>
+      <link>https://github.com/facebook/infer</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>astrada/google-drive-ocamlfuse</title>
+      <link>https://github.com/astrada/google-drive-ocamlfuse</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>ocaml/dune</title>
+      <link>https://github.com/ocaml/dune</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>coq/coq</title>
+      <link>https://github.com/coq/coq</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>facebook/flow</title>
+      <link>https://github.com/facebook/flow</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

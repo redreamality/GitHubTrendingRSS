@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Crystal Daily Trending</title>
+    <description>Daily Trending of Crystal in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:15:01 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>iv-org/invidious</title>
+      <link>https://github.com/iv-org/invidious</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>vitobotta/hetzner-k3s</title>
+      <link>https://github.com/vitobotta/hetzner-k3s</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cloudamqp/lavinmq</title>
+      <link>https://github.com/cloudamqp/lavinmq</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

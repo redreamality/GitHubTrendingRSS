@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nix Daily Trending</title>
+    <description>Daily Trending of Nix in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:18:06 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dustinlyons/nixos-config</title>
+      <link>https://github.com/dustinlyons/nixos-config</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nix-community/home-manager</title>
+      <link>https://github.com/nix-community/home-manager</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cachix/devenv</title>
+      <link>https://github.com/cachix/devenv</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>lilyinstarlight/nixos-cosmic</title>
+      <link>https://github.com/lilyinstarlight/nixos-cosmic</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cardano-foundation/cardano-token-registry</title>
+      <link>https://github.com/cardano-foundation/cardano-token-registry</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nix-community/nix-on-droid</title>
+      <link>https://github.com/nix-community/nix-on-droid</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>LnL7/nix-darwin</title>
+      <link>https://github.com/LnL7/nix-darwin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nix-community/nixvim</title>
+      <link>https://github.com/nix-community/nixvim</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Mic92/sops-nix</title>
+      <link>https://github.com/Mic92/sops-nix</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nixpkgs</title>
+      <link>https://github.com/NixOS/nixpkgs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tpwrules/nixos-apple-silicon</title>
+      <link>https://github.com/tpwrules/nixos-apple-silicon</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nix-community/disko</title>
+      <link>https://github.com/nix-community/disko</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nix Monthly Trending</title>
+    <description>Monthly Trending of Nix in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:37:19 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>LnL7/nix-darwin</title>
+      <link>https://github.com/LnL7/nix-darwin</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cachix/devenv</title>
+      <link>https://github.com/cachix/devenv</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nixpkgs</title>
+      <link>https://github.com/NixOS/nixpkgs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>dustinlyons/nixos-config</title>
+      <link>https://github.com/dustinlyons/nixos-config</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nix-community/home-manager</title>
+      <link>https://github.com/nix-community/home-manager</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nixos-hardware</title>
+      <link>https://github.com/NixOS/nixos-hardware</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nix-community/disko</title>
+      <link>https://github.com/nix-community/disko</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Frost-Phoenix/nixos-config</title>
+      <link>https://github.com/Frost-Phoenix/nixos-config</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>oddlama/nix-topology</title>
+      <link>https://github.com/oddlama/nix-topology</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nix.dev</title>
+      <link>https://github.com/NixOS/nix.dev</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tpwrules/nixos-apple-silicon</title>
+      <link>https://github.com/tpwrules/nixos-apple-silicon</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>astro/microvm.nix</title>
+      <link>https://github.com/astro/microvm.nix</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>nix-community/poetry2nix</title>
+      <link>https://github.com/nix-community/poetry2nix</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>danth/stylix</title>
+      <link>https://github.com/danth/stylix</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>Misterio77/nix-starter-configs</title>
+      <link>https://github.com/Misterio77/nix-starter-configs</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

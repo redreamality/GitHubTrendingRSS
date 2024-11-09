@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub SystemVerilog Weekly Trending</title>
+    <description>Weekly Trending of SystemVerilog in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:29:20 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pulp-platform/riscv-dbg</title>
+      <link>https://github.com/pulp-platform/riscv-dbg</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>lowRISC/opentitan</title>
+      <link>https://github.com/lowRISC/opentitan</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pulp-platform/axi</title>
+      <link>https://github.com/pulp-platform/axi</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pulp-platform/tech_cells_generic</title>
+      <link>https://github.com/pulp-platform/tech_cells_generic</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pulp-platform/common_cells</title>
+      <link>https://github.com/pulp-platform/common_cells</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pulp-platform/iDMA</title>
+      <link>https://github.com/pulp-platform/iDMA</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>adam-maj/tiny-gpu</title>
+      <link>https://github.com/adam-maj/tiny-gpu</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openhwgroup/cvfpu</title>
+      <link>https://github.com/openhwgroup/cvfpu</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

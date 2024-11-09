@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Clojure Weekly Trending</title>
+    <description>Weekly Trending of Clojure in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:21:47 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>logseq/logseq</title>
+      <link>https://github.com/logseq/logseq</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>metabase/metabase</title>
+      <link>https://github.com/metabase/metabase</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>tonsky/FiraCode</title>
+      <link>https://github.com/tonsky/FiraCode</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>babashka/babashka</title>
+      <link>https://github.com/babashka/babashka</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>clj-kondo/clj-kondo</title>
+      <link>https://github.com/clj-kondo/clj-kondo</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>weavejester/compojure</title>
+      <link>https://github.com/weavejester/compojure</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>status-im/status-mobile</title>
+      <link>https://github.com/status-im/status-mobile</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>elastic/es2unix</title>
+      <link>https://github.com/elastic/es2unix</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>elastic/stream2es</title>
+      <link>https://github.com/elastic/stream2es</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>OneKeePass/desktop</title>
+      <link>https://github.com/OneKeePass/desktop</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>penpot/penpot</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Assembly Monthly Trending</title>
+    <description>Monthly Trending of Assembly in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:30:34 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>chrislgarry/Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>pret/pokered</title>
+      <link>https://github.com/pret/pokered</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>giaf/blasfeo</title>
+      <link>https://github.com/giaf/blasfeo</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>cirosantilli/x86-bare-metal-examples</title>
+      <link>https://github.com/cirosantilli/x86-bare-metal-examples</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>intel/isa-l_crypto</title>
+      <link>https://github.com/intel/isa-l_crypto</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>SpinalHDL/VexRiscv</title>
+      <link>https://github.com/SpinalHDL/VexRiscv</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>openhwgroup/cva6</title>
+      <link>https://github.com/openhwgroup/cva6</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>kanaka/mal</title>
+      <link>https://github.com/kanaka/mal</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>riscvarchive/riscv-v-spec</title>
+      <link>https://github.com/riscvarchive/riscv-v-spec</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>leachim6/hello-world</title>
+      <link>https://github.com/leachim6/hello-world</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>briansmith/ring</title>
+      <link>https://github.com/briansmith/ring</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ReScript Daily Trending</title>
+    <description>Daily Trending of ReScript in GitHub</description>
+    <pubDate>Sat, 09 Nov 2024 02:19:06 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>juspay/hyperswitch-control-center</title>
+      <link>https://github.com/juspay/hyperswitch-control-center</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+    <item>
+      <title>juspay/hyperswitch-web</title>
+      <link>https://github.com/juspay/hyperswitch-web</link>
+      <description>feedId:77301618373329920+userId:61228773325982720</description>
+    </item>
+    
+  </channel>
+</rss>
