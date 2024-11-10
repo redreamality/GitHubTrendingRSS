@@ -9,7 +9,7 @@
     <item>
       <title>{{ userID }}/{{ repositoryName }}</title>
       <link>{{ url }}</link>
-      <description>feedId:77301618373329920+userId:61228773325982720</description>
+      <description>{{description}}</description>
     </item>
     {% endfor %}
   </channel>
