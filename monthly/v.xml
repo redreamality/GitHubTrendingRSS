@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub V Monthly Trending</title>
+    <description>Monthly Trending of V in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:05:07 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vlang/v</title>
+      <link>https://github.com/vlang/v</link>
+      <description>&lt;p&gt;Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>v-analyzer/v-analyzer</title>
+      <link>https://github.com/v-analyzer/v-analyzer</link>
+      <description>&lt;p&gt;Bring IDE features for V programming languages in VS Code, Vim and other editors&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vlang/v-analyzer</title>
+      <link>https://github.com/vlang/v-analyzer</link>
+      <description>&lt;p&gt;The @vlang language server, for all your editing needs like go-to-definition, code completion, type hints, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

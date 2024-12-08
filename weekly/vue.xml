@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vue Weekly Trending</title>
+    <description>Weekly Trending of Vue in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:58:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vbenjs/vue-vben-admin</title>
+      <link>https://github.com/vbenjs/vue-vben-admin</link>
+      <description>&lt;p&gt;A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unilei/aipan-netdisk-search</title>
+      <link>https://github.com/unilei/aipan-netdisk-search</link>
+      <description>&lt;p&gt;本项目乃是基于 Vue 与 Nuxt.js 技术打造的网盘搜索项目，持续开源并保持维护更新。其旨在让人人皆可拥有属于自己的网盘搜索网站。强烈建议自行部署，向所有参与者致敬！Salute to all!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lin-xin/vue-manage-system</title>
+      <link>https://github.com/lin-xin/vue-manage-system</link>
+      <description>&lt;p&gt;Vue3、Element Plus、typescript后台管理系统&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>requarks/wiki</title>
+      <link>https://github.com/requarks/wiki</link>
+      <description>&lt;p&gt;Wiki.js | A modern and powerful wiki app built on Node.js&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenCSGs/csghub</title>
+      <link>https://github.com/OpenCSGs/csghub</link>
+      <description>&lt;p&gt;CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nuxt/ui</title>
+      <link>https://github.com/nuxt/ui</link>
+      <description>&lt;p&gt;A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PanJiaChen/vue-element-admin</title>
+      <link>https://github.com/PanJiaChen/vue-element-admin</link>
+      <description>&lt;p&gt;🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vueComponent/ant-design-vue</title>
+      <link>https://github.com/vueComponent/ant-design-vue</link>
+      <description>&lt;p&gt;🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kailong321200875/vue-element-plus-admin</title>
+      <link>https://github.com/kailong321200875/vue-element-plus-admin</link>
+      <description>&lt;p&gt;A backend management system based on vue3, typescript, element-plus, and vite&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unovue/radix-vue</title>
+      <link>https://github.com/unovue/radix-vue</link>
+      <description>&lt;p&gt;Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Moonofweisheng/wot-design-uni</title>
+      <link>https://github.com/Moonofweisheng/wot-design-uni</link>
+      <description>&lt;p&gt;一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>un-pany/v3-admin-vite</title>
+      <link>https://github.com/un-pany/v3-admin-vite</link>
+      <description>&lt;p&gt;☀️ A crafted admin template「vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板」&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Virtual-Browser/VirtualBrowser</title>
+      <link>https://github.com/Virtual-Browser/VirtualBrowser</link>
+      <description>&lt;p&gt;Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ElemeFE/element</title>
+      <link>https://github.com/ElemeFE/element</link>
+      <description>&lt;p&gt;A Vue.js 2.0 UI Toolkit for Web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alireza0/s-ui</title>
+      <link>https://github.com/alireza0/s-ui</link>
+      <description>&lt;p&gt;An advanced Web Panel • Built for SagerNet/Sing-Box&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zxwk1998/vue-admin-better</title>
+      <link>https://github.com/zxwk1998/vue-admin-better</link>
+      <description>&lt;p&gt;🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

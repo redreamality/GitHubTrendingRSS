@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub YARA Daily Trending</title>
+    <description>Daily Trending of YARA in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:49:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rednaga/APKiD</title>
+      <link>https://github.com/rednaga/APKiD</link>
+      <description>&lt;p&gt;Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yara-Rules/rules</title>
+      <link>https://github.com/Yara-Rules/rules</link>
+      <description>&lt;p&gt;Repository of yara rules&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

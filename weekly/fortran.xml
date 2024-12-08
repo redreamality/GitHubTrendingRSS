@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Fortran Weekly Trending</title>
+    <description>Weekly Trending of Fortran in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:51:12 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>CoLM-SYSU/CoLM202X</title>
+      <link>https://github.com/CoLM-SYSU/CoLM202X</link>
+      <description>&lt;p&gt;The Common Land Model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GEOS-ESM/MAPL</title>
+      <link>https://github.com/GEOS-ESM/MAPL</link>
+      <description>&lt;p&gt;MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NGEET/fates</title>
+      <link>https://github.com/NGEET/fates</link>
+      <description>&lt;p&gt;repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wrf-model/WRF</title>
+      <link>https://github.com/wrf-model/WRF</link>
+      <description>&lt;p&gt;The official repository for the Weather Research and Forecasting (WRF) model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaPackaging/Yggdrasil</title>
+      <link>https://github.com/JuliaPackaging/Yggdrasil</link>
+      <description>&lt;p&gt;Collection of builder repositories for BinaryBuilder.jl&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MCSclimate/MCT</title>
+      <link>https://github.com/MCSclimate/MCT</link>
+      <description>&lt;p&gt;Model Coupling Tookit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>E3SM-Project/E3SM</title>
+      <link>https://github.com/E3SM-Project/E3SM</link>
+      <description>&lt;p&gt;Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cp2k/cp2k</title>
+      <link>https://github.com/cp2k/cp2k</link>
+      <description>&lt;p&gt;Quantum chemistry and solid state physics software package&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

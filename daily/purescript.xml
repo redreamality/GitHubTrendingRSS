@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PureScript Daily Trending</title>
+    <description>Daily Trending of PureScript in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:47:12 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>purescript/purescript-catenable-lists</title>
+      <link>https://github.com/purescript/purescript-catenable-lists</link>
+      <description>&lt;p&gt;Catenable lists&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

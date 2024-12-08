@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Perl Daily Trending</title>
+    <description>Daily Trending of Perl in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:46:53 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>brendangregg/FlameGraph</title>
+      <link>https://github.com/brendangregg/FlameGraph</link>
+      <description>&lt;p&gt;Stack trace visualizer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ddclient/ddclient</title>
+      <link>https://github.com/ddclient/ddclient</link>
+      <description>&lt;p&gt;Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AlDanial/cloc</title>
+      <link>https://github.com/AlDanial/cloc</link>
+      <description>&lt;p&gt;cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenKore/openkore</title>
+      <link>https://github.com/OpenKore/openkore</link>
+      <description>&lt;p&gt;A free/open source client and automation tool for Ragnarok Online&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>linux-test-project/lcov</title>
+      <link>https://github.com/linux-test-project/lcov</link>
+      <description>&lt;p&gt;LCOV&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ocpi/ocpi</title>
+      <link>https://github.com/ocpi/ocpi</link>
+      <description>&lt;p&gt;The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>adrienverge/openfortivpn</title>
+      <link>https://github.com/adrienverge/openfortivpn</link>
+      <description>&lt;p&gt;Client for PPP+TLS VPN tunnel services&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>keydet89/RegRipper3.0</title>
+      <link>https://github.com/keydet89/RegRipper3.0</link>
+      <description>&lt;p&gt;RegRipper3.0&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tseemann/prokka</title>
+      <link>https://github.com/tseemann/prokka</link>
+      <description>&lt;p&gt;⚡ ♒ Rapid prokaryotic genome annotation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ensembl/ensembl-vep</title>
+      <link>https://github.com/Ensembl/ensembl-vep</link>
+      <description>&lt;p&gt;The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sullo/nikto</title>
+      <link>https://github.com/sullo/nikto</link>
+      <description>&lt;p&gt;Nikto web server scanner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SpiderLabs/owasp-modsecurity-crs</title>
+      <link>https://github.com/SpiderLabs/owasp-modsecurity-crs</link>
+      <description>&lt;p&gt;OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>major/MySQLTuner-perl</title>
+      <link>https://github.com/major/MySQLTuner-perl</link>
+      <description>&lt;p&gt;MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>glpi-project/glpi-agent</title>
+      <link>https://github.com/glpi-project/glpi-agent</link>
+      <description>&lt;p&gt;GLPI Agent&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cplusplus/papers</title>
+      <link>https://github.com/cplusplus/papers</link>
+      <description>&lt;p&gt;ISO/IEC JTC1 SC22 WG21 paper scheduling and management&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>so-fancy/diff-so-fancy</title>
+      <link>https://github.com/so-fancy/diff-so-fancy</link>
+      <description>&lt;p&gt;Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. 🎉&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>darold/ora2pg</title>
+      <link>https://github.com/darold/ora2pg</link>
+      <description>&lt;p&gt;Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

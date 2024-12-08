@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dafny Monthly Trending</title>
+    <description>Monthly Trending of Dafny in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:00:05 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>aws/aws-encryption-sdk-dafny</title>
+      <link>https://github.com/aws/aws-encryption-sdk-dafny</link>
+      <description>&lt;p&gt;AWS Encryption SDK for Dafny&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

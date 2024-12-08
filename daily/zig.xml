@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Zig Daily Trending</title>
+    <description>Daily Trending of Zig in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:49:04 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>NilsIrl/dockerc</title>
+      <link>https://github.com/NilsIrl/dockerc</link>
+      <description>&lt;p&gt;container image to single executable compiler&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tigerbeetle/tigerbeetle</title>
+      <link>https://github.com/tigerbeetle/tigerbeetle</link>
+      <description>&lt;p&gt;The financial transactions database designed for mission critical safety and performance.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>&lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ziglang/zig</title>
+      <link>https://github.com/ziglang/zig</link>
+      <description>&lt;p&gt;General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>andrewrk/poop</title>
+      <link>https://github.com/andrewrk/poop</link>
+      <description>&lt;p&gt;Performance Optimizer Observation Platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riverwm/river</title>
+      <link>https://github.com/riverwm/river</link>
+      <description>&lt;p&gt;[mirror] A dynamic tiling Wayland compositor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Not-Nik/raylib-zig</title>
+      <link>https://github.com/Not-Nik/raylib-zig</link>
+      <description>&lt;p&gt;Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>david-vanderson/dvui</title>
+      <link>https://github.com/david-vanderson/dvui</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hexops/mach</title>
+      <link>https://github.com/hexops/mach</link>
+      <description>&lt;p&gt;zig game engine &amp; graphics toolkit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pedropark99/zig-book</title>
+      <link>https://github.com/pedropark99/zig-book</link>
+      <description>&lt;p&gt;An open, technical and introductory book for the Zig programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ZigEmbeddedGroup/microzig</title>
+      <link>https://github.com/ZigEmbeddedGroup/microzig</link>
+      <description>&lt;p&gt;Unified abstraction layer and HAL for several microcontrollers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

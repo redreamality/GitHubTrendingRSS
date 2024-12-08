@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Monthly Trending</title>
+    <description>Monthly Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:00:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-mirror/emacs</title>
+      <link>https://github.com/emacs-mirror/emacs</link>
+      <description>&lt;p&gt;Mirror of GNU Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>org-roam/org-roam</title>
+      <link>https://github.com/org-roam/org-roam</link>
+      <description>&lt;p&gt;Rudimentary Roam replica with Org-mode&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>melpa/melpa</title>
+      <link>https://github.com/melpa/melpa</link>
+      <description>&lt;p&gt;Recipes and build machinery for the biggest Emacs package repo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>doomemacs/themes</title>
+      <link>https://github.com/doomemacs/themes</link>
+      <description>&lt;p&gt;A megapack of themes for GNU Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>purcell/emacs-reformatter</title>
+      <link>https://github.com/purcell/emacs-reformatter</link>
+      <description>&lt;p&gt;Define commands which run reformatters on the current Emacs buffer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dominikh/go-mode.el</title>
+      <link>https://github.com/dominikh/go-mode.el</link>
+      <description>&lt;p&gt;Emacs mode for the Go programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>clojure-emacs/cider</title>
+      <link>https://github.com/clojure-emacs/cider</link>
+      <description>&lt;p&gt;The Clojure Interactive Development Environment that Rocks for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mmontone/emacs-inspector</title>
+      <link>https://github.com/mmontone/emacs-inspector</link>
+      <description>&lt;p&gt;Inspection tool for Emacs Lisp objects.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alexander-Miller/treemacs</title>
+      <link>https://github.com/Alexander-Miller/treemacs</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nix-mode</title>
+      <link>https://github.com/NixOS/nix-mode</link>
+      <description>&lt;p&gt;An Emacs major mode for editing Nix expressions.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ahyatt/emacs-websocket</title>
+      <link>https://github.com/ahyatt/emacs-websocket</link>
+      <description>&lt;p&gt;A websocket implementation in elisp, for emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>seagle0128/doom-modeline</title>
+      <link>https://github.com/seagle0128/doom-modeline</link>
+      <description>&lt;p&gt;A fancy and fast mode-line inspired by minimalism design.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

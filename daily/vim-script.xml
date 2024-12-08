@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vim Script Daily Trending</title>
+    <description>Daily Trending of Vim Script in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:48:43 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tpope/vim-fugitive</title>
+      <link>https://github.com/tpope/vim-fugitive</link>
+      <description>&lt;p&gt;fugitive.vim: A Git wrapper so awesome, it should be illegal&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mileszs/ack.vim</title>
+      <link>https://github.com/mileszs/ack.vim</link>
+      <description>&lt;p&gt;Vim plugin for the Perl module / CLI script &#39;ack&#39;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exafunction/codeium.vim</title>
+      <link>https://github.com/Exafunction/codeium.vim</link>
+      <description>&lt;p&gt;Free, ultrafast Copilot alternative for Vim and Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim/vim</title>
+      <link>https://github.com/vim/vim</link>
+      <description>&lt;p&gt;The official Vim repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>amix/vimrc</title>
+      <link>https://github.com/amix/vimrc</link>
+      <description>&lt;p&gt;The ultimate Vim configuration (vimrc)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dense-analysis/ale</title>
+      <link>https://github.com/dense-analysis/ale</link>
+      <description>&lt;p&gt;Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prabirshrestha/vim-lsp</title>
+      <link>https://github.com/prabirshrestha/vim-lsp</link>
+      <description>&lt;p&gt;async language server protocol plugin for vim and neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>madox2/vim-ai</title>
+      <link>https://github.com/madox2/vim-ai</link>
+      <description>&lt;p&gt;AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prabirshrestha/asyncomplete.vim</title>
+      <link>https://github.com/prabirshrestha/asyncomplete.vim</link>
+      <description>&lt;p&gt;async completion in pure vim script for vim8 and neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vimwiki/vimwiki</title>
+      <link>https://github.com/vimwiki/vimwiki</link>
+      <description>&lt;p&gt;Personal Wiki for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prabirshrestha/asyncomplete-lsp.vim</title>
+      <link>https://github.com/prabirshrestha/asyncomplete-lsp.vim</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lambdalisue/vim-suda</title>
+      <link>https://github.com/lambdalisue/vim-suda</link>
+      <description>&lt;p&gt;🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sainnhe/everforest</title>
+      <link>https://github.com/sainnhe/everforest</link>
+      <description>&lt;p&gt;🌲 Comfortable &amp; Pleasant Color Scheme for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jbranchaud/til</title>
+      <link>https://github.com/jbranchaud/til</link>
+      <description>&lt;p&gt;📝 Today I Learned&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mattn/vim-lsp-settings</title>
+      <link>https://github.com/mattn/vim-lsp-settings</link>
+      <description>&lt;p&gt;Auto configurations for Language Server for vim-lsp&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>VundleVim/Vundle.vim</title>
+      <link>https://github.com/VundleVim/Vundle.vim</link>
+      <description>&lt;p&gt;Vundle, the plug-in manager for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chrisbra/csv.vim</title>
+      <link>https://github.com/chrisbra/csv.vim</link>
+      <description>&lt;p&gt;A Filetype plugin for csv files&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neovim/neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description>&lt;p&gt;Vim-fork focused on extensibility and usability&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dracula/vim</title>
+      <link>https://github.com/dracula/vim</link>
+      <description>&lt;p&gt;🧛🏻‍♂️ Dark theme for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

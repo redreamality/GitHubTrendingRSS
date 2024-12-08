@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Weekly Trending</title>
+    <description>Weekly Trending of Unknown languages in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:49:07 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>0voice/expert_readed_books</title>
+      <link>https://github.com/0voice/expert_readed_books</link>
+      <description>&lt;p&gt;2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/github-pages</title>
+      <link>https://github.com/skills/github-pages</link>
+      <description>&lt;p&gt;Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://github.com/skills/introduction-to-github</link>
+      <description>&lt;p&gt;Get started using GitHub in less than an hour.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sdmg15/Best-websites-a-programmer-should-visit</title>
+      <link>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
+      <description>&lt;p&gt;🔗 Some useful websites for programmers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://github.com/ruanyf/weekly</link>
+      <description>&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>milanm/DevOps-Roadmap</title>
+      <link>https://github.com/milanm/DevOps-Roadmap</link>
+      <description>&lt;p&gt;DevOps Roadmap for 2024. with learning resources&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mtdvio/every-programmer-should-know</title>
+      <link>https://github.com/mtdvio/every-programmer-should-know</link>
+      <description>&lt;p&gt;A collection of (mostly) technical things every software developer should know about&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>binhnguyennus/awesome-scalability</title>
+      <link>https://github.com/binhnguyennus/awesome-scalability</link>
+      <description>&lt;p&gt;The Patterns of Scalable, Reliable, and Performant Large-Scale Systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cmliu/WorkerVless2sub</title>
+      <link>https://github.com/cmliu/WorkerVless2sub</link>
+      <description>&lt;p&gt;这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CyC2018/CS-Notes</title>
+      <link>https://github.com/CyC2018/CS-Notes</link>
+      <description>&lt;p&gt;📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Avik-Jain/100-Days-Of-ML-Code</title>
+      <link>https://github.com/Avik-Jain/100-Days-Of-ML-Code</link>
+      <description>&lt;p&gt;100 Days of ML Coding&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

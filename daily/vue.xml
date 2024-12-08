@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vue Daily Trending</title>
+    <description>Daily Trending of Vue in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:48:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>vbenjs/vue-vben-admin</title>
+      <link>https://github.com/vbenjs/vue-vben-admin</link>
+      <description>&lt;p&gt;A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Miazzy/oa-front-service</title>
+      <link>https://github.com/Miazzy/oa-front-service</link>
+      <description>&lt;p&gt;oa-front-service, 基于Vue的OA系统，功能丰富，界面美观，演示地址：https://www.shengtai.club 账户zhaoziyun/Miazzy@163.com&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ElemeFE/element</title>
+      <link>https://github.com/ElemeFE/element</link>
+      <description>&lt;p&gt;A Vue.js 2.0 UI Toolkit for Web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>un-pany/v3-admin-vite</title>
+      <link>https://github.com/un-pany/v3-admin-vite</link>
+      <description>&lt;p&gt;☀️ A crafted admin template「vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板」&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nuxt/ui</title>
+      <link>https://github.com/nuxt/ui</link>
+      <description>&lt;p&gt;A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CorentinTh/it-tools</title>
+      <link>https://github.com/CorentinTh/it-tools</link>
+      <description>&lt;p&gt;Collection of handy online tools for developers, with great UX.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imsyy/SPlayer</title>
+      <link>https://github.com/imsyy/SPlayer</link>
+      <description>&lt;p&gt;🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>requarks/wiki</title>
+      <link>https://github.com/requarks/wiki</link>
+      <description>&lt;p&gt;Wiki.js | A modern and powerful wiki app built on Node.js&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>crmeb/CRMEB</title>
+      <link>https://github.com/crmeb/CRMEB</link>
+      <description>&lt;p&gt;🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hslr-s/sun-panel</title>
+      <link>https://github.com/hslr-s/sun-panel</link>
+      <description>&lt;p&gt;A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LOG1997/log-lottery</title>
+      <link>https://github.com/LOG1997/log-lottery</link>
+      <description>&lt;p&gt;🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primevue</title>
+      <link>https://github.com/primefaces/primevue</link>
+      <description>&lt;p&gt;Next Generation Vue UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>intel/AI-Playground</title>
+      <link>https://github.com/intel/AI-Playground</link>
+      <description>&lt;p&gt;AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unovue/radix-vue</title>
+      <link>https://github.com/unovue/radix-vue</link>
+      <description>&lt;p&gt;Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bastienwirtz/homer</title>
+      <link>https://github.com/bastienwirtz/homer</link>
+      <description>&lt;p&gt;A very simple static homepage for your server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kailong321200875/vue-element-plus-admin</title>
+      <link>https://github.com/kailong321200875/vue-element-plus-admin</link>
+      <description>&lt;p&gt;A backend management system based on vue3, typescript, element-plus, and vite&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vueComponent/ant-design-vue</title>
+      <link>https://github.com/vueComponent/ant-design-vue</link>
+      <description>&lt;p&gt;🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AutomaApp/automa</title>
+      <link>https://github.com/AutomaApp/automa</link>
+      <description>&lt;p&gt;A browser extension for automating your browser by connecting blocks&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yangjian102621/geekai</title>
+      <link>https://github.com/yangjian102621/geekai</link>
+      <description>&lt;p&gt;AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dullage/flatnotes</title>
+      <link>https://github.com/dullage/flatnotes</link>
+      <description>&lt;p&gt;A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

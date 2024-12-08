@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub AutoHotkey Monthly Trending</title>
+    <description>Monthly Trending of AutoHotkey in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:59:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>umageddon/namDHC</title>
+      <link>https://github.com/umageddon/namDHC</link>
+      <description>&lt;p&gt;Windows frontend for CHDMAN - written in Autohotkey&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kyokakawaii/DoroHelper</title>
+      <link>https://github.com/kyokakawaii/DoroHelper</link>
+      <description>&lt;p&gt;Nikke日常任务脚本。A Time-Saving Script for Goddess of Victory: Nikke.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Daily Trending</title>
+    <description>Daily Trending of Unknown languages in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:39:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>skills/github-pages</title>
+      <link>https://github.com/skills/github-pages</link>
+      <description>&lt;p&gt;Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/copilot-codespaces-vscode</title>
+      <link>https://github.com/skills/copilot-codespaces-vscode</link>
+      <description>&lt;p&gt;Develop with AI-powered code suggestions using GitHub Copilot and VS Code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>milanm/DevOps-Roadmap</title>
+      <link>https://github.com/milanm/DevOps-Roadmap</link>
+      <description>&lt;p&gt;DevOps Roadmap for 2024. with learning resources&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>florinpop17/app-ideas</title>
+      <link>https://github.com/florinpop17/app-ideas</link>
+      <description>&lt;p&gt;A Collection of application ideas which can be used to improve your coding skills.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://github.com/skills/introduction-to-github</link>
+      <description>&lt;p&gt;Get started using GitHub in less than an hour.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>payloadbox/xss-payload-list</title>
+      <link>https://github.com/payloadbox/xss-payload-list</link>
+      <description>&lt;p&gt;🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SimplifyJobs/Summer2025-Internships</title>
+      <link>https://github.com/SimplifyJobs/Summer2025-Internships</link>
+      <description>&lt;p&gt;Collection of Summer 2025 tech internships!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xx025/carrot</title>
+      <link>https://github.com/xx025/carrot</link>
+      <description>&lt;p&gt;Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>practical-tutorials/project-based-learning</title>
+      <link>https://github.com/practical-tutorials/project-based-learning</link>
+      <description>&lt;p&gt;Curated list of project-based tutorials&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuteng/Best-websites-a-programmer-should-visit-zh</title>
+      <link>https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh</link>
+      <description>&lt;p&gt;程序员应该访问的最佳网站中文版&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Loyalsoldier/v2ray-rules-dat</title>
+      <link>https://github.com/Loyalsoldier/v2ray-rules-dat</link>
+      <description>&lt;p&gt;🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lydiahallie/javascript-questions</title>
+      <link>https://github.com/lydiahallie/javascript-questions</link>
+      <description>&lt;p&gt;A long list of (advanced) JavaScript questions, and their explanations ✨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

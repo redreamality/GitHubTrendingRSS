@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CMake Weekly Trending</title>
+    <description>Weekly Trending of CMake in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:50:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flathub/shared-modules</title>
+      <link>https://github.com/flathub/shared-modules</link>
+      <description>&lt;p&gt;Common Flatpak modules that can be used as a git submodule&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ttroy50/cmake-examples</title>
+      <link>https://github.com/ttroy50/cmake-examples</link>
+      <description>&lt;p&gt;Useful CMake Examples&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheLartians/PackageProject.cmake</title>
+      <link>https://github.com/TheLartians/PackageProject.cmake</link>
+      <description>&lt;p&gt;🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>corrosion-rs/corrosion</title>
+      <link>https://github.com/corrosion-rs/corrosion</link>
+      <description>&lt;p&gt;Marrying Rust and CMake - Easy Rust and C/C++ Integration!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gazebosim/gz-cmake</title>
+      <link>https://github.com/gazebosim/gz-cmake</link>
+      <description>&lt;p&gt;A set of CMake modules that are used by the C++-based Gazebo projects.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>steinbergmedia/vst3sdk</title>
+      <link>https://github.com/steinbergmedia/vst3sdk</link>
+      <description>&lt;p&gt;VST 3 Plug-In SDK&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

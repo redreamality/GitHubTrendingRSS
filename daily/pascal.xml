@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Pascal Daily Trending</title>
+    <description>Daily Trending of Pascal in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:46:50 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>stascorp/rdpwrap</title>
+      <link>https://github.com/stascorp/rdpwrap</link>
+      <description>&lt;p&gt;RDP Wrapper Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>peazip/PeaZip</title>
+      <link>https://github.com/peazip/PeaZip</link>
+      <description>&lt;p&gt;Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cheat-engine/cheat-engine</title>
+      <link>https://github.com/cheat-engine/cheat-engine</link>
+      <description>&lt;p&gt;Cheat Engine. A development environment focused on modding&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jrsoftware/issrc</title>
+      <link>https://github.com/jrsoftware/issrc</link>
+      <description>&lt;p&gt;Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>UltraStar-Deluxe/USDX</title>
+      <link>https://github.com/UltraStar-Deluxe/USDX</link>
+      <description>&lt;p&gt;The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pyscripter/pyscripter</title>
+      <link>https://github.com/pyscripter/pyscripter</link>
+      <description>&lt;p&gt;Pyscripter is a feature-rich but lightweight Python IDE&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>salvadordf/CEF4Delphi</title>
+      <link>https://github.com/salvadordf/CEF4Delphi</link>
+      <description>&lt;p&gt;CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IndySockets/Indy</title>
+      <link>https://github.com/IndySockets/Indy</link>
+      <description>&lt;p&gt;Indy - Internet Direct&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FrankBijnen/ExifToolGui</title>
+      <link>https://github.com/FrankBijnen/ExifToolGui</link>
+      <description>&lt;p&gt;A GUI for ExifTool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HeidiSQL/HeidiSQL</title>
+      <link>https://github.com/HeidiSQL/HeidiSQL</link>
+      <description>&lt;p&gt;A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

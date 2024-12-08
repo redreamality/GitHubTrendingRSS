@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haxe Monthly Trending</title>
+    <description>Monthly Trending of Haxe in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:01:11 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>HaxeFoundation/haxe</title>
+      <link>https://github.com/HaxeFoundation/haxe</link>
+      <description>&lt;p&gt;Haxe - The Cross-Platform Toolkit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FNF-CNE-Devs/CodenameEngine</title>
+      <link>https://github.com/FNF-CNE-Devs/CodenameEngine</link>
+      <description>&lt;p&gt;awesome fnf engine :D&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ShadowMario/FNF-PsychEngine</title>
+      <link>https://github.com/ShadowMario/FNF-PsychEngine</link>
+      <description>&lt;p&gt;Engine originally used on Mind Games mod&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

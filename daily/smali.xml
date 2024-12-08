@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smali Daily Trending</title>
+    <description>Daily Trending of Smali in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:47:57 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>phhusson/treble_experimentations</title>
+      <link>https://github.com/phhusson/treble_experimentations</link>
+      <description>&lt;p&gt;Notes about tinkering with Android Project Treble&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vtosters/lite</title>
+      <link>https://github.com/vtosters/lite</link>
+      <description>&lt;p&gt;Модифицированный клиент VK&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

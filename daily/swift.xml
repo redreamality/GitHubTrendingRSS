@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Swift Daily Trending</title>
+    <description>Daily Trending of Swift in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:48:17 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pointfreeco/swift-composable-architecture</title>
+      <link>https://github.com/pointfreeco/swift-composable-architecture</link>
+      <description>&lt;p&gt;A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>onevcat/Kingfisher</title>
+      <link>https://github.com/onevcat/Kingfisher</link>
+      <description>&lt;p&gt;A lightweight, pure-Swift library for downloading and caching images from the web.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>seemoo-lab/openhaystack</title>
+      <link>https://github.com/seemoo-lab/openhaystack</link>
+      <description>&lt;p&gt;Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stripe/stripe-ios</title>
+      <link>https://github.com/stripe/stripe-ios</link>
+      <description>&lt;p&gt;Stripe iOS SDK&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ninxsoft/Mist</title>
+      <link>https://github.com/ninxsoft/Mist</link>
+      <description>&lt;p&gt;A Mac utility that automatically downloads macOS Firmwares / Installers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PlayCover/PlayCover</title>
+      <link>https://github.com/PlayCover/PlayCover</link>
+      <description>&lt;p&gt;Community fork of PlayCover&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hmlongco/Factory</title>
+      <link>https://github.com/hmlongco/Factory</link>
+      <description>&lt;p&gt;A new approach to Container-Based Dependency Injection for Swift and SwiftUI.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nikitabobko/AeroSpace</title>
+      <link>https://github.com/nikitabobko/AeroSpace</link>
+      <description>&lt;p&gt;AeroSpace is an i3-like tiling window manager for macOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-nio</title>
+      <link>https://github.com/apple/swift-nio</link>
+      <description>&lt;p&gt;Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-collections</title>
+      <link>https://github.com/apple/swift-collections</link>
+      <description>&lt;p&gt;Commonly used data structures for Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mozilla-mobile/firefox-ios</title>
+      <link>https://github.com/mozilla-mobile/firefox-ios</link>
+      <description>&lt;p&gt;Firefox for iOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>facebook/facebook-ios-sdk</title>
+      <link>https://github.com/facebook/facebook-ios-sdk</link>
+      <description>&lt;p&gt;Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apollographql/apollo-ios</title>
+      <link>https://github.com/apollographql/apollo-ios</link>
+      <description>&lt;p&gt;📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>swiftlang/swift-syntax</title>
+      <link>https://github.com/swiftlang/swift-syntax</link>
+      <description>&lt;p&gt;A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-async-algorithms</title>
+      <link>https://github.com/apple/swift-async-algorithms</link>
+      <description>&lt;p&gt;Async Algorithms for Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-protobuf</title>
+      <link>https://github.com/apple/swift-protobuf</link>
+      <description>&lt;p&gt;Plugin and runtime library for using protobuf with Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RevenueCat/purchases-ios</title>
+      <link>https://github.com/RevenueCat/purchases-ios</link>
+      <description>&lt;p&gt;In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>grpc/grpc-swift</title>
+      <link>https://github.com/grpc/grpc-swift</link>
+      <description>&lt;p&gt;The Swift language implementation of gRPC.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>&lt;p&gt;Elegant HTTP Networking in Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stengo/DeskPad</title>
+      <link>https://github.com/Stengo/DeskPad</link>
+      <description>&lt;p&gt;A virtual monitor for screen sharing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>whoeevee/EeveeSpotify</title>
+      <link>https://github.com/whoeevee/EeveeSpotify</link>
+      <description>&lt;p&gt;A tweak to get Spotify Premium for free, just like Spotilife&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChartsOrg/Charts</title>
+      <link>https://github.com/ChartsOrg/Charts</link>
+      <description>&lt;p&gt;Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SDWebImage/SDWebImageSwiftUI</title>
+      <link>https://github.com/SDWebImage/SDWebImageSwiftUI</link>
+      <description>&lt;p&gt;SwiftUI Image loading and Animation framework powered by SDWebImage&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SwiftGen/SwiftGen</title>
+      <link>https://github.com/SwiftGen/SwiftGen</link>
+      <description>&lt;p&gt;The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

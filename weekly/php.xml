@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Weekly Trending</title>
+    <description>Weekly Trending of PHP in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:56:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>invoiceninja/invoiceninja</title>
+      <link>https://github.com/invoiceninja/invoiceninja</link>
+      <description>&lt;p&gt;A source-available invoice, quote, project and time-tracking app built with Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>symfony/symfony</title>
+      <link>https://github.com/symfony/symfony</link>
+      <description>&lt;p&gt;The Symfony PHP framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>filamentphp/filament</title>
+      <link>https://github.com/filamentphp/filament</link>
+      <description>&lt;p&gt;A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coollabsio/coolify</title>
+      <link>https://github.com/coollabsio/coolify</link>
+      <description>&lt;p&gt;An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opencart/opencart</title>
+      <link>https://github.com/opencart/opencart</link>
+      <description>&lt;p&gt;A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PrivateBin/PrivateBin</title>
+      <link>https://github.com/PrivateBin/PrivateBin</link>
+      <description>&lt;p&gt;A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/server</title>
+      <link>https://github.com/nextcloud/server</link>
+      <description>&lt;p&gt;☁️ Nextcloud server, a safe home for all your data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mautic/mautic</title>
+      <link>https://github.com/mautic/mautic</link>
+      <description>&lt;p&gt;Mautic: Open Source Marketing Automation Software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alextselegidis/easyappointments</title>
+      <link>https://github.com/alextselegidis/easyappointments</link>
+      <description>&lt;p&gt;📅 Easy!Appointments - Self Hosted Appointment Scheduler&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>magento/magento2</title>
+      <link>https://github.com/magento/magento2</link>
+      <description>&lt;p&gt;Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sylius/Sylius</title>
+      <link>https://github.com/Sylius/Sylius</link>
+      <description>&lt;p&gt;Open Source eCommerce Framework on Symfony&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>laravel/laravel</title>
+      <link>https://github.com/laravel/laravel</link>
+      <description>&lt;p&gt;Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PrestaShop/PrestaShop</title>
+      <link>https://github.com/PrestaShop/PrestaShop</link>
+      <description>&lt;p&gt;PrestaShop is the universal open-source software platform to build your e-commerce solution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nikic/PHP-Parser</title>
+      <link>https://github.com/nikic/PHP-Parser</link>
+      <description>&lt;p&gt;A PHP parser written in PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pterodactyl/panel</title>
+      <link>https://github.com/pterodactyl/panel</link>
+      <description>&lt;p&gt;Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>akaunting/akaunting</title>
+      <link>https://github.com/akaunting/akaunting</link>
+      <description>&lt;p&gt;Online Accounting Software&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pmmp/PocketMine-MP</title>
+      <link>https://github.com/pmmp/PocketMine-MP</link>
+      <description>&lt;p&gt;A server software for Minecraft: Bedrock Edition in PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zabbix/zabbix</title>
+      <link>https://github.com/zabbix/zabbix</link>
+      <description>&lt;p&gt;Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rectorphp/rector</title>
+      <link>https://github.com/rectorphp/rector</link>
+      <description>&lt;p&gt;Instant Upgrades and Automated Refactoring of any PHP 5.3+ code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>livewire/livewire</title>
+      <link>https://github.com/livewire/livewire</link>
+      <description>&lt;p&gt;A full-stack framework for Laravel that takes the pain out of building dynamic UIs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woocommerce/woocommerce</title>
+      <link>https://github.com/woocommerce/woocommerce</link>
+      <description>&lt;p&gt;A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>librenms/librenms</title>
+      <link>https://github.com/librenms/librenms</link>
+      <description>&lt;p&gt;Community-based GPL-licensed network monitoring system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Daily Trending</title>
+    <description>Daily Trending of PHP in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:46:56 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>snipe/snipe-it</title>
+      <link>https://github.com/snipe/snipe-it</link>
+      <description>&lt;p&gt;A free open source IT asset/license management system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>symfony/symfony</title>
+      <link>https://github.com/symfony/symfony</link>
+      <description>&lt;p&gt;The Symfony PHP framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/all-in-one</title>
+      <link>https://github.com/nextcloud/all-in-one</link>
+      <description>&lt;p&gt;📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>barryvdh/laravel-debugbar</title>
+      <link>https://github.com/barryvdh/laravel-debugbar</link>
+      <description>&lt;p&gt;Debugbar for Laravel (Integrates PHP Debug Bar)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/server</title>
+      <link>https://github.com/nextcloud/server</link>
+      <description>&lt;p&gt;☁️ Nextcloud server, a safe home for all your data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>composer/composer</title>
+      <link>https://github.com/composer/composer</link>
+      <description>&lt;p&gt;Dependency Manager for PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>librenms/librenms</title>
+      <link>https://github.com/librenms/librenms</link>
+      <description>&lt;p&gt;Community-based GPL-licensed network monitoring system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexjustesen/speedtest-tracker</title>
+      <link>https://github.com/alexjustesen/speedtest-tracker</link>
+      <description>&lt;p&gt;Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sylius/Sylius</title>
+      <link>https://github.com/Sylius/Sylius</link>
+      <description>&lt;p&gt;Open Source eCommerce Framework on Symfony&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>laravel/laravel</title>
+      <link>https://github.com/laravel/laravel</link>
+      <description>&lt;p&gt;Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>twigphp/Twig</title>
+      <link>https://github.com/twigphp/Twig</link>
+      <description>&lt;p&gt;Twig, the flexible, fast, and secure template language for PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fzaninotto/Faker</title>
+      <link>https://github.com/fzaninotto/Faker</link>
+      <description>&lt;p&gt;Faker is a PHP library that generates fake data for you&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seldaek/monolog</title>
+      <link>https://github.com/Seldaek/monolog</link>
+      <description>&lt;p&gt;Sends your logs to files, sockets, inboxes, databases and various web services&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cweagans/composer-patches</title>
+      <link>https://github.com/cweagans/composer-patches</link>
+      <description>&lt;p&gt;Simple patches plugin for Composer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JhumanJ/OpnForm</title>
+      <link>https://github.com/JhumanJ/OpnForm</link>
+      <description>&lt;p&gt;Beautiful Open-Source Form Builder&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>livewire/livewire</title>
+      <link>https://github.com/livewire/livewire</link>
+      <description>&lt;p&gt;A full-stack framework for Laravel that takes the pain out of building dynamic UIs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woocommerce/woocommerce</title>
+      <link>https://github.com/woocommerce/woocommerce</link>
+      <description>&lt;p&gt;A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/richdocuments</title>
+      <link>https://github.com/nextcloud/richdocuments</link>
+      <description>&lt;p&gt;📑 Collabora Online for Nextcloud&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dompdf/dompdf</title>
+      <link>https://github.com/dompdf/dompdf</link>
+      <description>&lt;p&gt;HTML to PDF converter for PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stripe/stripe-php</title>
+      <link>https://github.com/stripe/stripe-php</link>
+      <description>&lt;p&gt;PHP library for the Stripe API.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openai-php/laravel</title>
+      <link>https://github.com/openai-php/laravel</link>
+      <description>&lt;p&gt;⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

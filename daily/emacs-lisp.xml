@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Daily Trending</title>
+    <description>Daily Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:41:38 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>karthink/gptel</title>
+      <link>https://github.com/karthink/gptel</link>
+      <description>&lt;p&gt;A simple LLM client for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CeleritasCelery/rune</title>
+      <link>https://github.com/CeleritasCelery/rune</link>
+      <description>&lt;p&gt;Rust VM for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-evil/evil</title>
+      <link>https://github.com/emacs-evil/evil</link>
+      <description>&lt;p&gt;The extensible vi layer for Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-dashboard/emacs-dashboard</title>
+      <link>https://github.com/emacs-dashboard/emacs-dashboard</link>
+      <description>&lt;p&gt;An extensible emacs dashboard&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xenodium/chatgpt-shell</title>
+      <link>https://github.com/xenodium/chatgpt-shell</link>
+      <description>&lt;p&gt;A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>magit/magit</title>
+      <link>https://github.com/magit/magit</link>
+      <description>&lt;p&gt;It&#39;s Magit! A Git Porcelain inside Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ahyatt/emacs-websocket</title>
+      <link>https://github.com/ahyatt/emacs-websocket</link>
+      <description>&lt;p&gt;A websocket implementation in elisp, for emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>abo-abo/swiper</title>
+      <link>https://github.com/abo-abo/swiper</link>
+      <description>&lt;p&gt;Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joaotavora/eglot</title>
+      <link>https://github.com/joaotavora/eglot</link>
+      <description>&lt;p&gt;A client for Language Server Protocol servers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-tree-sitter/elisp-tree-sitter</title>
+      <link>https://github.com/emacs-tree-sitter/elisp-tree-sitter</link>
+      <description>&lt;p&gt;Emacs Lisp bindings for tree-sitter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flycheck/flycheck</title>
+      <link>https://github.com/flycheck/flycheck</link>
+      <description>&lt;p&gt;On the fly syntax checking for GNU Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-mirror/emacs</title>
+      <link>https://github.com/emacs-mirror/emacs</link>
+      <description>&lt;p&gt;Mirror of GNU Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jonathanchu/emacs-powerline</title>
+      <link>https://github.com/jonathanchu/emacs-powerline</link>
+      <description>&lt;p&gt;Powerline for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-jupyter/jupyter</title>
+      <link>https://github.com/emacs-jupyter/jupyter</link>
+      <description>&lt;p&gt;An interface to communicate with Jupyter kernels.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-ivy</title>
+      <link>https://github.com/emacs-lsp/lsp-ivy</link>
+      <description>&lt;p&gt;lsp-mode ❤️ ivy&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

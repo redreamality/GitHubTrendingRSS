@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Weekly Trending</title>
+    <description>Weekly Trending of Ruby in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:57:28 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Freika/dawarich</title>
+      <link>https://github.com/Freika/dawarich</link>
+      <description>&lt;p&gt;Self-hosted alternative to Google Location History (Google Maps Timeline)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rails/rails</title>
+      <link>https://github.com/rails/rails</link>
+      <description>&lt;p&gt;Ruby on Rails&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github-linguist/linguist</title>
+      <link>https://github.com/github-linguist/linguist</link>
+      <description>&lt;p&gt;Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mastodon/mastodon</title>
+      <link>https://github.com/mastodon/mastodon</link>
+      <description>&lt;p&gt;Your self-hosted, globally interconnected microblogging community&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>&lt;p&gt;Metasploit Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>solidusio/solidus</title>
+      <link>https://github.com/solidusio/solidus</link>
+      <description>&lt;p&gt;🛒 Solidus, the open-source eCommerce framework for industry trailblazers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ubicloud/ubicloud</title>
+      <link>https://github.com/ubicloud/ubicloud</link>
+      <description>&lt;p&gt;Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexrudall/ruby-openai</title>
+      <link>https://github.com/alexrudall/ruby-openai</link>
+      <description>&lt;p&gt;OpenAI API + Ruby! 🤖❤️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>department-of-veterans-affairs/vets-api</title>
+      <link>https://github.com/department-of-veterans-affairs/vets-api</link>
+      <description>&lt;p&gt;API powering VA.gov&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws/aws-sdk-ruby</title>
+      <link>https://github.com/aws/aws-sdk-ruby</link>
+      <description>&lt;p&gt;The official AWS SDK for Ruby.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>heartcombo/devise</title>
+      <link>https://github.com/heartcombo/devise</link>
+      <description>&lt;p&gt;Flexible authentication solution for Rails with Warden.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>&lt;p&gt;OpenProject is the leading open source project management software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/homebrew-core</title>
+      <link>https://github.com/Homebrew/homebrew-core</link>
+      <description>&lt;p&gt;🍻 Default formulae for the missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>&lt;p&gt;🤖 Dependabot&#39;s core logic for creating update PRs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hotwired/turbo-rails</title>
+      <link>https://github.com/hotwired/turbo-rails</link>
+      <description>&lt;p&gt;Use Turbo in your Ruby on Rails app&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DataDog/datadog-api-client-ruby</title>
+      <link>https://github.com/DataDog/datadog-api-client-ruby</link>
+      <description>&lt;p&gt;Ruby client for the Datadog API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rails-api/active_model_serializers</title>
+      <link>https://github.com/rails-api/active_model_serializers</link>
+      <description>&lt;p&gt;ActiveModel::Serializer implementation and Rails hooks&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rmosolgo/graphql-ruby</title>
+      <link>https://github.com/rmosolgo/graphql-ruby</link>
+      <description>&lt;p&gt;Ruby implementation of GraphQL&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gitlabhq/gitlabhq</title>
+      <link>https://github.com/gitlabhq/gitlabhq</link>
+      <description>&lt;p&gt;GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>citation-style-language/styles</title>
+      <link>https://github.com/citation-style-language/styles</link>
+      <description>&lt;p&gt;Official repository for Citation Style Language (CSL) citation styles.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/jekyll</title>
+      <link>https://github.com/jekyll/jekyll</link>
+      <description>&lt;p&gt;🌐 Jekyll is a blog-aware static site generator in Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prawnpdf/prawn</title>
+      <link>https://github.com/prawnpdf/prawn</link>
+      <description>&lt;p&gt;Fast, Nimble PDF Writer for Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bensheldon/good_job</title>
+      <link>https://github.com/bensheldon/good_job</link>
+      <description>&lt;p&gt;Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

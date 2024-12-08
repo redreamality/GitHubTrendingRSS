@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Puppet Monthly Trending</title>
+    <description>Monthly Trending of Puppet in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:03:39 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>elastic/puppet-logstashforwarder</title>
+      <link>https://github.com/elastic/puppet-logstashforwarder</link>
+      <description>&lt;p&gt;Puppet module for Logstash Forwarder&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>puppetlabs/puppetlabs-apache</title>
+      <link>https://github.com/puppetlabs/puppetlabs-apache</link>
+      <description>&lt;p&gt;Puppet module for the Apache httpd server, maintained by Puppet, Inc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

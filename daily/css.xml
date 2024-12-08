@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Daily Trending</title>
+    <description>Daily Trending of CSS in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:41:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>primefaces/primeng</title>
+      <link>https://github.com/primefaces/primeng</link>
+      <description>&lt;p&gt;The Most Complete Angular UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IBM/plex</title>
+      <link>https://github.com/IBM/plex</link>
+      <description>&lt;p&gt;The package of IBM’s typeface, IBM Plex.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>necolas/normalize.css</title>
+      <link>https://github.com/necolas/normalize.css</link>
+      <description>&lt;p&gt;A modern alternative to CSS resets&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bradtraversy/50projects50days</title>
+      <link>https://github.com/bradtraversy/50projects50days</link>
+      <description>&lt;p&gt;50+ mini web projects using HTML, CSS &amp; JS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>micro-zoe/micro-app</title>
+      <link>https://github.com/micro-zoe/micro-app</link>
+      <description>&lt;p&gt;A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>progit/progit2</title>
+      <link>https://github.com/progit/progit2</link>
+      <description>&lt;p&gt;Pro Git 2nd Edition&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rime/home</title>
+      <link>https://github.com/rime/home</link>
+      <description>&lt;p&gt;Rime::Home is home to Rime users and developers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>isocpp/CppCoreGuidelines</title>
+      <link>https://github.com/isocpp/CppCoreGuidelines</link>
+      <description>&lt;p&gt;The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/sakai-ng</title>
+      <link>https://github.com/primefaces/sakai-ng</link>
+      <description>&lt;p&gt;Free Angular Admin Template by PrimeNG&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>barryclark/jekyll-now</title>
+      <link>https://github.com/barryclark/jekyll-now</link>
+      <description>&lt;p&gt;Build a Jekyll blog in minutes, without touching the command line.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>devicons/devicon</title>
+      <link>https://github.com/devicons/devicon</link>
+      <description>&lt;p&gt;Set of icons representing programming languages, designing &amp; development tools&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenClassrooms-Student-Center/GameOn-website-FR</title>
+      <link>https://github.com/OpenClassrooms-Student-Center/GameOn-website-FR</link>
+      <description>&lt;p&gt;Code du projet 4 de développeur front-end V2&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>McShelby/hugo-theme-relearn</title>
+      <link>https://github.com/McShelby/hugo-theme-relearn</link>
+      <description>&lt;p&gt;A theme for Hugo designed for documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C Weekly Trending</title>
+    <description>Weekly Trending of Objective-C in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:56:22 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>sparkle-project/Sparkle</title>
+      <link>https://github.com/sparkle-project/Sparkle</link>
+      <description>&lt;p&gt;A software update framework for macOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>react-native-maps/react-native-maps</title>
+      <link>https://github.com/react-native-maps/react-native-maps</link>
+      <description>&lt;p&gt;React Native Mapview component for iOS + Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openid/AppAuth-iOS</title>
+      <link>https://github.com/openid/AppAuth-iOS</link>
+      <description>&lt;p&gt;iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AzureAD/microsoft-authentication-library-for-objc</title>
+      <link>https://github.com/AzureAD/microsoft-authentication-library-for-objc</link>
+      <description>&lt;p&gt;Microsoft Authentication Library (MSAL) for iOS and macOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tisfeng/Easydict</title>
+      <link>https://github.com/tisfeng/Easydict</link>
+      <description>&lt;p&gt;一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OneSignal/OneSignal-iOS-SDK</title>
+      <link>https://github.com/OneSignal/OneSignal-iOS-SDK</link>
+      <description>&lt;p&gt;OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native iOS app with OneSignal. https://onesignal.com&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>keycastr/keycastr</title>
+      <link>https://github.com/keycastr/keycastr</link>
+      <description>&lt;p&gt;KeyCastr, an open-source keystroke visualizer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>adjust/ios_sdk</title>
+      <link>https://github.com/adjust/ios_sdk</link>
+      <description>&lt;p&gt;This is the iOS SDK of&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>onfido/onfido-ios-sdk</title>
+      <link>https://github.com/onfido/onfido-ios-sdk</link>
+      <description>&lt;p&gt;A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/promises</title>
+      <link>https://github.com/google/promises</link>
+      <description>&lt;p&gt;Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/gtm-session-fetcher</title>
+      <link>https://github.com/google/gtm-session-fetcher</link>
+      <description>&lt;p&gt;Google Toolbox for Mac - Session Fetcher&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/GoogleUtilities</title>
+      <link>https://github.com/google/GoogleUtilities</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AliSoftware/OHHTTPStubs</title>
+      <link>https://github.com/AliSoftware/OHHTTPStubs</link>
+      <description>&lt;p&gt;Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/GoogleSignIn-iOS</title>
+      <link>https://github.com/google/GoogleSignIn-iOS</link>
+      <description>&lt;p&gt;Enables iOS and macOS apps to sign in with Google.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>getsentry/sentry-cocoa</title>
+      <link>https://github.com/getsentry/sentry-cocoa</link>
+      <description>&lt;p&gt;The official Sentry SDK for iOS, tvOS, macOS, watchOS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/plcrashreporter</title>
+      <link>https://github.com/microsoft/plcrashreporter</link>
+      <description>&lt;p&gt;Reliable, open-source crash reporting for iOS, macOS and tvOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TimOliver/TOCropViewController</title>
+      <link>https://github.com/TimOliver/TOCropViewController</link>
+      <description>&lt;p&gt;A view controller for iOS that allows users to crop portions of UIImage objects&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

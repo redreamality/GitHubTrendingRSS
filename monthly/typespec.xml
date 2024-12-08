@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TypeSpec Monthly Trending</title>
+    <description>Monthly Trending of TypeSpec in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:05:01 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Azure/azure-rest-api-specs</title>
+      <link>https://github.com/Azure/azure-rest-api-specs</link>
+      <description>&lt;p&gt;The source for REST API specifications for Microsoft Azure.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

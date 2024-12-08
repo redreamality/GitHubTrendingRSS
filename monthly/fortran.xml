@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Fortran Monthly Trending</title>
+    <description>Monthly Trending of Fortran in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:00:41 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>wrf-model/WRF</title>
+      <link>https://github.com/wrf-model/WRF</link>
+      <description>&lt;p&gt;The official repository for the Weather Research and Forecasting (WRF) model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GEOS-ESM/MAPL</title>
+      <link>https://github.com/GEOS-ESM/MAPL</link>
+      <description>&lt;p&gt;MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>danieljprice/phantom</title>
+      <link>https://github.com/danieljprice/phantom</link>
+      <description>&lt;p&gt;Phantom Smoothed Particle Hydrodynamics and Magnetohydrodynamics code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firemodels/fds</title>
+      <link>https://github.com/firemodels/fds</link>
+      <description>&lt;p&gt;Fire Dynamics Simulator&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaPackaging/Yggdrasil</title>
+      <link>https://github.com/JuliaPackaging/Yggdrasil</link>
+      <description>&lt;p&gt;Collection of builder repositories for BinaryBuilder.jl&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CoLM-SYSU/CoLM202X</title>
+      <link>https://github.com/CoLM-SYSU/CoLM202X</link>
+      <description>&lt;p&gt;The Common Land Model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>grimme-lab/xtb</title>
+      <link>https://github.com/grimme-lab/xtb</link>
+      <description>&lt;p&gt;Semiempirical Extended Tight-Binding Program Package&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cp2k/cp2k</title>
+      <link>https://github.com/cp2k/cp2k</link>
+      <description>&lt;p&gt;Quantum chemistry and solid state physics software package&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

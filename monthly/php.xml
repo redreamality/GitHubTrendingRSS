@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Monthly Trending</title>
+    <description>Monthly Trending of PHP in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:03:25 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>laravel/framework</title>
+      <link>https://github.com/laravel/framework</link>
+      <description>&lt;p&gt;The Laravel Framework.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>larastan/larastan</title>
+      <link>https://github.com/larastan/larastan</link>
+      <description>&lt;p&gt;⚗️ Adds code analysis to Laravel improving developer productivity and code quality.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BookStackApp/BookStack</title>
+      <link>https://github.com/BookStackApp/BookStack</link>
+      <description>&lt;p&gt;A platform to create documentation/wiki content built with PHP &amp; Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PHPOffice/PhpSpreadsheet</title>
+      <link>https://github.com/PHPOffice/PhpSpreadsheet</link>
+      <description>&lt;p&gt;A pure PHP library for reading and writing spreadsheet files&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>snipe/snipe-it</title>
+      <link>https://github.com/snipe/snipe-it</link>
+      <description>&lt;p&gt;A free open source IT asset/license management system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SpartnerNL/Laravel-Excel</title>
+      <link>https://github.com/SpartnerNL/Laravel-Excel</link>
+      <description>&lt;p&gt;🚀 Supercharged Excel exports and imports in Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>phpstan/phpstan</title>
+      <link>https://github.com/phpstan/phpstan</link>
+      <description>&lt;p&gt;PHP Static Analysis Tool - discover bugs in your code without running it!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DenverCoder1/github-readme-streak-stats</title>
+      <link>https://github.com/DenverCoder1/github-readme-streak-stats</link>
+      <description>&lt;p&gt;🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opencart/opencart</title>
+      <link>https://github.com/opencart/opencart</link>
+      <description>&lt;p&gt;A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woocommerce/woocommerce</title>
+      <link>https://github.com/woocommerce/woocommerce</link>
+      <description>&lt;p&gt;A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leantime/leantime</title>
+      <link>https://github.com/Leantime/leantime</link>
+      <description>&lt;p&gt;Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sylius/Sylius</title>
+      <link>https://github.com/Sylius/Sylius</link>
+      <description>&lt;p&gt;Open Source eCommerce Framework on Symfony&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>phpstan/phpstan-src</title>
+      <link>https://github.com/phpstan/phpstan-src</link>
+      <description>&lt;p&gt;PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MISP/MISP</title>
+      <link>https://github.com/MISP/MISP</link>
+      <description>&lt;p&gt;MISP (core software) - Open Source Threat Intelligence and Sharing Platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>espocrm/espocrm</title>
+      <link>https://github.com/espocrm/espocrm</link>
+      <description>&lt;p&gt;EspoCRM – Open Source CRM Application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firefly-iii/firefly-iii</title>
+      <link>https://github.com/firefly-iii/firefly-iii</link>
+      <description>&lt;p&gt;Firefly III: a personal finances manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>filamentphp/filament</title>
+      <link>https://github.com/filamentphp/filament</link>
+      <description>&lt;p&gt;A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>barryvdh/laravel-ide-helper</title>
+      <link>https://github.com/barryvdh/laravel-ide-helper</link>
+      <description>&lt;p&gt;IDE Helper for Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>librespeed/speedtest</title>
+      <link>https://github.com/librespeed/speedtest</link>
+      <description>&lt;p&gt;Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/all-in-one</title>
+      <link>https://github.com/nextcloud/all-in-one</link>
+      <description>&lt;p&gt;📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pterodactyl/panel</title>
+      <link>https://github.com/pterodactyl/panel</link>
+      <description>&lt;p&gt;Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rectorphp/rector</title>
+      <link>https://github.com/rectorphp/rector</link>
+      <description>&lt;p&gt;Instant Upgrades and Automated Refactoring of any PHP 5.3+ code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

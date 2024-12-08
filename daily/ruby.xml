@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Daily Trending</title>
+    <description>Daily Trending of Ruby in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:47:41 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>&lt;p&gt;🤖 Dependabot&#39;s core logic for creating update PRs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>forem/forem</title>
+      <link>https://github.com/forem/forem</link>
+      <description>&lt;p&gt;For empowering community 🌱&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fastlane/fastlane</title>
+      <link>https://github.com/fastlane/fastlane</link>
+      <description>&lt;p&gt;🚀 The easiest way to automate building and releasing your iOS and Android apps&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rails/rails</title>
+      <link>https://github.com/rails/rails</link>
+      <description>&lt;p&gt;Ruby on Rails&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruby/ruby</title>
+      <link>https://github.com/ruby/ruby</link>
+      <description>&lt;p&gt;The Ruby Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>department-of-veterans-affairs/vets-api</title>
+      <link>https://github.com/department-of-veterans-affairs/vets-api</link>
+      <description>&lt;p&gt;API powering VA.gov&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/jekyll</title>
+      <link>https://github.com/jekyll/jekyll</link>
+      <description>&lt;p&gt;🌐 Jekyll is a blog-aware static site generator in Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>faker-ruby/faker</title>
+      <link>https://github.com/faker-ruby/faker</link>
+      <description>&lt;p&gt;A library for generating fake data such as names, addresses, and phone numbers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rmosolgo/graphql-ruby</title>
+      <link>https://github.com/rmosolgo/graphql-ruby</link>
+      <description>&lt;p&gt;Ruby implementation of GraphQL&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>doorkeeper-gem/doorkeeper</title>
+      <link>https://github.com/doorkeeper-gem/doorkeeper</link>
+      <description>&lt;p&gt;Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hashicorp/vagrant</title>
+      <link>https://github.com/hashicorp/vagrant</link>
+      <description>&lt;p&gt;Vagrant is a tool for building and distributing development environments.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>&lt;p&gt;OpenProject is the leading open source project management software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>paper-trail-gem/paper_trail</title>
+      <link>https://github.com/paper-trail-gem/paper_trail</link>
+      <description>&lt;p&gt;Track changes to your rails models&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexrudall/ruby-openai</title>
+      <link>https://github.com/alexrudall/ruby-openai</link>
+      <description>&lt;p&gt;OpenAI API + Ruby! 🤖❤️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>&lt;p&gt;A platform for community discussion. Free, open, simple.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>&lt;p&gt;Metasploit Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>redmine/redmine</title>
+      <link>https://github.com/redmine/redmine</link>
+      <description>&lt;p&gt;Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>markdownlint/markdownlint</title>
+      <link>https://github.com/markdownlint/markdownlint</link>
+      <description>&lt;p&gt;Markdown lint tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>puma/puma</title>
+      <link>https://github.com/puma/puma</link>
+      <description>&lt;p&gt;A Ruby/Rack web server built for parallelism&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stripe/stripe-ruby</title>
+      <link>https://github.com/stripe/stripe-ruby</link>
+      <description>&lt;p&gt;Ruby library for the Stripe API.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ctran/annotate_models</title>
+      <link>https://github.com/ctran/annotate_models</link>
+      <description>&lt;p&gt;Annotate Rails classes with schema and routes info&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CocoaPods/CocoaPods</title>
+      <link>https://github.com/CocoaPods/CocoaPods</link>
+      <description>&lt;p&gt;The Cocoa Dependency Manager.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gitlabhq/gitlabhq</title>
+      <link>https://github.com/gitlabhq/gitlabhq</link>
+      <description>&lt;p&gt;GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prawnpdf/prawn</title>
+      <link>https://github.com/prawnpdf/prawn</link>
+      <description>&lt;p&gt;Fast, Nimble PDF Writer for Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

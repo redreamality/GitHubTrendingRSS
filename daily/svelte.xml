@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:48:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbgate/dbgate</title>
+      <link>https://github.com/dbgate/dbgate</link>
+      <description>&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>taikoxyz/taiko-mono</title>
+      <link>https://github.com/taikoxyz/taiko-mono</link>
+      <description>&lt;p&gt;A based rollup. 🥁 🌸&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vkurko/calendar</title>
+      <link>https://github.com/vkurko/calendar</link>
+      <description>&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>saadeghi/daisyui</title>
+      <link>https://github.com/saadeghi/daisyui</link>
+      <description>&lt;p&gt;🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skeletonlabs/skeleton</title>
+      <link>https://github.com/skeletonlabs/skeleton</link>
+      <description>&lt;p&gt;A complete design system and component solution, built on Tailwind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>matt8707/ha-fusion</title>
+      <link>https://github.com/matt8707/ha-fusion</link>
+      <description>&lt;p&gt;A modern, easy-to-use and performant custom Home Assistant dashboard&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>codicocodes/dotfyle</title>
+      <link>https://github.com/codicocodes/dotfyle</link>
+      <description>&lt;p&gt;Find the best Neovim plugins&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cupcakearmy/cryptgeon</title>
+      <link>https://github.com/cupcakearmy/cryptgeon</link>
+      <description>&lt;p&gt;cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust &amp; svelte.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Niek/chatgpt-web</title>
+      <link>https://github.com/Niek/chatgpt-web</link>
+      <description>&lt;p&gt;ChatGPT web interface using the OpenAI API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huntabyte/shadcn-svelte</title>
+      <link>https://github.com/huntabyte/shadcn-svelte</link>
+      <description>&lt;p&gt;shadcn/ui, but for Svelte. ✨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>seanmorley15/AdventureLog</title>
+      <link>https://github.com/seanmorley15/AdventureLog</link>
+      <description>&lt;p&gt;Self-hostable travel tracker and trip planner.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>basharovV/musicat</title>
+      <link>https://github.com/basharovV/musicat</link>
+      <description>&lt;p&gt;A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ThaUnknown/miru</title>
+      <link>https://github.com/ThaUnknown/miru</link>
+      <description>&lt;p&gt;Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>themesberg/flowbite-svelte</title>
+      <link>https://github.com/themesberg/flowbite-svelte</link>
+      <description>&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primocms/primo</title>
+      <link>https://github.com/primocms/primo</link>
+      <description>&lt;p&gt;Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sparrowapp-dev/sparrow-app</title>
+      <link>https://github.com/sparrowapp-dev/sparrow-app</link>
+      <description>&lt;p&gt;Your next-gen API testing and development tool.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChurchApps/FreeShow</title>
+      <link>https://github.com/ChurchApps/FreeShow</link>
+      <description>&lt;p&gt;FreeShow is a free and open-source, user-friendly presenter software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hackclub/OnBoard</title>
+      <link>https://github.com/hackclub/OnBoard</link>
+      <description>&lt;p&gt;💡 Join 1,000 teenagers and make your first PCB with a $100 grant!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

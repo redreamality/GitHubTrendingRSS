@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Fennel Monthly Trending</title>
+    <description>Monthly Trending of Fennel in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:00:36 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Olical/conjure</title>
+      <link>https://github.com/Olical/conjure</link>
+      <description>&lt;p&gt;Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ggandor/leap.nvim</title>
+      <link>https://github.com/ggandor/leap.nvim</link>
+      <description>&lt;p&gt;Neovim&#39;s answer to the mouse 🦘&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

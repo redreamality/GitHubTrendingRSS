@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Daily Trending</title>
+    <description>Daily Trending of Rust in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:47:44 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>spaceandtimelabs/sxt-proof-of-sql</title>
+      <link>https://github.com/spaceandtimelabs/sxt-proof-of-sql</link>
+      <description>&lt;p&gt;Space and Time | Proof of SQL&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eclipse-zenoh/zenoh</title>
+      <link>https://github.com/eclipse-zenoh/zenoh</link>
+      <description>&lt;p&gt;zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stalwartlabs/mail-server</title>
+      <link>https://github.com/stalwartlabs/mail-server</link>
+      <description>&lt;p&gt;Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aptos-labs/aptos-core</title>
+      <link>https://github.com/aptos-labs/aptos-core</link>
+      <description>&lt;p&gt;Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firecracker-microvm/firecracker</title>
+      <link>https://github.com/firecracker-microvm/firecracker</link>
+      <description>&lt;p&gt;Secure and fast microVMs for serverless computing.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>witnessmenow/ESP32-Cheap-Yellow-Display</title>
+      <link>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display</link>
+      <description>&lt;p&gt;Building a community around a cheap ESP32 Display with a touch screen&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>get-convex/convex-backend</title>
+      <link>https://github.com/get-convex/convex-backend</link>
+      <description>&lt;p&gt;The Convex open-source backend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Orange-OpenSource/hurl</title>
+      <link>https://github.com/Orange-OpenSource/hurl</link>
+      <description>&lt;p&gt;Hurl, run and test HTTP requests with plain text.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mullvad/mullvadvpn-app</title>
+      <link>https://github.com/mullvad/mullvadvpn-app</link>
+      <description>&lt;p&gt;The Mullvad VPN client app for desktop and mobile&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BoundaryML/baml</title>
+      <link>https://github.com/BoundaryML/baml</link>
+      <description>&lt;p&gt;BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>foundry-rs/foundry</title>
+      <link>https://github.com/foundry-rs/foundry</link>
+      <description>&lt;p&gt;Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MystenLabs/sui</title>
+      <link>https://github.com/MystenLabs/sui</link>
+      <description>&lt;p&gt;Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tensorchord/VectorChord</title>
+      <link>https://github.com/tensorchord/VectorChord</link>
+      <description>&lt;p&gt;Scalable, Fast, and Disk-friendly Vector search in Postgres, the Successor of pgvecto.rs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/ruff</title>
+      <link>https://github.com/astral-sh/ruff</link>
+      <description>&lt;p&gt;An extremely fast Python linter and code formatter, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sxyazi/yazi</title>
+      <link>https://github.com/sxyazi/yazi</link>
+      <description>&lt;p&gt;💥 Blazing fast terminal file manager written in Rust, based on async I/O.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>&lt;p&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>loco-rs/loco</title>
+      <link>https://github.com/loco-rs/loco</link>
+      <description>&lt;p&gt;🚂 🦀 The one-person framework for Rust for side-projects and startups&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>timescale/pgvectorscale</title>
+      <link>https://github.com/timescale/pgvectorscale</link>
+      <description>&lt;p&gt;A complement to pgvector for high performance, cost efficient vector search on large workloads.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vlcn-io/cr-sqlite</title>
+      <link>https://github.com/vlcn-io/cr-sqlite</link>
+      <description>&lt;p&gt;Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zed-industries/zed</title>
+      <link>https://github.com/zed-industries/zed</link>
+      <description>&lt;p&gt;Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mxsm/rocketmq-rust</title>
+      <link>https://github.com/mxsm/rocketmq-rust</link>
+      <description>&lt;p&gt;🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>biomejs/biome</title>
+      <link>https://github.com/biomejs/biome</link>
+      <description>&lt;p&gt;A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

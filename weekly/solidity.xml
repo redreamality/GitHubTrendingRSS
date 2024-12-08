@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Solidity Weekly Trending</title>
+    <description>Weekly Trending of Solidity in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 02:57:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Layr-Labs/eigenlayer-contracts</title>
+      <link>https://github.com/Layr-Labs/eigenlayer-contracts</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenZeppelin/openzeppelin-contracts</title>
+      <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
+      <description>&lt;p&gt;OpenZeppelin Contracts is a library for secure smart contract development.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vectorized/solady</title>
+      <link>https://github.com/Vectorized/solady</link>
+      <description>&lt;p&gt;Optimized Solidity snippets.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethereum/ERCs</title>
+      <link>https://github.com/ethereum/ERCs</link>
+      <description>&lt;p&gt;The Ethereum Request for Comment repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bnb-chain/BEPs</title>
+      <link>https://github.com/bnb-chain/BEPs</link>
+      <description>&lt;p&gt;BNB Evolution Proposals&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PaulRBerg/prb-math</title>
+      <link>https://github.com/PaulRBerg/prb-math</link>
+      <description>&lt;p&gt;Solidity library for advanced fixed-point math&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OffchainLabs/nitro-contracts</title>
+      <link>https://github.com/OffchainLabs/nitro-contracts</link>
+      <description>&lt;p&gt;The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uniswap/v4-core</title>
+      <link>https://github.com/Uniswap/v4-core</link>
+      <description>&lt;p&gt;🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>morpho-org/metamorpho</title>
+      <link>https://github.com/morpho-org/metamorpho</link>
+      <description>&lt;p&gt;MetaMorpho&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uniswap/v2-periphery</title>
+      <link>https://github.com/Uniswap/v2-periphery</link>
+      <description>&lt;p&gt;🎚 Peripheral smart contracts for interacting with Uniswap V2&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dmfxyz/murky</title>
+      <link>https://github.com/dmfxyz/murky</link>
+      <description>&lt;p&gt;Merkle Proof Generator and Validator in Solidity&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenZeppelin/ethernaut</title>
+      <link>https://github.com/OpenZeppelin/ethernaut</link>
+      <description>&lt;p&gt;Web3/Solidity based wargame&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uniswap/permit2</title>
+      <link>https://github.com/Uniswap/permit2</link>
+      <description>&lt;p&gt;🔑🔑🔑 next generation token approvals mechanism&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uniswap/v4-periphery</title>
+      <link>https://github.com/Uniswap/v4-periphery</link>
+      <description>&lt;p&gt;🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ourzora/zora-protocol</title>
+      <link>https://github.com/ourzora/zora-protocol</link>
+      <description>&lt;p&gt;Monorepo for Zora Protocol (contracts &amp; sdks)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hyperledger-labs/yui-ibc-solidity</title>
+      <link>https://github.com/hyperledger-labs/yui-ibc-solidity</link>
+      <description>&lt;p&gt;IBC in Solidity&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Kotlin Monthly Trending</title>
+    <description>Monthly Trending of Kotlin in GitHub</description>
+    <pubDate>Sun, 08 Dec 2024 03:02:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>amir1376/ab-download-manager</title>
+      <link>https://github.com/amir1376/ab-download-manager</link>
+      <description>&lt;p&gt;A Download Manager that speeds up your downloads&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ReVanced/revanced-patches</title>
+      <link>https://github.com/ReVanced/revanced-patches</link>
+      <description>&lt;p&gt;🧩 Patches for ReVanced&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gedoor/legado</title>
+      <link>https://github.com/gedoor/legado</link>
+      <description>&lt;p&gt;Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethereum-lists/chains</title>
+      <link>https://github.com/ethereum-lists/chains</link>
+      <description>&lt;p&gt;provides metadata for chains&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gkd-kit/gkd</title>
+      <link>https://github.com/gkd-kit/gkd</link>
+      <description>&lt;p&gt;基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>android/nowinandroid</title>
+      <link>https://github.com/android/nowinandroid</link>
+      <description>&lt;p&gt;A fully functional Android app built entirely with Kotlin and Jetpack Compose&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tanujnotes/Olauncher</title>
+      <link>https://github.com/tanujnotes/Olauncher</link>
+      <description>&lt;p&gt;Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>keiyoushi/extensions-source</title>
+      <link>https://github.com/keiyoushi/extensions-source</link>
+      <description>&lt;p&gt;Source code of extensions for Tachiyomi/Mihon and variants.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CCBlueX/LiquidBounce</title>
+      <link>https://github.com/CCBlueX/LiquidBounce</link>
+      <description>&lt;p&gt;A free mixin-based injection hacked client for Minecraft using the Fabric API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>d4rken-org/sdmaid-se</title>
+      <link>https://github.com/d4rken-org/sdmaid-se</link>
+      <description>&lt;p&gt;SD Maid 2/SE is Android&#39;s most thorough cleaning tool.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yairm210/Unciv</title>
+      <link>https://github.com/yairm210/Unciv</link>
+      <description>&lt;p&gt;Open-source Android/Desktop remake of Civ V&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>square/okhttp</title>
+      <link>https://github.com/square/okhttp</link>
+      <description>&lt;p&gt;Square’s meticulous HTTP client for the JVM, Android, and GraalVM.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firebase/quickstart-android</title>
+      <link>https://github.com/firebase/quickstart-android</link>
+      <description>&lt;p&gt;Firebase Quickstart Samples for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>z-huang/InnerTune</title>
+      <link>https://github.com/z-huang/InnerTune</link>
+      <description>&lt;p&gt;A Material 3 YouTube Music client for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ankidroid/Anki-Android</title>
+      <link>https://github.com/ankidroid/Anki-Android</link>
+      <description>&lt;p&gt;AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GuoXiCheng/SKIP</title>
+      <link>https://github.com/GuoXiCheng/SKIP</link>
+      <description>&lt;p&gt;自动跳过APP开屏广告&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arturo254/OpenTune</title>
+      <link>https://github.com/Arturo254/OpenTune</link>
+      <description>&lt;p&gt;Un cliente de YouTube Music con Material Design 3, para Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fumiama/copymanga</title>
+      <link>https://github.com/fumiama/copymanga</link>
+      <description>&lt;p&gt;拷贝漫画的第三方APP，优化阅读/下载体验&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>maxrave-dev/SimpMusic</title>
+      <link>https://github.com/maxrave-dev/SimpMusic</link>
+      <description>&lt;p&gt;A simple music app using YouTube Music for backend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>XayahSuSuSu/Android-DataBackup</title>
+      <link>https://github.com/XayahSuSuSu/Android-DataBackup</link>
+      <description>&lt;p&gt;DataBackup for Android 7.0+&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>deniscerri/ytdlnis</title>
+      <link>https://github.com/deniscerri/ytdlnis</link>
+      <description>&lt;p&gt;Android Video/Audio Downloader app using yt-dlp&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coil-kt/coil</title>
+      <link>https://github.com/coil-kt/coil</link>
+      <description>&lt;p&gt;Image loading for Android and Compose Multiplatform.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SuperMonster003/AutoJs6</title>
+      <link>https://github.com/SuperMonster003/AutoJs6</link>
+      <description>&lt;p&gt;安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
