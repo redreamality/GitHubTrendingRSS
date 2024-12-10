@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Monthly Trending</title>
+    <description>Monthly Trending of Rust in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:58:18 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cloudflare/pingora</title>
+      <link>https://github.com/cloudflare/pingora</link>
+      <description>&lt;p&gt;A library for building fast, reliable and evolvable network services.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>&lt;p&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>solana-labs/solana</title>
+      <link>https://github.com/solana-labs/solana</link>
+      <description>&lt;p&gt;Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>getzola/zola</title>
+      <link>https://github.com/getzola/zola</link>
+      <description>&lt;p&gt;A fast static site generator in a single binary with everything built-in. https://www.getzola.org&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leptos-rs/leptos</title>
+      <link>https://github.com/leptos-rs/leptos</link>
+      <description>&lt;p&gt;Build fast web applications with Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rerun-io/rerun</title>
+      <link>https://github.com/rerun-io/rerun</link>
+      <description>&lt;p&gt;Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>meilisearch/meilisearch</title>
+      <link>https://github.com/meilisearch/meilisearch</link>
+      <description>&lt;p&gt;A lightning-fast search API that fits effortlessly into your apps, websites, and workflow&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coral-xyz/anchor</title>
+      <link>https://github.com/coral-xyz/anchor</link>
+      <description>&lt;p&gt;⚓ Solana Sealevel Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>katanemo/archgw</title>
+      <link>https://github.com/katanemo/archgw</link>
+      <description>&lt;p&gt;Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rustlings</title>
+      <link>https://github.com/rust-lang/rustlings</link>
+      <description>&lt;p&gt;🦀 Small exercises to get you used to reading and writing Rust code!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jdx/mise</title>
+      <link>https://github.com/jdx/mise</link>
+      <description>&lt;p&gt;dev tools, env vars, task runner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chroma-core/chroma</title>
+      <link>https://github.com/chroma-core/chroma</link>
+      <description>&lt;p&gt;the AI-native open-source embedding database&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>surrealdb/surrealdb</title>
+      <link>https://github.com/surrealdb/surrealdb</link>
+      <description>&lt;p&gt;A scalable, distributed, collaborative, document-graph database, for the realtime web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/ruff</title>
+      <link>https://github.com/astral-sh/ruff</link>
+      <description>&lt;p&gt;An extremely fast Python linter and code formatter, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vercel/turborepo</title>
+      <link>https://github.com/vercel/turborepo</link>
+      <description>&lt;p&gt;Build system optimized for JavaScript and TypeScript, written in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sharkdp/hyperfine</title>
+      <link>https://github.com/sharkdp/hyperfine</link>
+      <description>&lt;p&gt;A command-line benchmarking tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>solana-labs/solana-program-library</title>
+      <link>https://github.com/solana-labs/solana-program-library</link>
+      <description>&lt;p&gt;A collection of Solana programs maintained by Solana Labs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>raphamorim/rio</title>
+      <link>https://github.com/raphamorim/rio</link>
+      <description>&lt;p&gt;A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>spaceandtimelabs/sxt-proof-of-sql</title>
+      <link>https://github.com/spaceandtimelabs/sxt-proof-of-sql</link>
+      <description>&lt;p&gt;Space and Time | Proof of SQL&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TabbyML/tabby</title>
+      <link>https://github.com/TabbyML/tabby</link>
+      <description>&lt;p&gt;Self-hosted AI coding assistant&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>helix-editor/helix</title>
+      <link>https://github.com/helix-editor/helix</link>
+      <description>&lt;p&gt;A post-modern modal text editor.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mxsm/rocketmq-rust</title>
+      <link>https://github.com/mxsm/rocketmq-rust</link>
+      <description>&lt;p&gt;🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MystenLabs/sui</title>
+      <link>https://github.com/MystenLabs/sui</link>
+      <description>&lt;p&gt;Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eythaann/Seelen-UI</title>
+      <link>https://github.com/eythaann/Seelen-UI</link>
+      <description>&lt;p&gt;The Fully Customizable Desktop Environment for Windows 10/11.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

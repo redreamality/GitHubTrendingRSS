@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Daily Trending</title>
+    <description>Daily Trending of Shell in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:43:59 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pystardust/ani-cli</title>
+      <link>https://github.com/pystardust/ani-cli</link>
+      <description>&lt;p&gt;A cli tool to browse and play anime&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>termux/termux-packages</title>
+      <link>https://github.com/termux/termux-packages</link>
+      <description>&lt;p&gt;A package build system for Termux.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RPi-Distro/pi-gen</title>
+      <link>https://github.com/RPi-Distro/pi-gen</link>
+      <description>&lt;p&gt;Tool used to create the official Raspberry Pi OS images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prasanthrangan/hyprdots</title>
+      <link>https://github.com/prasanthrangan/hyprdots</link>
+      <description>&lt;p&gt;// Aesthetic, dynamic and minimal dots for Arch hyprland&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dylanaraps/neofetch</title>
+      <link>https://github.com/dylanaraps/neofetch</link>
+      <description>&lt;p&gt;🖼️ A command-line system information tool written in bash 3.2+&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>awesome-jellyfin/awesome-jellyfin</title>
+      <link>https://github.com/awesome-jellyfin/awesome-jellyfin</link>
+      <description>&lt;p&gt;A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>&lt;p&gt;Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fbelavenuto/arpl</title>
+      <link>https://github.com/fbelavenuto/arpl</link>
+      <description>&lt;p&gt;Automated Redpill Loader&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>akinomyoga/ble.sh</title>
+      <link>https://github.com/akinomyoga/ble.sh</link>
+      <description>&lt;p&gt;Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pi-hole/pi-hole</title>
+      <link>https://github.com/pi-hole/pi-hole</link>
+      <description>&lt;p&gt;A black hole for Internet advertisements&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>p8952/bocker</title>
+      <link>https://github.com/p8952/bocker</link>
+      <description>&lt;p&gt;Docker implemented in around 100 lines of bash&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>home-assistant/addons</title>
+      <link>https://github.com/home-assistant/addons</link>
+      <description>&lt;p&gt;➕ Docker add-ons for Home Assistant&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>docker-mailserver/docker-mailserver</title>
+      <link>https://github.com/docker-mailserver/docker-mailserver</link>
+      <description>&lt;p&gt;Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

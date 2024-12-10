@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Io Monthly Trending</title>
+    <description>Monthly Trending of Io in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:55:18 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cdcarter/backpacking</title>
+      <link>https://github.com/cdcarter/backpacking</link>
+      <description>&lt;p&gt;An Io web framework of sorts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scala Daily Trending</title>
+    <description>Daily Trending of Scala in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:43:55 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>chipsalliance/chisel</title>
+      <link>https://github.com/chipsalliance/chisel</link>
+      <description>&lt;p&gt;Chisel: A Modern Hardware Design Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lichess-org/lila</title>
+      <link>https://github.com/lichess-org/lila</link>
+      <description>&lt;p&gt;♞ lichess.org: the forever free, adless and open source chess server ♞&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/spark</title>
+      <link>https://github.com/apache/spark</link>
+      <description>&lt;p&gt;Apache Spark - A unified analytics engine for large-scale data processing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joernio/joern</title>
+      <link>https://github.com/joernio/joern</link>
+      <description>&lt;p&gt;Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/chipyard</title>
+      <link>https://github.com/ucb-bar/chipyard</link>
+      <description>&lt;p&gt;An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/chiseltest</title>
+      <link>https://github.com/ucb-bar/chiseltest</link>
+      <description>&lt;p&gt;The batteries-included testing and formal verification library for Chisel-based RTL designs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>typelevel/cats-effect</title>
+      <link>https://github.com/typelevel/cats-effect</link>
+      <description>&lt;p&gt;The pure asynchronous runtime for Scala&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>broadinstitute/cromwell</title>
+      <link>https://github.com/broadinstitute/cromwell</link>
+      <description>&lt;p&gt;Scientific workflow engine designed for simplicity &amp; scalability. Trivially transition between one off use cases to massive scale production environments&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>digital-asset/daml</title>
+      <link>https://github.com/digital-asset/daml</link>
+      <description>&lt;p&gt;The Daml smart contract language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/riscv-torture</title>
+      <link>https://github.com/ucb-bar/riscv-torture</link>
+      <description>&lt;p&gt;RISC-V Torture Test&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rtyley/bfg-repo-cleaner</title>
+      <link>https://github.com/rtyley/bfg-repo-cleaner</link>
+      <description>&lt;p&gt;Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/berkeley-hardfloat</title>
+      <link>https://github.com/ucb-bar/berkeley-hardfloat</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DataBiosphere/leonardo</title>
+      <link>https://github.com/DataBiosphere/leonardo</link>
+      <description>&lt;p&gt;Notebook service&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zio/zio-http</title>
+      <link>https://github.com/zio/zio-http</link>
+      <description>&lt;p&gt;A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

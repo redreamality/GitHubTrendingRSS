@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub SCSS Daily Trending</title>
+    <description>Daily Trending of SCSS in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:43:57 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jekyll/minima</title>
+      <link>https://github.com/jekyll/minima</link>
+      <description>&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/minimal</title>
+      <link>https://github.com/pages-themes/minimal</link>
+      <description>&lt;p&gt;Minimal is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>just-the-docs/just-the-docs</title>
+      <link>https://github.com/just-the-docs/just-the-docs</link>
+      <description>&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documentation with built-in search.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/hacker</title>
+      <link>https://github.com/pages-themes/hacker</link>
+      <description>&lt;p&gt;Hacker is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mdbootstrap/mdb-ui-kit</title>
+      <link>https://github.com/mdbootstrap/mdb-ui-kit</link>
+      <description>&lt;p&gt;Bootstrap 5 &amp; Material Design UI KIT&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IanLunn/Hover</title>
+      <link>https://github.com/IanLunn/Hover</link>
+      <description>&lt;p&gt;A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cobiwave/simplefolio</title>
+      <link>https://github.com/cobiwave/simplefolio</link>
+      <description>&lt;p&gt;⚡️ A minimal portfolio template for Developers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primeng-sass-theme</title>
+      <link>https://github.com/primefaces/primeng-sass-theme</link>
+      <description>&lt;p&gt;PrimeNG Theming with SASS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vinceliuice/WhiteSur-gtk-theme</title>
+      <link>https://github.com/vinceliuice/WhiteSur-gtk-theme</link>
+      <description>&lt;p&gt;MacOS like theme for all gtk based desktops&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>daviddarnes/alembic</title>
+      <link>https://github.com/daviddarnes/alembic</link>
+      <description>&lt;p&gt;⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LineageOS/lineage_wiki</title>
+      <link>https://github.com/LineageOS/lineage_wiki</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zerostaticthemes/jekyll-serif-theme</title>
+      <link>https://github.com/zerostaticthemes/jekyll-serif-theme</link>
+      <description>&lt;p&gt;Serif is a multi page business theme for Jekyll.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vinceliuice/Orchis-theme</title>
+      <link>https://github.com/vinceliuice/Orchis-theme</link>
+      <description>&lt;p&gt;Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fausto-Korpsvart/Catppuccin-GTK-Theme</title>
+      <link>https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme</link>
+      <description>&lt;p&gt;GTK Theme with Catppuccin colour scheme&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>patternfly/patternfly</title>
+      <link>https://github.com/patternfly/patternfly</link>
+      <description>&lt;p&gt;This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RyanFitzgerald/devportfolio</title>
+      <link>https://github.com/RyanFitzgerald/devportfolio</link>
+      <description>&lt;p&gt;A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

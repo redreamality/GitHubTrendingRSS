@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C Monthly Trending</title>
+    <description>Monthly Trending of Objective-C in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:56:59 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gnachman/iTerm2</title>
+      <link>https://github.com/gnachman/iTerm2</link>
+      <description>&lt;p&gt;iTerm2 is a terminal emulator for Mac OS X that does amazing things.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>noah-nuebling/mac-mouse-fix</title>
+      <link>https://github.com/noah-nuebling/mac-mouse-fix</link>
+      <description>&lt;p&gt;Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syncthing/syncthing-macos</title>
+      <link>https://github.com/syncthing/syncthing-macos</link>
+      <description>&lt;p&gt;Official frugal and native macOS Syncthing application bundle&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opa334/TrollStore</title>
+      <link>https://github.com/opa334/TrollStore</link>
+      <description>&lt;p&gt;Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sunnyyoung/WeChatTweak-macOS</title>
+      <link>https://github.com/sunnyyoung/WeChatTweak-macOS</link>
+      <description>&lt;p&gt;A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sparkle-project/Sparkle</title>
+      <link>https://github.com/sparkle-project/Sparkle</link>
+      <description>&lt;p&gt;A software update framework for macOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>keycastr/keycastr</title>
+      <link>https://github.com/keycastr/keycastr</link>
+      <description>&lt;p&gt;KeyCastr, an open-source keystroke visualizer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/GoogleSignIn-iOS</title>
+      <link>https://github.com/google/GoogleSignIn-iOS</link>
+      <description>&lt;p&gt;Enables iOS and macOS apps to sign in with Google.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>adjust/ios_sdk</title>
+      <link>https://github.com/adjust/ios_sdk</link>
+      <description>&lt;p&gt;This is the iOS SDK of&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CocoaLumberjack/CocoaLumberjack</title>
+      <link>https://github.com/CocoaLumberjack/CocoaLumberjack</link>
+      <description>&lt;p&gt;A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS and watchOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>react-native-maps/react-native-maps</title>
+      <link>https://github.com/react-native-maps/react-native-maps</link>
+      <description>&lt;p&gt;React Native Mapview component for iOS + Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>facebookincubator/SocketRocket</title>
+      <link>https://github.com/facebookincubator/SocketRocket</link>
+      <description>&lt;p&gt;A conforming Objective-C WebSocket client library.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/promises</title>
+      <link>https://github.com/google/promises</link>
+      <description>&lt;p&gt;Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/gtm-session-fetcher</title>
+      <link>https://github.com/google/gtm-session-fetcher</link>
+      <description>&lt;p&gt;Google Toolbox for Mac - Session Fetcher&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openid/AppAuth-iOS</title>
+      <link>https://github.com/openid/AppAuth-iOS</link>
+      <description>&lt;p&gt;iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SDWebImage/SDWebImageWebPCoder</title>
+      <link>https://github.com/SDWebImage/SDWebImageWebPCoder</link>
+      <description>&lt;p&gt;A WebP coder plugin for SDWebImage, use libwebp&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/GoogleUtilities</title>
+      <link>https://github.com/google/GoogleUtilities</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

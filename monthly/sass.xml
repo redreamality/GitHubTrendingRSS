@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Sass Monthly Trending</title>
+    <description>Monthly Trending of Sass in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:58:19 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>heroku/boomerang</title>
+      <link>https://github.com/heroku/boomerang</link>
+      <description>&lt;p&gt;Boomerang is a JavaScript widget that gives users a way back to Heroku from Addon provider sites.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

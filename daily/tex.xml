@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Daily Trending</title>
+    <description>Daily Trending of TeX in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:44:26 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dendibakh/perf-book</title>
+      <link>https://github.com/dendibakh/perf-book</link>
+      <description>&lt;p&gt;The book &quot;Performance Analysis and Tuning on Modern CPU&quot;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>&lt;p&gt;VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>posquit0/Awesome-CV</title>
+      <link>https://github.com/posquit0/Awesome-CV</link>
+      <description>&lt;p&gt;📄 Awesome CV is LaTeX template for your outstanding job application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wandmalfarbe/pandoc-latex-template</title>
+      <link>https://github.com/Wandmalfarbe/pandoc-latex-template</link>
+      <description>&lt;p&gt;A pandoc LaTeX template to convert markdown files to PDF or LaTeX.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terryum/awesome-deep-learning-papers</title>
+      <link>https://github.com/terryum/awesome-deep-learning-papers</link>
+      <description>&lt;p&gt;The most cited deep learning papers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zhanwen/MathModel</title>
+      <link>https://github.com/zhanwen/MathModel</link>
+      <description>&lt;p&gt;研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openmlsys/openmlsys-zh</title>
+      <link>https://github.com/openmlsys/openmlsys-zh</link>
+      <description>&lt;p&gt;《Machine Learning Systems: Design and Implementation》- Chinese Version&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>harvard-edge/cs249r_book</title>
+      <link>https://github.com/harvard-edge/cs249r_book</link>
+      <description>&lt;p&gt;Introduction to Machine Learning Systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riscv/riscv-isa-manual</title>
+      <link>https://github.com/riscv/riscv-isa-manual</link>
+      <description>&lt;p&gt;RISC-V Instruction Set Manual&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dnl-blkv/mcdowell-cv</title>
+      <link>https://github.com/dnl-blkv/mcdowell-cv</link>
+      <description>&lt;p&gt;A Nice-looking CV template made into LaTeX&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sanjib-sen/WebLaTex</title>
+      <link>https://github.com/sanjib-sen/WebLaTex</link>
+      <description>&lt;p&gt;A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar &amp; Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template</title>
+      <link>https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template</link>
+      <description>&lt;p&gt;LaTeX-template for russian Phd thesis&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>the-turing-way/the-turing-way</title>
+      <link>https://github.com/the-turing-way/the-turing-way</link>
+      <description>&lt;p&gt;Host repository for The Turing Way: a how to guide for reproducible data science&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

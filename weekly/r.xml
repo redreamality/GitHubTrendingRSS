@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub R Weekly Trending</title>
+    <description>Weekly Trending of R in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:50:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tidyverse/ggplot2</title>
+      <link>https://github.com/tidyverse/ggplot2</link>
+      <description>&lt;p&gt;An implementation of the Grammar of Graphics in R&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>satijalab/seurat</title>
+      <link>https://github.com/satijalab/seurat</link>
+      <description>&lt;p&gt;R toolkit for single cell genomics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sqjin/CellChat</title>
+      <link>https://github.com/sqjin/CellChat</link>
+      <description>&lt;p&gt;R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rdatatable/data.table</title>
+      <link>https://github.com/Rdatatable/data.table</link>
+      <description>&lt;p&gt;R&#39;s data.table package extends data.frame:&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>broadinstitute/infercnv</title>
+      <link>https://github.com/broadinstitute/infercnv</link>
+      <description>&lt;p&gt;Inferring CNV from Single-Cell RNA-Seq&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hadley/r4ds</title>
+      <link>https://github.com/hadley/r4ds</link>
+      <description>&lt;p&gt;R for data science: a book&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joey711/phyloseq</title>
+      <link>https://github.com/joey711/phyloseq</link>
+      <description>&lt;p&gt;phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rstudio/shiny</title>
+      <link>https://github.com/rstudio/shiny</link>
+      <description>&lt;p&gt;Easy interactive web applications with R&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>r-spatial/sf</title>
+      <link>https://github.com/r-spatial/sf</link>
+      <description>&lt;p&gt;Simple Features for R&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chris-mcginnis-ucsf/DoubletFinder</title>
+      <link>https://github.com/chris-mcginnis-ucsf/DoubletFinder</link>
+      <description>&lt;p&gt;R package for detecting doublets in single-cell RNA sequencing data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>immunogenomics/harmony</title>
+      <link>https://github.com/immunogenomics/harmony</link>
+      <description>&lt;p&gt;Fast, sensitive and accurate integration of single-cell data with Harmony&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rmaia/pavo</title>
+      <link>https://github.com/rmaia/pavo</link>
+      <description>&lt;p&gt;tools for the analysis of color data in R&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jokergoo/ComplexHeatmap</title>
+      <link>https://github.com/jokergoo/ComplexHeatmap</link>
+      <description>&lt;p&gt;Make Complex Heatmaps&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>r-lib/tree-sitter-r</title>
+      <link>https://github.com/r-lib/tree-sitter-r</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cole-trapnell-lab/monocle3</title>
+      <link>https://github.com/cole-trapnell-lab/monocle3</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

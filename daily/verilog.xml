@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Verilog Daily Trending</title>
+    <description>Daily Trending of Verilog in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:44:46 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>lnis-uofu/OpenFPGA</title>
+      <link>https://github.com/lnis-uofu/OpenFPGA</link>
+      <description>&lt;p&gt;An Open-source FPGA IP Generator&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>analogdevicesinc/hdl</title>
+      <link>https://github.com/analogdevicesinc/hdl</link>
+      <description>&lt;p&gt;HDL libraries and projects&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexforencich/verilog-ethernet</title>
+      <link>https://github.com/alexforencich/verilog-ethernet</link>
+      <description>&lt;p&gt;Verilog Ethernet components for FPGA implementation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>YosysHQ/picorv32</title>
+      <link>https://github.com/YosysHQ/picorv32</link>
+      <description>&lt;p&gt;PicoRV32 - A Size-Optimized RISC-V CPU&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OSCPU/yosys-sta</title>
+      <link>https://github.com/OSCPU/yosys-sta</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

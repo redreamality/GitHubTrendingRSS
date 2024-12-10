@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Daily Trending</title>
+    <description>Daily Trending of Ruby in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:43:50 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>&lt;p&gt;Metasploit Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huginn/huginn</title>
+      <link>https://github.com/huginn/huginn</link>
+      <description>&lt;p&gt;Create agents that monitor and act on your behalf. Your agents are standing by!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>maybe-finance/maybe</title>
+      <link>https://github.com/maybe-finance/maybe</link>
+      <description>&lt;p&gt;The OS for your personal finances&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Freika/dawarich</title>
+      <link>https://github.com/Freika/dawarich</link>
+      <description>&lt;p&gt;Self-hosted alternative to Google Location History (Google Maps Timeline)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/jekyll</title>
+      <link>https://github.com/jekyll/jekyll</link>
+      <description>&lt;p&gt;🌐 Jekyll is a blog-aware static site generator in Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/homebrew-cask</title>
+      <link>https://github.com/Homebrew/homebrew-cask</link>
+      <description>&lt;p&gt;🍻 A CLI workflow for the administration of macOS applications distributed as binaries&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>heartcombo/devise</title>
+      <link>https://github.com/heartcombo/devise</link>
+      <description>&lt;p&gt;Flexible authentication solution for Rails with Warden.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github/choosealicense.com</title>
+      <link>https://github.com/github/choosealicense.com</link>
+      <description>&lt;p&gt;A site to provide non-judgmental guidance on choosing a license for your open source project&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rubysec/ruby-advisory-db</title>
+      <link>https://github.com/rubysec/ruby-advisory-db</link>
+      <description>&lt;p&gt;A database of vulnerable Ruby Gems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>instacart/makara</title>
+      <link>https://github.com/instacart/makara</link>
+      <description>&lt;p&gt;A Read-Write Proxy for Connections; Also provides an ActiveRecord adapter.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>citation-style-language/styles</title>
+      <link>https://github.com/citation-style-language/styles</link>
+      <description>&lt;p&gt;Official repository for Citation Style Language (CSL) citation styles.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>elastic/apm-agent-ruby</title>
+      <link>https://github.com/elastic/apm-agent-ruby</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws/aws-sdk-ruby</title>
+      <link>https://github.com/aws/aws-sdk-ruby</link>
+      <description>&lt;p&gt;The official AWS SDK for Ruby.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nickhammond/ansible-logrotate</title>
+      <link>https://github.com/nickhammond/ansible-logrotate</link>
+      <description>&lt;p&gt;Ansible Galaxy role to setup logrotate and additional rotation scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>paper-trail-gem/paper_trail</title>
+      <link>https://github.com/paper-trail-gem/paper_trail</link>
+      <description>&lt;p&gt;Track changes to your rails models&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

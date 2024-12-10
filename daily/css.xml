@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Daily Trending</title>
+    <description>Daily Trending of CSS in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:37:25 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>spicetify/spicetify-themes</title>
+      <link>https://github.com/spicetify/spicetify-themes</link>
+      <description>&lt;p&gt;A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jothepro/doxygen-awesome-css</title>
+      <link>https://github.com/jothepro/doxygen-awesome-css</link>
+      <description>&lt;p&gt;Custom CSS theme for doxygen html-documentation with lots of customization parameters.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AnubisNekhet/AnuPpuccin</title>
+      <link>https://github.com/AnubisNekhet/AnuPpuccin</link>
+      <description>&lt;p&gt;Personal theme for Obsidian&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opera-gaming/gxmods</title>
+      <link>https://github.com/opera-gaming/gxmods</link>
+      <description>&lt;p&gt;Documentation for GX mods&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>refact0r/midnight-discord</title>
+      <link>https://github.com/refact0r/midnight-discord</link>
+      <description>&lt;p&gt;A dark, rounded discord theme.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bradtraversy/50projects50days</title>
+      <link>https://github.com/bradtraversy/50projects50days</link>
+      <description>&lt;p&gt;50+ mini web projects using HTML, CSS &amp; JS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>thewhiteh4t/seeker</title>
+      <link>https://github.com/thewhiteh4t/seeker</link>
+      <description>&lt;p&gt;Accurately Locate Smartphones using Social Engineering&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kepano/obsidian-minimal</title>
+      <link>https://github.com/kepano/obsidian-minimal</link>
+      <description>&lt;p&gt;A distraction-free and highly customizable theme for Obsidian.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nakov/Practical-Cryptography-for-Developers-Book</title>
+      <link>https://github.com/nakov/Practical-Cryptography-for-Developers-Book</link>
+      <description>&lt;p&gt;Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ParisNeo/lollms-webui</title>
+      <link>https://github.com/ParisNeo/lollms-webui</link>
+      <description>&lt;p&gt;Lord of Large Language Models Web User Interface&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>creativetimofficial/argon-dashboard-asp-net</title>
+      <link>https://github.com/creativetimofficial/argon-dashboard-asp-net</link>
+      <description>&lt;p&gt;Start your development with a Bootstrap 4 Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HermanMartinus/bearblog</title>
+      <link>https://github.com/HermanMartinus/bearblog</link>
+      <description>&lt;p&gt;Free, no-nonsense, super fast blogging.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ryanoasis/nerd-fonts</title>
+      <link>https://github.com/ryanoasis/nerd-fonts</link>
+      <description>&lt;p&gt;Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub XC Monthly Trending</title>
+    <description>Monthly Trending of XC in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:59:29 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>xmos/lib_i2s</title>
+      <link>https://github.com/xmos/lib_i2s</link>
+      <description>&lt;p&gt;I2S/TDM digital audio interface library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Weekly Trending</title>
+    <description>Weekly Trending of TeX in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:51:41 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hendricius/the-sourdough-framework</title>
+      <link>https://github.com/hendricius/the-sourdough-framework</link>
+      <description>&lt;p&gt;Open source book dedicated to helping you to make the best possible sourdough bread at home.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riscv/riscv-isa-manual</title>
+      <link>https://github.com/riscv/riscv-isa-manual</link>
+      <description>&lt;p&gt;RISC-V Instruction Set Manual&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>&lt;p&gt;VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>&lt;p&gt;Latex code for making neural networks diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>acl-org/acl-style-files</title>
+      <link>https://github.com/acl-org/acl-style-files</link>
+      <description>&lt;p&gt;Official style files for papers submitted to venues of the Association for Computational Linguistics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dendibakh/perf-book</title>
+      <link>https://github.com/dendibakh/perf-book</link>
+      <description>&lt;p&gt;The book &quot;Performance Analysis and Tuning on Modern CPU&quot;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/language</title>
+      <link>https://github.com/dart-lang/language</link>
+      <description>&lt;p&gt;Design of the Dart language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zhanwen/MathModel</title>
+      <link>https://github.com/zhanwen/MathModel</link>
+      <description>&lt;p&gt;研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cplusplus/draft</title>
+      <link>https://github.com/cplusplus/draft</link>
+      <description>&lt;p&gt;C++ standards drafts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hmemcpy/milewski-ctfp-pdf</title>
+      <link>https://github.com/hmemcpy/milewski-ctfp-pdf</link>
+      <description>&lt;p&gt;Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>posquit0/Awesome-CV</title>
+      <link>https://github.com/posquit0/Awesome-CV</link>
+      <description>&lt;p&gt;📄 Awesome CV is LaTeX template for your outstanding job application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wandmalfarbe/pandoc-latex-template</title>
+      <link>https://github.com/Wandmalfarbe/pandoc-latex-template</link>
+      <description>&lt;p&gt;A pandoc LaTeX template to convert markdown files to PDF or LaTeX.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sysprog21/lkmpg</title>
+      <link>https://github.com/sysprog21/lkmpg</link>
+      <description>&lt;p&gt;The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openmlsys/openmlsys-zh</title>
+      <link>https://github.com/openmlsys/openmlsys-zh</link>
+      <description>&lt;p&gt;《Machine Learning Systems: Design and Implementation》- Chinese Version&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template</title>
+      <link>https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template</link>
+      <description>&lt;p&gt;LaTeX-template for russian Phd thesis&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

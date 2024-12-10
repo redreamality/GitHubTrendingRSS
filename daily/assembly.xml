@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Assembly Daily Trending</title>
+    <description>Daily Trending of Assembly in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:36:28 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>chrislgarry/Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <description>&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>boostorg/context</title>
+      <link>https://github.com/boostorg/context</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pret/pokecrystal</title>
+      <link>https://github.com/pret/pokecrystal</link>
+      <description>&lt;p&gt;Disassembly of Pokémon Crystal&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rangi42/polishedcrystal</title>
+      <link>https://github.com/Rangi42/polishedcrystal</link>
+      <description>&lt;p&gt;An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JSsixtyfour/smashremix</title>
+      <link>https://github.com/JSsixtyfour/smashremix</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ROCm/MIOpen</title>
+      <link>https://github.com/ROCm/MIOpen</link>
+      <description>&lt;p&gt;AMD&#39;s Machine Intelligence Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-crypto</title>
+      <link>https://github.com/apple/swift-crypto</link>
+      <description>&lt;p&gt;Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pooler/cpuminer</title>
+      <link>https://github.com/pooler/cpuminer</link>
+      <description>&lt;p&gt;CPU miner for Litecoin and Bitcoin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bytedance/sonic</title>
+      <link>https://github.com/bytedance/sonic</link>
+      <description>&lt;p&gt;A blazingly fast JSON serializing &amp; deserializing library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>intel/isa-l_crypto</title>
+      <link>https://github.com/intel/isa-l_crypto</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SheerSt/pokewilds</title>
+      <link>https://github.com/SheerSt/pokewilds</link>
+      <description>&lt;p&gt;PokeWilds - A Gen 2 Game/Engine using libGDX&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0xAX/asm</title>
+      <link>https://github.com/0xAX/asm</link>
+      <description>&lt;p&gt;Learning assembly for Linux x86_64&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openhwgroup/cva6</title>
+      <link>https://github.com/openhwgroup/cva6</link>
+      <description>&lt;p&gt;The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>giaf/blasfeo</title>
+      <link>https://github.com/giaf/blasfeo</link>
+      <description>&lt;p&gt;Basic linear algebra subroutines for embedded optimization&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

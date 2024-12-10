@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haskell Daily Trending</title>
+    <description>Daily Trending of Haskell in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:38:41 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>PostgREST/postgrest</title>
+      <link>https://github.com/PostgREST/postgrest</link>
+      <description>&lt;p&gt;REST API for any Postgres database&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>&lt;p&gt;Universal markup converter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koalaman/shellcheck</title>
+      <link>https://github.com/koalaman/shellcheck</link>
+      <description>&lt;p&gt;ShellCheck, a static analysis tool for shell scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/plutus</title>
+      <link>https://github.com/IntersectMBO/plutus</link>
+      <description>&lt;p&gt;The Plutus language implementation and tools&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/cardano-node</title>
+      <link>https://github.com/IntersectMBO/cardano-node</link>
+      <description>&lt;p&gt;The core component that is used to participate in a Cardano decentralised blockchain.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/haskell-language-server</title>
+      <link>https://github.com/haskell/haskell-language-server</link>
+      <description>&lt;p&gt;Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fossas/fossa-cli</title>
+      <link>https://github.com/fossas/fossa-cli</link>
+      <description>&lt;p&gt;Fast, portable and reliable dependency analysis for any codebase. Supports license &amp; vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>purescript/purescript</title>
+      <link>https://github.com/purescript/purescript</link>
+      <description>&lt;p&gt;A strongly-typed language that compiles to JavaScript&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>augustss/MicroHs</title>
+      <link>https://github.com/augustss/MicroHs</link>
+      <description>&lt;p&gt;Haskell implemented with combinators&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kmonad/kmonad</title>
+      <link>https://github.com/kmonad/kmonad</link>
+      <description>&lt;p&gt;An advanced keyboard manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simplex-chat/simplexmq</title>
+      <link>https://github.com/simplex-chat/simplexmq</link>
+      <description>&lt;p&gt;⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/cabal</title>
+      <link>https://github.com/haskell/cabal</link>
+      <description>&lt;p&gt;Official upstream development repository for Cabal and cabal-install&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>runtimeverification/haskell-backend</title>
+      <link>https://github.com/runtimeverification/haskell-backend</link>
+      <description>&lt;p&gt;The symbolic execution engine powering the K Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wireapp/wire-server</title>
+      <link>https://github.com/wireapp/wire-server</link>
+      <description>&lt;p&gt;🇪🇺 Wire back-end services&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/ouroboros-network</title>
+      <link>https://github.com/IntersectMBO/ouroboros-network</link>
+      <description>&lt;p&gt;Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucsd-progsys/liquidhaskell</title>
+      <link>https://github.com/ucsd-progsys/liquidhaskell</link>
+      <description>&lt;p&gt;Liquid Types For Haskell&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nix-community/nix-vscode-extensions</title>
+      <link>https://github.com/nix-community/nix-vscode-extensions</link>
+      <description>&lt;p&gt;Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unisonweb/unison</title>
+      <link>https://github.com/unisonweb/unison</link>
+      <description>&lt;p&gt;A friendly programming language from the future&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/ouroboros-consensus</title>
+      <link>https://github.com/IntersectMBO/ouroboros-consensus</link>
+      <description>&lt;p&gt;Implementation of a Consensus Layer for the Ouroboros family of protocols&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>anoma/juvix</title>
+      <link>https://github.com/anoma/juvix</link>
+      <description>&lt;p&gt;A language for intent-centric and declarative decentralised applications&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Perl Daily Trending</title>
+    <description>Daily Trending of Perl in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:42:59 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ThePrimeagen/.dotfiles</title>
+      <link>https://github.com/ThePrimeagen/.dotfiles</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>metacpan/metacpan-web</title>
+      <link>https://github.com/metacpan/metacpan-web</link>
+      <description>&lt;p&gt;Web interface for MetaCPAN&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Difegue/LANraragi</title>
+      <link>https://github.com/Difegue/LANraragi</link>
+      <description>&lt;p&gt;Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>so-fancy/diff-so-fancy</title>
+      <link>https://github.com/so-fancy/diff-so-fancy</link>
+      <description>&lt;p&gt;Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. 🎉&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>holzschu/a-shell</title>
+      <link>https://github.com/holzschu/a-shell</link>
+      <description>&lt;p&gt;A terminal for iOS, with multiple windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenKore/openkore</title>
+      <link>https://github.com/OpenKore/openkore</link>
+      <description>&lt;p&gt;A free/open source client and automation tool for Ragnarok Online&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>get-iplayer/get_iplayer</title>
+      <link>https://github.com/get-iplayer/get_iplayer</link>
+      <description>&lt;p&gt;A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>movabletype/movabletype</title>
+      <link>https://github.com/movabletype/movabletype</link>
+      <description>&lt;p&gt;Movable Type&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>brendangregg/FlameGraph</title>
+      <link>https://github.com/brendangregg/FlameGraph</link>
+      <description>&lt;p&gt;Stack trace visualizer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LMS-Community/slimserver</title>
+      <link>https://github.com/LMS-Community/slimserver</link>
+      <description>&lt;p&gt;Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>quran/quran.com-images</title>
+      <link>https://github.com/quran/quran.com-images</link>
+      <description>&lt;p&gt;images using fonts from King Fahed Complex / qurancomplex.org&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sullo/nikto</title>
+      <link>https://github.com/sullo/nikto</link>
+      <description>&lt;p&gt;Nikto web server scanner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yaml/yaml-test-suite</title>
+      <link>https://github.com/yaml/yaml-test-suite</link>
+      <description>&lt;p&gt;Comprehensive, language independent Test Suite for YAML&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cplusplus/papers</title>
+      <link>https://github.com/cplusplus/papers</link>
+      <description>&lt;p&gt;ISO/IEC JTC1 SC22 WG21 paper scheduling and management&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gaius-Augustus/BRAKER</title>
+      <link>https://github.com/Gaius-Augustus/BRAKER</link>
+      <description>&lt;p&gt;BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

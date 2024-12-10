@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Mermaid Monthly Trending</title>
+    <description>Monthly Trending of Mermaid in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:56:26 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MicrosoftDocs/power-platform</title>
+      <link>https://github.com/MicrosoftDocs/power-platform</link>
+      <description>&lt;p&gt;Documentation for Microsoft Power Platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2fly/v2ray-examples</title>
+      <link>https://github.com/v2fly/v2ray-examples</link>
+      <description>&lt;p&gt;v2ray-core 的模板们&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CMake Monthly Trending</title>
+    <description>Monthly Trending of CMake in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:53:32 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheRobotStudio/SO-ARM100</title>
+      <link>https://github.com/TheRobotStudio/SO-ARM100</link>
+      <description>&lt;p&gt;Standard Open Arm 100&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>corrosion-rs/corrosion</title>
+      <link>https://github.com/corrosion-rs/corrosion</link>
+      <description>&lt;p&gt;Marrying Rust and CMake - Easy Rust and C/C++ Integration!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>editorconfig/editorconfig-core-test</title>
+      <link>https://github.com/editorconfig/editorconfig-core-test</link>
+      <description>&lt;p&gt;Testings for EditorConfig Core&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ros-planning/navigation_msgs</title>
+      <link>https://github.com/ros-planning/navigation_msgs</link>
+      <description>&lt;p&gt;Message packages required by the navigation stack&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>shinchiro/mpv-winbuild-cmake</title>
+      <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+      <description>&lt;p&gt;CMake-based MinGW-w64 Cross Toolchain&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ros-controls/control_msgs</title>
+      <link>https://github.com/ros-controls/control_msgs</link>
+      <description>&lt;p&gt;contains base messages and actions useful for controlling robots&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheLartians/PackageProject.cmake</title>
+      <link>https://github.com/TheLartians/PackageProject.cmake</link>
+      <description>&lt;p&gt;🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

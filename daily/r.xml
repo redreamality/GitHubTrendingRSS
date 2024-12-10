@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub R Daily Trending</title>
+    <description>Daily Trending of R in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:43:29 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rdpeng/ProgrammingAssignment2</title>
+      <link>https://github.com/rdpeng/ProgrammingAssignment2</link>
+      <description>&lt;p&gt;Repository for Programming Assignment 2 for R Programming on Coursera&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tidyverse/elmer</title>
+      <link>https://github.com/tidyverse/elmer</link>
+      <description>&lt;p&gt;Call LLM APIs from R&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>r-lib/tree-sitter-r</title>
+      <link>https://github.com/r-lib/tree-sitter-r</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hadley/r4ds</title>
+      <link>https://github.com/hadley/r4ds</link>
+      <description>&lt;p&gt;R for data science: a book&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rstudio/keras3</title>
+      <link>https://github.com/rstudio/keras3</link>
+      <description>&lt;p&gt;R Interface to Keras&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>swirldev/swirl_courses</title>
+      <link>https://github.com/swirldev/swirl_courses</link>
+      <description>&lt;p&gt;🎓 A collection of interactive courses for the swirl R package.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prisma-flowdiagram/PRISMA2020</title>
+      <link>https://github.com/prisma-flowdiagram/PRISMA2020</link>
+      <description>&lt;p&gt;Produce PRISMA-2020 compliant flow diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

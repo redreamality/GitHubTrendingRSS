@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ReScript Daily Trending</title>
+    <description>Daily Trending of ReScript in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:43:36 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>juspay/hyperswitch-control-center</title>
+      <link>https://github.com/juspay/hyperswitch-control-center</link>
+      <description>&lt;p&gt;Open sourced control center for managing Hyperswitch - an open sourced payment switch.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>juspay/hyperswitch-web</title>
+      <link>https://github.com/juspay/hyperswitch-web</link>
+      <description>&lt;p&gt;Hyperswitch Web SDK: A Rescript powered React library for seamless payment integration and customization.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

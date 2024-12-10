@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PowerShell Weekly Trending</title>
+    <description>Weekly Trending of PowerShell in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:50:22 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>actions/runner-images</title>
+      <link>https://github.com/actions/runner-images</link>
+      <description>&lt;p&gt;GitHub Actions runner images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SpotX-Official/SpotX</title>
+      <link>https://github.com/SpotX-Official/SpotX</link>
+      <description>&lt;p&gt;SpotX patcher used for patching the desktop version of Spotify&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChrisTitusTech/winutil</title>
+      <link>https://github.com/ChrisTitusTech/winutil</link>
+      <description>&lt;p&gt;Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/winget-pkgs</title>
+      <link>https://github.com/microsoft/winget-pkgs</link>
+      <description>&lt;p&gt;The Microsoft community Windows Package Manager manifest repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>meetrevision/playbook</title>
+      <link>https://github.com/meetrevision/playbook</link>
+      <description>&lt;p&gt;A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BloodHoundAD/BloodHound</title>
+      <link>https://github.com/BloodHoundAD/BloodHound</link>
+      <description>&lt;p&gt;Six Degrees of Domain Admin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Orange-Cyberdefense/GOAD</title>
+      <link>https://github.com/Orange-Cyberdefense/GOAD</link>
+      <description>&lt;p&gt;game of active directory&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>memstechtips/UnattendedWinstall</title>
+      <link>https://github.com/memstechtips/UnattendedWinstall</link>
+      <description>&lt;p&gt;Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 &amp; 11 during the installation process.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hak5/usbrubberducky-payloads</title>
+      <link>https://github.com/hak5/usbrubberducky-payloads</link>
+      <description>&lt;p&gt;The Official USB Rubber Ducky Payload Repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ScoopInstaller/Main</title>
+      <link>https://github.com/ScoopInstaller/Main</link>
+      <description>&lt;p&gt;📦 The default bucket for Scoop.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mandiant/flare-vm</title>
+      <link>https://github.com/mandiant/flare-vm</link>
+      <description>&lt;p&gt;A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ScoopInstaller/Versions</title>
+      <link>https://github.com/ScoopInstaller/Versions</link>
+      <description>&lt;p&gt;📦 A Scoop bucket for alternative versions of apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>redcanaryco/invoke-atomicredteam</title>
+      <link>https://github.com/redcanaryco/invoke-atomicredteam</link>
+      <description>&lt;p&gt;Invoke-AtomicRedTeam is a PowerShell module to execute tests as defined in the [atomics folder](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics) of Red Canary&#39;s Atomic Red Team project.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Micke-K/IntuneManagement</title>
+      <link>https://github.com/Micke-K/IntuneManagement</link>
+      <description>&lt;p&gt;Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ScoopInstaller/Scoop</title>
+      <link>https://github.com/ScoopInstaller/Scoop</link>
+      <description>&lt;p&gt;A command-line installer for Windows.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

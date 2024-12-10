@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub SCSS Monthly Trending</title>
+    <description>Monthly Trending of SCSS in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:58:22 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cobiwave/simplefolio</title>
+      <link>https://github.com/cobiwave/simplefolio</link>
+      <description>&lt;p&gt;⚡️ A minimal portfolio template for Developers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>duckduckgo/duckduckgo-help-pages</title>
+      <link>https://github.com/duckduckgo/duckduckgo-help-pages</link>
+      <description>&lt;p&gt;DuckDuckGo Help Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>just-the-docs/just-the-docs</title>
+      <link>https://github.com/just-the-docs/just-the-docs</link>
+      <description>&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documentation with built-in search.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/architect</title>
+      <link>https://github.com/pages-themes/architect</link>
+      <description>&lt;p&gt;Architect is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/minima</title>
+      <link>https://github.com/jekyll/minima</link>
+      <description>&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>piharpi/jekyll-klise</title>
+      <link>https://github.com/piharpi/jekyll-klise</link>
+      <description>&lt;p&gt;🏖️ Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (https://klise.vercel.app)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>conventional-commits/conventionalcommits.org</title>
+      <link>https://github.com/conventional-commits/conventionalcommits.org</link>
+      <description>&lt;p&gt;The conventional commits specification&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hacker0x01/hacker101</title>
+      <link>https://github.com/Hacker0x01/hacker101</link>
+      <description>&lt;p&gt;Source code for Hacker101.com - a free online web and mobile security class.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/hacker</title>
+      <link>https://github.com/pages-themes/hacker</link>
+      <description>&lt;p&gt;Hacker is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/minimal</title>
+      <link>https://github.com/pages-themes/minimal</link>
+      <description>&lt;p&gt;Minimal is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>andrewbanchich/forty-jekyll-theme</title>
+      <link>https://github.com/andrewbanchich/forty-jekyll-theme</link>
+      <description>&lt;p&gt;A Jekyll version of the &quot;Forty&quot; theme by HTML5 UP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>black7375/Firefox-UI-Fix</title>
+      <link>https://github.com/black7375/Firefox-UI-Fix</link>
+      <description>&lt;p&gt;🦊 I respect proton UI and aim to improve it.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>keyvanakbary/learning-notes</title>
+      <link>https://github.com/keyvanakbary/learning-notes</link>
+      <description>&lt;p&gt;Notes on books I read, talks I watch, articles I study, and papers I love&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>catppuccin/discord</title>
+      <link>https://github.com/catppuccin/discord</link>
+      <description>&lt;p&gt;🎮 Soothing pastel theme for Discord&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zivong/jekyll-theme-hamilton</title>
+      <link>https://github.com/zivong/jekyll-theme-hamilton</link>
+      <description>&lt;p&gt;A minimal and beautiful Jekyll theme best for writing and note-taking.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rstacruz/cheatsheets</title>
+      <link>https://github.com/rstacruz/cheatsheets</link>
+      <description>&lt;p&gt;Cheatsheets for web development - devhints.io&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

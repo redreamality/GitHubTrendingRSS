@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smalltalk Monthly Trending</title>
+    <description>Monthly Trending of Smalltalk in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:58:31 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>svenvc/zinc</title>
+      <link>https://github.com/svenvc/zinc</link>
+      <description>&lt;p&gt;Zinc HTTP Components is an open-source Smalltalk framework to deal with the HTTP networking protocol.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>feenkcom/gtoolkit</title>
+      <link>https://github.com/feenkcom/gtoolkit</link>
+      <description>&lt;p&gt;Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

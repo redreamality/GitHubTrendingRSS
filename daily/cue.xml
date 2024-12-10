@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CUE Daily Trending</title>
+    <description>Daily Trending of CUE in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:37:24 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apecloud/kubeblocks-addons</title>
+      <link>https://github.com/apecloud/kubeblocks-addons</link>
+      <description>&lt;p&gt;KubeBlocks add-ons.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

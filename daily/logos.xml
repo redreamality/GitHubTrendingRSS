@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Logos Daily Trending</title>
+    <description>Daily Trending of Logos in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:39:35 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dayanch96/YTLite</title>
+      <link>https://github.com/dayanch96/YTLite</link>
+      <description>&lt;p&gt;A flexible enhancer for YouTube on iOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PoomSmart/YouPiP</title>
+      <link>https://github.com/PoomSmart/YouPiP</link>
+      <description>&lt;p&gt;Enable native PiP in iOS YouTube app.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

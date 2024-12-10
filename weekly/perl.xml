@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Perl Weekly Trending</title>
+    <description>Weekly Trending of Perl in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:50:11 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ddclient/ddclient</title>
+      <link>https://github.com/ddclient/ddclient</link>
+      <description>&lt;p&gt;Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LMS-Community/slimserver</title>
+      <link>https://github.com/LMS-Community/slimserver</link>
+      <description>&lt;p&gt;Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>holzschu/a-shell</title>
+      <link>https://github.com/holzschu/a-shell</link>
+      <description>&lt;p&gt;A terminal for iOS, with multiple windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>glpi-project/glpi-agent</title>
+      <link>https://github.com/glpi-project/glpi-agent</link>
+      <description>&lt;p&gt;GLPI Agent&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenKore/openkore</title>
+      <link>https://github.com/OpenKore/openkore</link>
+      <description>&lt;p&gt;A free/open source client and automation tool for Ragnarok Online&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ocpi/ocpi</title>
+      <link>https://github.com/ocpi/ocpi</link>
+      <description>&lt;p&gt;The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sullo/nikto</title>
+      <link>https://github.com/sullo/nikto</link>
+      <description>&lt;p&gt;Nikto web server scanner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>adrienverge/openfortivpn</title>
+      <link>https://github.com/adrienverge/openfortivpn</link>
+      <description>&lt;p&gt;Client for PPP+TLS VPN tunnel services&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>trinityrnaseq/trinityrnaseq</title>
+      <link>https://github.com/trinityrnaseq/trinityrnaseq</link>
+      <description>&lt;p&gt;Trinity RNA-Seq de novo transcriptome assembly&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tseemann/prokka</title>
+      <link>https://github.com/tseemann/prokka</link>
+      <description>&lt;p&gt;⚡ ♒ Rapid prokaryotic genome annotation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rjbs/Email-Sender</title>
+      <link>https://github.com/rjbs/Email-Sender</link>
+      <description>&lt;p&gt;a perl library for sending email&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

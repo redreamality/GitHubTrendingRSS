@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Daily Trending</title>
+    <description>Daily Trending of Rust in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:43:52 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nexus-xyz/nexus-zkvm</title>
+      <link>https://github.com/nexus-xyz/nexus-zkvm</link>
+      <description>&lt;p&gt;The Nexus zkVM: The zero-knowledge virtual machine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jdx/mise</title>
+      <link>https://github.com/jdx/mise</link>
+      <description>&lt;p&gt;dev tools, env vars, task runner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>casey/just</title>
+      <link>https://github.com/casey/just</link>
+      <description>&lt;p&gt;🤖 Just a command runner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sxyazi/yazi</title>
+      <link>https://github.com/sxyazi/yazi</link>
+      <description>&lt;p&gt;💥 Blazing fast terminal file manager written in Rust, based on async I/O.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woodruffw/zizmor</title>
+      <link>https://github.com/woodruffw/zizmor</link>
+      <description>&lt;p&gt;A static analysis tool for GitHub Actions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>loco-rs/loco</title>
+      <link>https://github.com/loco-rs/loco</link>
+      <description>&lt;p&gt;🚂 🦀 The one-person framework for Rust for side-projects and startups&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tauri-apps/tauri</title>
+      <link>https://github.com/tauri-apps/tauri</link>
+      <description>&lt;p&gt;Build smaller, faster, and more secure desktop and mobile applications with a web frontend.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-windowing/winit</title>
+      <link>https://github.com/rust-windowing/winit</link>
+      <description>&lt;p&gt;Window handling library in pure Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>solana-labs/solana</title>
+      <link>https://github.com/solana-labs/solana</link>
+      <description>&lt;p&gt;Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>awslabs/aws-lambda-web-adapter</title>
+      <link>https://github.com/awslabs/aws-lambda-web-adapter</link>
+      <description>&lt;p&gt;Run web applications on AWS Lambda&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>YaLTeR/niri</title>
+      <link>https://github.com/YaLTeR/niri</link>
+      <description>&lt;p&gt;A scrollable-tiling Wayland compositor.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tokio-rs/axum</title>
+      <link>https://github.com/tokio-rs/axum</link>
+      <description>&lt;p&gt;Ergonomic and modular web framework built with Tokio, Tower, and Hyper&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>qarmin/czkawka</title>
+      <link>https://github.com/qarmin/czkawka</link>
+      <description>&lt;p&gt;Multi functional app to find duplicates, empty folders, similar images etc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheAlgorithms/Rust</title>
+      <link>https://github.com/TheAlgorithms/Rust</link>
+      <description>&lt;p&gt;All Algorithms implemented in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wez/wezterm</title>
+      <link>https://github.com/wez/wezterm</link>
+      <description>&lt;p&gt;A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aome510/spotify-player</title>
+      <link>https://github.com/aome510/spotify-player</link>
+      <description>&lt;p&gt;A Spotify player in the terminal with full feature parity&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alvr-org/ALVR</title>
+      <link>https://github.com/alvr-org/ALVR</link>
+      <description>&lt;p&gt;Stream VR games from your PC to your headset via Wi-Fi&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Orange-OpenSource/hurl</title>
+      <link>https://github.com/Orange-OpenSource/hurl</link>
+      <description>&lt;p&gt;Hurl, run and test HTTP requests with plain text.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LGUG2Z/komorebi</title>
+      <link>https://github.com/LGUG2Z/komorebi</link>
+      <description>&lt;p&gt;A tiling window manager for Windows 🍉&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dtolnay/cxx</title>
+      <link>https://github.com/dtolnay/cxx</link>
+      <description>&lt;p&gt;Safe interop between Rust and C++&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tensorzero/tensorzero</title>
+      <link>https://github.com/tensorzero/tensorzero</link>
+      <description>&lt;p&gt;TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>katanemo/archgw</title>
+      <link>https://github.com/katanemo/archgw</link>
+      <description>&lt;p&gt;Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

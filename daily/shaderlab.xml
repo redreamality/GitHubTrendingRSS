@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ShaderLab Daily Trending</title>
+    <description>Daily Trending of ShaderLab in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:43:58 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>candycat1992/Unity_Shaders_Book</title>
+      <link>https://github.com/candycat1992/Unity_Shaders_Book</link>
+      <description>&lt;p&gt;📖 书籍《Unity Shader入门精要》源代码&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>poiyomi/PoiyomiToonShader</title>
+      <link>https://github.com/poiyomi/PoiyomiToonShader</link>
+      <description>&lt;p&gt;A feature rich toon shader for unity and VR Chat&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lilxyzw/lilToon</title>
+      <link>https://github.com/lilxyzw/lilToon</link>
+      <description>&lt;p&gt;Feature-rich shaders for avatars&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unity3d-jp/UnityChanToonShaderVer2_Project</title>
+      <link>https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project</link>
+      <description>&lt;p&gt;UnityChanToonShaderVer2 Project / v.2.0.9 Release&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C Daily Trending</title>
+    <description>Daily Trending of Objective-C in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:42:42 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>opa334/TrollStore</title>
+      <link>https://github.com/opa334/TrollStore</link>
+      <description>&lt;p&gt;Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>objective-see/LuLu</title>
+      <link>https://github.com/objective-see/LuLu</link>
+      <description>&lt;p&gt;LuLu is the free macOS firewall&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syncthing/syncthing-macos</title>
+      <link>https://github.com/syncthing/syncthing-macos</link>
+      <description>&lt;p&gt;Official frugal and native macOS Syncthing application bundle&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PojavLauncherTeam/PojavLauncher_iOS</title>
+      <link>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</link>
+      <description>&lt;p&gt;A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for iOS/iPadOS platform.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>naver/naveridlogin-sdk-ios</title>
+      <link>https://github.com/naver/naveridlogin-sdk-ios</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pronebird/UIScrollView-InfiniteScroll</title>
+      <link>https://github.com/pronebird/UIScrollView-InfiniteScroll</link>
+      <description>&lt;p&gt;UIScrollView ∞ scroll category&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chrismiles/CMPopTipView</title>
+      <link>https://github.com/chrismiles/CMPopTipView</link>
+      <description>&lt;p&gt;Custom UIView for iOS that pops up an animated &quot;bubble&quot; pointing at a button or other view. Useful for popup tips.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>samuelclay/NewsBlur</title>
+      <link>https://github.com/samuelclay/NewsBlur</link>
+      <description>&lt;p&gt;NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>specta/expecta</title>
+      <link>https://github.com/specta/expecta</link>
+      <description>&lt;p&gt;A Matcher Framework for Objective-C/Cocoa&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joeldev/JLRoutes</title>
+      <link>https://github.com/joeldev/JLRoutes</link>
+      <description>&lt;p&gt;URL routing library for iOS with a simple block-based API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AzureAD/microsoft-authentication-library-for-objc</title>
+      <link>https://github.com/AzureAD/microsoft-authentication-library-for-objc</link>
+      <description>&lt;p&gt;Microsoft Authentication Library (MSAL) for iOS and macOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rentzsch/jrswizzle</title>
+      <link>https://github.com/rentzsch/jrswizzle</link>
+      <description>&lt;p&gt;one-stop-shop for all your method swizzling needs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cocoanetics/DTCoreText</title>
+      <link>https://github.com/Cocoanetics/DTCoreText</link>
+      <description>&lt;p&gt;Methods to allow using HTML code with CoreText&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Makefile Monthly Trending</title>
+    <description>Monthly Trending of Makefile in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:56:20 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>openwrt/packages</title>
+      <link>https://github.com/openwrt/packages</link>
+      <description>&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>foostan/crkbd</title>
+      <link>https://github.com/foostan/crkbd</link>
+      <description>&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cilium/hubble</title>
+      <link>https://github.com/cilium/hubble</link>
+      <description>&lt;p&gt;Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-proto</title>
+      <link>https://github.com/open-telemetry/opentelemetry-proto</link>
+      <description>&lt;p&gt;OpenTelemetry protocol (OTLP) specification and Protobuf definitions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ageitgey/face_recognition_models</title>
+      <link>https://github.com/ageitgey/face_recognition_models</link>
+      <description>&lt;p&gt;Trained models for the face_recognition python library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>raspberrypi/noobs</title>
+      <link>https://github.com/raspberrypi/noobs</link>
+      <description>&lt;p&gt;NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dell/csm</title>
+      <link>https://github.com/dell/csm</link>
+      <description>&lt;p&gt;Dell Container Storage Modules (CSM)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>freebsd/freebsd-ports</title>
+      <link>https://github.com/freebsd/freebsd-ports</link>
+      <description>&lt;p&gt;FreeBSD ports tree (read-only mirror)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>typoes/harry-potter-gen-z</title>
+      <link>https://github.com/typoes/harry-potter-gen-z</link>
+      <description>&lt;p&gt;Harry Potter: The Gen Z Edition&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-proto-go</title>
+      <link>https://github.com/open-telemetry/opentelemetry-proto-go</link>
+      <description>&lt;p&gt;Generated code for OpenTelemetry protobuf data model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>teaxyz/white-paper</title>
+      <link>https://github.com/teaxyz/white-paper</link>
+      <description>&lt;p&gt;how will the protocol work?&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jobbole/awesome-python-cn</title>
+      <link>https://github.com/jobbole/awesome-python-cn</link>
+      <description>&lt;p&gt;Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>instill-ai/instill-core</title>
+      <link>https://github.com/instill-ai/instill-core</link>
+      <description>&lt;p&gt;🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sanjay-kv/Open-source-Practice</title>
+      <link>https://github.com/sanjay-kv/Open-source-Practice</link>
+      <description>&lt;p&gt;GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbt-labs/dbt-utils</title>
+      <link>https://github.com/dbt-labs/dbt-utils</link>
+      <description>&lt;p&gt;Utility functions for dbt projects.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>container-storage-interface/spec</title>
+      <link>https://github.com/container-storage-interface/spec</link>
+      <description>&lt;p&gt;Container Storage Interface (CSI) Specification.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

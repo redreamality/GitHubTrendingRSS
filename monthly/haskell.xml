@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haskell Monthly Trending</title>
+    <description>Monthly Trending of Haskell in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:54:54 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>PostgREST/postgrest</title>
+      <link>https://github.com/PostgREST/postgrest</link>
+      <description>&lt;p&gt;REST API for any Postgres database&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koalaman/shellcheck</title>
+      <link>https://github.com/koalaman/shellcheck</link>
+      <description>&lt;p&gt;ShellCheck, a static analysis tool for shell scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/cardano-node</title>
+      <link>https://github.com/IntersectMBO/cardano-node</link>
+      <description>&lt;p&gt;The core component that is used to participate in a Cardano decentralised blockchain.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>agda/agda</title>
+      <link>https://github.com/agda/agda</link>
+      <description>&lt;p&gt;Agda is a dependently typed programming language / interactive theorem prover.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>&lt;p&gt;Universal markup converter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unisonweb/unison</title>
+      <link>https://github.com/unisonweb/unison</link>
+      <description>&lt;p&gt;A friendly programming language from the future&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simonmichael/hledger</title>
+      <link>https://github.com/simonmichael/hledger</link>
+      <description>&lt;p&gt;Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hadolint/hadolint</title>
+      <link>https://github.com/hadolint/hadolint</link>
+      <description>&lt;p&gt;Dockerfile linter, validate inline bash, written in Haskell&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell-suite/haskell-src-exts</title>
+      <link>https://github.com/haskell-suite/haskell-src-exts</link>
+      <description>&lt;p&gt;Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>maralorn/nix-output-monitor</title>
+      <link>https://github.com/maralorn/nix-output-monitor</link>
+      <description>&lt;p&gt;Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kmonad/kmonad</title>
+      <link>https://github.com/kmonad/kmonad</link>
+      <description>&lt;p&gt;An advanced keyboard manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

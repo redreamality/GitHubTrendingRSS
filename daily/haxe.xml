@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haxe Daily Trending</title>
+    <description>Daily Trending of Haxe in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:38:39 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FunkinCrew/Funkin</title>
+      <link>https://github.com/FunkinCrew/Funkin</link>
+      <description>&lt;p&gt;A rhythm game made with HaxeFlixel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ShadowMario/FNF-PsychEngine</title>
+      <link>https://github.com/ShadowMario/FNF-PsychEngine</link>
+      <description>&lt;p&gt;Engine originally used on Mind Games mod&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Snirozu/Funkin-Psych-Online</title>
+      <link>https://github.com/Snirozu/Funkin-Psych-Online</link>
+      <description>&lt;p&gt;Psych Engine with Online Multiplayer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>deepnight/ldtk</title>
+      <link>https://github.com/deepnight/ldtk</link>
+      <description>&lt;p&gt;Modern, lightweight and efficient 2D level editor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CodenameCrew/CodenameEngine</title>
+      <link>https://github.com/CodenameCrew/CodenameEngine</link>
+      <description>&lt;p&gt;awesome fnf engine :D&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

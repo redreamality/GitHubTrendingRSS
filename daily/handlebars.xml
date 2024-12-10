@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Handlebars Daily Trending</title>
+    <description>Daily Trending of Handlebars in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:38:38 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rust-lang/rust-by-example</title>
+      <link>https://github.com/rust-lang/rust-by-example</link>
+      <description>&lt;p&gt;Learn Rust with examples (Live code editor included)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CrunchyData/postgres-operator-examples</title>
+      <link>https://github.com/CrunchyData/postgres-operator-examples</link>
+      <description>&lt;p&gt;Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>elastic/integrations</title>
+      <link>https://github.com/elastic/integrations</link>
+      <description>&lt;p&gt;Elastic Integrations&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

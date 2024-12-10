@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ShaderLab Monthly Trending</title>
+    <description>Monthly Trending of ShaderLab in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:58:24 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>candycat1992/Unity_Shaders_Book</title>
+      <link>https://github.com/candycat1992/Unity_Shaders_Book</link>
+      <description>&lt;p&gt;📖 书籍《Unity Shader入门精要》源代码&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unity3d-jp/UnityChanToonShaderVer2_Project</title>
+      <link>https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project</link>
+      <description>&lt;p&gt;UnityChanToonShaderVer2 Project / v.2.0.9 Release&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lilxyzw/lilToon</title>
+      <link>https://github.com/lilxyzw/lilToon</link>
+      <description>&lt;p&gt;Feature-rich shaders for avatars&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

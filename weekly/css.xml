@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Weekly Trending</title>
+    <description>Weekly Trending of CSS in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:46:28 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MrOtherGuy/firefox-csshacks</title>
+      <link>https://github.com/MrOtherGuy/firefox-csshacks</link>
+      <description>&lt;p&gt;Collection of userstyles affecting the browser&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IBM/plex</title>
+      <link>https://github.com/IBM/plex</link>
+      <description>&lt;p&gt;The package of IBM’s typeface, IBM Plex.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primereact</title>
+      <link>https://github.com/primefaces/primereact</link>
+      <description>&lt;p&gt;The Most Complete React UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ryanoasis/nerd-fonts</title>
+      <link>https://github.com/ryanoasis/nerd-fonts</link>
+      <description>&lt;p&gt;Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primeng</title>
+      <link>https://github.com/primefaces/primeng</link>
+      <description>&lt;p&gt;The Most Complete Angular UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>thewhiteh4t/seeker</title>
+      <link>https://github.com/thewhiteh4t/seeker</link>
+      <description>&lt;p&gt;Accurately Locate Smartphones using Social Engineering&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BingyanStudio/LapisCV</title>
+      <link>https://github.com/BingyanStudio/LapisCV</link>
+      <description>&lt;p&gt;📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>missing-semester-cn/missing-semester-cn.github.io</title>
+      <link>https://github.com/missing-semester-cn/missing-semester-cn.github.io</link>
+      <description>&lt;p&gt;the CS missing semester Chinese version&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bradtraversy/50projects50days</title>
+      <link>https://github.com/bradtraversy/50projects50days</link>
+      <description>&lt;p&gt;50+ mini web projects using HTML, CSS &amp; JS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>micro-zoe/micro-app</title>
+      <link>https://github.com/micro-zoe/micro-app</link>
+      <description>&lt;p&gt;A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>isocpp/CppCoreGuidelines</title>
+      <link>https://github.com/isocpp/CppCoreGuidelines</link>
+      <description>&lt;p&gt;The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>spicetify/spicetify-themes</title>
+      <link>https://github.com/spicetify/spicetify-themes</link>
+      <description>&lt;p&gt;A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ParisNeo/lollms-webui</title>
+      <link>https://github.com/ParisNeo/lollms-webui</link>
+      <description>&lt;p&gt;Lord of Large Language Models Web User Interface&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>picocss/pico</title>
+      <link>https://github.com/picocss/pico</link>
+      <description>&lt;p&gt;Minimal CSS Framework for semantic HTML&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

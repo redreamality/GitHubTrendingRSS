@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PowerShell Monthly Trending</title>
+    <description>Monthly Trending of PowerShell in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:57:34 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ntdevlabs/tiny11builder</title>
+      <link>https://github.com/ntdevlabs/tiny11builder</link>
+      <description>&lt;p&gt;Scripts to build a trimmed-down Windows 11 image.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SpotX-Official/SpotX</title>
+      <link>https://github.com/SpotX-Official/SpotX</link>
+      <description>&lt;p&gt;SpotX patcher used for patching the desktop version of Spotify&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>actions/runner-images</title>
+      <link>https://github.com/actions/runner-images</link>
+      <description>&lt;p&gt;GitHub Actions runner images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/winget-pkgs</title>
+      <link>https://github.com/microsoft/winget-pkgs</link>
+      <description>&lt;p&gt;The Microsoft community Windows Package Manager manifest repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cisagov/ScubaGear</title>
+      <link>https://github.com/cisagov/ScubaGear</link>
+      <description>&lt;p&gt;Automation to assess the state of your M365 tenant against CISA&#39;s baselines&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>meetrevision/playbook</title>
+      <link>https://github.com/meetrevision/playbook</link>
+      <description>&lt;p&gt;A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PowerShellMafia/PowerSploit</title>
+      <link>https://github.com/PowerShellMafia/PowerSploit</link>
+      <description>&lt;p&gt;PowerSploit - A PowerShell Post-Exploitation Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Orange-Cyberdefense/GOAD</title>
+      <link>https://github.com/Orange-Cyberdefense/GOAD</link>
+      <description>&lt;p&gt;game of active directory&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raphire/Win11Debloat</title>
+      <link>https://github.com/Raphire/Win11Debloat</link>
+      <description>&lt;p&gt;A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BloodHoundAD/BloodHound</title>
+      <link>https://github.com/BloodHoundAD/BloodHound</link>
+      <description>&lt;p&gt;Six Degrees of Domain Admin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sycnex/Windows10Debloater</title>
+      <link>https://github.com/Sycnex/Windows10Debloater</link>
+      <description>&lt;p&gt;Script to remove Windows 10 bloatware.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>I-Am-Jakoby/Flipper-Zero-BadUSB</title>
+      <link>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB</link>
+      <description>&lt;p&gt;Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>samratashok/nishang</title>
+      <link>https://github.com/samratashok/nishang</link>
+      <description>&lt;p&gt;Nishang - Offensive PowerShell for red team, penetration testing and offensive security.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/Microsoft365DSC</title>
+      <link>https://github.com/microsoft/Microsoft365DSC</link>
+      <description>&lt;p&gt;Manages, configures, extracts and monitors Microsoft 365 tenant configurations&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

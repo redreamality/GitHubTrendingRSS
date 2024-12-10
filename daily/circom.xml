@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Circom Daily Trending</title>
+    <description>Daily Trending of Circom in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:37:10 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>iden3/circomlib</title>
+      <link>https://github.com/iden3/circomlib</link>
+      <description>&lt;p&gt;Library of basic circuits for circom&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

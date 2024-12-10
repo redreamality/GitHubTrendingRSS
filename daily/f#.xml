@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub F# Daily Trending</title>
+    <description>Daily Trending of F# in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:38:00 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dotnet/fsharp</title>
+      <link>https://github.com/dotnet/fsharp</link>
+      <description>&lt;p&gt;The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stkb/Rewrap</title>
+      <link>https://github.com/stkb/Rewrap</link>
+      <description>&lt;p&gt;Rewrap extension for VSCode and Visual Studio&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

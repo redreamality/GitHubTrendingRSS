@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Kotlin Weekly Trending</title>
+    <description>Weekly Trending of Kotlin in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:48:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ethereum-lists/chains</title>
+      <link>https://github.com/ethereum-lists/chains</link>
+      <description>&lt;p&gt;provides metadata for chains&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jellyfin/jellyfin-androidtv</title>
+      <link>https://github.com/jellyfin/jellyfin-androidtv</link>
+      <description>&lt;p&gt;Android TV Client for Jellyfin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>2dust/v2rayNG</title>
+      <link>https://github.com/2dust/v2rayNG</link>
+      <description>&lt;p&gt;A V2Ray client for Android, support Xray core and v2fly core&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>XayahSuSuSu/Android-DataBackup</title>
+      <link>https://github.com/XayahSuSuSu/Android-DataBackup</link>
+      <description>&lt;p&gt;DataBackup for Android 7.0+&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JetBrains/compose-multiplatform</title>
+      <link>https://github.com/JetBrains/compose-multiplatform</link>
+      <description>&lt;p&gt;Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yairm210/Unciv</title>
+      <link>https://github.com/yairm210/Unciv</link>
+      <description>&lt;p&gt;Open-source Android/Desktop remake of Civ V&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>duckduckgo/Android</title>
+      <link>https://github.com/duckduckgo/Android</link>
+      <description>&lt;p&gt;DuckDuckGo Android App&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>deniscerri/ytdlnis</title>
+      <link>https://github.com/deniscerri/ytdlnis</link>
+      <description>&lt;p&gt;Android Video/Audio Downloader app using yt-dlp&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RikkaApps/Shizuku</title>
+      <link>https://github.com/RikkaApps/Shizuku</link>
+      <description>&lt;p&gt;Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>android/platform-samples</title>
+      <link>https://github.com/android/platform-samples</link>
+      <description>&lt;p&gt;A collection of samples of different Android OS platform APIs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CymChad/BaseRecyclerViewAdapterHelper</title>
+      <link>https://github.com/CymChad/BaseRecyclerViewAdapterHelper</link>
+      <description>&lt;p&gt;BRVAH:Powerful and flexible RecyclerAdapter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fcitx5-android/fcitx5-android</title>
+      <link>https://github.com/fcitx5-android/fcitx5-android</link>
+      <description>&lt;p&gt;Fcitx5 input method framework and engines ported to Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MM2-0/Kvaesitso</title>
+      <link>https://github.com/MM2-0/Kvaesitso</link>
+      <description>&lt;p&gt;A search-focused Android launcher&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lizongying/my-tv-0</title>
+      <link>https://github.com/lizongying/my-tv-0</link>
+      <description>&lt;p&gt;電視網絡視頻播放軟件，可以自定義視頻源&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>androidx/androidx</title>
+      <link>https://github.com/androidx/androidx</link>
+      <description>&lt;p&gt;Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack&#39;s primary development branch on AOSP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gedoor/legado</title>
+      <link>https://github.com/gedoor/legado</link>
+      <description>&lt;p&gt;Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MatsuriDayo/NekoBoxForAndroid</title>
+      <link>https://github.com/MatsuriDayo/NekoBoxForAndroid</link>
+      <description>&lt;p&gt;NekoBox for Android / sing-box / universal proxy toolchain for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DerGoogler/MMRL</title>
+      <link>https://github.com/DerGoogler/MMRL</link>
+      <description>&lt;p&gt;MMRL is an Android app that helps manage your own modules repository.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NeoApplications/Neo-Store</title>
+      <link>https://github.com/NeoApplications/Neo-Store</link>
+      <description>&lt;p&gt;An F-Droid client with modern UI and an arsenal of extra features.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>android/architecture-samples</title>
+      <link>https://github.com/android/architecture-samples</link>
+      <description>&lt;p&gt;A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Monthly Trending</title>
+    <description>Monthly Trending of TeX in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:58:54 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>&lt;p&gt;Latex code for making neural networks diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>harvard-edge/cs249r_book</title>
+      <link>https://github.com/harvard-edge/cs249r_book</link>
+      <description>&lt;p&gt;Introduction to Machine Learning Systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>matze/mtheme</title>
+      <link>https://github.com/matze/mtheme</link>
+      <description>&lt;p&gt;A modern LaTeX Beamer theme&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sysprog21/lkmpg</title>
+      <link>https://github.com/sysprog21/lkmpg</link>
+      <description>&lt;p&gt;The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>&lt;p&gt;VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheNetAdmin/zjuthesis</title>
+      <link>https://github.com/TheNetAdmin/zjuthesis</link>
+      <description>&lt;p&gt;Zhejiang University Graduation Thesis LaTeX Template&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>soulmachine/machine-learning-cheat-sheet</title>
+      <link>https://github.com/soulmachine/machine-learning-cheat-sheet</link>
+      <description>&lt;p&gt;Classical equations and diagrams in machine learning&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>billryan/resume</title>
+      <link>https://github.com/billryan/resume</link>
+      <description>&lt;p&gt;An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AllenDowney/ThinkPython2</title>
+      <link>https://github.com/AllenDowney/ThinkPython2</link>
+      <description>&lt;p&gt;LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>acl-org/acl-style-files</title>
+      <link>https://github.com/acl-org/acl-style-files</link>
+      <description>&lt;p&gt;Official style files for papers submitted to venues of the Association for Computational Linguistics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OWASP/www-project-top-10-for-large-language-model-applications</title>
+      <link>https://github.com/OWASP/www-project-top-10-for-large-language-model-applications</link>
+      <description>&lt;p&gt;OWASP Foundation Web Respository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riscv/riscv-isa-manual</title>
+      <link>https://github.com/riscv/riscv-isa-manual</link>
+      <description>&lt;p&gt;RISC-V Instruction Set Manual&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>exacity/deeplearningbook-chinese</title>
+      <link>https://github.com/exacity/deeplearningbook-chinese</link>
+      <description>&lt;p&gt;Deep Learning Book Chinese Translation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

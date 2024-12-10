@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Jsonnet Daily Trending</title>
+    <description>Daily Trending of Jsonnet in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:39:16 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>argoproj/argocd-example-apps</title>
+      <link>https://github.com/argoproj/argocd-example-apps</link>
+      <description>&lt;p&gt;Example Apps to Demonstrate Argo CD&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

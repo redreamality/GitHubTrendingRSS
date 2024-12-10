@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Weekly Trending</title>
+    <description>Weekly Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:47:04 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>&lt;p&gt;Emacs client/library for the Language Server Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>millejoh/emacs-ipython-notebook</title>
+      <link>https://github.com/millejoh/emacs-ipython-notebook</link>
+      <description>&lt;p&gt;Jupyter notebook client in Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xenodium/chatgpt-shell</title>
+      <link>https://github.com/xenodium/chatgpt-shell</link>
+      <description>&lt;p&gt;A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-ui</title>
+      <link>https://github.com/emacs-lsp/lsp-ui</link>
+      <description>&lt;p&gt;UI integrations for lsp-mode&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>magit/magit</title>
+      <link>https://github.com/magit/magit</link>
+      <description>&lt;p&gt;It&#39;s Magit! A Git Porcelain inside Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dominikh/go-mode.el</title>
+      <link>https://github.com/dominikh/go-mode.el</link>
+      <description>&lt;p&gt;Emacs mode for the Go programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>akermu/emacs-libvterm</title>
+      <link>https://github.com/akermu/emacs-libvterm</link>
+      <description>&lt;p&gt;Emacs libvterm integration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-tree-sitter/tree-sitter-langs</title>
+      <link>https://github.com/emacs-tree-sitter/tree-sitter-langs</link>
+      <description>&lt;p&gt;Language bundle for Emacs&#39;s tree-sitter package&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>karthink/gptel</title>
+      <link>https://github.com/karthink/gptel</link>
+      <description>&lt;p&gt;A simple LLM client for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-typescript/typescript.el</title>
+      <link>https://github.com/emacs-typescript/typescript.el</link>
+      <description>&lt;p&gt;TypeScript-support for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-tree-sitter/elisp-tree-sitter</title>
+      <link>https://github.com/emacs-tree-sitter/elisp-tree-sitter</link>
+      <description>&lt;p&gt;Emacs Lisp bindings for tree-sitter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>abo-abo/swiper</title>
+      <link>https://github.com/abo-abo/swiper</link>
+      <description>&lt;p&gt;Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flycheck/flycheck</title>
+      <link>https://github.com/flycheck/flycheck</link>
+      <description>&lt;p&gt;On the fly syntax checking for GNU Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tumashu/posframe</title>
+      <link>https://github.com/tumashu/posframe</link>
+      <description>&lt;p&gt;Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

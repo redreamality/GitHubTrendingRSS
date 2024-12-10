@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Bicep Daily Trending</title>
+    <description>Daily Trending of Bicep in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:36:35 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Azure/azure-quickstart-templates</title>
+      <link>https://github.com/Azure/azure-quickstart-templates</link>
+      <description>&lt;p&gt;Azure Quickstart Templates&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure/azure-monitor-baseline-alerts</title>
+      <link>https://github.com/Azure/azure-monitor-baseline-alerts</link>
+      <description>&lt;p&gt;Azure Monitor Baseline Alerts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure/bicep-registry-modules</title>
+      <link>https://github.com/Azure/bicep-registry-modules</link>
+      <description>&lt;p&gt;Bicep registry modules&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure-Samples/genai-gateway-apim</title>
+      <link>https://github.com/Azure-Samples/genai-gateway-apim</link>
+      <description>&lt;p&gt;Azure API Management (APIM) - Azure OpenAI Sample (Node.js)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</title>
+      <link>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</link>
+      <description>&lt;p&gt;A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub EJS Daily Trending</title>
+    <description>Daily Trending of EJS in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:37:52 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Fechin/reference</title>
+      <link>https://github.com/Fechin/reference</link>
+      <description>&lt;p&gt;⭕ Share quick reference cheat sheet for developers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github/haikus-for-codespaces</title>
+      <link>https://github.com/github/haikus-for-codespaces</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

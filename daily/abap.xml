@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ABAP Daily Trending</title>
+    <description>Daily Trending of ABAP in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:36:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>abap2UI5/abap2UI5</title>
+      <link>https://github.com/abap2UI5/abap2UI5</link>
+      <description>&lt;p&gt;Developing UI5 Apps Purely in ABAP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>abapGit/abapGit</title>
+      <link>https://github.com/abapGit/abapGit</link>
+      <description>&lt;p&gt;Git client for ABAP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

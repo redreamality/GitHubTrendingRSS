@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Common Lisp Daily Trending</title>
+    <description>Daily Trending of Common Lisp in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:37:18 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>atlas-engineer/nyxt</title>
+      <link>https://github.com/atlas-engineer/nyxt</link>
+      <description>&lt;p&gt;Nyxt - the hacker&#39;s browser.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-goal/jak-project</title>
+      <link>https://github.com/open-goal/jak-project</link>
+      <description>&lt;p&gt;Reviving the language that brought us the Jak &amp; Daxter Series&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lem-project/lem</title>
+      <link>https://github.com/lem-project/lem</link>
+      <description>&lt;p&gt;Common Lisp editor/IDE with high expansibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dimitri/pgloader</title>
+      <link>https://github.com/dimitri/pgloader</link>
+      <description>&lt;p&gt;Migrate to PostgreSQL in a single command!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coalton-lang/coalton</title>
+      <link>https://github.com/coalton-lang/coalton</link>
+      <description>&lt;p&gt;Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

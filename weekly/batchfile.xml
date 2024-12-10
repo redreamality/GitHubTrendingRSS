@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Batchfile Weekly Trending</title>
+    <description>Weekly Trending of Batchfile in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:45:39 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>PaperMC/Folia</title>
+      <link>https://github.com/PaperMC/Folia</link>
+      <description>&lt;p&gt;Fork of Paper which adds regionised multithreading to the dedicated server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AveYo/MediaCreationTool.bat</title>
+      <link>https://github.com/AveYo/MediaCreationTool.bat</link>
+      <description>&lt;p&gt;Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>enhorse/java-interview</title>
+      <link>https://github.com/enhorse/java-interview</link>
+      <description>&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>realpython/python-guide</title>
+      <link>https://github.com/realpython/python-guide</link>
+      <description>&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim/vim-win32-installer</title>
+      <link>https://github.com/vim/vim-win32-installer</link>
+      <description>&lt;p&gt;Vim Win32 Installer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nodemcu/nodemcu-devkit</title>
+      <link>https://github.com/nodemcu/nodemcu-devkit</link>
+      <description>&lt;p&gt;A development kit for NodeMCU firmware&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lstprjct/IDM-Activation-Script</title>
+      <link>https://github.com/lstprjct/IDM-Activation-Script</link>
+      <description>&lt;p&gt;IDM Activation &amp; Trail Reset Script&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SillyTavern/SillyTavern-Launcher</title>
+      <link>https://github.com/SillyTavern/SillyTavern-Launcher</link>
+      <description>&lt;p&gt;Launcher scripts for SillyTavern and ST-Extras.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

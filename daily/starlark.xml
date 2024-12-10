@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Starlark Daily Trending</title>
+    <description>Daily Trending of Starlark in GitHub</description>
+    <pubDate>Tue, 10 Dec 2024 02:44:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GoogleContainerTools/distroless</title>
+      <link>https://github.com/GoogleContainerTools/distroless</link>
+      <description>&lt;p&gt;🥑 Language focused docker images, minus the operating system.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tilt-dev/tilt-extensions</title>
+      <link>https://github.com/tilt-dev/tilt-extensions</link>
+      <description>&lt;p&gt;Extensions for Tilt&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/bazel-central-registry</title>
+      <link>https://github.com/bazelbuild/bazel-central-registry</link>
+      <description>&lt;p&gt;The central registry of Bazel modules for the Bzlmod external dependency system.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aspect-build/rules_ts</title>
+      <link>https://github.com/aspect-build/rules_ts</link>
+      <description>&lt;p&gt;Bazel rules for the `tsc` compiler from http://typescriptlang.org&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_python</title>
+      <link>https://github.com/bazelbuild/rules_python</link>
+      <description>&lt;p&gt;Bazel Python Rules&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/rules_nodejs</title>
+      <link>https://github.com/bazel-contrib/rules_nodejs</link>
+      <description>&lt;p&gt;NodeJS toolchain for Bazel.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openconfig/gnoi</title>
+      <link>https://github.com/openconfig/gnoi</link>
+      <description>&lt;p&gt;gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_rust</title>
+      <link>https://github.com/bazelbuild/rules_rust</link>
+      <description>&lt;p&gt;Rust rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aspect-build/rules_js</title>
+      <link>https://github.com/aspect-build/rules_js</link>
+      <description>&lt;p&gt;High-performance Bazel rules for running Node.js tools and building JavaScript projects&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_scala</title>
+      <link>https://github.com/bazelbuild/rules_scala</link>
+      <description>&lt;p&gt;Scala rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethpandaops/ethereum-package</title>
+      <link>https://github.com/ethpandaops/ethereum-package</link>
+      <description>&lt;p&gt;A Kurtosis package that deploys a private, portable, and modular Ethereum devnet&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GoogleContainerTools/rules_distroless</title>
+      <link>https://github.com/GoogleContainerTools/rules_distroless</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tweag/rules_sh</title>
+      <link>https://github.com/tweag/rules_sh</link>
+      <description>&lt;p&gt;Shell rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/bazel-lib</title>
+      <link>https://github.com/bazel-contrib/bazel-lib</link>
+      <description>&lt;p&gt;Common useful functions for writing BUILD files and Starlark macros/rules&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/bazel-skylib</title>
+      <link>https://github.com/bazelbuild/bazel-skylib</link>
+      <description>&lt;p&gt;Common useful functions and rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>googleapis/googleapis</title>
+      <link>https://github.com/googleapis/googleapis</link>
+      <description>&lt;p&gt;Public interface definitions of Google APIs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/toolchains_llvm</title>
+      <link>https://github.com/bazel-contrib/toolchains_llvm</link>
+      <description>&lt;p&gt;LLVM toolchain for bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_appengine</title>
+      <link>https://github.com/bazelbuild/rules_appengine</link>
+      <description>&lt;p&gt;AppEngine rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethpandaops/optimism-package</title>
+      <link>https://github.com/ethpandaops/optimism-package</link>
+      <description>&lt;p&gt;A kurtosis package for deploying an optimistic rollup&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_proto</title>
+      <link>https://github.com/bazelbuild/rules_proto</link>
+      <description>&lt;p&gt;Protocol buffer rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/examples</title>
+      <link>https://github.com/bazelbuild/examples</link>
+      <description>&lt;p&gt;Examples for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>googleapis/api-common-protos</title>
+      <link>https://github.com/googleapis/api-common-protos</link>
+      <description>&lt;p&gt;A standard library for use in specifying protocol buffer APIs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
