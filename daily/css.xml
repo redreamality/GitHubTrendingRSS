@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Daily Trending</title>
+    <description>Daily Trending of CSS in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:28:11 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>IBM/plex</title>
+      <link>https://github.com/IBM/plex</link>
+      <description>&lt;p&gt;The package of IBM’s typeface, IBM Plex.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>micro-zoe/micro-app</title>
+      <link>https://github.com/micro-zoe/micro-app</link>
+      <description>&lt;p&gt;A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>devicons/devicon</title>
+      <link>https://github.com/devicons/devicon</link>
+      <description>&lt;p&gt;Set of icons representing programming languages, designing &amp; development tools&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>spicetify/spicetify-themes</title>
+      <link>https://github.com/spicetify/spicetify-themes</link>
+      <description>&lt;p&gt;A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primereact</title>
+      <link>https://github.com/primefaces/primereact</link>
+      <description>&lt;p&gt;The Most Complete React UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AnubisNekhet/AnuPpuccin</title>
+      <link>https://github.com/AnubisNekhet/AnuPpuccin</link>
+      <description>&lt;p&gt;Personal theme for Obsidian&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bradtraversy/50projects50days</title>
+      <link>https://github.com/bradtraversy/50projects50days</link>
+      <description>&lt;p&gt;50+ mini web projects using HTML, CSS &amp; JS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>barryclark/jekyll-now</title>
+      <link>https://github.com/barryclark/jekyll-now</link>
+      <description>&lt;p&gt;Build a Jekyll blog in minutes, without touching the command line.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>picocss/pico</title>
+      <link>https://github.com/picocss/pico</link>
+      <description>&lt;p&gt;Minimal CSS Framework for semantic HTML&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws-samples/amplify-next-template</title>
+      <link>https://github.com/aws-samples/amplify-next-template</link>
+      <description>&lt;p&gt;This is a Next.js starter for building a fullstack app with AWS Amplify.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mingw-w64/mingw-w64.github.io</title>
+      <link>https://github.com/mingw-w64/mingw-w64.github.io</link>
+      <description>&lt;p&gt;mingw-w64.net web page contents (The new web page)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joy-of-react/project-wordle</title>
+      <link>https://github.com/joy-of-react/project-wordle</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>moveit/moveit2_tutorials</title>
+      <link>https://github.com/moveit/moveit2_tutorials</link>
+      <description>&lt;p&gt;A sphinx-based centralized documentation repo for MoveIt 2&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Typst Weekly Trending</title>
+    <description>Weekly Trending of Typst in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:47:16 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>parallel101/cppguidebook</title>
+      <link>https://github.com/parallel101/cppguidebook</link>
+      <description>&lt;p&gt;小彭老师领衔编写，现代C++的中文百科全书&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

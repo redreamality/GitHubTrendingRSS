@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Weekly Trending</title>
+    <description>Weekly Trending of TeX in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:47:06 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>acl-org/acl-style-files</title>
+      <link>https://github.com/acl-org/acl-style-files</link>
+      <description>&lt;p&gt;Official style files for papers submitted to venues of the Association for Computational Linguistics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>&lt;p&gt;Latex code for making neural networks diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>&lt;p&gt;VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riscv/riscv-isa-manual</title>
+      <link>https://github.com/riscv/riscv-isa-manual</link>
+      <description>&lt;p&gt;RISC-V Instruction Set Manual&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuhdo/os01</title>
+      <link>https://github.com/tuhdo/os01</link>
+      <description>&lt;p&gt;Bootstrap yourself to write an OS from scratch. A book for self-learner.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rstudio/cheatsheets</title>
+      <link>https://github.com/rstudio/cheatsheets</link>
+      <description>&lt;p&gt;Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dendibakh/perf-book</title>
+      <link>https://github.com/dendibakh/perf-book</link>
+      <description>&lt;p&gt;The book &quot;Performance Analysis and Tuning on Modern CPU&quot;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>posquit0/Awesome-CV</title>
+      <link>https://github.com/posquit0/Awesome-CV</link>
+      <description>&lt;p&gt;📄 Awesome CV is LaTeX template for your outstanding job application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/language</title>
+      <link>https://github.com/dart-lang/language</link>
+      <description>&lt;p&gt;Design of the Dart language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hmemcpy/milewski-ctfp-pdf</title>
+      <link>https://github.com/hmemcpy/milewski-ctfp-pdf</link>
+      <description>&lt;p&gt;Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aaronwangy/Data-Science-Cheatsheet</title>
+      <link>https://github.com/aaronwangy/Data-Science-Cheatsheet</link>
+      <description>&lt;p&gt;A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openmlsys/openmlsys-zh</title>
+      <link>https://github.com/openmlsys/openmlsys-zh</link>
+      <description>&lt;p&gt;《Machine Learning Systems: Design and Implementation》- Chinese Version&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuna/thuthesis</title>
+      <link>https://github.com/tuna/thuthesis</link>
+      <description>&lt;p&gt;LaTeX Thesis Template for Tsinghua University&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cplusplus/draft</title>
+      <link>https://github.com/cplusplus/draft</link>
+      <description>&lt;p&gt;C++ standards drafts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

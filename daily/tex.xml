@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Daily Trending</title>
+    <description>Daily Trending of TeX in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:35:21 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>&lt;p&gt;Latex code for making neural networks diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vdumoulin/conv_arithmetic</title>
+      <link>https://github.com/vdumoulin/conv_arithmetic</link>
+      <description>&lt;p&gt;A technical report on convolution arithmetic in the context of deep learning&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuhdo/os01</title>
+      <link>https://github.com/tuhdo/os01</link>
+      <description>&lt;p&gt;Bootstrap yourself to write an OS from scratch. A book for self-learner.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>acl-org/acl-style-files</title>
+      <link>https://github.com/acl-org/acl-style-files</link>
+      <description>&lt;p&gt;Official style files for papers submitted to venues of the Association for Computational Linguistics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rstudio/cheatsheets</title>
+      <link>https://github.com/rstudio/cheatsheets</link>
+      <description>&lt;p&gt;Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sb2nov/resume</title>
+      <link>https://github.com/sb2nov/resume</link>
+      <description>&lt;p&gt;Software developer resume in Latex&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>shd/logic2024</title>
+      <link>https://github.com/shd/logic2024</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chaofengc/Awesome-Image-Quality-Assessment</title>
+      <link>https://github.com/chaofengc/Awesome-Image-Quality-Assessment</link>
+      <description>&lt;p&gt;A comprehensive collection of IQA papers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>billryan/resume</title>
+      <link>https://github.com/billryan/resume</link>
+      <description>&lt;p&gt;An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AllenDowney/ThinkPython2</title>
+      <link>https://github.com/AllenDowney/ThinkPython2</link>
+      <description>&lt;p&gt;LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lib-pku/libpku</title>
+      <link>https://github.com/lib-pku/libpku</link>
+      <description>&lt;p&gt;贵校课程资料民间整理&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>artificial-scientist-lab/PyTheus</title>
+      <link>https://github.com/artificial-scientist-lab/PyTheus</link>
+      <description>&lt;p&gt;PyTheus, a highly-efficient inverse-design algorithm for quantum optical experiments&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>libretro/docs</title>
+      <link>https://github.com/libretro/docs</link>
+      <description>&lt;p&gt;This is a repo of the RetroArch official document page.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terryum/awesome-deep-learning-papers</title>
+      <link>https://github.com/terryum/awesome-deep-learning-papers</link>
+      <description>&lt;p&gt;The most cited deep learning papers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuna/thuthesis</title>
+      <link>https://github.com/tuna/thuthesis</link>
+      <description>&lt;p&gt;LaTeX Thesis Template for Tsinghua University&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wandmalfarbe/pandoc-latex-template</title>
+      <link>https://github.com/Wandmalfarbe/pandoc-latex-template</link>
+      <description>&lt;p&gt;A pandoc LaTeX template to convert markdown files to PDF or LaTeX.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

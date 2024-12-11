@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub All Languages Daily Trending</title>
+    <description>Daily Trending of All Languages in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:27:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;uv&lt;/h1&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/astral-sh/uv&quot;&gt;&lt;img src=&quot;https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&quot; alt=&quot;uv&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://pypi.python.org/pypi/uv&quot;&gt;&lt;img src=&quot;https://img.shields.io/pypi/v/uv.svg?sanitize=true&quot; alt=&quot;image&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://pypi.python.org/pypi/uv&quot;&gt;&lt;img src=&quot;https://img.shields.io/pypi/l/uv.svg?sanitize=true&quot; alt=&quot;image&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://pypi.python.org/pypi/uv&quot;&gt;&lt;img src=&quot;https://img.shields.io/pypi/pyversions/uv.svg?sanitize=true&quot; alt=&quot;image&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/astral-sh/uv/actions&quot;&gt;&lt;img src=&quot;https://github.com/astral-sh/uv/actions/workflows/ci.yml/badge.svg?sanitize=true&quot; alt=&quot;Actions status&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://discord.gg/astral-sh&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&amp;amp;logoColor=white&quot; alt=&quot;Discord&quot;&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; 
+ &lt;picture align=&quot;center&quot;&gt; 
+  &lt;source media=&quot;(prefers-color-scheme: dark)&quot; srcset=&quot;https://github.com/astral-sh/uv/assets/1309177/03aa9163-1c79-4a87-a31d-7a9311ed9310&quot;&gt; 
+  &lt;source media=&quot;(prefers-color-scheme: light)&quot; srcset=&quot;https://github.com/astral-sh/uv/assets/1309177/629e59c0-9c6e-4013-9ad4-adb2bcf5080d&quot;&gt; 
+  &lt;img alt=&quot;Shows a bar chart with benchmark results.&quot; src=&quot;https://github.com/astral-sh/uv/assets/1309177/629e59c0-9c6e-4013-9ad4-adb2bcf5080d&quot;&gt; 
+ &lt;/picture&gt; &lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;i&gt;Installing &lt;a href=&quot;https://trio.readthedocs.io/&quot;&gt;Trio&lt;/a&gt;&#39;s dependencies with a warm cache.&lt;/i&gt; &lt;/p&gt; 
+&lt;h2&gt;Highlights&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;🚀 A single tool to replace &lt;code&gt;pip&lt;/code&gt;, &lt;code&gt;pip-tools&lt;/code&gt;, &lt;code&gt;pipx&lt;/code&gt;, &lt;code&gt;poetry&lt;/code&gt;, &lt;code&gt;pyenv&lt;/code&gt;, &lt;code&gt;twine&lt;/code&gt;, &lt;code&gt;virtualenv&lt;/code&gt;, and more.&lt;/li&gt; 
+ &lt;li&gt;⚡️ &lt;a href=&quot;https://github.com/astral-sh/uv/raw/main/BENCHMARKS.md&quot;&gt;10-100x faster&lt;/a&gt; than &lt;code&gt;pip&lt;/code&gt;.&lt;/li&gt; 
+ &lt;li&gt;🐍 &lt;a href=&quot;https://raw.githubusercontent.com/astral-sh/uv/main/#python-management&quot;&gt;Installs and manages&lt;/a&gt; Python versions.&lt;/li&gt; 
+ &lt;li&gt;🛠️ &lt;a href=&quot;https://raw.githubusercontent.com/astral-sh/uv/main/#tool-management&quot;&gt;Runs and installs&lt;/a&gt; Python applications.&lt;/li&gt; 
+ &lt;li&gt;❇️ &lt;a href=&quot;https://raw.githubusercontent.com/astral-sh/uv/main/#script-support&quot;&gt;Runs single-file scripts&lt;/a&gt;, with support for &lt;a href=&quot;https://docs.astral.sh/uv/guides/scripts#declaring-script-dependencies&quot;&gt;inline dependency metadata&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;🗂️ Provides &lt;a href=&quot;https://raw.githubusercontent.com/astral-sh/uv/main/#project-management&quot;&gt;comprehensive project management&lt;/a&gt;, with a &lt;a href=&quot;https://docs.astral.sh/uv/concepts/projects#project-lockfile&quot;&gt;universal lockfile&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;🔩 Includes a &lt;a href=&quot;https://raw.githubusercontent.com/astral-sh/uv/main/#a-pip-compatible-interface&quot;&gt;pip-compatible interface&lt;/a&gt; for a performance boost with a familiar CLI.&lt;/li&gt; 
+ &lt;li&gt;🏢 Supports Cargo-style &lt;a href=&quot;https://docs.astral.sh/uv/concepts/workspaces&quot;&gt;workspaces&lt;/a&gt; for scalable projects.&lt;/li&gt; 
+ &lt;li&gt;💾 Disk-space efficient, with a &lt;a href=&quot;https://docs.astral.sh/uv/concepts/cache&quot;&gt;global cache&lt;/a&gt; for dependency deduplication.&lt;/li&gt; 
+ &lt;li&gt;⏬ Installable without Rust or Python via &lt;code&gt;curl&lt;/code&gt; or &lt;code&gt;pip&lt;/code&gt;.&lt;/li&gt; 
+ &lt;li&gt;🖥️ Supports macOS, Linux, and Windows.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;uv is backed by &lt;a href=&quot;https://astral.sh&quot;&gt;Astral&lt;/a&gt;, the creators of &lt;a href=&quot;https://github.com/astral-sh/ruff&quot;&gt;Ruff&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Installation&lt;/h2&gt; 
+&lt;p&gt;Install uv with our standalone installers:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# On macOS and Linux.
+curl -LsSf https://astral.sh/uv/install.sh | sh
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# On Windows.
+powershell -ExecutionPolicy ByPass -c &quot;irm https://astral.sh/uv/install.ps1 | iex&quot;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Or, from &lt;a href=&quot;https://pypi.org/project/uv/&quot;&gt;PyPI&lt;/a&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# With pip.
+pip install uv
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# Or pipx.
+pipx install uv
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;If installed via the standalone installer, uv can update itself to the latest version:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;uv self update
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://docs.astral.sh/uv/getting-started/installation/&quot;&gt;installation documentation&lt;/a&gt; for details and alternative installation methods.&lt;/p&gt; 
+&lt;h2&gt;Documentation&lt;/h2&gt; 
+&lt;p&gt;uv&#39;s documentation is available at &lt;a href=&quot;https://docs.astral.sh/uv&quot;&gt;docs.astral.sh/uv&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Additionally, the command line reference documentation can be viewed with &lt;code&gt;uv help&lt;/code&gt;.&lt;/p&gt; 
+&lt;h2&gt;Features&lt;/h2&gt; 
+&lt;h3&gt;Project management&lt;/h3&gt; 
+&lt;p&gt;uv manages project dependencies and environments, with support for lockfiles, workspaces, and more, similar to &lt;code&gt;rye&lt;/code&gt; or &lt;code&gt;poetry&lt;/code&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv init example
+Initialized project `example` at `/home/user/example`
+
+$ cd example
+
+$ uv add ruff
+Creating virtual environment at: .venv
+Resolved 2 packages in 170ms
+   Built example @ file:///home/user/example
+Prepared 2 packages in 627ms
+Installed 2 packages in 1ms
+ + example==0.1.0 (from file:///home/user/example)
+ + ruff==0.5.7
+
+$ uv run ruff check
+All checks passed!
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://docs.astral.sh/uv/guides/projects/&quot;&gt;project documentation&lt;/a&gt; to get started.&lt;/p&gt; 
+&lt;p&gt;uv also supports building and publishing projects, even if they&#39;re not managed with uv. See the &lt;a href=&quot;https://docs.astral.sh/uv/guides/publish/&quot;&gt;publish guide&lt;/a&gt; to learn more.&lt;/p&gt; 
+&lt;h3&gt;Tool management&lt;/h3&gt; 
+&lt;p&gt;uv executes and installs command-line tools provided by Python packages, similar to &lt;code&gt;pipx&lt;/code&gt;.&lt;/p&gt; 
+&lt;p&gt;Run a tool in an ephemeral environment using &lt;code&gt;uvx&lt;/code&gt; (an alias for &lt;code&gt;uv tool run&lt;/code&gt;):&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uvx pycowsay &#39;hello world!&#39;
+Resolved 1 package in 167ms
+Installed 1 package in 9ms
+ + pycowsay==0.0.0.2
+  &quot;&quot;&quot;
+
+  ------------
+&amp;lt; hello world! &amp;gt;
+  ------------
+   \   ^__^
+    \  (oo)\_______
+       (__)\       )\/\
+           ||----w |
+           ||     ||
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Install a tool with &lt;code&gt;uv tool install&lt;/code&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv tool install ruff
+Resolved 1 package in 6ms
+Installed 1 package in 2ms
+ + ruff==0.5.7
+Installed 1 executable: ruff
+
+$ ruff --version
+ruff 0.5.7
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://docs.astral.sh/uv/guides/tools/&quot;&gt;tools documentation&lt;/a&gt; to get started.&lt;/p&gt; 
+&lt;h3&gt;Python management&lt;/h3&gt; 
+&lt;p&gt;uv installs Python and allows quickly switching between versions.&lt;/p&gt; 
+&lt;p&gt;Install multiple Python versions:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv python install 3.10 3.11 3.12
+Searching for Python versions matching: Python 3.10
+Searching for Python versions matching: Python 3.11
+Searching for Python versions matching: Python 3.12
+Installed 3 versions in 3.42s
+ + cpython-3.10.14-macos-aarch64-none
+ + cpython-3.11.9-macos-aarch64-none
+ + cpython-3.12.4-macos-aarch64-none
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Download Python versions as needed:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv venv --python 3.12.0
+Using Python 3.12.0
+Creating virtual environment at: .venv
+Activate with: source .venv/bin/activate
+
+$ uv run --python pypy@3.8 -- python --version
+Python 3.8.16 (a9dbdca6fc3286b0addd2240f11d97d8e8de187a, Dec 29 2022, 11:45:30)
+[PyPy 7.3.11 with GCC Apple LLVM 13.1.6 (clang-1316.0.21.2.5)] on darwin
+Type &quot;help&quot;, &quot;copyright&quot;, &quot;credits&quot; or &quot;license&quot; for more information.
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Use a specific Python version in the current directory:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv python pin pypy@3.11
+Pinned `.python-version` to `pypy@3.11`
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://docs.astral.sh/uv/guides/install-python/&quot;&gt;Python installation documentation&lt;/a&gt; to get started.&lt;/p&gt; 
+&lt;h3&gt;Script support&lt;/h3&gt; 
+&lt;p&gt;uv manages dependencies and environments for single-file scripts.&lt;/p&gt; 
+&lt;p&gt;Create a new script and add inline metadata declaring its dependencies:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ echo &#39;import requests; print(requests.get(&quot;https://astral.sh&quot;))&#39; &amp;gt; example.py
+
+$ uv add --script example.py requests
+Updated `example.py`
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Then, run the script in an isolated virtual environment:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv run example.py
+Reading inline script metadata from: example.py
+Installed 5 packages in 12ms
+&amp;lt;Response [200]&amp;gt;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://docs.astral.sh/uv/guides/scripts/&quot;&gt;scripts documentation&lt;/a&gt; to get started.&lt;/p&gt; 
+&lt;h3&gt;A pip-compatible interface&lt;/h3&gt; 
+&lt;p&gt;uv provides a drop-in replacement for common &lt;code&gt;pip&lt;/code&gt;, &lt;code&gt;pip-tools&lt;/code&gt;, and &lt;code&gt;virtualenv&lt;/code&gt; commands.&lt;/p&gt; 
+&lt;p&gt;uv extends their interfaces with advanced features, such as dependency version overrides, platform-independent resolutions, reproducible resolutions, alternative resolution strategies, and more.&lt;/p&gt; 
+&lt;p&gt;Migrate to uv without changing your existing workflows — and experience a 10-100x speedup — with the &lt;code&gt;uv pip&lt;/code&gt; interface.&lt;/p&gt; 
+&lt;p&gt;Compile requirements into a platform-independent requirements file:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv pip compile docs/requirements.in \
+   --universal \
+   --output-file docs/requirements.txt
+Resolved 43 packages in 12ms
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Create a virtual environment:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv venv
+Using Python 3.12.3
+Creating virtual environment at: .venv
+Activate with: source .venv/bin/activate
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Install the locked requirements:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-console&quot;&gt;$ uv pip sync docs/requirements.txt
+Resolved 43 packages in 11ms
+Installed 43 packages in 208ms
+ + babel==2.15.0
+ + black==24.4.2
+ + certifi==2024.7.4
+ ...
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://docs.astral.sh/uv/pip/index/&quot;&gt;pip interface documentation&lt;/a&gt; to get started.&lt;/p&gt; 
+&lt;h2&gt;Platform support&lt;/h2&gt; 
+&lt;p&gt;See uv&#39;s &lt;a href=&quot;https://docs.astral.sh/uv/reference/platforms/&quot;&gt;platform support&lt;/a&gt; document.&lt;/p&gt; 
+&lt;h2&gt;Versioning policy&lt;/h2&gt; 
+&lt;p&gt;See uv&#39;s &lt;a href=&quot;https://docs.astral.sh/uv/reference/versioning/&quot;&gt;versioning policy&lt;/a&gt; document.&lt;/p&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;p&gt;We are passionate about supporting contributors of all levels of experience and would love to see you get involved in the project. See the &lt;a href=&quot;https://github.com/astral-sh/uv/raw/main/CONTRIBUTING.md&quot;&gt;contributing guide&lt;/a&gt; to get started.&lt;/p&gt; 
+&lt;h2&gt;Acknowledgements&lt;/h2&gt; 
+&lt;p&gt;uv&#39;s dependency resolver uses &lt;a href=&quot;https://github.com/pubgrub-rs/pubgrub&quot;&gt;PubGrub&lt;/a&gt; under the hood. We&#39;re grateful to the PubGrub maintainers, especially &lt;a href=&quot;https://github.com/Eh2406&quot;&gt;Jacob Finkelman&lt;/a&gt;, for their support.&lt;/p&gt; 
+&lt;p&gt;uv&#39;s Git implementation is based on &lt;a href=&quot;https://github.com/rust-lang/cargo&quot;&gt;Cargo&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Some of uv&#39;s optimizations are inspired by the great work we&#39;ve seen in &lt;a href=&quot;https://pnpm.io/&quot;&gt;pnpm&lt;/a&gt;, &lt;a href=&quot;https://github.com/orogene/orogene&quot;&gt;Orogene&lt;/a&gt;, and &lt;a href=&quot;https://github.com/oven-sh/bun&quot;&gt;Bun&lt;/a&gt;. We&#39;ve also learned a lot from Nathaniel J. Smith&#39;s &lt;a href=&quot;https://github.com/njsmith/posy&quot;&gt;Posy&lt;/a&gt; and adapted its &lt;a href=&quot;https://github.com/njsmith/posy/tree/main/src/trampolines/windows-trampolines/posy-trampoline&quot;&gt;trampoline&lt;/a&gt; for Windows support.&lt;/p&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;uv is licensed under either of&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Apache License, Version 2.0, (&lt;a href=&quot;https://raw.githubusercontent.com/astral-sh/uv/main/LICENSE-APACHE&quot;&gt;LICENSE-APACHE&lt;/a&gt; or &lt;a href=&quot;https://www.apache.org/licenses/LICENSE-2.0&quot;&gt;https://www.apache.org/licenses/LICENSE-2.0&lt;/a&gt;)&lt;/li&gt; 
+ &lt;li&gt;MIT license (&lt;a href=&quot;https://raw.githubusercontent.com/astral-sh/uv/main/LICENSE-MIT&quot;&gt;LICENSE-MIT&lt;/a&gt; or &lt;a href=&quot;https://opensource.org/licenses/MIT&quot;&gt;https://opensource.org/licenses/MIT&lt;/a&gt;)&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;at your option.&lt;/p&gt; 
+&lt;p&gt;Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in uv by you, as defined in the Apache-2.0 license, shall be dually licensed as above, without any additional terms or conditions.&lt;/p&gt; 
+&lt;div align=&quot;center&quot;&gt; 
+ &lt;a target=&quot;_blank&quot; href=&quot;https://astral.sh&quot; style=&quot;background:none&quot;&gt; &lt;img src=&quot;https://raw.githubusercontent.com/astral-sh/uv/main/assets/svg/Astral.svg?sanitize=true&quot; alt=&quot;Made by Astral&quot;&gt; &lt;/a&gt; 
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>tauri-apps/tauri</title>
+      <link>https://github.com/tauri-apps/tauri</link>
+      <description>&lt;p&gt;Build smaller, faster, and more secure desktop and mobile applications with a web frontend.&lt;/p&gt;&lt;hr&gt;&lt;img src=&quot;https://raw.githubusercontent.com/tauri-apps/tauri/dev/.github/splash.png&quot; alt=&quot;Tauri&quot;&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/tauri-apps/tauri/tree/dev&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/status-stable-blue.svg?sanitize=true&quot; alt=&quot;status&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://opencollective.com/tauri&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/License-MIT%20or%20Apache%202-green.svg?sanitize=true&quot; alt=&quot;License&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/tauri-apps/tauri/actions/workflows/test-core.yml&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/actions/workflow/status/tauri-apps/tauri/test-core.yml?label=test%20core&amp;amp;logo=github&quot; alt=&quot;test core&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://app.fossa.com/projects/git%2Bgithub.com%2Ftauri-apps%2Ftauri?ref=badge_shield&quot;&gt;&lt;img src=&quot;https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftauri-apps%2Ftauri.svg?type=shield&quot; alt=&quot;FOSSA Status&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://discord.gg/SpmNs4S&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/chat-discord-7289da.svg?sanitize=true&quot; alt=&quot;Chat Server&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://tauri.app&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/website-tauri.app-purple.svg?sanitize=true&quot; alt=&quot;website&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://good-labs.github.io/greater-good-affirmation&quot;&gt;&lt;img src=&quot;https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg?sanitize=true&quot; alt=&quot;https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://opencollective.com/tauri&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/sponsor-Open%20Collective-blue.svg?sanitize=true&quot; alt=&quot;support&quot;&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;Introduction&lt;/h2&gt; 
+&lt;p&gt;Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.&lt;/p&gt; 
+&lt;p&gt;The user interface in Tauri apps currently leverages &lt;a href=&quot;https://docs.rs/tao&quot;&gt;&lt;code&gt;tao&lt;/code&gt;&lt;/a&gt; as a window handling library on macOS, Windows, Linux, Android and iOS. To render your application, Tauri uses &lt;a href=&quot;https://github.com/tauri-apps/wry&quot;&gt;WRY&lt;/a&gt;, a library which provides a unified interface to the system webview, leveraging WKWebView on macOS &amp;amp; iOS, WebView2 on Windows, WebKitGTK on Linux and Android System WebView on Android.&lt;/p&gt; 
+&lt;p&gt;To learn more about the details of how all of these pieces fit together, please consult this &lt;a href=&quot;https://github.com/tauri-apps/tauri/raw/dev/ARCHITECTURE.md&quot;&gt;ARCHITECTURE.md&lt;/a&gt; document.&lt;/p&gt; 
+&lt;h2&gt;Getting Started&lt;/h2&gt; 
+&lt;p&gt;If you are interested in making a tauri app, please visit the &lt;a href=&quot;https://tauri.app&quot;&gt;documentation website&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;The quickest way to get started is to install the &lt;a href=&quot;https://v2.tauri.app/start/prerequisites/&quot;&gt;prerequisites&lt;/a&gt; for your system and create a new project with &lt;a href=&quot;https://github.com/tauri-apps/create-tauri-app/#usage&quot;&gt;&lt;code&gt;create-tauri-app&lt;/code&gt;&lt;/a&gt;. For example with &lt;code&gt;npm&lt;/code&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;npm create tauri-app@latest
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Features&lt;/h2&gt; 
+&lt;p&gt;The list of Tauri&#39;s features includes, but is not limited to:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Built-in app bundler to create app bundles in formats like &lt;code&gt;.app&lt;/code&gt;, &lt;code&gt;.dmg&lt;/code&gt;, &lt;code&gt;.deb&lt;/code&gt;, &lt;code&gt;.rpm&lt;/code&gt;, &lt;code&gt;.AppImage&lt;/code&gt; and Windows installers like &lt;code&gt;.exe&lt;/code&gt; (via NSIS) and &lt;code&gt;.msi&lt;/code&gt; (via WiX).&lt;/li&gt; 
+ &lt;li&gt;Built-in self updater (desktop only)&lt;/li&gt; 
+ &lt;li&gt;System tray icons&lt;/li&gt; 
+ &lt;li&gt;Native notifications&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tauri-apps/tauri/issues/10510&quot;&gt;Localhost free (🔥)&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;GitHub action for streamlined CI&lt;/li&gt; 
+ &lt;li&gt;VS Code extension&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Platforms&lt;/h3&gt; 
+&lt;p&gt;Tauri currently supports development and distribution on the following platforms:&lt;/p&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th align=&quot;left&quot;&gt;Platform&lt;/th&gt; 
+   &lt;th align=&quot;left&quot;&gt;Versions&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td align=&quot;left&quot;&gt;Windows&lt;/td&gt; 
+   &lt;td align=&quot;left&quot;&gt;7 and above&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td align=&quot;left&quot;&gt;macOS&lt;/td&gt; 
+   &lt;td align=&quot;left&quot;&gt;10.15 and above&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td align=&quot;left&quot;&gt;Linux&lt;/td&gt; 
+   &lt;td align=&quot;left&quot;&gt;webkit2gtk 4.0 for Tauri v1 (for example Ubuntu 18.04). webkit2gtk 4.1 for Tauri v2 (for example Ubuntu 22.04).&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td align=&quot;left&quot;&gt;iOS/iPadOS (beta)&lt;/td&gt; 
+   &lt;td align=&quot;left&quot;&gt;9 and above&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td align=&quot;left&quot;&gt;Android (beta)&lt;/td&gt; 
+   &lt;td align=&quot;left&quot;&gt;7 and above&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;p&gt;Before you start working on something, it&#39;s best to check if there is an existing issue first. It&#39;s also a good idea to stop by the Discord server and confirm with the team if it makes sense or if someone else is already working on it.&lt;/p&gt; 
+&lt;p&gt;Please make sure to read the &lt;a href=&quot;https://raw.githubusercontent.com/tauri-apps/tauri/dev/.github/CONTRIBUTING.md&quot;&gt;Contributing Guide&lt;/a&gt; before making a pull request.&lt;/p&gt; 
+&lt;p&gt;Thank you to everyone contributing to Tauri!&lt;/p&gt; 
+&lt;h3&gt;Documentation&lt;/h3&gt; 
+&lt;p&gt;Documentation in a polyglot system is a tricky proposition. To this end, we prefer to use inline documentation in the Rust &amp;amp; JS source code as much as possible. Check out the hosting repository for the documentation site for further information: &lt;a href=&quot;https://github.com/tauri-apps/tauri-docs&quot;&gt;https://github.com/tauri-apps/tauri-docs&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;Partners&lt;/h2&gt; 
+&lt;table&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td align=&quot;center&quot; valign=&quot;middle&quot;&gt; &lt;a href=&quot;https://crabnebula.dev&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://raw.githubusercontent.com/tauri-apps/tauri/dev/.github/sponsors/crabnebula.svg?sanitize=true&quot; alt=&quot;CrabNebula&quot; width=&quot;283&quot;&gt; &lt;/a&gt; &lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;p&gt;For the complete list of sponsors please visit our &lt;a href=&quot;https://tauri.app#sponsors&quot;&gt;website&lt;/a&gt; and &lt;a href=&quot;https://opencollective.com/tauri&quot;&gt;Open Collective&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Organization&lt;/h2&gt; 
+&lt;p&gt;Tauri aims to be a sustainable collective based on principles that guide &lt;a href=&quot;https://sfosc.org&quot;&gt;sustainable free and open software communities&lt;/a&gt;. To this end it has become a Programme within the &lt;a href=&quot;https://commonsconservancy.org/&quot;&gt;Commons Conservancy&lt;/a&gt;, and you can contribute financially via &lt;a href=&quot;https://opencollective.com/tauri&quot;&gt;Open Collective&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Licenses&lt;/h2&gt; 
+&lt;p&gt;Code: (c) 2015 - Present - The Tauri Programme within The Commons Conservancy.&lt;/p&gt; 
+&lt;p&gt;MIT or MIT/Apache 2.0 where applicable.&lt;/p&gt; 
+&lt;p&gt;Logo: CC-BY-NC-ND&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Original Tauri Logo Designs by &lt;a href=&quot;https://alve.io/&quot;&gt;Alve Larsson&lt;/a&gt;, &lt;a href=&quot;https://github.com/nothingismagick&quot;&gt;Daniel Thompson-Yvetot&lt;/a&gt; and &lt;a href=&quot;https://github.com/akryum&quot;&gt;Guillaume Chau&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;&lt;a href=&quot;https://app.fossa.com/projects/git%2Bgithub.com%2Ftauri-apps%2Ftauri?ref=badge_large&quot;&gt;&lt;img src=&quot;https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftauri-apps%2Ftauri.svg?type=large&quot; alt=&quot;FOSSA Status&quot;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ollama/ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>&lt;p&gt;Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.&lt;/p&gt;&lt;hr&gt;&lt;div align=&quot;center&quot;&gt;
+  &amp;nbsp;
+ &lt;img alt=&quot;ollama&quot; height=&quot;200px&quot; src=&quot;https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7&quot;&gt; 
+&lt;/div&gt; 
+&lt;h1&gt;Ollama&lt;/h1&gt; 
+&lt;p&gt;&lt;a href=&quot;https://discord.gg/ollama&quot;&gt;&lt;img src=&quot;https://dcbadge.vercel.app/api/server/ollama?style=flat&amp;amp;compact=true&quot; alt=&quot;Discord&quot;&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;Get up and running with large language models.&lt;/p&gt; 
+&lt;h3&gt;macOS&lt;/h3&gt; 
+&lt;p&gt;&lt;a href=&quot;https://ollama.com/download/Ollama-darwin.zip&quot;&gt;Download&lt;/a&gt;&lt;/p&gt; 
+&lt;h3&gt;Windows&lt;/h3&gt; 
+&lt;p&gt;&lt;a href=&quot;https://ollama.com/download/OllamaSetup.exe&quot;&gt;Download&lt;/a&gt;&lt;/p&gt; 
+&lt;h3&gt;Linux&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;curl -fsSL https://ollama.com/install.sh | sh
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/ollama/ollama/raw/main/docs/linux.md&quot;&gt;Manual install instructions&lt;/a&gt;&lt;/p&gt; 
+&lt;h3&gt;Docker&lt;/h3&gt; 
+&lt;p&gt;The official &lt;a href=&quot;https://hub.docker.com/r/ollama/ollama&quot;&gt;Ollama Docker image&lt;/a&gt; &lt;code&gt;ollama/ollama&lt;/code&gt; is available on Docker Hub.&lt;/p&gt; 
+&lt;h3&gt;Libraries&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ollama/ollama-python&quot;&gt;ollama-python&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ollama/ollama-js&quot;&gt;ollama-js&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Quickstart&lt;/h2&gt; 
+&lt;p&gt;To run and chat with &lt;a href=&quot;https://ollama.com/library/llama3.2&quot;&gt;Llama 3.2&lt;/a&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;ollama run llama3.2
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Model library&lt;/h2&gt; 
+&lt;p&gt;Ollama supports a list of models available on &lt;a href=&quot;https://ollama.com/library&quot; title=&quot;ollama model library&quot;&gt;ollama.com/library&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;Here are some example models that can be downloaded:&lt;/p&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;Model&lt;/th&gt; 
+   &lt;th&gt;Parameters&lt;/th&gt; 
+   &lt;th&gt;Size&lt;/th&gt; 
+   &lt;th&gt;Download&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Llama 3.3&lt;/td&gt; 
+   &lt;td&gt;70B&lt;/td&gt; 
+   &lt;td&gt;43GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llama3.3&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Llama 3.2&lt;/td&gt; 
+   &lt;td&gt;3B&lt;/td&gt; 
+   &lt;td&gt;2.0GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llama3.2&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Llama 3.2&lt;/td&gt; 
+   &lt;td&gt;1B&lt;/td&gt; 
+   &lt;td&gt;1.3GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llama3.2:1b&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Llama 3.2 Vision&lt;/td&gt; 
+   &lt;td&gt;11B&lt;/td&gt; 
+   &lt;td&gt;7.9GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llama3.2-vision&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Llama 3.2 Vision&lt;/td&gt; 
+   &lt;td&gt;90B&lt;/td&gt; 
+   &lt;td&gt;55GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llama3.2-vision:90b&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Llama 3.1&lt;/td&gt; 
+   &lt;td&gt;8B&lt;/td&gt; 
+   &lt;td&gt;4.7GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llama3.1&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Llama 3.1&lt;/td&gt; 
+   &lt;td&gt;405B&lt;/td&gt; 
+   &lt;td&gt;231GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llama3.1:405b&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Phi 3 Mini&lt;/td&gt; 
+   &lt;td&gt;3.8B&lt;/td&gt; 
+   &lt;td&gt;2.3GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run phi3&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Phi 3 Medium&lt;/td&gt; 
+   &lt;td&gt;14B&lt;/td&gt; 
+   &lt;td&gt;7.9GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run phi3:medium&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Gemma 2&lt;/td&gt; 
+   &lt;td&gt;2B&lt;/td&gt; 
+   &lt;td&gt;1.6GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run gemma2:2b&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Gemma 2&lt;/td&gt; 
+   &lt;td&gt;9B&lt;/td&gt; 
+   &lt;td&gt;5.5GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run gemma2&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Gemma 2&lt;/td&gt; 
+   &lt;td&gt;27B&lt;/td&gt; 
+   &lt;td&gt;16GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run gemma2:27b&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Mistral&lt;/td&gt; 
+   &lt;td&gt;7B&lt;/td&gt; 
+   &lt;td&gt;4.1GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run mistral&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Moondream 2&lt;/td&gt; 
+   &lt;td&gt;1.4B&lt;/td&gt; 
+   &lt;td&gt;829MB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run moondream&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Neural Chat&lt;/td&gt; 
+   &lt;td&gt;7B&lt;/td&gt; 
+   &lt;td&gt;4.1GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run neural-chat&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Starling&lt;/td&gt; 
+   &lt;td&gt;7B&lt;/td&gt; 
+   &lt;td&gt;4.1GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run starling-lm&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Code Llama&lt;/td&gt; 
+   &lt;td&gt;7B&lt;/td&gt; 
+   &lt;td&gt;3.8GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run codellama&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Llama 2 Uncensored&lt;/td&gt; 
+   &lt;td&gt;7B&lt;/td&gt; 
+   &lt;td&gt;3.8GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llama2-uncensored&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;LLaVA&lt;/td&gt; 
+   &lt;td&gt;7B&lt;/td&gt; 
+   &lt;td&gt;4.5GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run llava&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Solar&lt;/td&gt; 
+   &lt;td&gt;10.7B&lt;/td&gt; 
+   &lt;td&gt;6.1GB&lt;/td&gt; 
+   &lt;td&gt;&lt;code&gt;ollama run solar&lt;/code&gt;&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;[!NOTE] You should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.&lt;/p&gt; 
+&lt;/blockquote&gt; 
+&lt;h2&gt;Customize a model&lt;/h2&gt; 
+&lt;h3&gt;Import from GGUF&lt;/h3&gt; 
+&lt;p&gt;Ollama supports importing GGUF models in the Modelfile:&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt; &lt;p&gt;Create a file named &lt;code&gt;Modelfile&lt;/code&gt;, with a &lt;code&gt;FROM&lt;/code&gt; instruction with the local filepath to the model you want to import.&lt;/p&gt; &lt;pre&gt;&lt;code&gt;FROM ./vicuna-33b.Q4_0.gguf
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Create the model in Ollama&lt;/p&gt; &lt;pre&gt;&lt;code&gt;ollama create example -f Modelfile
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Run the model&lt;/p&gt; &lt;pre&gt;&lt;code&gt;ollama run example
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;h3&gt;Import from PyTorch or Safetensors&lt;/h3&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://raw.githubusercontent.com/ollama/ollama/main/docs/import.md&quot;&gt;guide&lt;/a&gt; on importing models for more information.&lt;/p&gt; 
+&lt;h3&gt;Customize a prompt&lt;/h3&gt; 
+&lt;p&gt;Models from the Ollama library can be customized with a prompt. For example, to customize the &lt;code&gt;llama3.2&lt;/code&gt; model:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;ollama pull llama3.2
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Create a &lt;code&gt;Modelfile&lt;/code&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;FROM llama3.2
+
+# set the temperature to 1 [higher is more creative, lower is more coherent]
+PARAMETER temperature 1
+
+# set the system message
+SYSTEM &quot;&quot;&quot;
+You are Mario from Super Mario Bros. Answer as Mario, the assistant, only.
+&quot;&quot;&quot;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Next, create and run the model:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;ollama create mario -f ./Modelfile
+ollama run mario
+&amp;gt;&amp;gt;&amp;gt; hi
+Hello! It&#39;s your friend Mario.
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;For more examples, see the &lt;a href=&quot;https://raw.githubusercontent.com/ollama/ollama/main/examples&quot;&gt;examples&lt;/a&gt; directory. For more information on working with a Modelfile, see the &lt;a href=&quot;https://raw.githubusercontent.com/ollama/ollama/main/docs/modelfile.md&quot;&gt;Modelfile&lt;/a&gt; documentation.&lt;/p&gt; 
+&lt;h2&gt;CLI Reference&lt;/h2&gt; 
+&lt;h3&gt;Create a model&lt;/h3&gt; 
+&lt;p&gt;&lt;code&gt;ollama create&lt;/code&gt; is used to create a model from a Modelfile.&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;ollama create mymodel -f ./Modelfile
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Pull a model&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;ollama pull llama3.2
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;This command can also be used to update a local model. Only the diff will be pulled.&lt;/p&gt; 
+&lt;/blockquote&gt; 
+&lt;h3&gt;Remove a model&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;ollama rm llama3.2
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Copy a model&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;ollama cp llama3.2 my-model
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Multiline input&lt;/h3&gt; 
+&lt;p&gt;For multiline input, you can wrap text with &lt;code&gt;&quot;&quot;&quot;&lt;/code&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; &quot;&quot;&quot;Hello,
+... world!
+... &quot;&quot;&quot;
+I&#39;m a basic program that prints the famous &quot;Hello, world!&quot; message to the console.
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Multimodal models&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;ollama run llava &quot;What&#39;s in this image? /Users/jmorgan/Desktop/smile.png&quot;
+The image features a yellow smiley face, which is likely the central focus of the picture.
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Pass the prompt as an argument&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;$ ollama run llama3.2 &quot;Summarize this file: $(cat README.md)&quot;
+ Ollama is a lightweight, extensible framework for building and running language models on the local machine. It provides a simple API for creating, running, and managing models, as well as a library of pre-built models that can be easily used in a variety of applications.
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Show model information&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;ollama show llama3.2
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;List models on your computer&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;ollama list
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;List which models are currently loaded&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;ollama ps
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Stop a model which is currently running&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;ollama stop llama3.2
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Start Ollama&lt;/h3&gt; 
+&lt;p&gt;&lt;code&gt;ollama serve&lt;/code&gt; is used when you want to start ollama without running the desktop application.&lt;/p&gt; 
+&lt;h2&gt;Building&lt;/h2&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://github.com/ollama/ollama/raw/main/docs/development.md&quot;&gt;developer guide&lt;/a&gt;&lt;/p&gt; 
+&lt;h3&gt;Running local builds&lt;/h3&gt; 
+&lt;p&gt;Next, start the server:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;./ollama serve
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Finally, in a separate shell, run a model:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;./ollama run llama3.2
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;REST API&lt;/h2&gt; 
+&lt;p&gt;Ollama has a REST API for running and managing models.&lt;/p&gt; 
+&lt;h3&gt;Generate a response&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;curl http://localhost:11434/api/generate -d &#39;{
+  &quot;model&quot;: &quot;llama3.2&quot;,
+  &quot;prompt&quot;:&quot;Why is the sky blue?&quot;
+}&#39;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Chat with a model&lt;/h3&gt; 
+&lt;pre&gt;&lt;code&gt;curl http://localhost:11434/api/chat -d &#39;{
+  &quot;model&quot;: &quot;llama3.2&quot;,
+  &quot;messages&quot;: [
+    { &quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;why is the sky blue?&quot; }
+  ]
+}&#39;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;See the &lt;a href=&quot;https://raw.githubusercontent.com/ollama/ollama/main/docs/api.md&quot;&gt;API documentation&lt;/a&gt; for all endpoints.&lt;/p&gt; 
+&lt;h2&gt;Community Integrations&lt;/h2&gt; 
+&lt;h3&gt;Web &amp;amp; Desktop&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/open-webui/open-webui&quot;&gt;Open WebUI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/AugustDev/enchanted&quot;&gt;Enchanted (macOS native)&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/fmaclen/hollama&quot;&gt;Hollama&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ParisNeo/lollms-webui&quot;&gt;Lollms-Webui&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/danny-avila/LibreChat&quot;&gt;LibreChat&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/bionic-gpt/bionic-gpt&quot;&gt;Bionic GPT&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rtcfirefly/ollama-ui&quot;&gt;HTML UI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/jikkuatwork/saddle&quot;&gt;Saddle&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ivanfioravanti/chatbot-ollama&quot;&gt;Chatbot UI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/mckaywrigley/chatbot-ui&quot;&gt;Chatbot UI v2&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ollama-interface/Ollama-Gui?tab=readme-ov-file&quot;&gt;Typescript UI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/richawo/minimal-llm-ui&quot;&gt;Minimalistic React UI for Ollama Models&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kevinhermawan/Ollamac&quot;&gt;Ollamac&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/enricoros/big-AGI/raw/main/docs/config-local-ollama.md&quot;&gt;big-AGI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/cheshire-cat-ai/core&quot;&gt;Cheshire Cat assistant framework&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/semperai/amica&quot;&gt;Amica&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/BruceMacD/chatd&quot;&gt;chatd&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kghandour/Ollama-SwiftUI&quot;&gt;Ollama-SwiftUI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/langgenius/dify&quot;&gt;Dify.AI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://mindmac.app&quot;&gt;MindMac&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/jakobhoeg/nextjs-ollama-llm-ui&quot;&gt;NextJS Web Interface for Ollama&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://msty.app&quot;&gt;Msty&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Bin-Huang/Chatbox&quot;&gt;Chatbox&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tgraupmann/WinForm_Ollama_Copilot&quot;&gt;WinForm Ollama Copilot&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web&quot;&gt;NextChat&lt;/a&gt; with &lt;a href=&quot;https://docs.nextchat.dev/models/ollama&quot;&gt;Get Started Doc&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/mmo80/alpaca-webui&quot;&gt;Alpaca WebUI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/enoch1118/ollamaGUI&quot;&gt;OllamaGUI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/InternLM/OpenAOE&quot;&gt;OpenAOE&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/leonid20000/OdinRunes&quot;&gt;Odin Runes&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/mrdjohnson/llm-x&quot;&gt;LLM-X&lt;/a&gt; (Progressive Web App)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Mintplex-Labs/anything-llm&quot;&gt;AnythingLLM (Docker + MacOs/Windows/Linux native app)&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rapidarchitect/ollama_basic_chat&quot;&gt;Ollama Basic Chat: Uses HyperDiv Reactive UI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/drazdra/ollama-chats&quot;&gt;Ollama-chats RPG&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/reid41/QA-Pilot&quot;&gt;QA-Pilot&lt;/a&gt; (Interactive chat tool that can leverage Ollama models for rapid understanding and navigation of GitHub code repositories)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/sugarforever/chat-ollama&quot;&gt;ChatOllama&lt;/a&gt; (Open Source Chatbot based on Ollama with Knowledge Bases)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Nagi-ovo/CRAG-Ollama-Chat&quot;&gt;CRAG Ollama Chat&lt;/a&gt; (Simple Web Search with Corrective RAG)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/infiniflow/ragflow&quot;&gt;RAGFlow&lt;/a&gt; (Open-source Retrieval-Augmented Generation engine based on deep document understanding)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/StreamDeploy-DevRel/streamdeploy-llm-app-scaffold&quot;&gt;StreamDeploy&lt;/a&gt; (LLM Application Scaffold)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/swuecho/chat&quot;&gt;chat&lt;/a&gt; (chat web app for teams)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/lobehub/lobe-chat&quot;&gt;Lobe Chat&lt;/a&gt; with &lt;a href=&quot;https://lobehub.com/docs/self-hosting/examples/ollama&quot;&gt;Integrating Doc&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/datvodinh/rag-chatbot.git&quot;&gt;Ollama RAG Chatbot&lt;/a&gt; (Local Chat with multiple PDFs using Ollama and RAG)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://www.nurgo-software.com/products/brainsoup&quot;&gt;BrainSoup&lt;/a&gt; (Flexible native client with RAG &amp;amp; multi-agent automation)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Renset/macai&quot;&gt;macai&lt;/a&gt; (macOS client for Ollama, ChatGPT, and other compatible API back-ends)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/josStorer/RWKV-Runner&quot;&gt;RWKV-Runner&lt;/a&gt; (RWKV offline LLM deployment tool, also usable as a client for ChatGPT and Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/dezoito/ollama-grid-search&quot;&gt;Ollama Grid Search&lt;/a&gt; (app to evaluate and compare models)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Otacon/olpaka&quot;&gt;Olpaka&lt;/a&gt; (User-friendly Flutter Web App for Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/CrazyNeil/OllamaSpring&quot;&gt;OllamaSpring&lt;/a&gt; (Ollama Client for macOS)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kartikm7/llocal&quot;&gt;LLocal.in&lt;/a&gt; (Easy to use Electron Desktop Client for Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/dcSpark/shinkai-apps&quot;&gt;Shinkai Desktop&lt;/a&gt; (Two click install Local AI using Ollama + Files + RAG)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/zeyoyt/ailama&quot;&gt;AiLama&lt;/a&gt; (A Discord User App that allows you to interact with Ollama anywhere in discord )&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rapidarchitect/ollama_mesop/&quot;&gt;Ollama with Google Mesop&lt;/a&gt; (Mesop Chat Client implementation with Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/SciPhi-AI/R2R&quot;&gt;R2R&lt;/a&gt; (Open-source RAG engine)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/elearningshow/ollama-kis&quot;&gt;Ollama-Kis&lt;/a&gt; (A simple easy to use GUI with sample custom LLM for Drivers Education)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://opengpa.org&quot;&gt;OpenGPA&lt;/a&gt; (Open-source offline-first Enterprise Agentic Application)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/mateuszmigas/painting-droid&quot;&gt;Painting Droid&lt;/a&gt; (Painting app with AI integrations)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://www.kerlig.com/&quot;&gt;Kerlig AI&lt;/a&gt; (AI writing assistant for macOS)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/MindWorkAI/AI-Studio&quot;&gt;AI Studio&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/gyopak/sidellama&quot;&gt;Sidellama&lt;/a&gt; (browser-based LLM client)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/trypromptly/LLMStack&quot;&gt;LLMStack&lt;/a&gt; (No-code multi-agent framework to build LLM agents and workflows)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://boltai.com&quot;&gt;BoltAI for Mac&lt;/a&gt; (AI Chat Client for Mac)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/av/harbor&quot;&gt;Harbor&lt;/a&gt; (Containerized LLM Toolkit with Ollama as default backend)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/szczyglis-dev/py-gpt&quot;&gt;PyGPT&lt;/a&gt; (AI desktop assistant for Linux, Windows and Mac)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Significant-Gravitas/AutoGPT/raw/master/docs/content/platform/ollama.md&quot;&gt;AutoGPT&lt;/a&gt; (AutoGPT Ollama integration)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://www.jonathanhecl.com/go-crew/&quot;&gt;Go-CREW&lt;/a&gt; (Powerful Offline RAG in Golang)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/openvmp/partcad/&quot;&gt;PartCAD&lt;/a&gt; (CAD model generation with OpenSCAD and CadQuery)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ollama4j/ollama4j-web-ui&quot;&gt;Ollama4j Web UI&lt;/a&gt; - Java-based Web UI for Ollama built with Vaadin, Spring Boot and Ollama4j&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kspviswa/pyOllaMx&quot;&gt;PyOllaMx&lt;/a&gt; - macOS application capable of chatting with both Ollama and Apple MLX models.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/saoudrizwan/claude-dev&quot;&gt;Claude Dev&lt;/a&gt; - VSCode extension for multi-file/whole-repo coding&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kangfenmao/cherry-studio&quot;&gt;Cherry Studio&lt;/a&gt; (Desktop client with Ollama support)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/1runeberg/confichat&quot;&gt;ConfiChat&lt;/a&gt; (Lightweight, standalone, multi-platform, and privacy focused LLM chat interface with optional encryption)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/nickthecook/archyve&quot;&gt;Archyve&lt;/a&gt; (RAG-enabling document library)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rapidarchitect/ollama-crew-mesop&quot;&gt;crewAI with Mesop&lt;/a&gt; (Mesop Web Interface to run crewAI with Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/chyok/ollama-gui&quot;&gt;Tkinter-based client&lt;/a&gt; (Python tkinter-based Client for Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/trendy-design/llmchat&quot;&gt;LLMChat&lt;/a&gt; (Privacy focused, 100% local, intuitive all-in-one chat interface)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Leon-Sander/Local-Multimodal-AI-Chat&quot;&gt;Local Multimodal AI Chat&lt;/a&gt; (Ollama-based LLM Chat with support for multiple features, including PDF RAG, voice chat, image-based interactions, and integration with OpenAI.)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/xark-argo/argo&quot;&gt;ARGO&lt;/a&gt; (Locally download and run Ollama and Huggingface models with RAG on Mac/Windows/Linux)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/EliasPereirah/OrionChat&quot;&gt;OrionChat&lt;/a&gt; - OrionChat is a web interface for chatting with different AI providers&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/bklieger-groq/g1&quot;&gt;G1&lt;/a&gt; (Prototype of using prompting strategies to improve the LLM&#39;s reasoning through o1-like reasoning chains.)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/lemonit-eric-mao/ollama-web-management&quot;&gt;Web management&lt;/a&gt; (Web management page)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/promptery/promptery&quot;&gt;Promptery&lt;/a&gt; (desktop client for Ollama.)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/JHubi1/ollama-app&quot;&gt;Ollama App&lt;/a&gt; (Modern and easy-to-use multi-platform client for Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tcsenpai/spacellama&quot;&gt;SpaceLlama&lt;/a&gt; (Firefox and Chrome extension to quickly summarize web pages with ollama in a sidebar)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tcsenpai/youlama&quot;&gt;YouLama&lt;/a&gt; (Webapp to quickly summarize any YouTube video, supporting Invidious as well)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tcsenpai/dualmind&quot;&gt;DualMind&lt;/a&gt; (Experimental app allowing two models to talk to each other in the terminal or in a web interface)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/h1ddenpr0cess20/ollamarama-matrix&quot;&gt;ollamarama-matrix&lt;/a&gt; (Ollama chatbot for the Matrix chat protocol)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/anan1213095357/ollama-chat-app&quot;&gt;ollama-chat-app&lt;/a&gt; (Flutter-based chat app)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://www.perfectmemory.ai/&quot;&gt;Perfect Memory AI&lt;/a&gt; (Productivity AI assists personalized by what you have seen on your screen, heard and said in the meetings)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/hexastack/hexabot&quot;&gt;Hexabot&lt;/a&gt; (A conversational AI builder)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rapidarchitect/reddit_analyzer&quot;&gt;Reddit Rate&lt;/a&gt; (Search and Rate Reddit topics with a weighted summation)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/adarshM84/OpenTalkGpt&quot;&gt;OpenTalkGpt&lt;/a&gt; (Chrome Extension to manage open-source models supported by Ollama, create custom models, and chat with models from a user-friendly UI)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/vinhnx/vt.ai&quot;&gt;VT&lt;/a&gt; (A minimal multimodal AI chat app, with dynamic conversation routing. Supports local models via Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/nosia-ai/nosia&quot;&gt;Nosia&lt;/a&gt; (Easy to install and use RAG platform based on Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/nbonamy/witsy&quot;&gt;Witsy&lt;/a&gt; (An AI Desktop application available for Mac/Windows/Linux)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/US-Artificial-Intelligence/abbey&quot;&gt;Abbey&lt;/a&gt; (A configurable AI interface server with notebooks, document storage, and YouTube support)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/dmayboroda/minima&quot;&gt;Minima&lt;/a&gt; (RAG with on-premises or fully local workflow)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/AidfulAI/aidful-ollama-model-delete&quot;&gt;aidful-ollama-model-delete&lt;/a&gt; (User interface for simplified model cleanup)&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Cloud&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/run/docs/tutorials/gpu-gemma2-with-ollama&quot;&gt;Google Cloud&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://fly.io/docs/python/do-more/add-ollama/&quot;&gt;Fly.io&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://www.koyeb.com/deploy/ollama&quot;&gt;Koyeb&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Terminal&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ggozad/oterm&quot;&gt;oterm&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/s-kostyaev/ellama&quot;&gt;Ellama Emacs client&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/zweifisch/ollama&quot;&gt;Emacs client&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/David-Kunz/gen.nvim&quot;&gt;gen.nvim&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/nomnivore/ollama.nvim&quot;&gt;ollama.nvim&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/marco-souza/ollero.nvim&quot;&gt;ollero.nvim&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/gerazov/ollama-chat.nvim&quot;&gt;ollama-chat.nvim&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/huynle/ogpt.nvim&quot;&gt;ogpt.nvim&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/karthink/gptel&quot;&gt;gptel Emacs client&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/dustinblackman/oatmeal&quot;&gt;Oatmeal&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/pgibler/cmdh&quot;&gt;cmdh&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/npahlfer/ooo&quot;&gt;ooo&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/reid41/shell-pilot&quot;&gt;shell-pilot&lt;/a&gt;(Interact with models via pure shell scripts on Linux or macOS)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/pythops/tenere&quot;&gt;tenere&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/taketwo/llm-ollama&quot;&gt;llm-ollama&lt;/a&gt; for &lt;a href=&quot;https://llm.datasette.io/en/stable/&quot;&gt;Datasette&#39;s LLM CLI&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/anaisbetts/typechat-cli&quot;&gt;typechat-cli&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/djcopley/ShellOracle&quot;&gt;ShellOracle&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/yusufcanb/tlm&quot;&gt;tlm&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ericcurtin/podman-ollama&quot;&gt;podman-ollama&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/sammcj/gollama&quot;&gt;gollama&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/paulrobello/parllama&quot;&gt;ParLlama&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/cognitivetech/ollama-ebook-summary/&quot;&gt;Ollama eBook Summary&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rapidarchitect/ollama_moe&quot;&gt;Ollama Mixture of Experts (MOE) in 50 lines of code&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/pepo-ec/vim-intelligence-bridge&quot;&gt;vim-intelligence-bridge&lt;/a&gt; Simple interaction of &quot;Ollama&quot; with the Vim editor&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://x-cmd.com/mod/ollama&quot;&gt;x-cmd ollama&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/drunkwcodes/bb7&quot;&gt;bb7&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/marcusziade/Swollama&quot;&gt;SwollamaCLI&lt;/a&gt; bundled with the Swollama Swift package. &lt;a href=&quot;https://github.com/marcusziade/Swollama?tab=readme-ov-file#cli-usage&quot;&gt;Demo&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/sigoden/aichat&quot;&gt;aichat&lt;/a&gt; All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools &amp;amp; agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rrg92/powershai&quot;&gt;PowershAI&lt;/a&gt; PowerShell module that brings AI to terminal on Windows, including support for Ollama&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/xyproto/orbiton&quot;&gt;orbiton&lt;/a&gt; Configuration-free text editor and IDE with support for tab completion with Ollama.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Apple Vision Pro&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/AugustDev/enchanted&quot;&gt;Enchanted&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Database&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/mindsdb/mindsdb/raw/staging/mindsdb/integrations/handlers/ollama_handler/README.md&quot;&gt;MindsDB&lt;/a&gt; (Connects Ollama models with nearly 200 data platforms and apps)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/philippgille/chromem-go/raw/v0.5.0/embed_ollama.go&quot;&gt;chromem-go&lt;/a&gt; with &lt;a href=&quot;https://github.com/philippgille/chromem-go/tree/v0.5.0/examples/rag-wikipedia-ollama&quot;&gt;example&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/dbkangaroo/kangaroo&quot;&gt;Kangaroo&lt;/a&gt; (AI-powered SQL client and admin tool for popular databases)&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Package managers&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://archlinux.org/packages/extra/x86_64/ollama/&quot;&gt;Pacman&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/gentoo/guru/tree/master/app-misc/ollama&quot;&gt;Gentoo&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://artifacthub.io/packages/helm/ollama-helm/ollama&quot;&gt;Helm Chart&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://codeberg.org/tusharhero/ollama-guix&quot;&gt;Guix channel&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://search.nixos.org/packages?channel=24.05&amp;amp;show=ollama&amp;amp;from=0&amp;amp;size=50&amp;amp;sort=relevance&amp;amp;type=packages&amp;amp;query=ollama&quot;&gt;Nix package&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://flox.dev/blog/ollama-part-one&quot;&gt;Flox&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Libraries&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://python.langchain.com/docs/integrations/llms/ollama&quot;&gt;LangChain&lt;/a&gt; and &lt;a href=&quot;https://js.langchain.com/docs/integrations/chat/ollama/&quot;&gt;LangChain.js&lt;/a&gt; with &lt;a href=&quot;https://js.langchain.com/docs/tutorials/local_rag/&quot;&gt;example&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://firebase.google.com/docs/genkit/plugins/ollama&quot;&gt;Firebase Genkit&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/crewAIInc/crewAI&quot;&gt;crewAI&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/spring-projects/spring-ai&quot;&gt;Spring AI&lt;/a&gt; with &lt;a href=&quot;https://docs.spring.io/spring-ai/reference/api/chat/ollama-chat.html&quot;&gt;reference&lt;/a&gt; and &lt;a href=&quot;https://github.com/tzolov/ollama-tools&quot;&gt;example&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tmc/langchaingo/&quot;&gt;LangChainGo&lt;/a&gt; with &lt;a href=&quot;https://github.com/tmc/langchaingo/tree/main/examples/ollama-completion-example&quot;&gt;example&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/langchain4j/langchain4j&quot;&gt;LangChain4j&lt;/a&gt; with &lt;a href=&quot;https://github.com/langchain4j/langchain4j-examples/tree/main/ollama-examples/src/main/java&quot;&gt;example&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Abraxas-365/langchain-rust&quot;&gt;LangChainRust&lt;/a&gt; with &lt;a href=&quot;https://github.com/Abraxas-365/langchain-rust/raw/main/examples/llm_ollama.rs&quot;&gt;example&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/theodo-group/LLPhant?tab=readme-ov-file#ollama&quot;&gt;LLPhant&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://docs.llamaindex.ai/en/stable/examples/llm/ollama/&quot;&gt;LlamaIndex&lt;/a&gt; and &lt;a href=&quot;https://ts.llamaindex.ai/modules/llms/available_llms/ollama&quot;&gt;LlamaIndexTS&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/BerriAI/litellm&quot;&gt;LiteLLM&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/presbrey/ollamafarm&quot;&gt;OllamaFarm for Go&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/awaescher/OllamaSharp&quot;&gt;OllamaSharp for .NET&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/gbaptista/ollama-ai&quot;&gt;Ollama for Ruby&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/pepperoni21/ollama-rs&quot;&gt;Ollama-rs for Rust&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/jmont-dev/ollama-hpp&quot;&gt;Ollama-hpp for C++&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ollama4j/ollama4j&quot;&gt;Ollama4j for Java&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://modelfusion.dev/integration/model-provider/ollama&quot;&gt;ModelFusion Typescript Library&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kevinhermawan/OllamaKit&quot;&gt;OllamaKit for Swift&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/breitburg/dart-ollama&quot;&gt;Ollama for Dart&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/cloudstudio/ollama-laravel&quot;&gt;Ollama for Laravel&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/davidmigloz/langchain_dart&quot;&gt;LangChainDart&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/microsoft/semantic-kernel/tree/main/python/semantic_kernel/connectors/ai/ollama&quot;&gt;Semantic Kernel - Python&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/deepset-ai/haystack-integrations/raw/main/integrations/ollama.md&quot;&gt;Haystack&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/brainlid/langchain&quot;&gt;Elixir LangChain&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/JBGruber/rollama&quot;&gt;Ollama for R - rollama&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/hauselin/ollama-r&quot;&gt;Ollama for R - ollama-r&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/lebrunel/ollama-ex&quot;&gt;Ollama-ex for Elixir&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/b-tocs/abap_btocs_ollama&quot;&gt;Ollama Connector for SAP ABAP&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://testcontainers.com/modules/ollama/&quot;&gt;Testcontainers&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://portkey.ai/docs/welcome/integration-guides/ollama&quot;&gt;Portkey&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/svilupp/PromptingTools.jl&quot;&gt;PromptingTools.jl&lt;/a&gt; with an &lt;a href=&quot;https://svilupp.github.io/PromptingTools.jl/dev/examples/working_with_ollama&quot;&gt;example&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Project-Llama/llamascript&quot;&gt;LlamaScript&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/emirsahin1/llm-axe&quot;&gt;llm-axe&lt;/a&gt; (Python Toolkit for Building LLM Powered Apps)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://docs.gollm.co/examples/ollama-example&quot;&gt;Gollm&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/jonathanhecl/gollama&quot;&gt;Gollama for Golang&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/xyproto/ollamaclient&quot;&gt;Ollamaclient for Golang&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://gitlab.com/tozd/go/fun&quot;&gt;High-level function abstraction in Go&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ArdaGnsrn/ollama-php&quot;&gt;Ollama PHP&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/agents-flex/agents-flex&quot;&gt;Agents-Flex for Java&lt;/a&gt; with &lt;a href=&quot;https://github.com/agents-flex/agents-flex/tree/main/agents-flex-llm/agents-flex-llm-ollama/src/test/java/com/agentsflex/llm/ollama&quot;&gt;example&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/parakeet-nest/parakeet&quot;&gt;Parakeet&lt;/a&gt; is a GoLang library, made to simplify the development of small generative AI applications with Ollama.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/andygill/haverscript&quot;&gt;Haverscript&lt;/a&gt; with &lt;a href=&quot;https://github.com/andygill/haverscript/tree/main/examples&quot;&gt;examples&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/mattt/ollama-swift&quot;&gt;Ollama for Swift&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/marcusziade/Swollama&quot;&gt;Swollama for Swift&lt;/a&gt; with &lt;a href=&quot;https://marcusziade.github.io/Swollama/documentation/swollama/&quot;&gt;DocC&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/prasad89/golamify&quot;&gt;GoLamify&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tusharad/ollama-haskell&quot;&gt;Ollama for Haskell&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/nbonamy/multi-llm-ts&quot;&gt;multi-llm-ts&lt;/a&gt; (A Typescript/JavaScript library allowing access to different LLM in unified API)&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Mobile&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/AugustDev/enchanted&quot;&gt;Enchanted&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Mobile-Artificial-Intelligence/maid&quot;&gt;Maid&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/JHubi1/ollama-app&quot;&gt;Ollama App&lt;/a&gt; (Modern and easy-to-use multi-platform client for Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/1runeberg/confichat&quot;&gt;ConfiChat&lt;/a&gt; (Lightweight, standalone, multi-platform, and privacy focused LLM chat interface with optional encryption)&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Extensions &amp;amp; Plugins&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/MassimilianoPasquini97/raycast_ollama&quot;&gt;Raycast extension&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/mxyng/discollama&quot;&gt;Discollama&lt;/a&gt; (Discord bot inside the Ollama discord channel)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/continuedev/continue&quot;&gt;Continue&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/thewh1teagle/vibe&quot;&gt;Vibe&lt;/a&gt; (Transcribe and analyze meetings with Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/hinterdupfinger/obsidian-ollama&quot;&gt;Obsidian Ollama plugin&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/omagdy7/ollama-logseq&quot;&gt;Logseq Ollama plugin&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/andersrex/notesollama&quot;&gt;NotesOllama&lt;/a&gt; (Apple Notes Ollama plugin)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/samalba/dagger-chatbot&quot;&gt;Dagger Chatbot&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/mekb-turtle/discord-ai-bot&quot;&gt;Discord AI Bot&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ruecat/ollama-telegram&quot;&gt;Ollama Telegram Bot&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ej52/hass-ollama-conversation&quot;&gt;Hass Ollama Conversation&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/abrenneke/rivet-plugin-ollama&quot;&gt;Rivet plugin&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/longy2k/obsidian-bmo-chatbot&quot;&gt;Obsidian BMO Chatbot plugin&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/herval/cliobot&quot;&gt;Cliobot&lt;/a&gt; (Telegram bot with Ollama support)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/logancyang/obsidian-copilot&quot;&gt;Copilot for Obsidian plugin&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/pfrankov/obsidian-local-gpt&quot;&gt;Obsidian Local GPT plugin&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://docs.openinterpreter.com/language-model-setup/local-models/ollama&quot;&gt;Open Interpreter&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ex3ndr/llama-coder&quot;&gt;Llama Coder&lt;/a&gt; (Copilot alternative using Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/bernardo-bruning/ollama-copilot&quot;&gt;Ollama Copilot&lt;/a&gt; (Proxy that allows you to use ollama as a copilot like Github copilot)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rjmacarthy/twinny&quot;&gt;twinny&lt;/a&gt; (Copilot and Copilot chat alternative using Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/RussellCanfield/wingman-ai&quot;&gt;Wingman-AI&lt;/a&gt; (Copilot code and chat alternative using Ollama and Hugging Face)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/n4ze3m/page-assist&quot;&gt;Page Assist&lt;/a&gt; (Chrome Extension)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/imoize/plasmoid-ollamacontrol&quot;&gt;Plasmoid Ollama Control&lt;/a&gt; (KDE Plasma extension that allows you to quickly manage/control Ollama model)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/tusharhero/aitelegrambot&quot;&gt;AI Telegram Bot&lt;/a&gt; (Telegram bot using Ollama in backend)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/yaroslavyaroslav/OpenAI-sublime-text&quot;&gt;AI ST Completion&lt;/a&gt; (Sublime Text 4 AI assistant plugin with Ollama support)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/kevinthedang/discord-ollama&quot;&gt;Discord-Ollama Chat Bot&lt;/a&gt; (Generalized TypeScript Discord Bot w/ Tuning Documentation)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/josStorer/chatGPTBox&quot;&gt;ChatGPTBox: All in one browser extension&lt;/a&gt; with &lt;a href=&quot;https://github.com/josStorer/chatGPTBox/issues/616#issuecomment-1975186467&quot;&gt;Integrating Tutorial&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/rapmd73/Companion&quot;&gt;Discord AI chat/moderation bot&lt;/a&gt; Chat/moderation bot written in python. Uses Ollama to create personalities.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/nischalj10/headless-ollama&quot;&gt;Headless Ollama&lt;/a&gt; (Scripts to automatically install ollama client &amp;amp; models on any OS for apps that depends on ollama server)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/xuyangbocn/terraform-aws-self-host-llm&quot;&gt;Terraform AWS Ollama &amp;amp; Open WebUI&lt;/a&gt; (A Terraform module to deploy on AWS a ready-to-use Ollama service, together with its front end Open WebUI service.)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/jakubburkiewicz/node-red-contrib-ollama&quot;&gt;node-red-contrib-ollama&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ivostoykov/localAI&quot;&gt;Local AI Helper&lt;/a&gt; (Chrome and Firefox extensions that enable interactions with the active tab and customisable API endpoints. Includes secure storage for user prompts.)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/jake83741/vnc-lm&quot;&gt;vnc-lm&lt;/a&gt; (Discord bot for messaging with LLMs through Ollama and LiteLLM. Seamlessly move between local and flagship models.)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/SilasMarvin/lsp-ai&quot;&gt;LSP-AI&lt;/a&gt; (Open-source language server for AI-powered functionality)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Palm1r/QodeAssist&quot;&gt;QodeAssist&lt;/a&gt; (AI-powered coding assistant plugin for Qt Creator)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ECuiDev/obsidian-quiz-generator&quot;&gt;Obsidian Quiz Generator plugin&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/philffm/ai-summary-helper&quot;&gt;AI Summmary Helper plugin&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/suncloudsmoon/TextCraft&quot;&gt;TextCraft&lt;/a&gt; (Copilot in Word alternative using Ollama)&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/zeitlings/alfred-ollama&quot;&gt;Alfred Ollama&lt;/a&gt; (Alfred Workflow)&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Supported backends&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ggerganov/llama.cpp&quot;&gt;llama.cpp&lt;/a&gt; project founded by Georgi Gerganov.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Observability&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/openlit/openlit&quot;&gt;OpenLIT&lt;/a&gt; is an OpenTelemetry-native tool for monitoring Ollama Applications &amp;amp; GPUs using traces and metrics.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://docs.honeyhive.ai/integrations/ollama&quot;&gt;HoneyHive&lt;/a&gt; is an AI observability and evaluation platform for AI agents. Use HoneyHive to evaluate agent performance, interrogate failures, and monitor quality in production.&lt;/li&gt; 
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>al1abb/invoify</title>
+      <link>https://github.com/al1abb/invoify</link>
+      <description>&lt;p&gt;An invoice generator app built using Next.js, Typescript, and Shadcn&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Invoify&lt;/h1&gt; 
+&lt;p&gt;Invoify is a web-based invoice generator application built with Next.js 13, TypeScript, React, and the Shadcn UI library. It provides an easy way to create and manage professional invoices.&lt;/p&gt; 
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/public/assets/img/invoify-web-app.png&quot; alt=&quot;Invoify Website image&quot;&gt;&lt;/p&gt; 
+&lt;h2&gt;Table of Contents&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#invoify&quot;&gt;Invoify&lt;/a&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#table-of-contents&quot;&gt;Table of Contents&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#technologies&quot;&gt;Technologies&lt;/a&gt; 
+    &lt;ul&gt; 
+     &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#core-technologies&quot;&gt;Core Technologies&lt;/a&gt;&lt;/li&gt; 
+     &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#additional-dependencies&quot;&gt;Additional Dependencies&lt;/a&gt;&lt;/li&gt; 
+    &lt;/ul&gt; &lt;/li&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#roadmap&quot;&gt;Roadmap&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#demo&quot;&gt;Demo&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#getting-started&quot;&gt;Getting Started&lt;/a&gt; 
+    &lt;ul&gt; 
+     &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#prerequisites&quot;&gt;Prerequisites&lt;/a&gt;&lt;/li&gt; 
+     &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#installation&quot;&gt;Installation&lt;/a&gt;&lt;/li&gt; 
+    &lt;/ul&gt; &lt;/li&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/al1abb/invoify/master/#license&quot;&gt;License&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Technologies&lt;/h2&gt; 
+&lt;h3&gt;Core Technologies&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;Next.js:&lt;/strong&gt; React framework for SSR and client-side navigation.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;TypeScript:&lt;/strong&gt; JavaScript superset with static typing.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Shadcn-UI:&lt;/strong&gt; UI library for enhanced visuals.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Tailwind:&lt;/strong&gt; Utility-first CSS framework.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;React Hook Form:&lt;/strong&gt; Form management for React.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Zod:&lt;/strong&gt; TypeScript-first schema validation.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Puppeteer:&lt;/strong&gt; PDF generation with headless browsers.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Additional Dependencies&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;Nodemailer:&lt;/strong&gt; Node.js module for sending emails.&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Lucide Icons:&lt;/strong&gt; Collection of customizable SVG icons.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Roadmap&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;strong&gt;Easily Create Invoices:&lt;/strong&gt; Utilize a simple form to quickly generate invoices.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;strong&gt;Save for Future Access:&lt;/strong&gt; Store your invoices directly in your browser for easy retrieval.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;strong&gt;Retrieve Invoices Effortlessly:&lt;/strong&gt; Load and access invoices seamlessly from your saved list.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;strong&gt;Flexible Download Options:&lt;/strong&gt; Download invoices directly or send them via email in PDF format.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;strong&gt;Template Variety:&lt;/strong&gt; Choose from multiple (currently 2) invoice templates.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;strong&gt;Live Preview:&lt;/strong&gt; Edit the form and see changes in real-time with the live preview feature.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;strong&gt;Export in Various Formats:&lt;/strong&gt; Export invoices in different formats, including JSON, XLSX, CSV, and XML.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; &lt;strong&gt;I18N Support:&lt;/strong&gt; i18n support with multiple languages for UI and templates.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; &lt;strong&gt;Themeable Templates:&lt;/strong&gt; Select a theme color for the invoice&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; &lt;strong&gt;Custom Inputs:&lt;/strong&gt; Define your own inputs that are missing from the default invoice builder. (Ex: VAT number)&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; &lt;strong&gt;Individual Tax for Line Items:&lt;/strong&gt; Add tax details for a specific line item other than the general tax&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Demo&lt;/h2&gt; 
+&lt;blockquote&gt; 
+ &lt;p&gt;[!NOTE] Please be advised that there are currently issues when using this application in the Mozilla Firefox browser. For more information, refer to &lt;a href=&quot;https://github.com/aliabb01/invoify/issues/11&quot;&gt;Issue #11&lt;/a&gt;.&lt;/p&gt; 
+&lt;/blockquote&gt; 
+&lt;p&gt;Visit the &lt;a href=&quot;https://invoify.vercel.app&quot;&gt;live demo&lt;/a&gt; to see Invoify in action.&lt;/p&gt; 
+&lt;h2&gt;Getting Started&lt;/h2&gt; 
+&lt;p&gt;Follow these instructions to get Invoify up and running on your local machine.&lt;/p&gt; 
+&lt;h3&gt;Prerequisites&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Node.js and npm installed on your system.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Installation&lt;/h3&gt; 
+&lt;ol&gt; 
+ &lt;li&gt; &lt;p&gt;Clone the repository:&lt;/p&gt; &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git clone https://github.com/al1abb/invoify.git
+cd invoify
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Install dependencies&lt;/p&gt; &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;npm install
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Create an .env.local file with this content (This step is for sending pdf to email feature):&lt;/p&gt; &lt;pre&gt;&lt;code class=&quot;language-env&quot;&gt;NODEMAILER_EMAIL=your_email@example.com
+NODEMAILER_PW=your_email_password
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Start development server&lt;/p&gt; &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;npm run dev
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Open your web browser and access the application at &lt;a href=&quot;http://localhost:3000&quot;&gt;http://localhost:3000&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;!-- LICENSE --&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;Distributed under the MIT License. See &lt;code&gt;LICENSE.txt&lt;/code&gt; for more information.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>bitcoin/bitcoin</title>
+      <link>https://github.com/bitcoin/bitcoin</link>
+      <description>&lt;p&gt;Bitcoin Core integration/staging tree&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bitcoin Core integration/staging tree&lt;/h1&gt; 
+&lt;p&gt;&lt;a href=&quot;https://bitcoincore.org&quot;&gt;https://bitcoincore.org&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;For an immediately usable, binary version of the Bitcoin Core software, see &lt;a href=&quot;https://bitcoincore.org/en/download/&quot;&gt;https://bitcoincore.org/en/download/&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;What is Bitcoin Core?&lt;/h2&gt; 
+&lt;p&gt;Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully validate blocks and transactions. It also includes a wallet and graphical user interface, which can be optionally built.&lt;/p&gt; 
+&lt;p&gt;Further information about Bitcoin Core is available in the &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/doc&quot;&gt;doc folder&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;Bitcoin Core is released under the terms of the MIT license. See &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/COPYING&quot;&gt;COPYING&lt;/a&gt; for more information or see &lt;a href=&quot;https://opensource.org/licenses/MIT&quot;&gt;https://opensource.org/licenses/MIT&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Development Process&lt;/h2&gt; 
+&lt;p&gt;The &lt;code&gt;master&lt;/code&gt; branch is regularly built (see &lt;code&gt;doc/build-*.md&lt;/code&gt; for instructions) and tested, but it is not guaranteed to be completely stable. &lt;a href=&quot;https://github.com/bitcoin/bitcoin/tags&quot;&gt;Tags&lt;/a&gt; are created regularly from release branches to indicate new official, stable release versions of Bitcoin Core.&lt;/p&gt; 
+&lt;p&gt;The &lt;a href=&quot;https://github.com/bitcoin-core/gui&quot;&gt;https://github.com/bitcoin-core/gui&lt;/a&gt; repository is used exclusively for the development of the GUI. Its master branch is identical in all monotree repositories. Release branches and tags do not exist, so please do not fork that repository unless it is for development reasons.&lt;/p&gt; 
+&lt;p&gt;The contribution workflow is described in &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/CONTRIBUTING.md&quot;&gt;CONTRIBUTING.md&lt;/a&gt; and useful hints for developers can be found in &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/doc/developer-notes.md&quot;&gt;doc/developer-notes.md&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Testing&lt;/h2&gt; 
+&lt;p&gt;Testing and code review is the bottleneck for development; we get more pull requests than we can review and test on short notice. Please be patient and help out by testing other people&#39;s pull requests, and remember this is a security-critical project where any mistake might cost people lots of money.&lt;/p&gt; 
+&lt;h3&gt;Automated Testing&lt;/h3&gt; 
+&lt;p&gt;Developers are strongly encouraged to write &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/src/test/README.md&quot;&gt;unit tests&lt;/a&gt; for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren&#39;t disabled during the generation of the build system) with: &lt;code&gt;ctest&lt;/code&gt;. Further details on running and extending unit tests can be found in &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/src/test/README.md&quot;&gt;/src/test/README.md&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;There are also &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/test&quot;&gt;regression and integration tests&lt;/a&gt;, written in Python. These tests can be run (if the &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/test&quot;&gt;test dependencies&lt;/a&gt; are installed) with: &lt;code&gt;build/test/functional/test_runner.py&lt;/code&gt; (assuming &lt;code&gt;build&lt;/code&gt; is your build directory).&lt;/p&gt; 
+&lt;p&gt;The CI (Continuous Integration) systems make sure that every pull request is built for Windows, Linux, and macOS, and that unit/sanity tests are run automatically.&lt;/p&gt; 
+&lt;h3&gt;Manual Quality Assurance (QA) Testing&lt;/h3&gt; 
+&lt;p&gt;Changes should be tested by somebody other than the developer who wrote the code. This is especially important for large or high-risk changes. It is useful to add a test plan to the pull request description if testing the changes is not straightforward.&lt;/p&gt; 
+&lt;h2&gt;Translations&lt;/h2&gt; 
+&lt;p&gt;Changes to translations as well as new translations can be submitted to &lt;a href=&quot;https://www.transifex.com/bitcoin/bitcoin/&quot;&gt;Bitcoin Core&#39;s Transifex page&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Translations are periodically pulled from Transifex and merged into the git repository. See the &lt;a href=&quot;https://raw.githubusercontent.com/bitcoin/bitcoin/master/doc/translation_process.md&quot;&gt;translation process&lt;/a&gt; for details on how this works.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Important&lt;/strong&gt;: We do not accept translation changes as GitHub pull requests because the next pull from Transifex would automatically overwrite them again.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>&lt;p&gt;Elegant HTTP Networking in Swift&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/Resources/AlamofireLogo.png&quot; alt=&quot;Alamofire: Elegant Networking in Swift&quot;&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://img.shields.io/badge/Swift-5.9_5.10_6.0-Orange?style=flat-square&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Swift-5.9_5.10_6.0-orange?style=flat-square&quot; alt=&quot;Swift&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://img.shields.io/badge/Platforms-macOS_iOS_tvOS_watchOS_vision_OS_Linux_Windows_Android-Green?style=flat-square&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Platforms-macOS_iOS_tvOS_watchOS_visionOS_Linux_Windows_Android-yellowgreen?style=flat-square&quot; alt=&quot;Platforms&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://img.shields.io/cocoapods/v/Alamofire.svg&quot;&gt;&lt;img src=&quot;https://img.shields.io/cocoapods/v/Alamofire.svg?style=flat-square&quot; alt=&quot;CocoaPods Compatible&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/Carthage/Carthage&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat-square&quot; alt=&quot;Carthage Compatible&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square&quot; alt=&quot;Swift Package Manager&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://forums.swift.org/c/related-projects/alamofire/37&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Swift_Forums-Alamofire-orange?style=flat-square&quot; alt=&quot;Swift Forums&quot;&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;Alamofire is an HTTP networking library written in Swift.&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#features&quot;&gt;Features&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#component-libraries&quot;&gt;Component Libraries&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#requirements&quot;&gt;Requirements&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#migration-guides&quot;&gt;Migration Guides&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#communication&quot;&gt;Communication&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#installation&quot;&gt;Installation&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#contributing&quot;&gt;Contributing&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#using-alamofire&quot;&gt;Usage&lt;/a&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#introduction&quot;&gt;&lt;strong&gt;Introduction -&lt;/strong&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#making-requests&quot;&gt;Making Requests&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#response-handling&quot;&gt;Response Handling&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#response-validation&quot;&gt;Response Validation&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#response-caching&quot;&gt;Response Caching&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;strong&gt;HTTP -&lt;/strong&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#http-methods&quot;&gt;HTTP Methods&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#%23request-parameters-and-parameter-encoders&quot;&gt;Parameters and Parameter Encoder&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#http-headers&quot;&gt;HTTP Headers&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#authentication&quot;&gt;Authentication&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;strong&gt;Large Data -&lt;/strong&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#downloading-data-to-a-file&quot;&gt;Downloading Data to a File&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#uploading-data-to-a-server&quot;&gt;Uploading Data to a Server&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;strong&gt;Tools -&lt;/strong&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#statistical-metrics&quot;&gt;Statistical Metrics&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Usage.md#curl-command-output&quot;&gt;cURL Command Output&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md&quot;&gt;Advanced Usage&lt;/a&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;&lt;strong&gt;URL Session -&lt;/strong&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#session&quot;&gt;Session Manager&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#sessiondelegate&quot;&gt;Session Delegate&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#request&quot;&gt;Request&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;strong&gt;Routing -&lt;/strong&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#routing-requests&quot;&gt;Routing Requests&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#adapting-and-retrying-requests-with-requestinterceptor&quot;&gt;Adapting and Retrying Requests&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;strong&gt;Model Objects -&lt;/strong&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#customizing-response-handlers&quot;&gt;Custom Response Handlers&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;strong&gt;Advanced Concurrency -&lt;/strong&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#using-alamofire-with-swift-concurrency&quot;&gt;Swift Concurrency&lt;/a&gt; and &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#using-alamofire-with-combine&quot;&gt;Combine&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;strong&gt;Connection -&lt;/strong&gt; &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#security&quot;&gt;Security&lt;/a&gt;, &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/AdvancedUsage.md#network-reachability&quot;&gt;Network Reachability&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#open-radars&quot;&gt;Open Radars&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#faq&quot;&gt;FAQ&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#credits&quot;&gt;Credits&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#donations&quot;&gt;Donations&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#license&quot;&gt;License&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Features&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Chainable Request / Response Methods&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Swift Concurrency Support Back to iOS 13, macOS 10.15, tvOS 13, and watchOS 6.&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Combine Support&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; URL / JSON Parameter Encoding&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Upload File / Data / Stream / MultipartFormData&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Download File using Request or Resume Data&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Authentication with &lt;code&gt;URLCredential&lt;/code&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; HTTP Response Validation&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Upload and Download Progress Closures with Progress&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; cURL Command Output&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Dynamically Adapt and Retry Requests&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; TLS Certificate and Public Key Pinning&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Network Reachability&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Comprehensive Unit and Integration Test Coverage&lt;/li&gt; 
+ &lt;li&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; &lt;a href=&quot;https://alamofire.github.io/Alamofire&quot;&gt;Complete Documentation&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Write Requests Fast!&lt;/h2&gt; 
+&lt;p&gt;Alamofire&#39;s compact syntax and extensive feature set allow requests with powerful features like automatic retry to be written in just a few lines of code.&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-swift&quot;&gt;// Automatic String to URL conversion, Swift concurrency support, and automatic retry.
+let response = await AF.request(&quot;https://httpbin.org/get&quot;, interceptor: .retryPolicy)
+                       // Automatic HTTP Basic Auth.
+                       .authenticate(username: &quot;user&quot;, password: &quot;pass&quot;)
+                       // Caching customization.
+                       .cacheResponse(using: .cache)
+                       // Redirect customization.
+                       .redirect(using: .follow)
+                       // Validate response code and Content-Type.
+                       .validate()
+                       // Produce a cURL command for the request.
+                       .cURLDescription { description in
+                         print(description)
+                       }
+                       // Automatic Decodable support with background parsing.
+                       .serializingDecodable(DecodableType.self)
+                       // Await the full response with metrics and a parsed body.
+                       .response
+// Detailed response description for easy debugging.
+debugPrint(response)
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Component Libraries&lt;/h2&gt; 
+&lt;p&gt;In order to keep Alamofire focused specifically on core networking implementations, additional component libraries have been created by the &lt;a href=&quot;https://github.com/Alamofire/Foundation&quot;&gt;Alamofire Software Foundation&lt;/a&gt; to bring additional functionality to the Alamofire ecosystem.&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/AlamofireImage&quot;&gt;AlamofireImage&lt;/a&gt; - An image library including image response serializers, &lt;code&gt;UIImage&lt;/code&gt; and &lt;code&gt;UIImageView&lt;/code&gt; extensions, custom image filters, an auto-purging in-memory cache, and a priority-based image downloading system.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/AlamofireNetworkActivityIndicator&quot;&gt;AlamofireNetworkActivityIndicator&lt;/a&gt; - Controls the visibility of the network activity indicator on iOS using Alamofire. It contains configurable delay timers to help mitigate flicker and can support &lt;code&gt;URLSession&lt;/code&gt; instances not managed by Alamofire.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Requirements&lt;/h2&gt; 
+&lt;table&gt; 
+ &lt;thead&gt; 
+  &lt;tr&gt; 
+   &lt;th&gt;Platform&lt;/th&gt; 
+   &lt;th&gt;Minimum Swift Version&lt;/th&gt; 
+   &lt;th&gt;Installation&lt;/th&gt; 
+   &lt;th&gt;Status&lt;/th&gt; 
+  &lt;/tr&gt; 
+ &lt;/thead&gt; 
+ &lt;tbody&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;iOS 10.0+ / macOS 10.12+ / tvOS 10.0+ / watchOS 3.0+&lt;/td&gt; 
+   &lt;td&gt;5.9 / Xcode 15.0&lt;/td&gt; 
+   &lt;td&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#cocoapods&quot;&gt;CocoaPods&lt;/a&gt;, &lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#carthage&quot;&gt;Carthage&lt;/a&gt;, &lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#swift-package-manager&quot;&gt;Swift Package Manager&lt;/a&gt;, &lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#manually&quot;&gt;Manual&lt;/a&gt;&lt;/td&gt; 
+   &lt;td&gt;Fully Tested&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Linux&lt;/td&gt; 
+   &lt;td&gt;Latest Only&lt;/td&gt; 
+   &lt;td&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#swift-package-manager&quot;&gt;Swift Package Manager&lt;/a&gt;&lt;/td&gt; 
+   &lt;td&gt;Building But Unsupported&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Windows&lt;/td&gt; 
+   &lt;td&gt;Latest Only&lt;/td&gt; 
+   &lt;td&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#swift-package-manager&quot;&gt;Swift Package Manager&lt;/a&gt;&lt;/td&gt; 
+   &lt;td&gt;Building But Unsupported&lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+   &lt;td&gt;Android&lt;/td&gt; 
+   &lt;td&gt;Latest Only&lt;/td&gt; 
+   &lt;td&gt;&lt;a href=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/#swift-package-manager&quot;&gt;Swift Package Manager&lt;/a&gt;&lt;/td&gt; 
+   &lt;td&gt;Building But Unsupported&lt;/td&gt; 
+  &lt;/tr&gt; 
+ &lt;/tbody&gt; 
+&lt;/table&gt; 
+&lt;h4&gt;Known Issues on Linux and Windows&lt;/h4&gt; 
+&lt;p&gt;Alamofire builds on Linux, Windows, and Android but there are missing features and many issues in the underlying &lt;code&gt;swift-corelibs-foundation&lt;/code&gt; that prevent full functionality and may cause crashes. These include:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;code&gt;ServerTrustManager&lt;/code&gt; and associated certificate functionality is unavailable, so there is no certificate pinning and no client certificate support.&lt;/li&gt; 
+ &lt;li&gt;Various methods of HTTP authentication may crash, including HTTP Basic and HTTP Digest. Crashes may occur if responses contain server challenges.&lt;/li&gt; 
+ &lt;li&gt;Cache control through &lt;code&gt;CachedResponseHandler&lt;/code&gt; and associated APIs is unavailable, as the underlying delegate methods aren&#39;t called.&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;URLSessionTaskMetrics&lt;/code&gt; are never gathered.&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;WebSocketRequest&lt;/code&gt; is not available.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;Due to these issues, Alamofire is unsupported on Linux, Windows, and Android. Please report any crashes to the &lt;a href=&quot;https://bugs.swift.org&quot;&gt;Swift bug reporter&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Migration Guides&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Alamofire%205.0%20Migration%20Guide.md&quot;&gt;Alamofire 5.0 Migration Guide&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Alamofire%204.0%20Migration%20Guide.md&quot;&gt;Alamofire 4.0 Migration Guide&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Alamofire%203.0%20Migration%20Guide.md&quot;&gt;Alamofire 3.0 Migration Guide&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/Documentation/Alamofire%202.0%20Migration%20Guide.md&quot;&gt;Alamofire 2.0 Migration Guide&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Communication&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;If you &lt;strong&gt;need help with making network requests&lt;/strong&gt; using Alamofire, use &lt;a href=&quot;https://stackoverflow.com/questions/tagged/alamofire&quot;&gt;Stack Overflow&lt;/a&gt; and tag &lt;code&gt;alamofire&lt;/code&gt;.&lt;/li&gt; 
+ &lt;li&gt;If you need to &lt;strong&gt;find or understand an API&lt;/strong&gt;, check &lt;a href=&quot;http://alamofire.github.io/Alamofire/&quot;&gt;our documentation&lt;/a&gt; or &lt;a href=&quot;https://developer.apple.com/documentation/foundation/url_loading_system&quot;&gt;Apple&#39;s documentation for &lt;code&gt;URLSession&lt;/code&gt;&lt;/a&gt;, on top of which Alamofire is built.&lt;/li&gt; 
+ &lt;li&gt;If you need &lt;strong&gt;help with an Alamofire feature&lt;/strong&gt;, use &lt;a href=&quot;https://forums.swift.org/c/related-projects/alamofire&quot;&gt;our forum on swift.org&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;If you&#39;d like to &lt;strong&gt;discuss Alamofire best practices&lt;/strong&gt;, use &lt;a href=&quot;https://forums.swift.org/c/related-projects/alamofire&quot;&gt;our forum on swift.org&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;If you&#39;d like to &lt;strong&gt;discuss a feature request&lt;/strong&gt;, use &lt;a href=&quot;https://forums.swift.org/c/related-projects/alamofire&quot;&gt;our forum on swift.org&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;If you &lt;strong&gt;found a bug&lt;/strong&gt;, open an issue here on GitHub and follow the guide. The more detail the better!&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Installation&lt;/h2&gt; 
+&lt;h3&gt;Swift Package Manager&lt;/h3&gt; 
+&lt;p&gt;The &lt;a href=&quot;https://swift.org/package-manager/&quot;&gt;Swift Package Manager&lt;/a&gt; is a tool for automating the distribution of Swift code and is integrated into the &lt;code&gt;swift&lt;/code&gt; compiler.&lt;/p&gt; 
+&lt;p&gt;Once you have your Swift package set up, adding Alamofire as a dependency is as easy as adding it to the &lt;code&gt;dependencies&lt;/code&gt; value of your &lt;code&gt;Package.swift&lt;/code&gt; or the Package list in Xcode.&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-swift&quot;&gt;dependencies: [
+    .package(url: &quot;https://github.com/Alamofire/Alamofire.git&quot;, .upToNextMajor(from: &quot;5.10.0&quot;))
+]
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Normally you&#39;ll want to depend on the &lt;code&gt;Alamofire&lt;/code&gt; target:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-swift&quot;&gt;.product(name: &quot;Alamofire&quot;, package: &quot;Alamofire&quot;)
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;But if you want to force Alamofire to be dynamically linked (do not do this unless you&#39;re sure you need it), you can depend on the &lt;code&gt;AlamofireDynamic&lt;/code&gt; target:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-swift&quot;&gt;.product(name: &quot;AlamofireDynamic&quot;, package: &quot;Alamofire&quot;)
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;CocoaPods&lt;/h3&gt; 
+&lt;p&gt;&lt;a href=&quot;https://cocoapods.org&quot;&gt;CocoaPods&lt;/a&gt; is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your &lt;code&gt;Podfile&lt;/code&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;pod &#39;Alamofire&#39;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Carthage&lt;/h3&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/Carthage/Carthage&quot;&gt;Carthage&lt;/a&gt; is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate Alamofire into your Xcode project using Carthage, specify it in your &lt;code&gt;Cartfile&lt;/code&gt;:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-ogdl&quot;&gt;github &quot;Alamofire/Alamofire&quot;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Manually&lt;/h3&gt; 
+&lt;p&gt;If you prefer not to use any of the aforementioned dependency managers, you can integrate Alamofire into your project manually.&lt;/p&gt; 
+&lt;h4&gt;Embedded Framework&lt;/h4&gt; 
+&lt;ul&gt; 
+ &lt;li&gt; &lt;p&gt;Open up Terminal, &lt;code&gt;cd&lt;/code&gt; into your top-level project directory, and run the following command &quot;if&quot; your project is not initialized as a git repository:&lt;/p&gt; &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ git init
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Add Alamofire as a git &lt;a href=&quot;https://git-scm.com/docs/git-submodule&quot;&gt;submodule&lt;/a&gt; by running the following command:&lt;/p&gt; &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ git submodule add https://github.com/Alamofire/Alamofire.git
+&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Open the new &lt;code&gt;Alamofire&lt;/code&gt; folder, and drag the &lt;code&gt;Alamofire.xcodeproj&lt;/code&gt; into the Project Navigator of your application&#39;s Xcode project.&lt;/p&gt; 
+  &lt;blockquote&gt; 
+   &lt;p&gt;It should appear nested underneath your application&#39;s blue project icon. Whether it is above or below all the other Xcode groups does not matter.&lt;/p&gt; 
+  &lt;/blockquote&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Select the &lt;code&gt;Alamofire.xcodeproj&lt;/code&gt; in the Project Navigator and verify the deployment target matches that of your application target.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Next, select your application project in the Project Navigator (blue project icon) to navigate to the target configuration window and select the application target under the &quot;Targets&quot; heading in the sidebar.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;In the tab bar at the top of that window, open the &quot;General&quot; panel.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Click on the &lt;code&gt;+&lt;/code&gt; button under the &quot;Embedded Binaries&quot; section.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;You will see two different &lt;code&gt;Alamofire.xcodeproj&lt;/code&gt; folders each with two different versions of the &lt;code&gt;Alamofire.framework&lt;/code&gt; nested inside a &lt;code&gt;Products&lt;/code&gt; folder.&lt;/p&gt; 
+  &lt;blockquote&gt; 
+   &lt;p&gt;It does not matter which &lt;code&gt;Products&lt;/code&gt; folder you choose from, but it does matter whether you choose the top or bottom &lt;code&gt;Alamofire.framework&lt;/code&gt;.&lt;/p&gt; 
+  &lt;/blockquote&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Select the top &lt;code&gt;Alamofire.framework&lt;/code&gt; for iOS and the bottom one for macOS.&lt;/p&gt; 
+  &lt;blockquote&gt; 
+   &lt;p&gt;You can verify which one you selected by inspecting the build log for your project. The build target for &lt;code&gt;Alamofire&lt;/code&gt; will be listed as &lt;code&gt;Alamofire iOS&lt;/code&gt;, &lt;code&gt;Alamofire macOS&lt;/code&gt;, &lt;code&gt;Alamofire tvOS&lt;/code&gt;, or &lt;code&gt;Alamofire watchOS&lt;/code&gt;.&lt;/p&gt; 
+  &lt;/blockquote&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;And that&#39;s it!&lt;/p&gt; 
+  &lt;blockquote&gt; 
+   &lt;p&gt;The &lt;code&gt;Alamofire.framework&lt;/code&gt; is automagically added as a target dependency, linked framework and embedded framework in a copy files build phase which is all you need to build on the simulator and a device.&lt;/p&gt; 
+  &lt;/blockquote&gt; &lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;p&gt;Before contributing to Alamofire, please read the instructions detailed in our &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/CONTRIBUTING.md&quot;&gt;contribution guide&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Open Radars&lt;/h2&gt; 
+&lt;p&gt;The following radars have some effect on the current implementation of Alamofire.&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;http://www.openradar.me/radar?id=5517037090635776&quot;&gt;&lt;code&gt;rdar://21349340&lt;/code&gt;&lt;/a&gt; - Compiler throwing warning due to toll-free bridging issue in the test case&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;rdar://26870455&lt;/code&gt; - Background URL Session Configurations do not work in the simulator&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;rdar://26849668&lt;/code&gt; - Some URLProtocol APIs do not properly handle &lt;code&gt;URLRequest&lt;/code&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Resolved Radars&lt;/h2&gt; 
+&lt;p&gt;The following radars have been resolved over time after being filed against the Alamofire project.&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;http://www.openradar.me/radar?id=5010235949318144&quot;&gt;&lt;code&gt;rdar://26761490&lt;/code&gt;&lt;/a&gt; - Swift string interpolation causing memory leak with common usage. 
+  &lt;ul&gt; 
+   &lt;li&gt;(Resolved): 9/1/17 in Xcode 9 beta 6.&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;http://openradar.appspot.com/radar?id=4942308441063424&quot;&gt;&lt;code&gt;rdar://36082113&lt;/code&gt;&lt;/a&gt; - &lt;code&gt;URLSessionTaskMetrics&lt;/code&gt; failing to link on watchOS 3.0+ 
+  &lt;ul&gt; 
+   &lt;li&gt;(Resolved): Just add &lt;code&gt;CFNetwork&lt;/code&gt; to your linked frameworks.&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;FB7624529&lt;/code&gt; - &lt;code&gt;urlSession(_:task:didFinishCollecting:)&lt;/code&gt; never called on watchOS 
+  &lt;ul&gt; 
+   &lt;li&gt;(Resolved): Metrics now collected on watchOS 7+.&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;FAQ&lt;/h2&gt; 
+&lt;h3&gt;What&#39;s the origin of the name Alamofire?&lt;/h3&gt; 
+&lt;p&gt;Alamofire is named after the &lt;a href=&quot;https://aggie-horticulture.tamu.edu/wildseed/alamofire.html&quot;&gt;Alamo Fire flower&lt;/a&gt;, a hybrid variant of the Bluebonnet, the official state flower of Texas.&lt;/p&gt; 
+&lt;h2&gt;Credits&lt;/h2&gt; 
+&lt;p&gt;Alamofire is owned and maintained by the &lt;a href=&quot;http://alamofire.org&quot;&gt;Alamofire Software Foundation&lt;/a&gt;. You can follow them on Twitter at &lt;a href=&quot;https://twitter.com/AlamofireSF&quot;&gt;@AlamofireSF&lt;/a&gt; for project updates and releases.&lt;/p&gt; 
+&lt;h3&gt;Security Disclosure&lt;/h3&gt; 
+&lt;p&gt;If you believe you have identified a security vulnerability with Alamofire, you should report it as soon as possible via email to &lt;a href=&quot;mailto:security@alamofire.org&quot;&gt;security@alamofire.org&lt;/a&gt;. Please do not post it to a public issue tracker.&lt;/p&gt; 
+&lt;h2&gt;Sponsorship&lt;/h2&gt; 
+&lt;p&gt;The &lt;a href=&quot;https://github.com/Alamofire/Foundation#members&quot;&gt;ASF&lt;/a&gt; is looking to raise money to officially stay registered as a federal non-profit organization. Registering will allow Foundation members to gain some legal protections and also allow us to put donations to use, tax-free. Sponsoring the ASF will enable us to:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Pay our yearly legal fees to keep the non-profit in good status&lt;/li&gt; 
+ &lt;li&gt;Pay for our mail servers to help us stay on top of all questions and security issues&lt;/li&gt; 
+ &lt;li&gt;Potentially fund test servers to make it easier for us to test the edge cases&lt;/li&gt; 
+ &lt;li&gt;Potentially fund developers to work on one of our projects full-time&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;The community adoption of the ASF libraries has been amazing. We are greatly humbled by your enthusiasm around the projects and want to continue to do everything we can to move the needle forward. With your continued support, the ASF will be able to improve its reach and also provide better legal safety for the core members. If you use any of our libraries for work, see if your employers would be interested in donating. Any amount you can donate, whether once or monthly, to help us reach our goal would be greatly appreciated.&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/sponsors/Alamofire&quot;&gt;Sponsor Alamofire&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;Supporters&lt;/h2&gt; 
+&lt;p&gt;&lt;a href=&quot;https://macstadium.com&quot;&gt;MacStadium&lt;/a&gt; provides Alamofire with a free, hosted Mac mini.&lt;/p&gt; 
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Alamofire/Alamofire/master/Resources/MacStadiumLogo.png&quot; alt=&quot;Powered by MacStadium&quot;&gt;&lt;/p&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;Alamofire is released under the MIT license. &lt;a href=&quot;https://github.com/Alamofire/Alamofire/raw/master/LICENSE&quot;&gt;See LICENSE&lt;/a&gt; for details.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>leerob/next-saas-starter</title>
+      <link>https://github.com/leerob/next-saas-starter</link>
+      <description>&lt;p&gt;Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Next.js SaaS Starter&lt;/h1&gt; 
+&lt;p&gt;This is a starter template for building a SaaS application using &lt;strong&gt;Next.js&lt;/strong&gt; with support for authentication, Stripe integration for payments, and a dashboard for logged-in users.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Demo: &lt;a href=&quot;https://next-saas-start.vercel.app/&quot;&gt;https://next-saas-start.vercel.app/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;details&gt; 
+ &lt;summary&gt;Why did I make this?&lt;/summary&gt; 
+ &lt;p&gt;In 2020, I made a course called &quot;React 2025&quot; which showed how to build a SaaS application with Next.js, Stripe, and other tools.&lt;/p&gt; 
+ &lt;p&gt;Well, it&#39;s almost 2025 and React 19 has brought so many amazing new features I didn&#39;t predict! This repo is a demonstration of the latest React and Next.js patterns. These patterns can drastically simplify some common tasks in building your SaaS, like building forms, talking to your database, and more.&lt;/p&gt; 
+ &lt;p&gt;For example, React now has built in hooks like &lt;code&gt;useActionState&lt;/code&gt; to handle inline form errors and pending states. React Server Actions can replace a lot of boilerplate code needed to call an API Route from the client-side. And finally, the React &lt;code&gt;use&lt;/code&gt; hook combined with Next.js makes it incredibly easy to build a powerful &lt;code&gt;useUser()&lt;/code&gt; hook.&lt;/p&gt; 
+ &lt;p&gt;We&#39;re able to fetch the user from our Postgres database in the root layout, but &lt;em&gt;not&lt;/em&gt; await the &lt;code&gt;Promise&lt;/code&gt;. Instead, we forward the &lt;code&gt;Promise&lt;/code&gt; to a React context provider, where we can &quot;unwrap&quot; it and awaited the streamed in data. This means we can have the best of both worlds: easy code to fetch data from our database (e.g. &lt;code&gt;getUser()&lt;/code&gt;) and a React hook we can use in Client Components (e.g. &lt;code&gt;useUser()&lt;/code&gt;).&lt;/p&gt; 
+ &lt;p&gt;Fun fact: the majority of the UI for this application was built with &lt;a href=&quot;https://v0.dev&quot;&gt;v0&lt;/a&gt; 🤯 &lt;a href=&quot;https://x.com/leeerob/status/1835777934361084316&quot;&gt;More details here&lt;/a&gt; if you want to learn about this repo.&lt;/p&gt; 
+&lt;/details&gt; 
+&lt;h2&gt;Features&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Marketing landing page (&lt;code&gt;/&lt;/code&gt;) with animated Terminal element&lt;/li&gt; 
+ &lt;li&gt;Pricing page (&lt;code&gt;/pricing&lt;/code&gt;) which connects to Stripe Checkout&lt;/li&gt; 
+ &lt;li&gt;Dashboard pages with CRUD operations on users/teams&lt;/li&gt; 
+ &lt;li&gt;Basic RBAC with Owner and Member roles&lt;/li&gt; 
+ &lt;li&gt;Subscription management with Stripe Customer Portal&lt;/li&gt; 
+ &lt;li&gt;Email/password authentication with JWTs stored to cookies&lt;/li&gt; 
+ &lt;li&gt;Global middleware to protect logged-in routes&lt;/li&gt; 
+ &lt;li&gt;Local middleware to protect Server Actions or validate Zod schemas&lt;/li&gt; 
+ &lt;li&gt;Activity logging system for any user events&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Tech Stack&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;Framework&lt;/strong&gt;: &lt;a href=&quot;https://nextjs.org/&quot;&gt;Next.js&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Database&lt;/strong&gt;: &lt;a href=&quot;https://www.postgresql.org/&quot;&gt;Postgres&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;ORM&lt;/strong&gt;: &lt;a href=&quot;https://orm.drizzle.team/&quot;&gt;Drizzle&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Payments&lt;/strong&gt;: &lt;a href=&quot;https://stripe.com/&quot;&gt;Stripe&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;UI Library&lt;/strong&gt;: &lt;a href=&quot;https://ui.shadcn.com/&quot;&gt;shadcn/ui&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Getting Started&lt;/h2&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git clone https://github.com/leerob/next-saas-starter
+cd next-saas-starter
+pnpm install
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Running Locally&lt;/h2&gt; 
+&lt;p&gt;Use the included setup script to create your &lt;code&gt;.env&lt;/code&gt; file:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;pnpm db:setup
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Then, run the database migrations and seed the database with a default user and team:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;pnpm db:migrate
+pnpm db:seed
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;This will create the following user and team:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;User: &lt;code&gt;test@test.com&lt;/code&gt;&lt;/li&gt; 
+ &lt;li&gt;Password: &lt;code&gt;admin123&lt;/code&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;You can, of course, create new users as well through &lt;code&gt;/sign-up&lt;/code&gt;.&lt;/p&gt; 
+&lt;p&gt;Finally, run the Next.js development server:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;pnpm dev
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Open &lt;a href=&quot;http://localhost:3000&quot;&gt;http://localhost:3000&lt;/a&gt; in your browser to see the app in action.&lt;/p&gt; 
+&lt;p&gt;Optionally, you can listen for Stripe webhooks locally through their CLI to handle subscription change events:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;stripe listen --forward-to localhost:3000/api/stripe/webhook
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Testing Payments&lt;/h2&gt; 
+&lt;p&gt;To test Stripe payments, use the following test card details:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Card Number: &lt;code&gt;4242 4242 4242 4242&lt;/code&gt;&lt;/li&gt; 
+ &lt;li&gt;Expiration: Any future date&lt;/li&gt; 
+ &lt;li&gt;CVC: Any 3-digit number&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Going to Production&lt;/h2&gt; 
+&lt;p&gt;When you&#39;re ready to deploy your SaaS application to production, follow these steps:&lt;/p&gt; 
+&lt;h3&gt;Set up a production Stripe webhook&lt;/h3&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;Go to the Stripe Dashboard and create a new webhook for your production environment.&lt;/li&gt; 
+ &lt;li&gt;Set the endpoint URL to your production API route (e.g., &lt;code&gt;https://yourdomain.com/api/stripe/webhook&lt;/code&gt;).&lt;/li&gt; 
+ &lt;li&gt;Select the events you want to listen for (e.g., &lt;code&gt;checkout.session.completed&lt;/code&gt;, &lt;code&gt;customer.subscription.updated&lt;/code&gt;).&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;h3&gt;Deploy to Vercel&lt;/h3&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;Push your code to a GitHub repository.&lt;/li&gt; 
+ &lt;li&gt;Connect your repository to Vercel and deploy it.&lt;/li&gt; 
+ &lt;li&gt;Follow the Vercel deployment process, which will guide you through setting up your project.&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;h3&gt;Add environment variables&lt;/h3&gt; 
+&lt;p&gt;In your Vercel project settings (or during deployment), add all the necessary environment variables. Make sure to update the values for the production environment, including:&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;&lt;code&gt;BASE_URL&lt;/code&gt;: Set this to your production domain.&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;STRIPE_SECRET_KEY&lt;/code&gt;: Use your Stripe secret key for the production environment.&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;STRIPE_WEBHOOK_SECRET&lt;/code&gt;: Use the webhook secret from the production webhook you created in step 1.&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;POSTGRES_URL&lt;/code&gt;: Set this to your production database URL.&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;AUTH_SECRET&lt;/code&gt;: Set this to a random string. &lt;code&gt;openssl rand -base64 32&lt;/code&gt; will generate one.&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;h2&gt;Other Templates&lt;/h2&gt; 
+&lt;p&gt;While this template is intentionally minimal and to be used as a learning resource, there are other paid versions in the community which are more full-featured:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://achromatic.dev&quot;&gt;https://achromatic.dev&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://shipfa.st&quot;&gt;https://shipfa.st&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://makerkit.dev&quot;&gt;https://makerkit.dev&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>soxoj/maigret</title>
+      <link>https://github.com/soxoj/maigret</link>
+      <description>&lt;p&gt;🕵️‍♂️ Collect a dossier on a person by username from thousands of sites&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Maigret&lt;/h1&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;https://pypi.org/project/maigret/&quot;&gt; &lt;img alt=&quot;PyPI version badge for Maigret&quot; src=&quot;https://img.shields.io/pypi/v/maigret?style=flat-square&quot;&gt; &lt;/a&gt; &lt;a href=&quot;https://pypi.org/project/maigret/&quot;&gt; &lt;img alt=&quot;PyPI download count for Maigret&quot; src=&quot;https://img.shields.io/pypi/dw/maigret?style=flat-square&quot;&gt; &lt;/a&gt; &lt;a href=&quot;https://github.com/soxoj/maigret&quot;&gt; &lt;img alt=&quot;Minimum Python version required: 3.10+&quot; src=&quot;https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=flat-square&quot;&gt; &lt;/a&gt; &lt;a href=&quot;https://github.com/soxoj/maigret/raw/main/LICENSE&quot;&gt; &lt;img alt=&quot;License badge for Maigret&quot; src=&quot;https://img.shields.io/github/license/soxoj/maigret?style=flat-square&quot;&gt; &lt;/a&gt; &lt;a href=&quot;https://github.com/soxoj/maigret&quot;&gt; &lt;img alt=&quot;View count for Maigret project&quot; src=&quot;https://komarev.com/ghpvc/?username=maigret&amp;amp;color=brightgreen&amp;amp;label=views&amp;amp;style=flat-square&quot;&gt; &lt;/a&gt; &lt;/p&gt; 
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;https://raw.githubusercontent.com/soxoj/maigret/main/static/maigret.png&quot; height=&quot;300&quot;&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;i&gt;The Commissioner Jules Maigret is a fictional French police detective, created by Georges Simenon. His investigation method is based on understanding the personality of different people and their interactions.&lt;/i&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;b&gt;👉👉👉 &lt;a href=&quot;https://t.me/osint_maigret_bot&quot;&gt;Online Telegram bot&lt;/a&gt;&lt;/b&gt;&lt;/p&gt; 
+&lt;h2&gt;About&lt;/h2&gt; 
+&lt;p&gt;&lt;strong&gt;Maigret&lt;/strong&gt; collects a dossier on a person &lt;strong&gt;by username only&lt;/strong&gt;, checking for accounts on a huge number of sites and gathering all the available information from web pages. No API keys are required. Maigret is an easy-to-use and powerful fork of &lt;a href=&quot;https://github.com/sherlock-project/sherlock&quot;&gt;Sherlock&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;Currently supports more than 3000 sites (&lt;a href=&quot;https://github.com/soxoj/maigret/raw/main/sites.md&quot;&gt;full list&lt;/a&gt;), search is launched against 500 popular sites in descending order of popularity by default. Also supported checking Tor sites, I2P sites, and domains (via DNS resolving).&lt;/p&gt; 
+&lt;h2&gt;Powered By Maigret&lt;/h2&gt; 
+&lt;p&gt;These are professional tools for social media content analysis and OSINT investigations that use Maigret (banners are clickable).&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/SocialLinks-IO/sociallinks-api&quot;&gt;&lt;img height=&quot;60&quot; alt=&quot;Social Links API&quot; src=&quot;https://github.com/user-attachments/assets/789747b2-d7a0-4d4e-8868-ffc4427df660&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://sociallinks.io/products/sl-crimewall&quot;&gt;&lt;img height=&quot;60&quot; alt=&quot;Social Links Crimewall&quot; src=&quot;https://github.com/user-attachments/assets/0b18f06c-2f38-477b-b946-1be1a632a9d1&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://usersearch.ai/&quot;&gt;&lt;img height=&quot;60&quot; alt=&quot;UserSearch&quot; src=&quot;https://github.com/user-attachments/assets/66daa213-cf7d-40cf-9267-42f97cf77580&quot;&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;Main features&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Profile page parsing, &lt;a href=&quot;https://github.com/soxoj/socid_extractor&quot;&gt;extraction&lt;/a&gt; of personal info, links to other profiles, etc.&lt;/li&gt; 
+ &lt;li&gt;Recursive search by new usernames and other IDs found&lt;/li&gt; 
+ &lt;li&gt;Search by tags (site categories, countries)&lt;/li&gt; 
+ &lt;li&gt;Censorship and captcha detection&lt;/li&gt; 
+ &lt;li&gt;Requests retries&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;See the full description of Maigret features &lt;a href=&quot;https://maigret.readthedocs.io/en/latest/features.html&quot;&gt;in the documentation&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Installation&lt;/h2&gt; 
+&lt;p&gt;‼️ Maigret is available online via &lt;a href=&quot;https://t.me/osint_maigret_bot&quot;&gt;official Telegram bot&lt;/a&gt;. Consider using it if you don&#39;t want to install anything.&lt;/p&gt; 
+&lt;h3&gt;Windows&lt;/h3&gt; 
+&lt;p&gt;Standalone EXE-binaries for Windows are located in &lt;a href=&quot;https://github.com/soxoj/maigret/releases&quot;&gt;Releases section&lt;/a&gt; of GitHub repository.&lt;/p&gt; 
+&lt;p&gt;Video guide on how to run it: &lt;a href=&quot;https://youtu.be/qIgwTZOmMmM&quot;&gt;https://youtu.be/qIgwTZOmMmM&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;Installation in Cloud Shells&lt;/h3&gt; 
+&lt;p&gt;You can launch Maigret using cloud shells and Jupyter notebooks. Press one of the buttons below and follow the instructions to launch it in your browser.&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/soxoj/maigret&amp;amp;tutorial=README.md&quot;&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png&quot; alt=&quot;Open in Cloud Shell&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://repl.it/github/soxoj/maigret&quot;&gt;&lt;img src=&quot;https://replit.com/badge/github/soxoj/maigret&quot; alt=&quot;Run on Replit&quot; height=&quot;50&quot;&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/gist/soxoj/879b51bc3b2f8b695abb054090645000/maigret-collab.ipynb&quot;&gt;&lt;img src=&quot;https://colab.research.google.com/assets/colab-badge.svg?sanitize=true&quot; alt=&quot;Open In Colab&quot; height=&quot;45&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://mybinder.org/v2/gist/soxoj/9d65c2f4d3bec5dd25949197ea73cf3a/HEAD&quot;&gt;&lt;img src=&quot;https://mybinder.org/badge_logo.svg?sanitize=true&quot; alt=&quot;Open In Binder&quot; height=&quot;45&quot;&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;h3&gt;Local installation&lt;/h3&gt; 
+&lt;p&gt;Maigret can be installed using pip, Docker, or simply can be launched from the cloned repo.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: Python 3.10 or higher and pip is required, &lt;strong&gt;Python 3.11 is recommended.&lt;/strong&gt;&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# install from pypi
+pip3 install maigret
+
+# usage
+maigret username
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Cloning a repository&lt;/h3&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# or clone and install manually
+git clone https://github.com/soxoj/maigret &amp;amp;&amp;amp; cd maigret
+
+# build and install
+pip3 install .
+
+# usage
+maigret username
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h3&gt;Docker&lt;/h3&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# official image
+docker pull soxoj/maigret
+
+# usage
+docker run -v /mydir:/app/reports soxoj/maigret:latest username --html
+
+# manual build
+docker build -t maigret .
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;h2&gt;Usage examples&lt;/h2&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# make HTML, PDF, and Xmind8 reports
+maigret user --html
+maigret user --pdf
+maigret user --xmind #Output not compatible with xmind 2022+
+
+# search on sites marked with tags photo &amp;amp; dating
+maigret user --tags photo,dating
+
+# search on sites marked with tag us
+maigret user --tags us
+
+# search for three usernames on all available sites
+maigret user1 user2 user3 -a
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Use &lt;code&gt;maigret --help&lt;/code&gt; to get full options description. Also options &lt;a href=&quot;https://maigret.readthedocs.io/en/latest/command-line-options.html&quot;&gt;are documented&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Contributing&lt;/h2&gt; 
+&lt;p&gt;Maigret has open-source code, so you may contribute your own sites by adding them to &lt;code&gt;data.json&lt;/code&gt; file, or bring changes to it&#39;s code!&lt;/p&gt; 
+&lt;p&gt;For more information about development and contribution, please read the &lt;a href=&quot;https://maigret.readthedocs.io/en/latest/development.html&quot;&gt;development documentation&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;Demo with page parsing and recursive username search&lt;/h2&gt; 
+&lt;h3&gt;Video (asciinema)&lt;/h3&gt; 
+&lt;a href=&quot;https://asciinema.org/a/Ao0y7N0TTxpS0pisoprQJdylZ&quot;&gt; &lt;img src=&quot;https://asciinema.org/a/Ao0y7N0TTxpS0pisoprQJdylZ.svg?sanitize=true&quot; alt=&quot;asciicast&quot; width=&quot;600&quot;&gt; &lt;/a&gt; 
+&lt;h3&gt;Reports&lt;/h3&gt; 
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/soxoj/maigret/main/static/report_alexaimephotographycars.pdf&quot;&gt;PDF report&lt;/a&gt;, &lt;a href=&quot;https://htmlpreview.github.io/?https://raw.githubusercontent.com/soxoj/maigret/main/static/report_alexaimephotographycars.html&quot;&gt;HTML report&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/soxoj/maigret/main/static/report_alexaimephotography_html_screenshot.png&quot; alt=&quot;HTML report screenshot&quot;&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/soxoj/maigret/main/static/report_alexaimephotography_xmind_screenshot.png&quot; alt=&quot;XMind 8 report screenshot&quot;&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/soxoj/maigret/main/static/recursive_search.md&quot;&gt;Full console output&lt;/a&gt;&lt;/p&gt; 
+&lt;h2&gt;Disclaimer&lt;/h2&gt; 
+&lt;p&gt;&lt;strong&gt;This tool is intended for educational and lawful purposes only.&lt;/strong&gt; The developers do not endorse or encourage any illegal activities or misuse of this tool. Regulations regarding the collection and use of personal data vary by country and region, including but not limited to GDPR in the EU, CCPA in the USA, and similar laws worldwide.&lt;/p&gt; 
+&lt;p&gt;It is your sole responsibility to ensure that your use of this tool complies with all applicable laws and regulations in your jurisdiction. Any illegal use of this tool is strictly prohibited, and you are fully accountable for your actions.&lt;/p&gt; 
+&lt;p&gt;The authors and developers of this tool bear no responsibility for any misuse or unlawful activities conducted by its users.&lt;/p&gt; 
+&lt;h2&gt;Feedback&lt;/h2&gt; 
+&lt;p&gt;If you have any questions, suggestions, or feedback, please feel free to &lt;a href=&quot;https://github.com/soxoj/maigret/issues&quot;&gt;open an issue&lt;/a&gt;, create a &lt;a href=&quot;https://github.com/soxoj/maigret/discussions&quot;&gt;GitHub discussion&lt;/a&gt;, or contact the author directly via &lt;a href=&quot;https://t.me/soxoj&quot;&gt;Telegram&lt;/a&gt;.&lt;/p&gt; 
+&lt;h2&gt;SOWEL classification&lt;/h2&gt; 
+&lt;p&gt;This tool uses the following OSINT techniques:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://sowel.soxoj.com/other-platform-accounts&quot;&gt;SOTL-2.2. Search For Accounts On Other Platforms&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://sowel.soxoj.com/logins-reuse&quot;&gt;SOTL-6.1. Check Logins Reuse To Find Another Account&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://sowel.soxoj.com/nicknames-reuse&quot;&gt;SOTL-6.2. Check Nicknames Reuse To Find Another Account&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;MIT © &lt;a href=&quot;https://github.com/soxoj/maigret&quot;&gt;Maigret&lt;/a&gt;&lt;br&gt; MIT © &lt;a href=&quot;https://github.com/sherlock-project/&quot;&gt;Sherlock Project&lt;/a&gt;&lt;br&gt; Original Creator of Sherlock Project - &lt;a href=&quot;https://github.com/sdushantha&quot;&gt;Siddharth Dushantha&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

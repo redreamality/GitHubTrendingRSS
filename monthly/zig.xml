@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Zig Monthly Trending</title>
+    <description>Monthly Trending of Zig in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:57:32 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ziglang/zig</title>
+      <link>https://github.com/ziglang/zig</link>
+      <description>&lt;p&gt;General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NilsIrl/dockerc</title>
+      <link>https://github.com/NilsIrl/dockerc</link>
+      <description>&lt;p&gt;container image to single executable compiler&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>&lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>blackboardsh/electrobun</title>
+      <link>https://github.com/blackboardsh/electrobun</link>
+      <description>&lt;p&gt;Build ultra fast, tiny, and cross-platform desktop apps with Typescript.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>andrewrk/poop</title>
+      <link>https://github.com/andrewrk/poop</link>
+      <description>&lt;p&gt;Performance Optimizer Observation Platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr-Nekoma/lyceum</title>
+      <link>https://github.com/Dr-Nekoma/lyceum</link>
+      <description>&lt;p&gt;An MMO game written in Erlang (+ PostgreSQL) + Zig (+ Raylib)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neurocyte/flow</title>
+      <link>https://github.com/neurocyte/flow</link>
+      <description>&lt;p&gt;Flow Control: a programmer&#39;s text editor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rockorager/libvaxis</title>
+      <link>https://github.com/rockorager/libvaxis</link>
+      <description>&lt;p&gt;a modern tui library written in zig&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ZigEmbeddedGroup/microzig</title>
+      <link>https://github.com/ZigEmbeddedGroup/microzig</link>
+      <description>&lt;p&gt;Unified abstraction layer and HAL for several microcontrollers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>capy-ui/capy</title>
+      <link>https://github.com/capy-ui/capy</link>
+      <description>&lt;p&gt;💻Build one codebase and get native UI on Windows, Linux and Web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Not-Nik/raylib-zig</title>
+      <link>https://github.com/Not-Nik/raylib-zig</link>
+      <description>&lt;p&gt;Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zigtools/zls</title>
+      <link>https://github.com/zigtools/zls</link>
+      <description>&lt;p&gt;A Zig language server supporting Zig developers with features like autocomplete and goto definition&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fairyglade/ly</title>
+      <link>https://github.com/fairyglade/ly</link>
+      <description>&lt;p&gt;display manager with console UI&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

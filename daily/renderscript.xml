@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub RenderScript Daily Trending</title>
+    <description>Daily Trending of RenderScript in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:34:28 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mTvare6/hello-world.rs</title>
+      <link>https://github.com/mTvare6/hello-world.rs</link>
+      <description>&lt;p&gt;🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub VHDL Monthly Trending</title>
+    <description>Monthly Trending of VHDL in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:57:08 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>OSVVM/OSVVM</title>
+      <link>https://github.com/OSVVM/OSVVM</link>
+      <description>&lt;p&gt;OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ghdl/ghdl</title>
+      <link>https://github.com/ghdl/ghdl</link>
+      <description>&lt;p&gt;VHDL 2008/93/87 simulator&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

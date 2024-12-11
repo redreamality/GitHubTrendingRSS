@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Makefile Daily Trending</title>
+    <description>Daily Trending of Makefile in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:30:29 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dbt-labs/dbt-utils</title>
+      <link>https://github.com/dbt-labs/dbt-utils</link>
+      <description>&lt;p&gt;Utility functions for dbt projects.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-proto</title>
+      <link>https://github.com/open-telemetry/opentelemetry-proto</link>
+      <description>&lt;p&gt;OpenTelemetry protocol (OTLP) specification and Protobuf definitions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>golang-standards/project-layout</title>
+      <link>https://github.com/golang-standards/project-layout</link>
+      <description>&lt;p&gt;Standard Go Project Layout&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>raspberrypi/noobs</title>
+      <link>https://github.com/raspberrypi/noobs</link>
+      <description>&lt;p&gt;NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openwrt/packages</title>
+      <link>https://github.com/openwrt/packages</link>
+      <description>&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>teaxyz/white-paper</title>
+      <link>https://github.com/teaxyz/white-paper</link>
+      <description>&lt;p&gt;how will the protocol work?&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-proto-go</title>
+      <link>https://github.com/open-telemetry/opentelemetry-proto-go</link>
+      <description>&lt;p&gt;Generated code for OpenTelemetry protobuf data model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opamp-spec</title>
+      <link>https://github.com/open-telemetry/opamp-spec</link>
+      <description>&lt;p&gt;OpAMP Specification&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>uber-go/guide</title>
+      <link>https://github.com/uber-go/guide</link>
+      <description>&lt;p&gt;The Uber Go Style Guide.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-specification</title>
+      <link>https://github.com/open-telemetry/opentelemetry-specification</link>
+      <description>&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</title>
+      <link>https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</link>
+      <description>&lt;p&gt;The European Digital Identity Wallet&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>upbound/build</title>
+      <link>https://github.com/upbound/build</link>
+      <description>&lt;p&gt;Upbound build and CI scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>container-storage-interface/spec</title>
+      <link>https://github.com/container-storage-interface/spec</link>
+      <description>&lt;p&gt;Container Storage Interface (CSI) Specification.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PostgresApp/PostgresApp</title>
+      <link>https://github.com/PostgresApp/PostgresApp</link>
+      <description>&lt;p&gt;The easiest way to get started with PostgreSQL on the Mac&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coolsnowwolf/packages</title>
+      <link>https://github.com/coolsnowwolf/packages</link>
+      <description>&lt;p&gt;Community maintained packages for OpenWrt.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0xType/0xProto</title>
+      <link>https://github.com/0xType/0xProto</link>
+      <description>&lt;p&gt;A programming font focused on source code legibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>twilio/twilio-oai</title>
+      <link>https://github.com/twilio/twilio-oai</link>
+      <description>&lt;p&gt;The Twilio OpenAPI Specification&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

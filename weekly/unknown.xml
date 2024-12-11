@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Weekly Trending</title>
+    <description>Weekly Trending of Unknown languages in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:36:08 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>0voice/expert_readed_books</title>
+      <link>https://github.com/0voice/expert_readed_books</link>
+      <description>&lt;p&gt;2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/github-pages</title>
+      <link>https://github.com/skills/github-pages</link>
+      <description>&lt;p&gt;Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://github.com/skills/introduction-to-github</link>
+      <description>&lt;p&gt;Get started using GitHub in less than an hour.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sdmg15/Best-websites-a-programmer-should-visit</title>
+      <link>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
+      <description>&lt;p&gt;🔗 Some useful websites for programmers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>n8n-io/self-hosted-ai-starter-kit</title>
+      <link>https://github.com/n8n-io/self-hosted-ai-starter-kit</link>
+      <description>&lt;p&gt;The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://github.com/ruanyf/weekly</link>
+      <description>&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>milanm/DevOps-Roadmap</title>
+      <link>https://github.com/milanm/DevOps-Roadmap</link>
+      <description>&lt;p&gt;DevOps Roadmap for 2024. with learning resources&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CyC2018/CS-Notes</title>
+      <link>https://github.com/CyC2018/CS-Notes</link>
+      <description>&lt;p&gt;📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/copilot-codespaces-vscode</title>
+      <link>https://github.com/skills/copilot-codespaces-vscode</link>
+      <description>&lt;p&gt;Develop with AI-powered code suggestions using GitHub Copilot and VS Code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bogdanp/awesome-advent-of-code</title>
+      <link>https://github.com/Bogdanp/awesome-advent-of-code</link>
+      <description>&lt;p&gt;A collection of awesome resources related to the yearly Advent of Code challenge.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Avik-Jain/100-Days-Of-ML-Code</title>
+      <link>https://github.com/Avik-Jain/100-Days-Of-ML-Code</link>
+      <description>&lt;p&gt;100 Days of ML Coding&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>arthurspk/guiadevbrasil</title>
+      <link>https://github.com/arthurspk/guiadevbrasil</link>
+      <description>&lt;p&gt;Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

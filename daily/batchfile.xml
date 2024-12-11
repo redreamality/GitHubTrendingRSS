@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Batchfile Daily Trending</title>
+    <description>Daily Trending of Batchfile in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:27:23 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>enhorse/java-interview</title>
+      <link>https://github.com/enhorse/java-interview</link>
+      <description>&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PaperMC/Folia</title>
+      <link>https://github.com/PaperMC/Folia</link>
+      <description>&lt;p&gt;Fork of Paper which adds regionised multithreading to the dedicated server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Systems-Modeling/SysML-v2-Release</title>
+      <link>https://github.com/Systems-Modeling/SysML-v2-Release</link>
+      <description>&lt;p&gt;The latest incremental release of SysML v2. Start here.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CesiumGS/3d-tiles</title>
+      <link>https://github.com/CesiumGS/3d-tiles</link>
+      <description>&lt;p&gt;Specification for streaming massive heterogeneous 3D geospatial datasets 🌎&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>awesome-windows11/windows11</title>
+      <link>https://github.com/awesome-windows11/windows11</link>
+      <description>&lt;p&gt;🌎 Windows 11 Settings, Tweaks, Scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim/vim-win32-installer</title>
+      <link>https://github.com/vim/vim-win32-installer</link>
+      <description>&lt;p&gt;Vim Win32 Installer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>redis-windows/redis-windows</title>
+      <link>https://github.com/redis-windows/redis-windows</link>
+      <description>&lt;p&gt;Redis 6.0.20 6.2.14 7.0.15 7.2.4 7.4.0 for Windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mon5termatt/medicat_installer</title>
+      <link>https://github.com/mon5termatt/medicat_installer</link>
+      <description>&lt;p&gt;Medicat Installer Repo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

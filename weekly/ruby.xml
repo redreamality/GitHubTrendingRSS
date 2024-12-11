@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Weekly Trending</title>
+    <description>Weekly Trending of Ruby in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:46:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>&lt;p&gt;Metasploit Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Freika/dawarich</title>
+      <link>https://github.com/Freika/dawarich</link>
+      <description>&lt;p&gt;Self-hosted alternative to Google Location History (Google Maps Timeline)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>solidusio/solidus</title>
+      <link>https://github.com/solidusio/solidus</link>
+      <description>&lt;p&gt;🛒 Solidus, the open-source eCommerce framework for industry trailblazers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rails/rails</title>
+      <link>https://github.com/rails/rails</link>
+      <description>&lt;p&gt;Ruby on Rails&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>&lt;p&gt;🤖 Dependabot&#39;s core logic for creating update PRs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ubicloud/ubicloud</title>
+      <link>https://github.com/ubicloud/ubicloud</link>
+      <description>&lt;p&gt;Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>&lt;p&gt;OpenProject is the leading open source project management software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>heartcombo/devise</title>
+      <link>https://github.com/heartcombo/devise</link>
+      <description>&lt;p&gt;Flexible authentication solution for Rails with Warden.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>instructure/canvas-lms</title>
+      <link>https://github.com/instructure/canvas-lms</link>
+      <description>&lt;p&gt;The open LMS by Instructure, Inc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>department-of-veterans-affairs/vets-api</title>
+      <link>https://github.com/department-of-veterans-affairs/vets-api</link>
+      <description>&lt;p&gt;API powering VA.gov&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/homebrew-core</title>
+      <link>https://github.com/Homebrew/homebrew-core</link>
+      <description>&lt;p&gt;🍻 Default formulae for the missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gitlabhq/gitlabhq</title>
+      <link>https://github.com/gitlabhq/gitlabhq</link>
+      <description>&lt;p&gt;GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/jekyll</title>
+      <link>https://github.com/jekyll/jekyll</link>
+      <description>&lt;p&gt;🌐 Jekyll is a blog-aware static site generator in Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>&lt;p&gt;A platform for community discussion. Free, open, simple.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github-linguist/linguist</title>
+      <link>https://github.com/github-linguist/linguist</link>
+      <description>&lt;p&gt;Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DataDog/datadog-api-client-ruby</title>
+      <link>https://github.com/DataDog/datadog-api-client-ruby</link>
+      <description>&lt;p&gt;Ruby client for the Datadog API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huginn/huginn</title>
+      <link>https://github.com/huginn/huginn</link>
+      <description>&lt;p&gt;Create agents that monitor and act on your behalf. Your agents are standing by!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>teamcapybara/capybara</title>
+      <link>https://github.com/teamcapybara/capybara</link>
+      <description>&lt;p&gt;Acceptance test framework for web applications&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fluent/fluentd</title>
+      <link>https://github.com/fluent/fluentd</link>
+      <description>&lt;p&gt;Fluentd: Unified Logging Layer (project under CNCF)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/brew</title>
+      <link>https://github.com/Homebrew/brew</link>
+      <description>&lt;p&gt;🍺 The missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>postalserver/postal</title>
+      <link>https://github.com/postalserver/postal</link>
+      <description>&lt;p&gt;📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>forem/forem</title>
+      <link>https://github.com/forem/forem</link>
+      <description>&lt;p&gt;For empowering community 🌱&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

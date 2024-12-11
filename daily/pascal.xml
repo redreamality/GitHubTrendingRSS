@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Pascal Daily Trending</title>
+    <description>Daily Trending of Pascal in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:33:52 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>stascorp/rdpwrap</title>
+      <link>https://github.com/stascorp/rdpwrap</link>
+      <description>&lt;p&gt;RDP Wrapper Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cheat-engine/cheat-engine</title>
+      <link>https://github.com/cheat-engine/cheat-engine</link>
+      <description>&lt;p&gt;Cheat Engine. A development environment focused on modding&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HeidiSQL/HeidiSQL</title>
+      <link>https://github.com/HeidiSQL/HeidiSQL</link>
+      <description>&lt;p&gt;A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jrsoftware/issrc</title>
+      <link>https://github.com/jrsoftware/issrc</link>
+      <description>&lt;p&gt;Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HashLoad/horse</title>
+      <link>https://github.com/HashLoad/horse</link>
+      <description>&lt;p&gt;Fast, opinionated, minimalist web framework for Delphi&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

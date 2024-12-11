@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Assembly Daily Trending</title>
+    <description>Daily Trending of Assembly in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:27:18 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ROCm/hipBLASLt</title>
+      <link>https://github.com/ROCm/hipBLASLt</link>
+      <description>&lt;p&gt;hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bytedance/sonic</title>
+      <link>https://github.com/bytedance/sonic</link>
+      <description>&lt;p&gt;A blazingly fast JSON serializing &amp; deserializing library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chrislgarry/Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <description>&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leachim6/hello-world</title>
+      <link>https://github.com/leachim6/hello-world</link>
+      <description>&lt;p&gt;Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openhwgroup/cva6</title>
+      <link>https://github.com/openhwgroup/cva6</link>
+      <description>&lt;p&gt;The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>below/HelloSilicon</title>
+      <link>https://github.com/below/HelloSilicon</link>
+      <description>&lt;p&gt;An introduction to ARM64 assembly on Apple Silicon Macs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riscvarchive/riscv-v-spec</title>
+      <link>https://github.com/riscvarchive/riscv-v-spec</link>
+      <description>&lt;p&gt;Working draft of the proposed RISC-V V vector extension&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hiteshchoudhary/open-source-contribution</title>
+      <link>https://github.com/hiteshchoudhary/open-source-contribution</link>
+      <description>&lt;p&gt;A repo to contribute in open source via README only. A dream repo for open source beginner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>giaf/blasfeo</title>
+      <link>https://github.com/giaf/blasfeo</link>
+      <description>&lt;p&gt;Basic linear algebra subroutines for embedded optimization&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bird-sanctuary/bluejay</title>
+      <link>https://github.com/bird-sanctuary/bluejay</link>
+      <description>&lt;p&gt;🐦 Digital ESC firmware for controlling brushless motors in multirotors&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rangi42/polishedcrystal</title>
+      <link>https://github.com/Rangi42/polishedcrystal</link>
+      <description>&lt;p&gt;An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>briansmith/ring</title>
+      <link>https://github.com/briansmith/ring</link>
+      <description>&lt;p&gt;Safe, fast, small crypto using Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>netwide-assembler/nasm</title>
+      <link>https://github.com/netwide-assembler/nasm</link>
+      <description>&lt;p&gt;A cross-platform x86 assembler with an Intel-like syntax&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ROCm/MIOpen</title>
+      <link>https://github.com/ROCm/MIOpen</link>
+      <description>&lt;p&gt;AMD&#39;s Machine Intelligence Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>supranational/blst</title>
+      <link>https://github.com/supranational/blst</link>
+      <description>&lt;p&gt;Multilingual BLS12-381 signature library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

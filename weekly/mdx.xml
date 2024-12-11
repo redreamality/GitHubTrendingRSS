@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub MDX Weekly Trending</title>
+    <description>Weekly Trending of MDX in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:42:21 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dair-ai/Prompt-Engineering-Guide</title>
+      <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+      <description>&lt;p&gt;🐙 Guides, papers, lecture, notebooks and resources for prompt engineering&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openai/openai-cookbook</title>
+      <link>https://github.com/openai/openai-cookbook</link>
+      <description>&lt;p&gt;Examples and guides for using the OpenAI API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>withastro/docs</title>
+      <link>https://github.com/withastro/docs</link>
+      <description>&lt;p&gt;Astro documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>getcursor/docs</title>
+      <link>https://github.com/getcursor/docs</link>
+      <description>&lt;p&gt;Cursor&#39;s Open Source Documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ngrok/ngrok-docs</title>
+      <link>https://github.com/ngrok/ngrok-docs</link>
+      <description>&lt;p&gt;ngrok&#39;s official documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>drizzle-team/drizzle-orm-docs</title>
+      <link>https://github.com/drizzle-team/drizzle-orm-docs</link>
+      <description>&lt;p&gt;Drizzle ORM documentation website&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>newrelic/docs-website</title>
+      <link>https://github.com/newrelic/docs-website</link>
+      <description>&lt;p&gt;Source code for @newrelic docs. We welcome pull requests and questions on our docs!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>react-native-elements/react-native-elements</title>
+      <link>https://github.com/react-native-elements/react-native-elements</link>
+      <description>&lt;p&gt;Cross-Platform React Native UI Toolkit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>radix-ui/website</title>
+      <link>https://github.com/radix-ui/website</link>
+      <description>&lt;p&gt;Website and documentation for Radix.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rauchg/blog</title>
+      <link>https://github.com/rauchg/blog</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rainbow-me/rainbowkit</title>
+      <link>https://github.com/rainbow-me/rainbowkit</link>
+      <description>&lt;p&gt;The best way to connect a wallet 🌈 🧰&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yangshun/front-end-interview-handbook</title>
+      <link>https://github.com/yangshun/front-end-interview-handbook</link>
+      <description>&lt;p&gt;⚡️ Front End interview preparation materials for busy engineers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cloudflare/cloudflare-docs</title>
+      <link>https://github.com/cloudflare/cloudflare-docs</link>
+      <description>&lt;p&gt;Cloudflare’s documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>webpack/webpack.js.org</title>
+      <link>https://github.com/webpack/webpack.js.org</link>
+      <description>&lt;p&gt;Repository for webpack documentation and more!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>feature-sliced/documentation</title>
+      <link>https://github.com/feature-sliced/documentation</link>
+      <description>&lt;p&gt;🍰 Architectural methodology for frontend projects&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethereum-optimism/docs</title>
+      <link>https://github.com/ethereum-optimism/docs</link>
+      <description>&lt;p&gt;Optimism Developer Docs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primer/design</title>
+      <link>https://github.com/primer/design</link>
+      <description>&lt;p&gt;Primer Design Guidelines&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tauri-apps/tauri-docs</title>
+      <link>https://github.com/tauri-apps/tauri-docs</link>
+      <description>&lt;p&gt;The source for all Tauri project documentation.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

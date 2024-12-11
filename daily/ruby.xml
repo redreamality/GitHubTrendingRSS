@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Daily Trending</title>
+    <description>Daily Trending of Ruby in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:34:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>maybe-finance/maybe</title>
+      <link>https://github.com/maybe-finance/maybe</link>
+      <description>&lt;p&gt;The OS for your personal finances&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fastlane/fastlane</title>
+      <link>https://github.com/fastlane/fastlane</link>
+      <description>&lt;p&gt;🚀 The easiest way to automate building and releasing your iOS and Android apps&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>&lt;p&gt;A platform for community discussion. Free, open, simple.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CocoaPods/CocoaPods</title>
+      <link>https://github.com/CocoaPods/CocoaPods</link>
+      <description>&lt;p&gt;The Cocoa Dependency Manager.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>forem/forem</title>
+      <link>https://github.com/forem/forem</link>
+      <description>&lt;p&gt;For empowering community 🌱&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>heartcombo/devise</title>
+      <link>https://github.com/heartcombo/devise</link>
+      <description>&lt;p&gt;Flexible authentication solution for Rails with Warden.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>spree/spree</title>
+      <link>https://github.com/spree/spree</link>
+      <description>&lt;p&gt;An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zammad/zammad</title>
+      <link>https://github.com/zammad/zammad</link>
+      <description>&lt;p&gt;Zammad is a web based open source helpdesk/customer support system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kaminari/kaminari</title>
+      <link>https://github.com/kaminari/kaminari</link>
+      <description>&lt;p&gt;⚡ A Scope &amp; Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>&lt;p&gt;Metasploit Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huginn/huginn</title>
+      <link>https://github.com/huginn/huginn</link>
+      <description>&lt;p&gt;Create agents that monitor and act on your behalf. Your agents are standing by!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>&lt;p&gt;🤖 Dependabot&#39;s core logic for creating update PRs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>teamcapybara/capybara</title>
+      <link>https://github.com/teamcapybara/capybara</link>
+      <description>&lt;p&gt;Acceptance test framework for web applications&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>&lt;p&gt;OpenProject is the leading open source project management software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>doorkeeper-gem/doorkeeper</title>
+      <link>https://github.com/doorkeeper-gem/doorkeeper</link>
+      <description>&lt;p&gt;Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/brew</title>
+      <link>https://github.com/Homebrew/brew</link>
+      <description>&lt;p&gt;🍺 The missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>redis/redis-rb</title>
+      <link>https://github.com/redis/redis-rb</link>
+      <description>&lt;p&gt;A Ruby client library for Redis&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruby/ruby</title>
+      <link>https://github.com/ruby/ruby</link>
+      <description>&lt;p&gt;The Ruby Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vcr/vcr</title>
+      <link>https://github.com/vcr/vcr</link>
+      <description>&lt;p&gt;Record your test suite&#39;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>paper-trail-gem/paper_trail</title>
+      <link>https://github.com/paper-trail-gem/paper_trail</link>
+      <description>&lt;p&gt;Track changes to your rails models&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wpscanteam/wpscan</title>
+      <link>https://github.com/wpscanteam/wpscan</link>
+      <description>&lt;p&gt;WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rswag/rswag</title>
+      <link>https://github.com/rswag/rswag</link>
+      <description>&lt;p&gt;Seamlessly adds a Swagger to Rails-based API&#39;s&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>activerecord-hackery/ransack</title>
+      <link>https://github.com/activerecord-hackery/ransack</link>
+      <description>&lt;p&gt;Object-based searching.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>faker-ruby/faker</title>
+      <link>https://github.com/faker-ruby/faker</link>
+      <description>&lt;p&gt;A library for generating fake data such as names, addresses, and phone numbers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

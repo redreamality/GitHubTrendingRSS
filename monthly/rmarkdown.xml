@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub RMarkdown Monthly Trending</title>
+    <description>Monthly Trending of RMarkdown in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:56:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tidymodels/TMwR</title>
+      <link>https://github.com/tidymodels/TMwR</link>
+      <description>&lt;p&gt;Code and content for &quot;Tidy Modeling with R&quot;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Daily Trending</title>
+    <description>Daily Trending of Rust in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:34:47 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tauri-apps/tauri</title>
+      <link>https://github.com/tauri-apps/tauri</link>
+      <description>&lt;p&gt;Build smaller, faster, and more secure desktop and mobile applications with a web frontend.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>succinctlabs/sp1</title>
+      <link>https://github.com/succinctlabs/sp1</link>
+      <description>&lt;p&gt;The fastest, most feature-complete zkVM for developers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mxsm/rocketmq-rust</title>
+      <link>https://github.com/mxsm/rocketmq-rust</link>
+      <description>&lt;p&gt;🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nexus-xyz/nexus-zkvm</title>
+      <link>https://github.com/nexus-xyz/nexus-zkvm</link>
+      <description>&lt;p&gt;The Nexus zkVM: The zero-knowledge virtual machine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DioxusLabs/dioxus</title>
+      <link>https://github.com/DioxusLabs/dioxus</link>
+      <description>&lt;p&gt;Fullstack app framework for web, desktop, mobile, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sxyazi/yazi</title>
+      <link>https://github.com/sxyazi/yazi</link>
+      <description>&lt;p&gt;💥 Blazing fast terminal file manager written in Rust, based on async I/O.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jdx/mise</title>
+      <link>https://github.com/jdx/mise</link>
+      <description>&lt;p&gt;dev tools, env vars, task runner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tensorzero/tensorzero</title>
+      <link>https://github.com/tensorzero/tensorzero</link>
+      <description>&lt;p&gt;TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/ruff</title>
+      <link>https://github.com/astral-sh/ruff</link>
+      <description>&lt;p&gt;An extremely fast Python linter and code formatter, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>getzola/zola</title>
+      <link>https://github.com/getzola/zola</link>
+      <description>&lt;p&gt;A fast static site generator in a single binary with everything built-in. https://www.getzola.org&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>&lt;p&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ankitects/anki</title>
+      <link>https://github.com/ankitects/anki</link>
+      <description>&lt;p&gt;Anki&#39;s shared backend and web components, and the Qt frontend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woodruffw/zizmor</title>
+      <link>https://github.com/woodruffw/zizmor</link>
+      <description>&lt;p&gt;A static analysis tool for GitHub Actions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huggingface/tokenizers</title>
+      <link>https://github.com/huggingface/tokenizers</link>
+      <description>&lt;p&gt;💥 Fast State-of-the-Art Tokenizers optimized for Research and Production&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GreptimeTeam/greptimedb</title>
+      <link>https://github.com/GreptimeTeam/greptimedb</link>
+      <description>&lt;p&gt;An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>loco-rs/loco</title>
+      <link>https://github.com/loco-rs/loco</link>
+      <description>&lt;p&gt;🚂 🦀 The one-person framework for Rust for side-projects and startups&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>paradigmxyz/reth</title>
+      <link>https://github.com/paradigmxyz/reth</link>
+      <description>&lt;p&gt;Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eza-community/eza</title>
+      <link>https://github.com/eza-community/eza</link>
+      <description>&lt;p&gt;A modern alternative to ls&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>qdrant/qdrant</title>
+      <link>https://github.com/qdrant/qdrant</link>
+      <description>&lt;p&gt;Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Orange-OpenSource/hurl</title>
+      <link>https://github.com/Orange-OpenSource/hurl</link>
+      <description>&lt;p&gt;Hurl, run and test HTTP requests with plain text.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Schniz/fnm</title>
+      <link>https://github.com/Schniz/fnm</link>
+      <description>&lt;p&gt;🚀 Fast and simple Node.js version manager, built in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Svelte Weekly Trending</title>
+    <description>Weekly Trending of Svelte in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:46:59 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>saadeghi/daisyui</title>
+      <link>https://github.com/saadeghi/daisyui</link>
+      <description>&lt;p&gt;🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ThaUnknown/miru</title>
+      <link>https://github.com/ThaUnknown/miru</link>
+      <description>&lt;p&gt;Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hackclub/OnBoard</title>
+      <link>https://github.com/hackclub/OnBoard</link>
+      <description>&lt;p&gt;💡 Join 1,000 teenagers and make your first PCB with a $100 grant!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>basharovV/musicat</title>
+      <link>https://github.com/basharovV/musicat</link>
+      <description>&lt;p&gt;A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>appwrite/website</title>
+      <link>https://github.com/appwrite/website</link>
+      <description>&lt;p&gt;The Appwrite website, docs and blog 🏠&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>seanmorley15/AdventureLog</title>
+      <link>https://github.com/seanmorley15/AdventureLog</link>
+      <description>&lt;p&gt;Self-hostable travel tracker and trip planner.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vkurko/calendar</title>
+      <link>https://github.com/vkurko/calendar</link>
+      <description>&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huntabyte/shadcn-svelte</title>
+      <link>https://github.com/huntabyte/shadcn-svelte</link>
+      <description>&lt;p&gt;shadcn/ui, but for Svelte. ✨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>codicocodes/dotfyle</title>
+      <link>https://github.com/codicocodes/dotfyle</link>
+      <description>&lt;p&gt;Find the best Neovim plugins&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sveltejs/svelte.dev</title>
+      <link>https://github.com/sveltejs/svelte.dev</link>
+      <description>&lt;p&gt;The Svelte omnisite&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>taikoxyz/taiko-mono</title>
+      <link>https://github.com/taikoxyz/taiko-mono</link>
+      <description>&lt;p&gt;A based rollup. 🥁 🌸&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skeletonlabs/skeleton</title>
+      <link>https://github.com/skeletonlabs/skeleton</link>
+      <description>&lt;p&gt;A complete design system and component solution, built on Tailwind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbgate/dbgate</title>
+      <link>https://github.com/dbgate/dbgate</link>
+      <description>&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fireship-io/fireship.io</title>
+      <link>https://github.com/fireship-io/fireship.io</link>
+      <description>&lt;p&gt;Build and ship your app faster https://fireship.io&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gurucomputing/headscale-ui</title>
+      <link>https://github.com/gurucomputing/headscale-ui</link>
+      <description>&lt;p&gt;A web frontend for the headscale Tailscale-compatible coordination server&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>themesberg/flowbite-svelte</title>
+      <link>https://github.com/themesberg/flowbite-svelte</link>
+      <description>&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BetterDiscord/Installer</title>
+      <link>https://github.com/BetterDiscord/Installer</link>
+      <description>&lt;p&gt;A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

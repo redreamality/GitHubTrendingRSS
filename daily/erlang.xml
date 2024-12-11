@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Erlang Daily Trending</title>
+    <description>Daily Trending of Erlang in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:28:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>&lt;p&gt;The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dgiot/dgiot</title>
+      <link>https://github.com/dgiot/dgiot</link>
+      <description>&lt;p&gt;Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/couchdb</title>
+      <link>https://github.com/apache/couchdb</link>
+      <description>&lt;p&gt;Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>erlydtl/erlydtl</title>
+      <link>https://github.com/erlydtl/erlydtl</link>
+      <description>&lt;p&gt;Django templates for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>erlang-ls/erlang_ls</title>
+      <link>https://github.com/erlang-ls/erlang_ls</link>
+      <description>&lt;p&gt;The Erlang Language Server&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ninenines/cowlib</title>
+      <link>https://github.com/ninenines/cowlib</link>
+      <description>&lt;p&gt;Support library for manipulating Web protocols.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>erlang/rebar3</title>
+      <link>https://github.com/erlang/rebar3</link>
+      <description>&lt;p&gt;Erlang build tool that makes it easy to compile and test Erlang applications and releases.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rabbitmq/rabbitmq-delayed-message-exchange</title>
+      <link>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</link>
+      <description>&lt;p&gt;Delayed Messaging for RabbitMQ&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ninenines/cowboy</title>
+      <link>https://github.com/ninenines/cowboy</link>
+      <description>&lt;p&gt;Small, fast, modern HTTP server for Erlang/OTP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ninenines/ranch</title>
+      <link>https://github.com/ninenines/ranch</link>
+      <description>&lt;p&gt;Socket acceptor pool for TCP protocols.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eproxus/meck</title>
+      <link>https://github.com/eproxus/meck</link>
+      <description>&lt;p&gt;A mocking library for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>erlware/relx</title>
+      <link>https://github.com/erlware/relx</link>
+      <description>&lt;p&gt;Sane, simple release creation for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chef/chef-server</title>
+      <link>https://github.com/chef/chef-server</link>
+      <description>&lt;p&gt;Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emqx/emqtt</title>
+      <link>https://github.com/emqx/emqtt</link>
+      <description>&lt;p&gt;Erlang MQTT 5.0 Client&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hexpm/hex_core</title>
+      <link>https://github.com/hexpm/hex_core</link>
+      <description>&lt;p&gt;Reference implementation of Hex specifications.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PowerShell Daily Trending</title>
+    <description>Daily Trending of PowerShell in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:34:06 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>actions/runner-images</title>
+      <link>https://github.com/actions/runner-images</link>
+      <description>&lt;p&gt;GitHub Actions runner images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Micke-K/IntuneManagement</title>
+      <link>https://github.com/Micke-K/IntuneManagement</link>
+      <description>&lt;p&gt;Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>memstechtips/UnattendedWinstall</title>
+      <link>https://github.com/memstechtips/UnattendedWinstall</link>
+      <description>&lt;p&gt;Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 &amp; 11 during the installation process.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ntdevlabs/tiny11builder</title>
+      <link>https://github.com/ntdevlabs/tiny11builder</link>
+      <description>&lt;p&gt;Scripts to build a trimmed-down Windows 11 image.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChrisTitusTech/winutil</title>
+      <link>https://github.com/ChrisTitusTech/winutil</link>
+      <description>&lt;p&gt;Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raphire/Win11Debloat</title>
+      <link>https://github.com/Raphire/Win11Debloat</link>
+      <description>&lt;p&gt;A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mandiant/commando-vm</title>
+      <link>https://github.com/mandiant/commando-vm</link>
+      <description>&lt;p&gt;Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TrimarcJake/Locksmith</title>
+      <link>https://github.com/TrimarcJake/Locksmith</link>
+      <description>&lt;p&gt;A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mandiant/flare-vm</title>
+      <link>https://github.com/mandiant/flare-vm</link>
+      <description>&lt;p&gt;A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dotnet/core</title>
+      <link>https://github.com/dotnet/core</link>
+      <description>&lt;p&gt;.NET news, announcements, release notes, and more!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openhab/openhab-distro</title>
+      <link>https://github.com/openhab/openhab-distro</link>
+      <description>&lt;p&gt;The binary distribution of openHAB&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>techspence/ScriptSentry</title>
+      <link>https://github.com/techspence/ScriptSentry</link>
+      <description>&lt;p&gt;ScriptSentry finds misconfigured and dangerous logon scripts.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BloodHoundAD/BloodHound</title>
+      <link>https://github.com/BloodHoundAD/BloodHound</link>
+      <description>&lt;p&gt;Six Degrees of Domain Admin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure/Enterprise-Scale</title>
+      <link>https://github.com/Azure/Enterprise-Scale</link>
+      <description>&lt;p&gt;The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>samratashok/nishang</title>
+      <link>https://github.com/samratashok/nishang</link>
+      <description>&lt;p&gt;Nishang - Offensive PowerShell for red team, penetration testing and offensive security.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>scipag/HardeningKitty</title>
+      <link>https://github.com/scipag/HardeningKitty</link>
+      <description>&lt;p&gt;HardeningKitty - Checks and hardens your Windows configuration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoftgraph/microsoft-graph-docs-contrib</title>
+      <link>https://github.com/microsoftgraph/microsoft-graph-docs-contrib</link>
+      <description>&lt;p&gt;Documentation for the Microsoft Graph REST API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:35:15 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>saadeghi/daisyui</title>
+      <link>https://github.com/saadeghi/daisyui</link>
+      <description>&lt;p&gt;🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>taikoxyz/taiko-mono</title>
+      <link>https://github.com/taikoxyz/taiko-mono</link>
+      <description>&lt;p&gt;A based rollup. 🥁 🌸&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbgate/dbgate</title>
+      <link>https://github.com/dbgate/dbgate</link>
+      <description>&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sveltejs/svelte.dev</title>
+      <link>https://github.com/sveltejs/svelte.dev</link>
+      <description>&lt;p&gt;The Svelte omnisite&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huntabyte/shadcn-svelte</title>
+      <link>https://github.com/huntabyte/shadcn-svelte</link>
+      <description>&lt;p&gt;shadcn/ui, but for Svelte. ✨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vkurko/calendar</title>
+      <link>https://github.com/vkurko/calendar</link>
+      <description>&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CriticalMoments/CMSaasStarter</title>
+      <link>https://github.com/CriticalMoments/CMSaasStarter</link>
+      <description>&lt;p&gt;A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gurucomputing/headscale-ui</title>
+      <link>https://github.com/gurucomputing/headscale-ui</link>
+      <description>&lt;p&gt;A web frontend for the headscale Tailscale-compatible coordination server&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hackclub/OnBoard</title>
+      <link>https://github.com/hackclub/OnBoard</link>
+      <description>&lt;p&gt;💡 Join 1,000 teenagers and make your first PCB with a $100 grant!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pluja/whishper</title>
+      <link>https://github.com/pluja/whishper</link>
+      <description>&lt;p&gt;Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChurchApps/FreeShow</title>
+      <link>https://github.com/ChurchApps/FreeShow</link>
+      <description>&lt;p&gt;FreeShow is a free and open-source, user-friendly presenter software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>drips-network/app</title>
+      <link>https://github.com/drips-network/app</link>
+      <description>&lt;p&gt;💧 Funding that flows — Drips Frontend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Niek/chatgpt-web</title>
+      <link>https://github.com/Niek/chatgpt-web</link>
+      <description>&lt;p&gt;ChatGPT web interface using the OpenAI API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>codicocodes/dotfyle</title>
+      <link>https://github.com/codicocodes/dotfyle</link>
+      <description>&lt;p&gt;Find the best Neovim plugins&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ThaUnknown/miru</title>
+      <link>https://github.com/ThaUnknown/miru</link>
+      <description>&lt;p&gt;Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>marcusolsson/obsidian-projects</title>
+      <link>https://github.com/marcusolsson/obsidian-projects</link>
+      <description>&lt;p&gt;Plain text project planning in Obsidian&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>themesberg/flowbite-svelte</title>
+      <link>https://github.com/themesberg/flowbite-svelte</link>
+      <description>&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

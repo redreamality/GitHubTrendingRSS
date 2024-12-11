@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Daily Trending</title>
+    <description>Daily Trending of Unknown languages in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:27:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>slowmist/Blockchain-dark-forest-selfguard-handbook</title>
+      <link>https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook</link>
+      <description>&lt;p&gt;Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>n8n-io/self-hosted-ai-starter-kit</title>
+      <link>https://github.com/n8n-io/self-hosted-ai-starter-kit</link>
+      <description>&lt;p&gt;The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hannibal046/Awesome-LLM</title>
+      <link>https://github.com/Hannibal046/Awesome-LLM</link>
+      <description>&lt;p&gt;Awesome-LLM: a curated list of Large Language Model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/copilot-codespaces-vscode</title>
+      <link>https://github.com/skills/copilot-codespaces-vscode</link>
+      <description>&lt;p&gt;Develop with AI-powered code suggestions using GitHub Copilot and VS Code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://github.com/skills/introduction-to-github</link>
+      <description>&lt;p&gt;Get started using GitHub in less than an hour.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

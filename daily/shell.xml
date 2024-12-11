@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Daily Trending</title>
+    <description>Daily Trending of Shell in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:34:55 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>dokku/dokku</title>
+      <link>https://github.com/dokku/dokku</link>
+      <description>&lt;p&gt;A docker-powered PaaS that helps you build and manage the lifecycle of applications&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>asdf-vm/asdf</title>
+      <link>https://github.com/asdf-vm/asdf</link>
+      <description>&lt;p&gt;Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>awslabs/git-secrets</title>
+      <link>https://github.com/awslabs/git-secrets</link>
+      <description>&lt;p&gt;Prevents you from committing secrets and credentials into git repositories&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>QwenLM/Qwen2.5</title>
+      <link>https://github.com/QwenLM/Qwen2.5</link>
+      <description>&lt;p&gt;Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>oracle/docker-images</title>
+      <link>https://github.com/oracle/docker-images</link>
+      <description>&lt;p&gt;Official source of container configurations, images, and examples for Oracle products and projects&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rbenv/rbenv</title>
+      <link>https://github.com/rbenv/rbenv</link>
+      <description>&lt;p&gt;Manage your app&#39;s Ruby environment&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>acmesh-official/acme.sh</title>
+      <link>https://github.com/acmesh-official/acme.sh</link>
+      <description>&lt;p&gt;A pure Unix shell script implementing ACME client protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>getsentry/self-hosted</title>
+      <link>https://github.com/getsentry/self-hosted</link>
+      <description>&lt;p&gt;Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kodekloudhub/certified-kubernetes-administrator-course</title>
+      <link>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</link>
+      <description>&lt;p&gt;Certified Kubernetes Administrator - CKA Course&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>quickemu-project/quickemu</title>
+      <link>https://github.com/quickemu-project/quickemu</link>
+      <description>&lt;p&gt;Quickly create and run optimised Windows, macOS and Linux virtual machines&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jenv/jenv</title>
+      <link>https://github.com/jenv/jenv</link>
+      <description>&lt;p&gt;Manage your Java environment&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nyr/openvpn-install</title>
+      <link>https://github.com/Nyr/openvpn-install</link>
+      <description>&lt;p&gt;OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>awslabs/amazon-eks-ami</title>
+      <link>https://github.com/awslabs/amazon-eks-ami</link>
+      <description>&lt;p&gt;Packer configuration for building a custom EKS AMI&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SeleniumHQ/docker-selenium</title>
+      <link>https://github.com/SeleniumHQ/docker-selenium</link>
+      <description>&lt;p&gt;Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

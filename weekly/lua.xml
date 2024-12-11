@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Lua Weekly Trending</title>
+    <description>Weekly Trending of Lua in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:39:44 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>folke/lazy.nvim</title>
+      <link>https://github.com/folke/lazy.nvim</link>
+      <description>&lt;p&gt;💤 A modern plugin manager for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koreader/koreader</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description>&lt;p&gt;An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NeogitOrg/neogit</title>
+      <link>https://github.com/NeogitOrg/neogit</link>
+      <description>&lt;p&gt;An interactive and powerful Git interface for Neovim, inspired by Magit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-lua/kickstart.nvim</title>
+      <link>https://github.com/nvim-lua/kickstart.nvim</link>
+      <description>&lt;p&gt;A launch point for your personal nvim configuration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>echasnovski/mini.nvim</title>
+      <link>https://github.com/echasnovski/mini.nvim</link>
+      <description>&lt;p&gt;Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kdheepak/lazygit.nvim</title>
+      <link>https://github.com/kdheepak/lazygit.nvim</link>
+      <description>&lt;p&gt;Plugin for calling lazygit from within neovim.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PathOfBuildingCommunity/PathOfBuilding</title>
+      <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding</link>
+      <description>&lt;p&gt;Offline build planner for Path of Exile.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-telescope/telescope.nvim</title>
+      <link>https://github.com/nvim-telescope/telescope.nvim</link>
+      <description>&lt;p&gt;Find, Filter, Preview, Pick. All lua, all the time.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ThePrimeagen/init.lua</title>
+      <link>https://github.com/ThePrimeagen/init.lua</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neovim/nvim-lspconfig</title>
+      <link>https://github.com/neovim/nvim-lspconfig</link>
+      <description>&lt;p&gt;Quickstart configs for Nvim LSP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mrcjkb/rustaceanvim</title>
+      <link>https://github.com/mrcjkb/rustaceanvim</link>
+      <description>&lt;p&gt;🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mfussenegger/nvim-dap</title>
+      <link>https://github.com/mfussenegger/nvim-dap</link>
+      <description>&lt;p&gt;Debug Adapter Protocol client implementation for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>folke/noice.nvim</title>
+      <link>https://github.com/folke/noice.nvim</link>
+      <description>&lt;p&gt;💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rafamadriz/friendly-snippets</title>
+      <link>https://github.com/rafamadriz/friendly-snippets</link>
+      <description>&lt;p&gt;Set of preconfigured snippets for different languages.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xiaorouji/openwrt-passwall</title>
+      <link>https://github.com/xiaorouji/openwrt-passwall</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stevearc/conform.nvim</title>
+      <link>https://github.com/stevearc/conform.nvim</link>
+      <description>&lt;p&gt;Lightweight yet powerful formatter plugin for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LuaLS/lua-language-server</title>
+      <link>https://github.com/LuaLS/lua-language-server</link>
+      <description>&lt;p&gt;A language server that offers Lua language support - programmed in Lua&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kylechui/nvim-surround</title>
+      <link>https://github.com/kylechui/nvim-surround</link>
+      <description>&lt;p&gt;Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

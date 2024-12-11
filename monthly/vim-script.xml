@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vim Script Monthly Trending</title>
+    <description>Monthly Trending of Vim Script in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:57:11 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>neovim/neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description>&lt;p&gt;Vim-fork focused on extensibility and usability&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exafunction/codeium.vim</title>
+      <link>https://github.com/Exafunction/codeium.vim</link>
+      <description>&lt;p&gt;Free, ultrafast Copilot alternative for Vim and Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim/vim</title>
+      <link>https://github.com/vim/vim</link>
+      <description>&lt;p&gt;The official Vim repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sainnhe/gruvbox-material</title>
+      <link>https://github.com/sainnhe/gruvbox-material</link>
+      <description>&lt;p&gt;Gruvbox with Material Palette&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>madox2/vim-ai</title>
+      <link>https://github.com/madox2/vim-ai</link>
+      <description>&lt;p&gt;AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kristijanhusak/vim-dadbod-completion</title>
+      <link>https://github.com/kristijanhusak/vim-dadbod-completion</link>
+      <description>&lt;p&gt;Database autocompletion powered by https://github.com/tpope/vim-dadbod&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-fugitive</title>
+      <link>https://github.com/tpope/vim-fugitive</link>
+      <description>&lt;p&gt;fugitive.vim: A Git wrapper so awesome, it should be illegal&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kristijanhusak/vim-dadbod-ui</title>
+      <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
+      <description>&lt;p&gt;Simple UI for https://github.com/tpope/vim-dadbod&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>derekhe/msfs2020-map-enhancement</title>
+      <link>https://github.com/derekhe/msfs2020-map-enhancement</link>
+      <description>&lt;p&gt;MSFS2020 Map Enhancement&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lambdalisue/vim-suda</title>
+      <link>https://github.com/lambdalisue/vim-suda</link>
+      <description>&lt;p&gt;🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>editorconfig/editorconfig-vim</title>
+      <link>https://github.com/editorconfig/editorconfig-vim</link>
+      <description>&lt;p&gt;EditorConfig plugin for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim-test/vim-test</title>
+      <link>https://github.com/vim-test/vim-test</link>
+      <description>&lt;p&gt;Run your tests at the speed of thought&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sainnhe/everforest</title>
+      <link>https://github.com/sainnhe/everforest</link>
+      <description>&lt;p&gt;🌲 Comfortable &amp; Pleasant Color Scheme for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-endwise</title>
+      <link>https://github.com/tpope/vim-endwise</link>
+      <description>&lt;p&gt;endwise.vim: Wisely add&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>octol/vim-cpp-enhanced-highlight</title>
+      <link>https://github.com/octol/vim-cpp-enhanced-highlight</link>
+      <description>&lt;p&gt;Additional Vim syntax highlighting for C++ (including C++11/14/17)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mzlogin/vim-markdown-toc</title>
+      <link>https://github.com/mzlogin/vim-markdown-toc</link>
+      <description>&lt;p&gt;A vim 7.4+ plugin to generate table of contents for Markdown files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lambdalisue/vim-fern</title>
+      <link>https://github.com/lambdalisue/vim-fern</link>
+      <description>&lt;p&gt;🌿 General purpose asynchronous tree viewer written in Pure Vim script&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alvan/vim-closetag</title>
+      <link>https://github.com/alvan/vim-closetag</link>
+      <description>&lt;p&gt;Auto close (X)HTML tags&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kaarmu/typst.vim</title>
+      <link>https://github.com/kaarmu/typst.vim</link>
+      <description>&lt;p&gt;Vim plugin for Typst&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

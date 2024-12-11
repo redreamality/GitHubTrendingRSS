@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Starlark Monthly Trending</title>
+    <description>Monthly Trending of Starlark in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:56:37 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>google/cel-spec</title>
+      <link>https://github.com/google/cel-spec</link>
+      <description>&lt;p&gt;Common Expression Language -- specification and binary representation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GoogleContainerTools/distroless</title>
+      <link>https://github.com/GoogleContainerTools/distroless</link>
+      <description>&lt;p&gt;🥑 Language focused docker images, minus the operating system.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_rust</title>
+      <link>https://github.com/bazelbuild/rules_rust</link>
+      <description>&lt;p&gt;Rust rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethpandaops/ethereum-package</title>
+      <link>https://github.com/ethpandaops/ethereum-package</link>
+      <description>&lt;p&gt;A Kurtosis package that deploys a private, portable, and modular Ethereum devnet&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_docker</title>
+      <link>https://github.com/bazelbuild/rules_docker</link>
+      <description>&lt;p&gt;Rules for building and handling Docker images with Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pybind/pybind11_bazel</title>
+      <link>https://github.com/pybind/pybind11_bazel</link>
+      <description>&lt;p&gt;Bazel wrapper around the pybind11 repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/rules_perl</title>
+      <link>https://github.com/bazel-contrib/rules_perl</link>
+      <description>&lt;p&gt;Perl rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/bazel-common</title>
+      <link>https://github.com/google/bazel-common</link>
+      <description>&lt;p&gt;Common functionality for Google&#39;s open-source libraries that are built with bazel.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/bazel-central-registry</title>
+      <link>https://github.com/bazelbuild/bazel-central-registry</link>
+      <description>&lt;p&gt;The central registry of Bazel modules for the Bzlmod external dependency system.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aspect-build/bazel-examples</title>
+      <link>https://github.com/aspect-build/bazel-examples</link>
+      <description>&lt;p&gt;Bazel examples&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aspect-build/rules_ts</title>
+      <link>https://github.com/aspect-build/rules_ts</link>
+      <description>&lt;p&gt;Bazel rules for the `tsc` compiler from http://typescriptlang.org&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mvukov/rules_ros</title>
+      <link>https://github.com/mvukov/rules_ros</link>
+      <description>&lt;p&gt;Build ROS (1) with Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/starlark</title>
+      <link>https://github.com/bazelbuild/starlark</link>
+      <description>&lt;p&gt;Starlark Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>googleapis/api-common-protos</title>
+      <link>https://github.com/googleapis/api-common-protos</link>
+      <description>&lt;p&gt;A standard library for use in specifying protocol buffer APIs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0xPolygon/kurtosis-cdk</title>
+      <link>https://github.com/0xPolygon/kurtosis-cdk</link>
+      <description>&lt;p&gt;A Kurtosis package that deploys a private, portable, and modular Polygon CDK devnet&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_proto</title>
+      <link>https://github.com/bazelbuild/rules_proto</link>
+      <description>&lt;p&gt;Protocol buffer rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/examples</title>
+      <link>https://github.com/bazelbuild/examples</link>
+      <description>&lt;p&gt;Examples for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cncf/xds</title>
+      <link>https://github.com/cncf/xds</link>
+      <description>&lt;p&gt;xDS API Working Group&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_swift</title>
+      <link>https://github.com/bazelbuild/rules_swift</link>
+      <description>&lt;p&gt;Bazel rules to build Swift on Apple and Linux platforms&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/bazel-skylib</title>
+      <link>https://github.com/bazelbuild/bazel-skylib</link>
+      <description>&lt;p&gt;Common useful functions and rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_scala</title>
+      <link>https://github.com/bazelbuild/rules_scala</link>
+      <description>&lt;p&gt;Scala rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

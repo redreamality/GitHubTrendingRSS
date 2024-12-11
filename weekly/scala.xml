@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scala Weekly Trending</title>
+    <description>Weekly Trending of Scala in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:46:34 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ucb-bar/chipyard</title>
+      <link>https://github.com/ucb-bar/chipyard</link>
+      <description>&lt;p&gt;An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/kyuubi</title>
+      <link>https://github.com/apache/kyuubi</link>
+      <description>&lt;p&gt;Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenXiangShan/XiangShan</title>
+      <link>https://github.com/OpenXiangShan/XiangShan</link>
+      <description>&lt;p&gt;Open-source high-performance RISC-V processor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lichess-org/lila</title>
+      <link>https://github.com/lichess-org/lila</link>
+      <description>&lt;p&gt;♞ lichess.org: the forever free, adless and open source chess server ♞&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chipsalliance/rocket-chip</title>
+      <link>https://github.com/chipsalliance/rocket-chip</link>
+      <description>&lt;p&gt;Rocket Chip Generator&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chipsalliance/chisel</title>
+      <link>https://github.com/chipsalliance/chisel</link>
+      <description>&lt;p&gt;Chisel: A Modern Hardware Design Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aimacode/aima-scala</title>
+      <link>https://github.com/aimacode/aima-scala</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/incubator-gluten</title>
+      <link>https://github.com/apache/incubator-gluten</link>
+      <description>&lt;p&gt;Gluten is a middle layer responsible for offloading JVM-based SQL engines&#39; execution to native engines.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>delta-io/delta</title>
+      <link>https://github.com/delta-io/delta</link>
+      <description>&lt;p&gt;An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>awslabs/deequ</title>
+      <link>https://github.com/awslabs/deequ</link>
+      <description>&lt;p&gt;Deequ is a library built on top of Apache Spark for defining &quot;unit tests for data&quot;, which measure data quality in large datasets.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/chiseltest</title>
+      <link>https://github.com/ucb-bar/chiseltest</link>
+      <description>&lt;p&gt;The batteries-included testing and formal verification library for Chisel-based RTL designs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/riscv-sodor</title>
+      <link>https://github.com/ucb-bar/riscv-sodor</link>
+      <description>&lt;p&gt;educational microarchitectures for risc-v isa&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gitbucket/gitbucket</title>
+      <link>https://github.com/gitbucket/gitbucket</link>
+      <description>&lt;p&gt;A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>scala/scala3</title>
+      <link>https://github.com/scala/scala3</link>
+      <description>&lt;p&gt;The Scala 3 compiler, also known as Dotty.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/riscv-torture</title>
+      <link>https://github.com/ucb-bar/riscv-torture</link>
+      <description>&lt;p&gt;RISC-V Torture Test&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firesim/firesim</title>
+      <link>https://github.com/firesim/firesim</link>
+      <description>&lt;p&gt;FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheHive-Project/TheHive</title>
+      <link>https://github.com/TheHive-Project/TheHive</link>
+      <description>&lt;p&gt;TheHive: a Scalable, Open Source and Free Security Incident Response Platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rtyley/bfg-repo-cleaner</title>
+      <link>https://github.com/rtyley/bfg-repo-cleaner</link>
+      <description>&lt;p&gt;Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Daily Trending</title>
+    <description>Daily Trending of PHP in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:33:58 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nextcloud/server</title>
+      <link>https://github.com/nextcloud/server</link>
+      <description>&lt;p&gt;☁️ Nextcloud server, a safe home for all your data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firefly-iii/firefly-iii</title>
+      <link>https://github.com/firefly-iii/firefly-iii</link>
+      <description>&lt;p&gt;Firefly III: a personal finances manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>filamentphp/filament</title>
+      <link>https://github.com/filamentphp/filament</link>
+      <description>&lt;p&gt;A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>laravel/framework</title>
+      <link>https://github.com/laravel/framework</link>
+      <description>&lt;p&gt;The Laravel Framework.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>danielmiessler/SecLists</title>
+      <link>https://github.com/danielmiessler/SecLists</link>
+      <description>&lt;p&gt;SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dolibarr/dolibarr</title>
+      <link>https://github.com/Dolibarr/dolibarr</link>
+      <description>&lt;p&gt;Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>guzzle/guzzle</title>
+      <link>https://github.com/guzzle/guzzle</link>
+      <description>&lt;p&gt;Guzzle, an extensible PHP HTTP client&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sebastianbergmann/phpunit</title>
+      <link>https://github.com/sebastianbergmann/phpunit</link>
+      <description>&lt;p&gt;The PHP Unit Testing framework.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>snipe/snipe-it</title>
+      <link>https://github.com/snipe/snipe-it</link>
+      <description>&lt;p&gt;A free open source IT asset/license management system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Automattic/jetpack</title>
+      <link>https://github.com/Automattic/jetpack</link>
+      <description>&lt;p&gt;Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>composer/composer</title>
+      <link>https://github.com/composer/composer</link>
+      <description>&lt;p&gt;Dependency Manager for PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>elementor/elementor</title>
+      <link>https://github.com/elementor/elementor</link>
+      <description>&lt;p&gt;The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PHP-CS-Fixer/PHP-CS-Fixer</title>
+      <link>https://github.com/PHP-CS-Fixer/PHP-CS-Fixer</link>
+      <description>&lt;p&gt;A tool to automatically fix PHP Coding Standards issues&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress/wordpress-develop</title>
+      <link>https://github.com/WordPress/wordpress-develop</link>
+      <description>&lt;p&gt;WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coollabsio/coolify</title>
+      <link>https://github.com/coollabsio/coolify</link>
+      <description>&lt;p&gt;An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cweagans/composer-patches</title>
+      <link>https://github.com/cweagans/composer-patches</link>
+      <description>&lt;p&gt;Simple patches plugin for Composer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/all-in-one</title>
+      <link>https://github.com/nextcloud/all-in-one</link>
+      <description>&lt;p&gt;📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>librenms/librenms</title>
+      <link>https://github.com/librenms/librenms</link>
+      <description>&lt;p&gt;Community-based GPL-licensed network monitoring system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jeroennoten/Laravel-AdminLTE</title>
+      <link>https://github.com/jeroennoten/Laravel-AdminLTE</link>
+      <description>&lt;p&gt;Easy AdminLTE integration with Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LinkStackOrg/LinkStack</title>
+      <link>https://github.com/LinkStackOrg/LinkStack</link>
+      <description>&lt;p&gt;LinkStack - the ultimate solution for creating a personalized &amp; professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2board/v2board</title>
+      <link>https://github.com/v2board/v2board</link>
+      <description>&lt;p&gt;🚀A multiple proxy protocol manage panel application interface&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>drush-ops/drush</title>
+      <link>https://github.com/drush-ops/drush</link>
+      <description>&lt;p&gt;Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

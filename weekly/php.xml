@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Weekly Trending</title>
+    <description>Weekly Trending of PHP in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:45:36 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>coollabsio/coolify</title>
+      <link>https://github.com/coollabsio/coolify</link>
+      <description>&lt;p&gt;An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firefly-iii/firefly-iii</title>
+      <link>https://github.com/firefly-iii/firefly-iii</link>
+      <description>&lt;p&gt;Firefly III: a personal finances manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>librenms/librenms</title>
+      <link>https://github.com/librenms/librenms</link>
+      <description>&lt;p&gt;Community-based GPL-licensed network monitoring system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nikic/PHP-Parser</title>
+      <link>https://github.com/nikic/PHP-Parser</link>
+      <description>&lt;p&gt;A PHP parser written in PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>filamentphp/filament</title>
+      <link>https://github.com/filamentphp/filament</link>
+      <description>&lt;p&gt;A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>invoiceninja/invoiceninja</title>
+      <link>https://github.com/invoiceninja/invoiceninja</link>
+      <description>&lt;p&gt;A source-available invoice, quote, project and time-tracking app built with Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PrestaShop/PrestaShop</title>
+      <link>https://github.com/PrestaShop/PrestaShop</link>
+      <description>&lt;p&gt;PrestaShop is the universal open-source software platform to build your e-commerce solution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>magento/magento2</title>
+      <link>https://github.com/magento/magento2</link>
+      <description>&lt;p&gt;Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alextselegidis/easyappointments</title>
+      <link>https://github.com/alextselegidis/easyappointments</link>
+      <description>&lt;p&gt;📅 Easy!Appointments - Self Hosted Appointment Scheduler&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>laravel/laravel</title>
+      <link>https://github.com/laravel/laravel</link>
+      <description>&lt;p&gt;Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/server</title>
+      <link>https://github.com/nextcloud/server</link>
+      <description>&lt;p&gt;☁️ Nextcloud server, a safe home for all your data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>symfony/symfony</title>
+      <link>https://github.com/symfony/symfony</link>
+      <description>&lt;p&gt;The Symfony PHP framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mautic/mautic</title>
+      <link>https://github.com/mautic/mautic</link>
+      <description>&lt;p&gt;Mautic: Open Source Marketing Automation Software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sylius/Sylius</title>
+      <link>https://github.com/Sylius/Sylius</link>
+      <description>&lt;p&gt;Open Source eCommerce Framework on Symfony&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seldaek/monolog</title>
+      <link>https://github.com/Seldaek/monolog</link>
+      <description>&lt;p&gt;Sends your logs to files, sockets, inboxes, databases and various web services&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opencart/opencart</title>
+      <link>https://github.com/opencart/opencart</link>
+      <description>&lt;p&gt;A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexjustesen/speedtest-tracker</title>
+      <link>https://github.com/alexjustesen/speedtest-tracker</link>
+      <description>&lt;p&gt;Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pmmp/PocketMine-MP</title>
+      <link>https://github.com/pmmp/PocketMine-MP</link>
+      <description>&lt;p&gt;A server software for Minecraft: Bedrock Edition in PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PHP-CS-Fixer/PHP-CS-Fixer</title>
+      <link>https://github.com/PHP-CS-Fixer/PHP-CS-Fixer</link>
+      <description>&lt;p&gt;A tool to automatically fix PHP Coding Standards issues&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>php/web-php</title>
+      <link>https://github.com/php/web-php</link>
+      <description>&lt;p&gt;The www.php.net site&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>danielmiessler/SecLists</title>
+      <link>https://github.com/danielmiessler/SecLists</link>
+      <description>&lt;p&gt;SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fuzzdb-project/fuzzdb</title>
+      <link>https://github.com/fuzzdb-project/fuzzdb</link>
+      <description>&lt;p&gt;Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>composer/composer</title>
+      <link>https://github.com/composer/composer</link>
+      <description>&lt;p&gt;Dependency Manager for PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

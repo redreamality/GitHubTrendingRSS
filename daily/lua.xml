@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Lua Daily Trending</title>
+    <description>Daily Trending of Lua in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:30:25 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>koreader/koreader</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description>&lt;p&gt;An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neovim/nvim-lspconfig</title>
+      <link>https://github.com/neovim/nvim-lspconfig</link>
+      <description>&lt;p&gt;Quickstart configs for Nvim LSP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xiaorouji/openwrt-passwall</title>
+      <link>https://github.com/xiaorouji/openwrt-passwall</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stevearc/conform.nvim</title>
+      <link>https://github.com/stevearc/conform.nvim</link>
+      <description>&lt;p&gt;Lightweight yet powerful formatter plugin for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LuaLS/lua-language-server</title>
+      <link>https://github.com/LuaLS/lua-language-server</link>
+      <description>&lt;p&gt;A language server that offers Lua language support - programmed in Lua&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-telescope/telescope.nvim</title>
+      <link>https://github.com/nvim-telescope/telescope.nvim</link>
+      <description>&lt;p&gt;Find, Filter, Preview, Pick. All lua, all the time.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tarantool/tarantool</title>
+      <link>https://github.com/tarantool/tarantool</link>
+      <description>&lt;p&gt;Get your data in RAM. Get compute close to data. Enjoy the performance.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-tree/nvim-tree.lua</title>
+      <link>https://github.com/nvim-tree/nvim-tree.lua</link>
+      <description>&lt;p&gt;A file explorer tree for neovim written in lua&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yetone/avante.nvim</title>
+      <link>https://github.com/yetone/avante.nvim</link>
+      <description>&lt;p&gt;Use your Neovim like using Cursor AI IDE!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ejoy/ant</title>
+      <link>https://github.com/ejoy/ant</link>
+      <description>&lt;p&gt;Ant game engine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LazyVim/LazyVim</title>
+      <link>https://github.com/LazyVim/LazyVim</link>
+      <description>&lt;p&gt;Neovim config for the lazy&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>folke/lazy.nvim</title>
+      <link>https://github.com/folke/lazy.nvim</link>
+      <description>&lt;p&gt;💤 A modern plugin manager for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Saghen/blink.cmp</title>
+      <link>https://github.com/Saghen/blink.cmp</link>
+      <description>&lt;p&gt;Performant, batteries-included completion plugin for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kong/kong</title>
+      <link>https://github.com/Kong/kong</link>
+      <description>&lt;p&gt;🦍 The Cloud-Native API Gateway and AI Gateway.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kdheepak/lazygit.nvim</title>
+      <link>https://github.com/kdheepak/lazygit.nvim</link>
+      <description>&lt;p&gt;Plugin for calling lazygit from within neovim.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Eandrju/cellular-automaton.nvim</title>
+      <link>https://github.com/Eandrju/cellular-automaton.nvim</link>
+      <description>&lt;p&gt;A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content of neovim buffer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xiaorouji/openwrt-passwall2</title>
+      <link>https://github.com/xiaorouji/openwrt-passwall2</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

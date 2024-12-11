@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Weekly Trending</title>
+    <description>Weekly Trending of Rust in GitHub</description>
+    <pubDate>Wed, 11 Dec 2024 02:46:32 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>spaceandtimelabs/sxt-proof-of-sql</title>
+      <link>https://github.com/spaceandtimelabs/sxt-proof-of-sql</link>
+      <description>&lt;p&gt;Space and Time | Proof of SQL&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>&lt;p&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leptos-rs/leptos</title>
+      <link>https://github.com/leptos-rs/leptos</link>
+      <description>&lt;p&gt;Build fast web applications with Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eythaann/Seelen-UI</title>
+      <link>https://github.com/eythaann/Seelen-UI</link>
+      <description>&lt;p&gt;The Fully Customizable Desktop Environment for Windows 10/11.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jdx/mise</title>
+      <link>https://github.com/jdx/mise</link>
+      <description>&lt;p&gt;dev tools, env vars, task runner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>casey/just</title>
+      <link>https://github.com/casey/just</link>
+      <description>&lt;p&gt;🤖 Just a command runner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tauri-apps/tauri</title>
+      <link>https://github.com/tauri-apps/tauri</link>
+      <description>&lt;p&gt;Build smaller, faster, and more secure desktop and mobile applications with a web frontend.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pola-rs/polars</title>
+      <link>https://github.com/pola-rs/polars</link>
+      <description>&lt;p&gt;Dataframes powered by a multithreaded, vectorized query engine, written in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bevyengine/bevy</title>
+      <link>https://github.com/bevyengine/bevy</link>
+      <description>&lt;p&gt;A refreshingly simple data-driven game engine built in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mullvad/mullvadvpn-app</title>
+      <link>https://github.com/mullvad/mullvadvpn-app</link>
+      <description>&lt;p&gt;The Mullvad VPN client app for desktop and mobile&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mxsm/rocketmq-rust</title>
+      <link>https://github.com/mxsm/rocketmq-rust</link>
+      <description>&lt;p&gt;🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stalwartlabs/mail-server</title>
+      <link>https://github.com/stalwartlabs/mail-server</link>
+      <description>&lt;p&gt;Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rpcpool/yellowstone-grpc</title>
+      <link>https://github.com/rpcpool/yellowstone-grpc</link>
+      <description>&lt;p&gt;solana geyser grpc service&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sxyazi/yazi</title>
+      <link>https://github.com/sxyazi/yazi</link>
+      <description>&lt;p&gt;💥 Blazing fast terminal file manager written in Rust, based on async I/O.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ankitects/anki</title>
+      <link>https://github.com/ankitects/anki</link>
+      <description>&lt;p&gt;Anki&#39;s shared backend and web components, and the Qt frontend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emilk/egui</title>
+      <link>https://github.com/emilk/egui</link>
+      <description>&lt;p&gt;egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/ruff</title>
+      <link>https://github.com/astral-sh/ruff</link>
+      <description>&lt;p&gt;An extremely fast Python linter and code formatter, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tensorzero/tensorzero</title>
+      <link>https://github.com/tensorzero/tensorzero</link>
+      <description>&lt;p&gt;TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fspoettel/advent-of-code-rust</title>
+      <link>https://github.com/fspoettel/advent-of-code-rust</link>
+      <description>&lt;p&gt;🎄Starter template for solving Advent of Code in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rayon-rs/rayon</title>
+      <link>https://github.com/rayon-rs/rayon</link>
+      <description>&lt;p&gt;Rayon: A data parallelism library for Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>seanmonstar/reqwest</title>
+      <link>https://github.com/seanmonstar/reqwest</link>
+      <description>&lt;p&gt;An easy and powerful Rust HTTP Client&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chroma-core/chroma</title>
+      <link>https://github.com/chroma-core/chroma</link>
+      <description>&lt;p&gt;the AI-native open-source embedding database&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
