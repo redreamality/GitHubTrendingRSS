@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Blade Daily Trending</title>
+    <description>Daily Trending of Blade in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:23:37 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>livewire/flux</title>
+      <link>https://github.com/livewire/flux</link>
+      <description>&lt;p&gt;The official Livewire UI component library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>krayin/laravel-crm</title>
+      <link>https://github.com/krayin/laravel-crm</link>
+      <description>&lt;p&gt;Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FahimAnzamDip/triangle-pos</title>
+      <link>https://github.com/FahimAnzamDip/triangle-pos</link>
+      <description>&lt;p&gt;Triangle POS is an open source Inventory Management with POS System. Developed with Laravel 10, Bootstrap 4 &amp; Livewire 3. It&#39;s completely free to use.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lsky-org/lsky-pro</title>
+      <link>https://github.com/lsky-org/lsky-pro</link>
+      <description>&lt;p&gt;☁️兰空图床(Lsky Pro) - Your photo album on the cloud.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prajwal100/Complete-Ecommerce-in-laravel-10</title>
+      <link>https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10</link>
+      <description>&lt;p&gt;Complete e-commerce website in laravel 10. Admin login:- https://ketramart.com/admin/login&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stancl/tenancy-docs</title>
+      <link>https://github.com/stancl/tenancy-docs</link>
+      <description>&lt;p&gt;stancl/tenancy docs &amp; website&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

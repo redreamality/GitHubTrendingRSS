@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Swift Daily Trending</title>
+    <description>Daily Trending of Swift in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:31:22 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>stripe/stripe-ios</title>
+      <link>https://github.com/stripe/stripe-ios</link>
+      <description>&lt;p&gt;Stripe iOS SDK&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>swiftlang/swift-package-manager</title>
+      <link>https://github.com/swiftlang/swift-package-manager</link>
+      <description>&lt;p&gt;The Package Manager for the Swift Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuist/tuist</title>
+      <link>https://github.com/tuist/tuist</link>
+      <description>&lt;p&gt;Tuist&#39;s CLI&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-collections</title>
+      <link>https://github.com/apple/swift-collections</link>
+      <description>&lt;p&gt;Commonly used data structures for Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-async-algorithms</title>
+      <link>https://github.com/apple/swift-async-algorithms</link>
+      <description>&lt;p&gt;Async Algorithms for Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pointfreeco/swift-composable-architecture</title>
+      <link>https://github.com/pointfreeco/swift-composable-architecture</link>
+      <description>&lt;p&gt;A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>realm/SwiftLint</title>
+      <link>https://github.com/realm/SwiftLint</link>
+      <description>&lt;p&gt;A tool to enforce Swift style and conventions.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stengo/DeskPad</title>
+      <link>https://github.com/Stengo/DeskPad</link>
+      <description>&lt;p&gt;A virtual monitor for screen sharing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChartsOrg/Charts</title>
+      <link>https://github.com/ChartsOrg/Charts</link>
+      <description>&lt;p&gt;Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>daltoniam/Starscream</title>
+      <link>https://github.com/daltoniam/Starscream</link>
+      <description>&lt;p&gt;Websockets in swift for iOS and OSX&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kean/Nuke</title>
+      <link>https://github.com/kean/Nuke</link>
+      <description>&lt;p&gt;Image loading system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheWidlarzGroup/react-native-video</title>
+      <link>https://github.com/TheWidlarzGroup/react-native-video</link>
+      <description>&lt;p&gt;A &lt;Video /&gt; component for react-native&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SwiftGen/SwiftGen</title>
+      <link>https://github.com/SwiftGen/SwiftGen</link>
+      <description>&lt;p&gt;The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>groue/GRDB.swift</title>
+      <link>https://github.com/groue/GRDB.swift</link>
+      <description>&lt;p&gt;A toolkit for SQLite databases, with a focus on application development&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>socketio/socket.io-client-swift</title>
+      <link>https://github.com/socketio/socket.io-client-swift</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jellyfin/Swiftfin</title>
+      <link>https://github.com/jellyfin/Swiftfin</link>
+      <description>&lt;p&gt;Native Jellyfin Client for iOS and tvOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mrousavy/react-native-vision-camera</title>
+      <link>https://github.com/mrousavy/react-native-vision-camera</link>
+      <description>&lt;p&gt;📸 A powerful, high-performance React Native Camera library.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>airbnb/lottie-ios</title>
+      <link>https://github.com/airbnb/lottie-ios</link>
+      <description>&lt;p&gt;An iOS library to natively render After Effects vector animations&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ReactiveX/RxSwift</title>
+      <link>https://github.com/ReactiveX/RxSwift</link>
+      <description>&lt;p&gt;Reactive Programming in Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>facebook/facebook-ios-sdk</title>
+      <link>https://github.com/facebook/facebook-ios-sdk</link>
+      <description>&lt;p&gt;Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stephencelis/SQLite.swift</title>
+      <link>https://github.com/stephencelis/SQLite.swift</link>
+      <description>&lt;p&gt;A type-safe, Swift-language layer over SQLite3.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>onevcat/Kingfisher</title>
+      <link>https://github.com/onevcat/Kingfisher</link>
+      <description>&lt;p&gt;A lightweight, pure-Swift library for downloading and caching images from the web.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vapor/vapor</title>
+      <link>https://github.com/vapor/vapor</link>
+      <description>&lt;p&gt;💧 A server-side Swift HTTP web framework.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

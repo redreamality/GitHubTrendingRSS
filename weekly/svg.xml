@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub SVG Weekly Trending</title>
+    <description>Weekly Trending of SVG in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:40:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>n3r4zzurr0/svg-spinners</title>
+      <link>https://github.com/n3r4zzurr0/svg-spinners</link>
+      <description>&lt;p&gt;A collection of 24 x 24 dp SVG spinners! (CSS &amp; SMIL)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Daily Trending</title>
+    <description>Daily Trending of Ruby in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:30:47 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rails/rails</title>
+      <link>https://github.com/rails/rails</link>
+      <description>&lt;p&gt;Ruby on Rails&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>&lt;p&gt;A platform for community discussion. Free, open, simple.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DataDog/dd-trace-rb</title>
+      <link>https://github.com/DataDog/dd-trace-rb</link>
+      <description>&lt;p&gt;Datadog Tracing Ruby Client&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fluent/fluentd</title>
+      <link>https://github.com/fluent/fluentd</link>
+      <description>&lt;p&gt;Fluentd: Unified Logging Layer (project under CNCF)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>docusealco/docuseal</title>
+      <link>https://github.com/docusealco/docuseal</link>
+      <description>&lt;p&gt;Open source DocuSign alternative. Create, fill, and sign digital documents ✍️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CocoaPods/CocoaPods</title>
+      <link>https://github.com/CocoaPods/CocoaPods</link>
+      <description>&lt;p&gt;The Cocoa Dependency Manager.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruby/ruby</title>
+      <link>https://github.com/ruby/ruby</link>
+      <description>&lt;p&gt;The Ruby Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chef/chef</title>
+      <link>https://github.com/chef/chef</link>
+      <description>&lt;p&gt;Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fastlane/fastlane</title>
+      <link>https://github.com/fastlane/fastlane</link>
+      <description>&lt;p&gt;🚀 The easiest way to automate building and releasing your iOS and Android apps&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>&lt;p&gt;🤖 Dependabot&#39;s core logic for creating update PRs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>paper-trail-gem/paper_trail</title>
+      <link>https://github.com/paper-trail-gem/paper_trail</link>
+      <description>&lt;p&gt;Track changes to your rails models&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/jekyll</title>
+      <link>https://github.com/jekyll/jekyll</link>
+      <description>&lt;p&gt;🌐 Jekyll is a blog-aware static site generator in Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopify/liquid</title>
+      <link>https://github.com/Shopify/liquid</link>
+      <description>&lt;p&gt;Liquid markup language. Safe, customer facing template language for flexible web apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hotwired/turbo-rails</title>
+      <link>https://github.com/hotwired/turbo-rails</link>
+      <description>&lt;p&gt;Use Turbo in your Ruby on Rails app&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kilimchoi/engineering-blogs</title>
+      <link>https://github.com/kilimchoi/engineering-blogs</link>
+      <description>&lt;p&gt;A curated list of engineering blogs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>faker-ruby/faker</title>
+      <link>https://github.com/faker-ruby/faker</link>
+      <description>&lt;p&gt;A library for generating fake data such as names, addresses, and phone numbers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rack/rack</title>
+      <link>https://github.com/rack/rack</link>
+      <description>&lt;p&gt;A modular Ruby web server interface.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>instructure/canvas-lms</title>
+      <link>https://github.com/instructure/canvas-lms</link>
+      <description>&lt;p&gt;The open LMS by Instructure, Inc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>redmine/redmine</title>
+      <link>https://github.com/redmine/redmine</link>
+      <description>&lt;p&gt;Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>department-of-veterans-affairs/vets-api</title>
+      <link>https://github.com/department-of-veterans-affairs/vets-api</link>
+      <description>&lt;p&gt;API powering VA.gov&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rails-api/active_model_serializers</title>
+      <link>https://github.com/rails-api/active_model_serializers</link>
+      <description>&lt;p&gt;ActiveModel::Serializer implementation and Rails hooks&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>&lt;p&gt;OpenProject is the leading open source project management software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

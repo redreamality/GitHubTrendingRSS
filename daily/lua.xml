@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Lua Daily Trending</title>
+    <description>Daily Trending of Lua in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:26:38 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>LazyVim/LazyVim</title>
+      <link>https://github.com/LazyVim/LazyVim</link>
+      <description>&lt;p&gt;Neovim config for the lazy&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kong/kong</title>
+      <link>https://github.com/Kong/kong</link>
+      <description>&lt;p&gt;🦍 The Cloud-Native API Gateway and AI Gateway.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>iDvel/rime-ice</title>
+      <link>https://github.com/iDvel/rime-ice</link>
+      <description>&lt;p&gt;Rime 配置：雾凇拼音 | 长期维护的简体词库&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exafunction/codeium.nvim</title>
+      <link>https://github.com/Exafunction/codeium.nvim</link>
+      <description>&lt;p&gt;A native neovim extension for Codeium&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/apisix</title>
+      <link>https://github.com/apache/apisix</link>
+      <description>&lt;p&gt;The Cloud-Native API Gateway&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stevearc/conform.nvim</title>
+      <link>https://github.com/stevearc/conform.nvim</link>
+      <description>&lt;p&gt;Lightweight yet powerful formatter plugin for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Saghen/blink.cmp</title>
+      <link>https://github.com/Saghen/blink.cmp</link>
+      <description>&lt;p&gt;Performant, batteries-included completion plugin for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jitsi/docker-jitsi-meet</title>
+      <link>https://github.com/jitsi/docker-jitsi-meet</link>
+      <description>&lt;p&gt;Jitsi Meet on Docker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stevearc/oil.nvim</title>
+      <link>https://github.com/stevearc/oil.nvim</link>
+      <description>&lt;p&gt;Neovim file explorer: edit your filesystem like a buffer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>epwalsh/obsidian.nvim</title>
+      <link>https://github.com/epwalsh/obsidian.nvim</link>
+      <description>&lt;p&gt;Obsidian 🤝 Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opentibiabr/canary</title>
+      <link>https://github.com/opentibiabr/canary</link>
+      <description>&lt;p&gt;Canary Server 13.x for OpenTibia community.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LazyVim/starter</title>
+      <link>https://github.com/LazyVim/starter</link>
+      <description>&lt;p&gt;Starter template for LazyVim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yetone/avante.nvim</title>
+      <link>https://github.com/yetone/avante.nvim</link>
+      <description>&lt;p&gt;Use your Neovim like using Cursor AI IDE!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>josean-dev/dev-environment-files</title>
+      <link>https://github.com/josean-dev/dev-environment-files</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

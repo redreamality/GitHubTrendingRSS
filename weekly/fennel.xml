@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Fennel Weekly Trending</title>
+    <description>Weekly Trending of Fennel in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:34:08 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Olical/nfnl</title>
+      <link>https://github.com/Olical/nfnl</link>
+      <description>&lt;p&gt;Enhance your Neovim with Fennel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

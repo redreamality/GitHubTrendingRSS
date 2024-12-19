@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vue Weekly Trending</title>
+    <description>Weekly Trending of Vue in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:41:19 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Lissy93/dashy</title>
+      <link>https://github.com/Lissy93/dashy</link>
+      <description>&lt;p&gt;🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>luckjiawei/frpc-desktop</title>
+      <link>https://github.com/luckjiawei/frpc-desktop</link>
+      <description>&lt;p&gt;frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tiny-craft/tiny-rdm</title>
+      <link>https://github.com/tiny-craft/tiny-rdm</link>
+      <description>&lt;p&gt;Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>un-pany/v3-admin-vite</title>
+      <link>https://github.com/un-pany/v3-admin-vite</link>
+      <description>&lt;p&gt;☀️ A crafted admin template「vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板」&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HalseySpicy/Geeker-Admin</title>
+      <link>https://github.com/HalseySpicy/Geeker-Admin</link>
+      <description>&lt;p&gt;✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alireza0/s-ui</title>
+      <link>https://github.com/alireza0/s-ui</link>
+      <description>&lt;p&gt;An advanced Web Panel • Built for SagerNet/Sing-Box&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CorentinTh/it-tools</title>
+      <link>https://github.com/CorentinTh/it-tools</link>
+      <description>&lt;p&gt;Collection of handy online tools for developers, with great UX.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imsyy/SPlayer</title>
+      <link>https://github.com/imsyy/SPlayer</link>
+      <description>&lt;p&gt;🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AutomaApp/automa</title>
+      <link>https://github.com/AutomaApp/automa</link>
+      <description>&lt;p&gt;A browser extension for automating your browser by connecting blocks&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lin-xin/vue-manage-system</title>
+      <link>https://github.com/lin-xin/vue-manage-system</link>
+      <description>&lt;p&gt;Vue3、Element Plus、typescript后台管理系统&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primevue</title>
+      <link>https://github.com/primefaces/primevue</link>
+      <description>&lt;p&gt;Next Generation Vue UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>frappe/crm</title>
+      <link>https://github.com/frappe/crm</link>
+      <description>&lt;p&gt;Fully featured, open source CRM&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CareyWang/sub-web</title>
+      <link>https://github.com/CareyWang/sub-web</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RikkaApps/websites</title>
+      <link>https://github.com/RikkaApps/websites</link>
+      <description>&lt;p&gt;Websites for Rikka apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TeamPiped/Piped</title>
+      <link>https://github.com/TeamPiped/Piped</link>
+      <description>&lt;p&gt;An alternative privacy-friendly YouTube frontend which is efficient by design.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bastienwirtz/homer</title>
+      <link>https://github.com/bastienwirtz/homer</link>
+      <description>&lt;p&gt;A very simple static homepage for your server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>intel/AI-Playground</title>
+      <link>https://github.com/intel/AI-Playground</link>
+      <description>&lt;p&gt;AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

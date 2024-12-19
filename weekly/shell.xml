@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Weekly Trending</title>
+    <description>Weekly Trending of Shell in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:40:22 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenBMB/ChatDev</title>
+      <link>https://github.com/OpenBMB/ChatDev</link>
+      <description>&lt;p&gt;Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SeleniumHQ/docker-selenium</title>
+      <link>https://github.com/SeleniumHQ/docker-selenium</link>
+      <description>&lt;p&gt;Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ohmyzsh/ohmyzsh</title>
+      <link>https://github.com/ohmyzsh/ohmyzsh</link>
+      <description>&lt;p&gt;🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>&lt;p&gt;Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bitnami/containers</title>
+      <link>https://github.com/bitnami/containers</link>
+      <description>&lt;p&gt;Bitnami container images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>beclab/Olares</title>
+      <link>https://github.com/beclab/Olares</link>
+      <description>&lt;p&gt;Olares: An Open-Source Sovereign Cloud OS for Local AI&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>conda-forge/miniforge</title>
+      <link>https://github.com/conda-forge/miniforge</link>
+      <description>&lt;p&gt;A conda-forge distribution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BtbN/FFmpeg-Builds</title>
+      <link>https://github.com/BtbN/FFmpeg-Builds</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ai-dock/comfyui</title>
+      <link>https://github.com/ai-dock/comfyui</link>
+      <description>&lt;p&gt;ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>winapps-org/winapps</title>
+      <link>https://github.com/winapps-org/winapps</link>
+      <description>&lt;p&gt;Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rupa/z</title>
+      <link>https://github.com/rupa/z</link>
+      <description>&lt;p&gt;z - jump around&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kodekloudhub/certified-kubernetes-administrator-course</title>
+      <link>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</link>
+      <description>&lt;p&gt;Certified Kubernetes Administrator - CKA Course&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wolfi-dev/os</title>
+      <link>https://github.com/wolfi-dev/os</link>
+      <description>&lt;p&gt;Main package repository for production Wolfi images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

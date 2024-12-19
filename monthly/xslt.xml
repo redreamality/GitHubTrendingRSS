@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub XSLT Monthly Trending</title>
+    <description>Monthly Trending of XSLT in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:53:50 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ConnectingEurope/eInvoicing-EN16931</title>
+      <link>https://github.com/ConnectingEurope/eInvoicing-EN16931</link>
+      <description>&lt;p&gt;Validation artefacts for the European eInvoicing standard EN 16931&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CEN/TC 434 - EN-16931 - Validation artefacts&lt;/h1&gt; 
+&lt;p&gt;Official Schematron eInvoicing-EN16931 artefacts for CEN/TC 434. This repository does not contain eInvoicing-EN16931 rules for any CIUS.&lt;/p&gt; 
+&lt;p&gt;Latest release&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;UBL &amp;amp; CII: &lt;strong&gt;v1.3.13&lt;/strong&gt; (2024-10-08) - &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.13&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.13&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;EDIFACT: &lt;strong&gt;v1.0.0&lt;/strong&gt; (2018-02-08) - &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/eInvoicing-EN16931-1.0.0&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/eInvoicing-EN16931-1.0.0&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;For each syntax a separate folder exists where all related artefacts are to be published.&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;code&gt;ubl&lt;/code&gt; - UBL 2.1 (ISO/IEC 19845:2015) - EN mandatory syntax 
+  &lt;ul&gt; 
+   &lt;li&gt;UBL Website: &lt;a href=&quot;https://www.oasis-open.org/committees/ubl/&quot;&gt;https://www.oasis-open.org/committees/ubl/&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Used XML Schemas: &lt;a href=&quot;http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.zip&quot;&gt;http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.zip&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;cii&lt;/code&gt; - Cross Industry Invoice (D16B) - EN mandatory syntax 
+  &lt;ul&gt; 
+   &lt;li&gt;XML Schemas overview: &lt;a href=&quot;http://www.unece.org/cefact/xml_schemas/index.html&quot;&gt;http://www.unece.org/cefact/xml_schemas/index.html&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Used XML Schemas: &lt;a href=&quot;http://www.unece.org/fileadmin/DAM/cefact/xml_schemas/D16B_SCRDM__Subset__CII.zip&quot;&gt;http://www.unece.org/fileadmin/DAM/cefact/xml_schemas/D16B_SCRDM__Subset__CII.zip&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;edifact&lt;/code&gt; - UN/EDIFACT (and ISO 26025 based XML version) - EN optional syntax&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;Digital Europe supported code lists are available here:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/Registry+of+supporting+artefacts+to+implement+EN16931&quot;&gt;https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/Registry+of+supporting+artefacts+to+implement+EN16931&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h1&gt;License&lt;/h1&gt; 
+&lt;p&gt;Licensed under European Union Public Licence (EUPL) version 1.2.&lt;/p&gt; 
+&lt;p&gt;Derivative work created from &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.2.3&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.2.3&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;That was Licensed under the Apache License, Version 2.0&lt;/p&gt; 
+&lt;h1&gt;News and noteworthy&lt;/h1&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;v1.3.13 - 2024-10-08 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.13&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.13&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.12 - 2024-04-10 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.12&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.12&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.11 - 2023-10-04 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.11&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.11&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.10 - 2023-04-11 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.10&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.10&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.9 - 2022-10-10 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.9&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.9&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Updated code lists and minor fixes&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.8 - 2022-04-08 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.8&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.8&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Update code lists, improves CII validations and minor fixes&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.7 - 2021-10-04 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;Merged requirements from XRechnung&lt;/li&gt; 
+   &lt;li&gt;Fix syntax issues&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.6a - 2021-08-03 (UBL and CII only - KoSIT specific fix) 
+  &lt;ul&gt; 
+   &lt;li&gt;This contains a fix for BR-CO-15 as required by XRechnung 2.1.1 - when &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/pull/292&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/pull/292&lt;/a&gt; is merged, the next XRechnung release can be again based on the official rule release. No further hot fixes are assumed.&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.6 - 2021-05-31 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.6&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.6&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Hot fix to support country codes 1A - Kosovo and XI - United Kingdom (Northern Ireland) in rule BR-CO-09&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.5 - 2021-03-29 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.5&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.5&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Changes in the code lists and fixing CII errors.&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.4 - 2021-01-27 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.4&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.4&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Hot fix of error introduced in 1.3.3&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.3 - 2020-10-02 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.3&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.3&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.2 - 2020-05-25 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.2&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.2&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Added code 0208 in EAS and 0205 to 0208 in ICD code lists&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.1 - 2020-02-28 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.1&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.1&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Some codelist values have been added&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.3.0 - 2019-10-05 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.0&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.0&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Some codelist values have been added&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.2.3 - 2019-07-05 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.3&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.3&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Some codelist values were missing&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.2.2 - 2019-07-05 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.2&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.2&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.2.1 - 2019-05-14 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.1&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.1&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.2.0 - 2019-04-26 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;Note: this release does NOT contain the EDIFACT eInvoicing-EN16931 rules - its development is currently paused/stalled&lt;/li&gt; 
+   &lt;li&gt;Note: this release is not backwards compatible, and the examples files were changed as well.&lt;/li&gt; 
+   &lt;li&gt;See all fixed issues: &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2&quot;&gt;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;The UBL ODS files were removed, because they were out of sync with the used rules&lt;/li&gt; 
+   &lt;li&gt;The folder names for examples files were unified across the syntaxes&lt;/li&gt; 
+   &lt;li&gt;The name of the UBL Schematron/XSLT files was changed from &lt;code&gt;EN16931-UBL-model.*&lt;/code&gt; to &lt;code&gt;EN16931-UBL-eInvoicing-EN16931.*&lt;/code&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.1.0 - 2018-06-26 (UBL and CII only) 
+  &lt;ul&gt; 
+   &lt;li&gt;Note: this release does NOT contain the EDIFACT eInvoicing-EN16931 rules - its development is currently paused/stalled&lt;/li&gt; 
+   &lt;li&gt;New participant identifier schemes are supported 
+    &lt;ul&gt; 
+     &lt;li&gt;&lt;code&gt;0184&lt;/code&gt; in &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/64&quot;&gt;issue #64&lt;/a&gt;&lt;/li&gt; 
+     &lt;li&gt;&lt;code&gt;0190&lt;/code&gt; in &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/70&quot;&gt;issue #70&lt;/a&gt;&lt;/li&gt; 
+     &lt;li&gt;&lt;code&gt;0191&lt;/code&gt; in &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/58&quot;&gt;issue #58&lt;/a&gt;&lt;/li&gt; 
+     &lt;li&gt;&lt;code&gt;0192&lt;/code&gt; in &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/62&quot;&gt;issue #62&lt;/a&gt;&lt;/li&gt; 
+     &lt;li&gt;&lt;code&gt;0193&lt;/code&gt; in &lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/71&quot;&gt;issue #71&lt;/a&gt;&lt;/li&gt; 
+    &lt;/ul&gt; &lt;/li&gt; 
+   &lt;li&gt;Rules targeting attributes were altered (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/50&quot;&gt;issue #50&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;Fixed typo in &lt;code&gt;BR-CL-24&lt;/code&gt; UBL (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/52&quot;&gt;issue #52&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;Some code list assertions had no &lt;code&gt;id&lt;/code&gt; attributes (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/53&quot;&gt;issue #53&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;Rule &lt;code&gt;CII-SR-029&lt;/code&gt; was removed and the context of &lt;code&gt;CII-SR-030&lt;/code&gt; was adopted (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/54&quot;&gt;issue #54&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;Using &lt;code&gt;xs:decimal&lt;/code&gt; instead of &lt;code&gt;xs:double&lt;/code&gt; (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/55&quot;&gt;issue #55&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;The value of the VAT &lt;code&gt;@schemeID&lt;/code&gt; attribute is &lt;code&gt;VAT&lt;/code&gt; (instead of &lt;code&gt;VA&lt;/code&gt;) (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/57&quot;&gt;issue #57&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;Error in rule &lt;code&gt;BR-Z-10&lt;/code&gt; UBL was fixed (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/59&quot;&gt;issue #59&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;Fixed error message of &lt;code&gt;BR-AF-05&lt;/code&gt; CII (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/60&quot;&gt;issue #60&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;The value &lt;code&gt;532&lt;/code&gt; was not supported in &lt;code&gt;BR-CL-01&lt;/code&gt; (&lt;a href=&quot;https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/63&quot;&gt;issue #63&lt;/a&gt;)&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;v1.0.0 - 2018-02-08 (UBL, CII and EDIFACT) 
+  &lt;ul&gt; 
+   &lt;li&gt;Initial release&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>itplr-kosit/xrechnung-visualization</title>
+      <link>https://github.com/itplr-kosit/xrechnung-visualization</link>
+      <description>&lt;p&gt;XSL transformators for web and pdf rendering of German CIUS XRechnung or EN16931-1:2017 [MIRROR OF GitLab]&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;XRechnung Visualization Transformators&lt;/h1&gt; 
+&lt;p&gt;XSL transformators for web rendering of German CIUS XRechnung or EN16931-1:2017.&lt;/p&gt; 
+&lt;p&gt;The source documents have to be in either UBL Invoice/CreditNote XML and CII XML and have to be conforming to German CIUS XRechnung or EN16931-1:2017.&lt;/p&gt; 
+&lt;p&gt;The transformations have to happen in two steps:&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;Either UBL Invoice/CreditNote XML or CII XML have to be transformed to an intermediate XML which has to be valid to a proprietary simple &lt;a href=&quot;https://raw.githubusercontent.com/itplr-kosit/xrechnung-visualization/master/src/xsd/xrechnung-semantic-model.xsd&quot;&gt;XML Schema&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;Then you can use either 
+  &lt;ul&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/itplr-kosit/xrechnung-visualization/master/src/xsl/xrechnung-html.xsl&quot;&gt;xrechnung-html.xsl&lt;/a&gt; to render an HTML document or&lt;/li&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/itplr-kosit/xrechnung-visualization/master/src/xsl/xr-pdf.xsl&quot;&gt;xr-pdf.xsl&lt;/a&gt; to render an PDF document&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;p&gt;See our &lt;a href=&quot;https://raw.githubusercontent.com/itplr-kosit/xrechnung-visualization/master/doc/architecture.md&quot;&gt;architecture documentation&lt;/a&gt; (in German) for a general overview. Here you can find more details on &lt;a href=&quot;https://raw.githubusercontent.com/itplr-kosit/xrechnung-visualization/master/doc/usage.md&quot;&gt;configuration and usage options&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;You can find an example use of these transformations in the &lt;a href=&quot;https://raw.githubusercontent.com/itplr-kosit/xrechnung-visualization/master/build.xml&quot;&gt;ant build script&lt;/a&gt;. It also includes some technical tests.&lt;/p&gt; 
+&lt;h2&gt;Notes&lt;/h2&gt; 
+&lt;p&gt;The visualization component is part of the technical components that have been published as a bundle together with the XRechnung standard since version 1.2.0.&lt;/p&gt; 
+&lt;p&gt;These components are not software solutions but merely represent optional building blocks in 3rd party software. You are free to use them. The standard XRechnung DOES NOT oblige the use of these components. However, we always publish the components in accordance with the resp. version of XRechnung specification. As such, our components themselves are implementations which claim to be conformant to the standard.&lt;/p&gt; 
+&lt;p&gt;Please also note that only the structured, machine-readable format (XML) is considered the original invoice that must be archived in accordance with legal requirements. Visualizations generated from an XRechnung are NOT valid instances of XRechnung. They aim to improve readability by the human eye and are NOT meant to serve as formats for long-term archiving.&lt;/p&gt; 
+&lt;p&gt;This GitHub repository is only a mirror of our &lt;a href=&quot;https://projekte.kosit.org/xrechnung/xrechnung-visualization&quot;&gt;GitLab project repository&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;For questions please contact &lt;a href=&quot;https://xeinkauf.de/kontakt/#support&quot;&gt;KoSIT&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ZUGFeRD/mustangproject</title>
+      <link>https://github.com/ZUGFeRD/mustangproject</link>
+      <description>&lt;p&gt;Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Mustangproject&lt;/h1&gt; 
+&lt;p&gt;Source code repository for the &lt;a href=&quot;http://www.mustangproject.org/&quot;&gt;Mustang project&lt;/a&gt; open source java PDF invoice metadata library in ZUGFeRD format.&lt;/p&gt; 
+&lt;h2&gt;Build&lt;/h2&gt; 
+&lt;p&gt;These are the recommended dependencies for the project:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;OpenJDK 21.0.2 2024-01-16&lt;/li&gt; 
+ &lt;li&gt;Apache Maven 3.9.6&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;You can build the project with:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;mvn clean install
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;This will run the tests, build the project artefacts, and install the artifacts to the local cache. After that the mustang JAR can be used.&lt;/p&gt; 
+&lt;p&gt;More information on how to develop &lt;strong&gt;on&lt;/strong&gt; mustang:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://github.com/ZUGFeRD/mustangproject/raw/master/doc/development_documentation.md&quot;&gt;Developer documentation&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Usage&lt;/h2&gt; 
+&lt;p&gt;If you set up a Maven project, you can reference the mustang artifact like this:&lt;/p&gt; 
+&lt;pre&gt;&lt;code class=&quot;language-xml&quot;&gt;&amp;lt;dependency&amp;gt;
+    &amp;lt;groupId&amp;gt;org.mustangproject&amp;lt;/groupId&amp;gt;
+    &amp;lt;artifactId&amp;gt;validator&amp;lt;/artifactId&amp;gt;
+    &amp;lt;version&amp;gt;2.15.0&amp;lt;/version&amp;gt;
+    &amp;lt;classifier&amp;gt;shaded&amp;lt;/classifier&amp;gt;
+&amp;lt;/dependency&amp;gt;
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Further docs on how to develop &lt;strong&gt;with&lt;/strong&gt; mustang:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://www.mustangproject.org/use/&quot;&gt;Usage examples&lt;/a&gt;: Read and write electronic invoices.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://www.mustangproject.org/invoice-class/&quot;&gt;Mustang classes&lt;/a&gt;: Using the mustang classes.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Contact&lt;/h2&gt; 
+&lt;p&gt;Developer: Jochen Stärk. For questions please contact Jochen at jstaerk [at] usegroup.de&lt;/p&gt; 
+&lt;h2&gt;License&lt;/h2&gt; 
+&lt;p&gt;Subject to the &lt;a href=&quot;http://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache-2.0 license&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>11ty/eleventy-base-blog</title>
+      <link>https://github.com/11ty/eleventy-base-blog</link>
+      <description>&lt;p&gt;A starter repository for a blog web site using the Eleventy static site generator.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;eleventy-base-blog v9&lt;/h1&gt; 
+&lt;p&gt;A starter repository showing how to build a blog with the &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt; site generator (using the &lt;a href=&quot;https://github.com/11ty/eleventy/releases/tag/v3.0.0&quot;&gt;v3.0 release&lt;/a&gt;).&lt;/p&gt; 
+&lt;h2&gt;Getting Started&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://www.11ty.dev/docs/getting-started/&quot;&gt;Want a more generic/detailed getting started guide?&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;Make a directory and navigate to it:&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;pre&gt;&lt;code&gt;mkdir my-blog-name
+cd my-blog-name
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;ol start=&quot;2&quot;&gt; 
+ &lt;li&gt;Clone this Repository&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/11ty/eleventy-base-blog.git .
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;&lt;em&gt;Optional:&lt;/em&gt; Review &lt;code&gt;eleventy.config.js&lt;/code&gt; and &lt;code&gt;_data/metadata.js&lt;/code&gt; to configure the site’s options and data.&lt;/p&gt; 
+&lt;ol start=&quot;3&quot;&gt; 
+ &lt;li&gt;Install dependencies&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;pre&gt;&lt;code&gt;npm install
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;ol start=&quot;4&quot;&gt; 
+ &lt;li&gt;Run Eleventy&lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;p&gt;Generate a production-ready build to the &lt;code&gt;_site&lt;/code&gt; folder:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;npx @11ty/eleventy
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Or build and host on a local development server:&lt;/p&gt; 
+&lt;pre&gt;&lt;code&gt;npx @11ty/eleventy --serve
+&lt;/code&gt;&lt;/pre&gt; 
+&lt;p&gt;Or you can run &lt;a href=&quot;https://www.11ty.dev/docs/debugging/&quot;&gt;debug mode&lt;/a&gt; to see all the internals.&lt;/p&gt; 
+&lt;h2&gt;Features&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Using &lt;a href=&quot;https://github.com/11ty/eleventy/releases/tag/v3.0.0&quot;&gt;Eleventy v3&lt;/a&gt; with zero-JavaScript output. 
+  &lt;ul&gt; 
+   &lt;li&gt;Content is exclusively pre-rendered (this is a static site).&lt;/li&gt; 
+   &lt;li&gt;Can easily &lt;a href=&quot;https://www.11ty.dev/docs/plugins/html-base/&quot;&gt;deploy to a subfolder without changing any content&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;All URLs are decoupled from the content’s location on the file system.&lt;/li&gt; 
+   &lt;li&gt;Configure templates via the &lt;a href=&quot;https://www.11ty.dev/docs/data-cascade/&quot;&gt;Eleventy Data Cascade&lt;/a&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Performance focused&lt;/strong&gt;: four-hundos Lighthouse score out of the box! 
+  &lt;ul&gt; 
+   &lt;li&gt;&lt;em&gt;0 Cumulative Layout Shift&lt;/em&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;em&gt;0ms Total Blocking Time&lt;/em&gt;&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;Local development live reload provided by &lt;a href=&quot;https://www.11ty.dev/docs/dev-server/&quot;&gt;Eleventy Dev Server&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;Content-driven &lt;a href=&quot;https://www.11ty.dev/docs/plugins/navigation/&quot;&gt;navigation menu&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;Fully automated &lt;a href=&quot;https://www.11ty.dev/docs/plugins/image/&quot;&gt;Image optimization&lt;/a&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;Zero-JavaScript output.&lt;/li&gt; 
+   &lt;li&gt;Support for modern image formats automatically (e.g. AVIF and WebP)&lt;/li&gt; 
+   &lt;li&gt;Processes images on-request during &lt;code&gt;--serve&lt;/code&gt; for speedy local builds.&lt;/li&gt; 
+   &lt;li&gt;Prefers &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt; markup if possible (single image format) but switches automatically to &lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; for multiple image formats.&lt;/li&gt; 
+   &lt;li&gt;Automated &lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; syntax markup with &lt;code&gt;srcset&lt;/code&gt; and optional &lt;code&gt;sizes&lt;/code&gt;&lt;/li&gt; 
+   &lt;li&gt;Includes &lt;code&gt;width&lt;/code&gt;/&lt;code&gt;height&lt;/code&gt; attributes to avoid &lt;a href=&quot;https://web.dev/cls/&quot;&gt;content layout shift&lt;/a&gt;.&lt;/li&gt; 
+   &lt;li&gt;Includes &lt;code&gt;loading=&quot;lazy&quot;&lt;/code&gt; for native lazy loading without JavaScript.&lt;/li&gt; 
+   &lt;li&gt;Includes &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/decoding&quot;&gt;&lt;code&gt;decoding=&quot;async&quot;&lt;/code&gt;&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;Images can be co-located with blog post files.&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;Per page CSS bundles &lt;a href=&quot;https://github.com/11ty/eleventy-plugin-bundle&quot;&gt;via &lt;code&gt;eleventy-plugin-bundle&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;Built-in &lt;a href=&quot;https://www.11ty.dev/docs/plugins/syntaxhighlight/&quot;&gt;syntax highlighter&lt;/a&gt; (zero-JavaScript output).&lt;/li&gt; 
+ &lt;li&gt;Draft content: use &lt;code&gt;draft: true&lt;/code&gt; to mark any template as a draft. Drafts are &lt;strong&gt;only&lt;/strong&gt; included during &lt;code&gt;--serve&lt;/code&gt;/&lt;code&gt;--watch&lt;/code&gt; and are excluded from full builds. This is driven by the &lt;code&gt;addPreprocessor&lt;/code&gt; configuration API in &lt;code&gt;eleventy.config.js&lt;/code&gt;. Schema validator will show an error if non-boolean value is set in data cascade.&lt;/li&gt; 
+ &lt;li&gt;Blog Posts 
+  &lt;ul&gt; 
+   &lt;li&gt;Automated next/previous links&lt;/li&gt; 
+   &lt;li&gt;Accessible deep links to headings&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;Generated Pages 
+  &lt;ul&gt; 
+   &lt;li&gt;Home, Archive, and About pages.&lt;/li&gt; 
+   &lt;li&gt;&lt;a href=&quot;https://www.11ty.dev/docs/plugins/rss/&quot;&gt;Atom feed included (with easy one-line swap to use RSS or JSON&lt;/a&gt;&lt;/li&gt; 
+   &lt;li&gt;&lt;code&gt;sitemap.xml&lt;/code&gt;&lt;/li&gt; 
+   &lt;li&gt;Zero-maintenance tag pages (&lt;a href=&quot;https://eleventy-base-blog.netlify.app/tags/&quot;&gt;View on the Demo&lt;/a&gt;)&lt;/li&gt; 
+   &lt;li&gt;Content not found (404) page&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Demos&lt;/h2&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://eleventy-base-blog.netlify.app/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://demo-base-blog.11ty.dev/&quot;&gt;Vercel&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://eleventy-base-blog-d2a.pages.dev/&quot;&gt;Cloudflare Pages&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://glitch.com/~11ty-eleventy-base-blog&quot;&gt;Remix on Glitch&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://11ty.github.io/eleventy-base-blog/&quot;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h2&gt;Deploy this to your own site&lt;/h2&gt; 
+&lt;p&gt;Deploy this Eleventy site in just a few clicks on these services:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Read more about &lt;a href=&quot;https://www.11ty.dev/docs/deployment/&quot;&gt;Deploying an Eleventy project&lt;/a&gt; to the web.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog&quot;&gt;Deploy this to &lt;strong&gt;Netlify&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://vercel.com/import/project?template=11ty%2Feleventy-base-blog&quot;&gt;Deploy this to &lt;strong&gt;Vercel&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt; 
+ &lt;li&gt;Look in &lt;code&gt;.github/workflows/gh-pages.yml.sample&lt;/code&gt; for information on Deploying to &lt;strong&gt;GitHub Pages&lt;/strong&gt;.&lt;/li&gt; 
+ &lt;li&gt;&lt;a href=&quot;https://stackblitz.com/github/11ty/eleventy-base-blog&quot;&gt;Try it out on &lt;strong&gt;Stackblitz&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h3&gt;Implementation Notes&lt;/h3&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;code&gt;content/about/index.md&lt;/code&gt; is an example of a content page.&lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;content/blog/&lt;/code&gt; has the blog posts but really they can live in any directory. They need only the &lt;code&gt;posts&lt;/code&gt; tag to be included in the blog posts &lt;a href=&quot;https://www.11ty.dev/docs/collections/&quot;&gt;collection&lt;/a&gt;.&lt;/li&gt; 
+ &lt;li&gt;Use the &lt;code&gt;eleventyNavigation&lt;/code&gt; key (via the &lt;a href=&quot;https://www.11ty.dev/docs/plugins/navigation/&quot;&gt;Eleventy Navigation plugin&lt;/a&gt;) in your front matter to add a template to the top level site navigation. This is in use on &lt;code&gt;content/index.njk&lt;/code&gt; and &lt;code&gt;content/about/index.md&lt;/code&gt;.&lt;/li&gt; 
+ &lt;li&gt;Content can be in &lt;em&gt;any template format&lt;/em&gt; (blog posts needn’t exclusively be markdown, for example). Configure your project’s supported templates in &lt;code&gt;eleventy.config.js&lt;/code&gt; -&amp;gt; &lt;code&gt;templateFormats&lt;/code&gt;.&lt;/li&gt; 
+ &lt;li&gt;The &lt;code&gt;public&lt;/code&gt; folder in your input directory will be copied to the output folder (via &lt;code&gt;addPassthroughCopy&lt;/code&gt; in the &lt;code&gt;eleventy.config.js&lt;/code&gt; file). This means &lt;code&gt;./public/css/*&lt;/code&gt; will live at &lt;code&gt;./_site/css/*&lt;/code&gt; after your build completes.&lt;/li&gt; 
+ &lt;li&gt;This project uses three &lt;a href=&quot;https://www.11ty.dev/docs/layouts/&quot;&gt;Eleventy Layouts&lt;/a&gt;: 
+  &lt;ul&gt; 
+   &lt;li&gt;&lt;code&gt;_includes/layouts/base.njk&lt;/code&gt;: the top level HTML structure&lt;/li&gt; 
+   &lt;li&gt;&lt;code&gt;_includes/layouts/home.njk&lt;/code&gt;: the home page template (wrapped into &lt;code&gt;base.njk&lt;/code&gt;)&lt;/li&gt; 
+   &lt;li&gt;&lt;code&gt;_includes/layouts/post.njk&lt;/code&gt;: the blog post template (wrapped into &lt;code&gt;base.njk&lt;/code&gt;)&lt;/li&gt; 
+  &lt;/ul&gt; &lt;/li&gt; 
+ &lt;li&gt;&lt;code&gt;_includes/postslist.njk&lt;/code&gt; is a Nunjucks include and is a reusable component used to display a list of all the posts. &lt;code&gt;content/index.njk&lt;/code&gt; has an example of how to use it.&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;h4&gt;Content Security Policy&lt;/h4&gt; 
+&lt;p&gt;If your site enforces a &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP&quot;&gt;Content Security Policy&lt;/a&gt; (as public-facing sites should), you have a few choices (pick one):&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt;In &lt;code&gt;base.njk&lt;/code&gt;, remove &lt;code&gt;&amp;lt;style&amp;gt;{% getBundle &quot;css&quot; %}&amp;lt;/style&amp;gt;&lt;/code&gt; and uncomment &lt;code&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;{% getBundleFileUrl &quot;css&quot; %}&quot;&amp;gt;&lt;/code&gt;&lt;/li&gt; 
+ &lt;li&gt;Configure the server with the CSP directive &lt;code&gt;style-src: &#39;unsafe-inline&#39;&lt;/code&gt; (less secure).&lt;/li&gt; 
+&lt;/ol&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

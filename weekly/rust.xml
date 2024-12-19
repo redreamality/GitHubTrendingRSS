@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Weekly Trending</title>
+    <description>Weekly Trending of Rust in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:40:16 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tursodatabase/limbo</title>
+      <link>https://github.com/tursodatabase/limbo</link>
+      <description>&lt;p&gt;Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nexus-xyz/nexus-zkvm</title>
+      <link>https://github.com/nexus-xyz/nexus-zkvm</link>
+      <description>&lt;p&gt;The Nexus zkVM: The zero-knowledge virtual machine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DioxusLabs/dioxus</title>
+      <link>https://github.com/DioxusLabs/dioxus</link>
+      <description>&lt;p&gt;Fullstack app framework for web, desktop, mobile, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0xPlaygrounds/rig</title>
+      <link>https://github.com/0xPlaygrounds/rig</link>
+      <description>&lt;p&gt;⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>influxdata/influxdb</title>
+      <link>https://github.com/influxdata/influxdb</link>
+      <description>&lt;p&gt;Scalable datastore for metrics, events, and real-time analytics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tauri-apps/tauri</title>
+      <link>https://github.com/tauri-apps/tauri</link>
+      <description>&lt;p&gt;Build smaller, faster, and more secure desktop and mobile applications with a web frontend.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jj-vcs/jj</title>
+      <link>https://github.com/jj-vcs/jj</link>
+      <description>&lt;p&gt;A Git-compatible VCS that is both simple and powerful&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FuelLabs/sway</title>
+      <link>https://github.com/FuelLabs/sway</link>
+      <description>&lt;p&gt;🌴 Empowering everyone to build reliable and efficient smart contracts.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ankitects/anki</title>
+      <link>https://github.com/ankitects/anki</link>
+      <description>&lt;p&gt;Anki&#39;s shared backend and web components, and the Qt frontend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woodruffw/zizmor</title>
+      <link>https://github.com/woodruffw/zizmor</link>
+      <description>&lt;p&gt;A static analysis tool for GitHub Actions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FuelLabs/fuel-core</title>
+      <link>https://github.com/FuelLabs/fuel-core</link>
+      <description>&lt;p&gt;Rust full node implementation of the Fuel v2 protocol.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MystenLabs/sui</title>
+      <link>https://github.com/MystenLabs/sui</link>
+      <description>&lt;p&gt;Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>solana-labs/solana</title>
+      <link>https://github.com/solana-labs/solana</link>
+      <description>&lt;p&gt;Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tokio-rs/tokio</title>
+      <link>https://github.com/tokio-rs/tokio</link>
+      <description>&lt;p&gt;A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GyulyVGC/sniffnet</title>
+      <link>https://github.com/GyulyVGC/sniffnet</link>
+      <description>&lt;p&gt;Comfortably monitor your Internet traffic 🕵️‍♂️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>XAMPPRocky/tokei</title>
+      <link>https://github.com/XAMPPRocky/tokei</link>
+      <description>&lt;p&gt;Count your code, quickly.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>helix-editor/helix</title>
+      <link>https://github.com/helix-editor/helix</link>
+      <description>&lt;p&gt;A post-modern modal text editor.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nexus-xyz/network-api</title>
+      <link>https://github.com/nexus-xyz/network-api</link>
+      <description>&lt;p&gt;High-performance interface for supplying compute to the Nexus network.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>near/nearcore</title>
+      <link>https://github.com/near/nearcore</link>
+      <description>&lt;p&gt;Reference client for NEAR Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>codestoryai/sidecar</title>
+      <link>https://github.com/codestoryai/sidecar</link>
+      <description>&lt;p&gt;Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

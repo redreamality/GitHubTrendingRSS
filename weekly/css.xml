@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Weekly Trending</title>
+    <description>Weekly Trending of CSS in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:33:29 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>thewhiteh4t/seeker</title>
+      <link>https://github.com/thewhiteh4t/seeker</link>
+      <description>&lt;p&gt;Accurately Locate Smartphones using Social Engineering&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>isocpp/CppCoreGuidelines</title>
+      <link>https://github.com/isocpp/CppCoreGuidelines</link>
+      <description>&lt;p&gt;The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anonym-tsk/nfqws-keenetic</title>
+      <link>https://github.com/Anonym-tsk/nfqws-keenetic</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bradtraversy/50projects50days</title>
+      <link>https://github.com/bradtraversy/50projects50days</link>
+      <description>&lt;p&gt;50+ mini web projects using HTML, CSS &amp; JS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nakov/Practical-Cryptography-for-Developers-Book</title>
+      <link>https://github.com/nakov/Practical-Cryptography-for-Developers-Book</link>
+      <description>&lt;p&gt;Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lipis/flag-icons</title>
+      <link>https://github.com/lipis/flag-icons</link>
+      <description>&lt;p&gt;🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/sakai-ng</title>
+      <link>https://github.com/primefaces/sakai-ng</link>
+      <description>&lt;p&gt;Free Angular Admin Template by PrimeNG&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imfing/hextra</title>
+      <link>https://github.com/imfing/hextra</link>
+      <description>&lt;p&gt;🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>moveit/moveit2_tutorials</title>
+      <link>https://github.com/moveit/moveit2_tutorials</link>
+      <description>&lt;p&gt;A sphinx-based centralized documentation repo for MoveIt 2&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>panr/hugo-theme-terminal</title>
+      <link>https://github.com/panr/hugo-theme-terminal</link>
+      <description>&lt;p&gt;A simple, retro theme for Hugo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simeydotme/pokemon-cards-css</title>
+      <link>https://github.com/simeydotme/pokemon-cards-css</link>
+      <description>&lt;p&gt;A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jgthms/bulma</title>
+      <link>https://github.com/jgthms/bulma</link>
+      <description>&lt;p&gt;Modern CSS framework based on Flexbox&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tabulapdf/tabula</title>
+      <link>https://github.com/tabulapdf/tabula</link>
+      <description>&lt;p&gt;Tabula is a tool for liberating data tables trapped inside PDF files&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ronggang/transmission-web-control</title>
+      <link>https://github.com/ronggang/transmission-web-control</link>
+      <description>&lt;p&gt;一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/nomicon</title>
+      <link>https://github.com/rust-lang/nomicon</link>
+      <description>&lt;p&gt;The Dark Arts of Advanced and Unsafe Rust Programming&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

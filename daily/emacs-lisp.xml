@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Daily Trending</title>
+    <description>Daily Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:24:54 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CeleritasCelery/rune</title>
+      <link>https://github.com/CeleritasCelery/rune</link>
+      <description>&lt;p&gt;Rust VM for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joaotavora/eglot</title>
+      <link>https://github.com/joaotavora/eglot</link>
+      <description>&lt;p&gt;A client for Language Server Protocol servers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>karthink/gptel</title>
+      <link>https://github.com/karthink/gptel</link>
+      <description>&lt;p&gt;A simple LLM client for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-mirror/emacs</title>
+      <link>https://github.com/emacs-mirror/emacs</link>
+      <description>&lt;p&gt;Mirror of GNU Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>magit/magit</title>
+      <link>https://github.com/magit/magit</link>
+      <description>&lt;p&gt;It&#39;s Magit! A Git Porcelain inside Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>protesilaos/denote</title>
+      <link>https://github.com/protesilaos/denote</link>
+      <description>&lt;p&gt;Simple notes for Emacs with an efficient file-naming scheme&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>&lt;p&gt;Emacs client/library for the Language Server Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ziglang/zig-mode</title>
+      <link>https://github.com/ziglang/zig-mode</link>
+      <description>&lt;p&gt;Zig mode for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

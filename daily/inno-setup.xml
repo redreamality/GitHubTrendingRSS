@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Inno Setup Daily Trending</title>
+    <description>Daily Trending of Inno Setup in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:25:53 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>docker-archive/toolbox</title>
+      <link>https://github.com/docker-archive/toolbox</link>
+      <description>&lt;p&gt;The Docker Toolbox&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>amazon-ion/ion-tests</title>
+      <link>https://github.com/amazon-ion/ion-tests</link>
+      <description>&lt;p&gt;Test vectors for testing compliant Ion implementations.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

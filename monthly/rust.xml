@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Monthly Trending</title>
+    <description>Monthly Trending of Rust in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:52:33 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>solana-labs/solana</title>
+      <link>https://github.com/solana-labs/solana</link>
+      <description>&lt;p&gt;Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>&lt;p&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sxyazi/yazi</title>
+      <link>https://github.com/sxyazi/yazi</link>
+      <description>&lt;p&gt;💥 Blazing fast terminal file manager written in Rust, based on async I/O.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>meilisearch/meilisearch</title>
+      <link>https://github.com/meilisearch/meilisearch</link>
+      <description>&lt;p&gt;A lightning-fast search API that fits effortlessly into your apps, websites, and workflow&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jdx/mise</title>
+      <link>https://github.com/jdx/mise</link>
+      <description>&lt;p&gt;dev tools, env vars, task runner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DioxusLabs/dioxus</title>
+      <link>https://github.com/DioxusLabs/dioxus</link>
+      <description>&lt;p&gt;Fullstack app framework for web, desktop, mobile, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leptos-rs/leptos</title>
+      <link>https://github.com/leptos-rs/leptos</link>
+      <description>&lt;p&gt;Build fast web applications with Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>casey/just</title>
+      <link>https://github.com/casey/just</link>
+      <description>&lt;p&gt;🤖 Just a command runner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>spaceandtimelabs/sxt-proof-of-sql</title>
+      <link>https://github.com/spaceandtimelabs/sxt-proof-of-sql</link>
+      <description>&lt;p&gt;Space and Time | Proof of SQL&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruffle-rs/ruffle</title>
+      <link>https://github.com/ruffle-rs/ruffle</link>
+      <description>&lt;p&gt;A Flash Player emulator written in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cloudflare/pingora</title>
+      <link>https://github.com/cloudflare/pingora</link>
+      <description>&lt;p&gt;A library for building fast, reliable and evolvable network services.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coral-xyz/anchor</title>
+      <link>https://github.com/coral-xyz/anchor</link>
+      <description>&lt;p&gt;⚓ Solana Sealevel Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sigp/lighthouse</title>
+      <link>https://github.com/sigp/lighthouse</link>
+      <description>&lt;p&gt;Ethereum consensus client in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rerun-io/rerun</title>
+      <link>https://github.com/rerun-io/rerun</link>
+      <description>&lt;p&gt;Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jj-vcs/jj</title>
+      <link>https://github.com/jj-vcs/jj</link>
+      <description>&lt;p&gt;A Git-compatible VCS that is both simple and powerful&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gleam-lang/gleam</title>
+      <link>https://github.com/gleam-lang/gleam</link>
+      <description>&lt;p&gt;⭐️ A friendly language for building type-safe, scalable systems!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bevyengine/bevy</title>
+      <link>https://github.com/bevyengine/bevy</link>
+      <description>&lt;p&gt;A refreshingly simple data-driven game engine built in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/ruff</title>
+      <link>https://github.com/astral-sh/ruff</link>
+      <description>&lt;p&gt;An extremely fast Python linter and code formatter, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ankitects/anki</title>
+      <link>https://github.com/ankitects/anki</link>
+      <description>&lt;p&gt;Anki&#39;s shared backend and web components, and the Qt frontend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nexus-xyz/nexus-zkvm</title>
+      <link>https://github.com/nexus-xyz/nexus-zkvm</link>
+      <description>&lt;p&gt;The Nexus zkVM: The zero-knowledge virtual machine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>surrealdb/surrealdb</title>
+      <link>https://github.com/surrealdb/surrealdb</link>
+      <description>&lt;p&gt;A scalable, distributed, collaborative, document-graph database, for the realtime web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rustlings</title>
+      <link>https://github.com/rust-lang/rustlings</link>
+      <description>&lt;p&gt;🦀 Small exercises to get you used to reading and writing Rust code!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eythaann/Seelen-UI</title>
+      <link>https://github.com/eythaann/Seelen-UI</link>
+      <description>&lt;p&gt;The Fully Customizable Desktop Environment for Windows 10/11.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rpcpool/yellowstone-grpc</title>
+      <link>https://github.com/rpcpool/yellowstone-grpc</link>
+      <description>&lt;p&gt;solana geyser grpc service&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

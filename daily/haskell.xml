@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haskell Daily Trending</title>
+    <description>Daily Trending of Haskell in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:25:37 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hadolint/hadolint</title>
+      <link>https://github.com/hadolint/hadolint</link>
+      <description>&lt;p&gt;Dockerfile linter, validate inline bash, written in Haskell&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koalaman/shellcheck</title>
+      <link>https://github.com/koalaman/shellcheck</link>
+      <description>&lt;p&gt;ShellCheck, a static analysis tool for shell scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>&lt;p&gt;Universal markup converter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kmonad/kmonad</title>
+      <link>https://github.com/kmonad/kmonad</link>
+      <description>&lt;p&gt;An advanced keyboard manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unisonweb/unison</title>
+      <link>https://github.com/unisonweb/unison</link>
+      <description>&lt;p&gt;A friendly programming language from the future&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yesodweb/yesod</title>
+      <link>https://github.com/yesodweb/yesod</link>
+      <description>&lt;p&gt;A RESTful Haskell web framework built on WAI.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>commercialhaskell/stack</title>
+      <link>https://github.com/commercialhaskell/stack</link>
+      <description>&lt;p&gt;The Haskell Tool Stack&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/haskell-language-server</title>
+      <link>https://github.com/haskell/haskell-language-server</link>
+      <description>&lt;p&gt;Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>olivierverdier/zsh-git-prompt</title>
+      <link>https://github.com/olivierverdier/zsh-git-prompt</link>
+      <description>&lt;p&gt;Informative git prompt for zsh&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

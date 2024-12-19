@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dart Daily Trending</title>
+    <description>Daily Trending of Dart in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:24:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>guozhigq/pilipala</title>
+      <link>https://github.com/guozhigq/pilipala</link>
+      <description>&lt;p&gt;PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ImranR98/Obtainium</title>
+      <link>https://github.com/ImranR98/Obtainium</link>
+      <description>&lt;p&gt;Get Android app updates straight from the source.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>shorebirdtech/shorebird</title>
+      <link>https://github.com/shorebirdtech/shorebird</link>
+      <description>&lt;p&gt;Code Push for Flutter and other tools for Flutter businesses.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flutter/flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>&lt;p&gt;Flutter makes it easy and fast to build beautiful apps for mobile and beyond&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MaikuB/flutter_local_notifications</title>
+      <link>https://github.com/MaikuB/flutter_local_notifications</link>
+      <description>&lt;p&gt;A Flutter plugin for displaying local notifications on Android, iOS, macOS and Linux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/sdk</title>
+      <link>https://github.com/dart-lang/sdk</link>
+      <description>&lt;p&gt;The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imaNNeo/fl_chart</title>
+      <link>https://github.com/imaNNeo/fl_chart</link>
+      <description>&lt;p&gt;FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aleksanderwozniak/table_calendar</title>
+      <link>https://github.com/aleksanderwozniak/table_calendar</link>
+      <description>&lt;p&gt;Highly customizable, feature-packed calendar widget for Flutter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fluttercommunity/plus_plugins</title>
+      <link>https://github.com/fluttercommunity/plus_plugins</link>
+      <description>&lt;p&gt;Flutter Community Plus Plugins&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chen08209/FlClash</title>
+      <link>https://github.com/chen08209/FlClash</link>
+      <description>&lt;p&gt;A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flutter/packages</title>
+      <link>https://github.com/flutter/packages</link>
+      <description>&lt;p&gt;A collection of useful packages maintained by the Flutter team&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pichillilorenzo/flutter_inappwebview</title>
+      <link>https://github.com/pichillilorenzo/flutter_inappwebview</link>
+      <description>&lt;p&gt;A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flutter/samples</title>
+      <link>https://github.com/flutter/samples</link>
+      <description>&lt;p&gt;A collection of Flutter examples and demos&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firebase/flutterfire</title>
+      <link>https://github.com/firebase/flutterfire</link>
+      <description>&lt;p&gt;🔥 A collection of Firebase plugins for Flutter apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>academind/flutter-complete-guide-course-resources</title>
+      <link>https://github.com/academind/flutter-complete-guide-course-resources</link>
+      <description>&lt;p&gt;Course resources (code snapshots &amp; slides) for our complete Flutter &amp; Dart course (https://acad.link/flutter).&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fzyzcjy/flutter_rust_bridge</title>
+      <link>https://github.com/fzyzcjy/flutter_rust_bridge</link>
+      <description>&lt;p&gt;Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jonataslaw/getx</title>
+      <link>https://github.com/jonataslaw/getx</link>
+      <description>&lt;p&gt;Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leancodepl/patrol</title>
+      <link>https://github.com/leancodepl/patrol</link>
+      <description>&lt;p&gt;Flutter-first UI testing framework. Ready for action!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>media-kit/media-kit</title>
+      <link>https://github.com/media-kit/media-kit</link>
+      <description>&lt;p&gt;A cross-platform video player &amp; audio player for Flutter &amp; Dart.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

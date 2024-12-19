@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Monthly Trending</title>
+    <description>Monthly Trending of Ruby in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:52:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>&lt;p&gt;OpenProject is the leading open source project management software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>&lt;p&gt;Metasploit Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github-linguist/linguist</title>
+      <link>https://github.com/github-linguist/linguist</link>
+      <description>&lt;p&gt;Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>&lt;p&gt;A platform for community discussion. Free, open, simple.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Freika/dawarich</title>
+      <link>https://github.com/Freika/dawarich</link>
+      <description>&lt;p&gt;Self-hosted alternative to Google Location History (Google Maps Timeline)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/homebrew-core</title>
+      <link>https://github.com/Homebrew/homebrew-core</link>
+      <description>&lt;p&gt;🍻 Default formulae for the missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sidekiq/sidekiq</title>
+      <link>https://github.com/sidekiq/sidekiq</link>
+      <description>&lt;p&gt;Simple, efficient background processing for Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/brew</title>
+      <link>https://github.com/Homebrew/brew</link>
+      <description>&lt;p&gt;🍺 The missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopify/liquid</title>
+      <link>https://github.com/Shopify/liquid</link>
+      <description>&lt;p&gt;Liquid markup language. Safe, customer facing template language for flexible web apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

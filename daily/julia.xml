@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Julia Daily Trending</title>
+    <description>Daily Trending of Julia in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:26:16 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaParallel/ClusterManagers.jl</title>
+      <link>https://github.com/JuliaParallel/ClusterManagers.jl</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaAtmos.jl</title>
+      <link>https://github.com/CliMA/ClimaAtmos.jl</link>
+      <description>&lt;p&gt;ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaRegistries/General</title>
+      <link>https://github.com/JuliaRegistries/General</link>
+      <description>&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MakieOrg/Makie.jl</title>
+      <link>https://github.com/MakieOrg/Makie.jl</link>
+      <description>&lt;p&gt;Interactive data visualizations and plotting in Julia&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaLand.jl</title>
+      <link>https://github.com/CliMA/ClimaLand.jl</link>
+      <description>&lt;p&gt;Clima&#39;s Land Model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaStats/Distributions.jl</title>
+      <link>https://github.com/JuliaStats/Distributions.jl</link>
+      <description>&lt;p&gt;A Julia package for probability distributions and associated functions.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

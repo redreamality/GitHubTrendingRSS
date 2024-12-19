@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scala Daily Trending</title>
+    <description>Daily Trending of Scala in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:30:53 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>OpenXiangShan/XiangShan</title>
+      <link>https://github.com/OpenXiangShan/XiangShan</link>
+      <description>&lt;p&gt;Open-source high-performance RISC-V processor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>delta-io/delta</title>
+      <link>https://github.com/delta-io/delta</link>
+      <description>&lt;p&gt;An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/incubator-gluten</title>
+      <link>https://github.com/apache/incubator-gluten</link>
+      <description>&lt;p&gt;Gluten is a middle layer responsible for offloading JVM-based SQL engines&#39; execution to native engines.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>twitter/the-algorithm</title>
+      <link>https://github.com/twitter/the-algorithm</link>
+      <description>&lt;p&gt;Source code for Twitter&#39;s Recommendation Algorithm&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/spark</title>
+      <link>https://github.com/apache/spark</link>
+      <description>&lt;p&gt;Apache Spark - A unified analytics engine for large-scale data processing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-korean-text/open-korean-text</title>
+      <link>https://github.com/open-korean-text/open-korean-text</link>
+      <description>&lt;p&gt;Open Korean Text Processor - An Open-source Korean Text Processor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JohnSnowLabs/spark-nlp</title>
+      <link>https://github.com/JohnSnowLabs/spark-nlp</link>
+      <description>&lt;p&gt;State of the Art Natural Language Processing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lynxworld/lynx</title>
+      <link>https://github.com/lynxworld/lynx</link>
+      <description>&lt;p&gt;Cypher query execution framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sbt/sbt</title>
+      <link>https://github.com/sbt/sbt</link>
+      <description>&lt;p&gt;sbt, the interactive build tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>digital-asset/daml</title>
+      <link>https://github.com/digital-asset/daml</link>
+      <description>&lt;p&gt;The Daml smart contract language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chipsalliance/chisel</title>
+      <link>https://github.com/chipsalliance/chisel</link>
+      <description>&lt;p&gt;Chisel: A Modern Hardware Design Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>awslabs/deequ</title>
+      <link>https://github.com/awslabs/deequ</link>
+      <description>&lt;p&gt;Deequ is a library built on top of Apache Spark for defining &quot;unit tests for data&quot;, which measure data quality in large datasets.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/chipyard</title>
+      <link>https://github.com/ucb-bar/chipyard</link>
+      <description>&lt;p&gt;An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>delta-io/delta-sharing</title>
+      <link>https://github.com/delta-io/delta-sharing</link>
+      <description>&lt;p&gt;An open protocol for secure data sharing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>databricks/Spark-The-Definitive-Guide</title>
+      <link>https://github.com/databricks/Spark-The-Definitive-Guide</link>
+      <description>&lt;p&gt;Spark: The Definitive Guide&#39;s Code Repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA/spark-rapids</title>
+      <link>https://github.com/NVIDIA/spark-rapids</link>
+      <description>&lt;p&gt;Spark RAPIDS plugin - accelerate Apache Spark with GPUs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yahoo/CMAK</title>
+      <link>https://github.com/yahoo/CMAK</link>
+      <description>&lt;p&gt;CMAK is a tool for managing Apache Kafka clusters&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zio/zio</title>
+      <link>https://github.com/zio/zio</link>
+      <description>&lt;p&gt;ZIO — A type-safe, composable library for async and concurrent programming in Scala&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>playframework/playframework</title>
+      <link>https://github.com/playframework/playframework</link>
+      <description>&lt;p&gt;The Community Maintained High Velocity Web Framework For Java and Scala.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nightscape/spark-excel</title>
+      <link>https://github.com/nightscape/spark-excel</link>
+      <description>&lt;p&gt;A Spark plugin for reading and writing Excel files&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>databrickslabs/remorph</title>
+      <link>https://github.com/databrickslabs/remorph</link>
+      <description>&lt;p&gt;Accelerates migrations to Databricks by automating code conversion and migration validation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub MDX Weekly Trending</title>
+    <description>Weekly Trending of MDX in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:38:35 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cloudflare/cloudflare-docs</title>
+      <link>https://github.com/cloudflare/cloudflare-docs</link>
+      <description>&lt;p&gt;Cloudflare’s documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openai/openai-cookbook</title>
+      <link>https://github.com/openai/openai-cookbook</link>
+      <description>&lt;p&gt;Examples and guides for using the OpenAI API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yewstack/yew</title>
+      <link>https://github.com/yewstack/yew</link>
+      <description>&lt;p&gt;Rust / Wasm framework for creating reliable and efficient web applications&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ngrok/ngrok-docs</title>
+      <link>https://github.com/ngrok/ngrok-docs</link>
+      <description>&lt;p&gt;ngrok&#39;s official documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>drizzle-team/drizzle-orm-docs</title>
+      <link>https://github.com/drizzle-team/drizzle-orm-docs</link>
+      <description>&lt;p&gt;Drizzle ORM documentation website&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>feature-sliced/documentation</title>
+      <link>https://github.com/feature-sliced/documentation</link>
+      <description>&lt;p&gt;🍰 Architectural methodology for frontend projects&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rainbow-me/rainbowkit</title>
+      <link>https://github.com/rainbow-me/rainbowkit</link>
+      <description>&lt;p&gt;The best way to connect a wallet 🌈 🧰&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jellyfin/jellyfin.org</title>
+      <link>https://github.com/jellyfin/jellyfin.org</link>
+      <description>&lt;p&gt;Jellyfin Project website, blog, and user documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>EnterpriseDB/docs</title>
+      <link>https://github.com/EnterpriseDB/docs</link>
+      <description>&lt;p&gt;EDB Docs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cloudposse/atmos</title>
+      <link>https://github.com/cloudposse/atmos</link>
+      <description>&lt;p&gt;👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>withastro/docs</title>
+      <link>https://github.com/withastro/docs</link>
+      <description>&lt;p&gt;Astro documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>freeCodeCamp/contribute</title>
+      <link>https://github.com/freeCodeCamp/contribute</link>
+      <description>&lt;p&gt;&gt; docs site for all things contributions. begin your contribution journey here.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AdguardTeam/KnowledgeBase</title>
+      <link>https://github.com/AdguardTeam/KnowledgeBase</link>
+      <description>&lt;p&gt;AdGuard knowledge base&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>niledatabase/niledatabase</title>
+      <link>https://github.com/niledatabase/niledatabase</link>
+      <description>&lt;p&gt;PostgreSQL reengineered for multi-tenant apps&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coollabsio/documentation-coolify</title>
+      <link>https://github.com/coollabsio/documentation-coolify</link>
+      <description>&lt;p&gt;Documentation for Coolify&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>solidjs/solid-docs</title>
+      <link>https://github.com/solidjs/solid-docs</link>
+      <description>&lt;p&gt;Official documentation for the Solid ecosystem&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wix/react-native-navigation</title>
+      <link>https://github.com/wix/react-native-navigation</link>
+      <description>&lt;p&gt;A complete native navigation solution for React Native&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MetaMask/metamask-docs</title>
+      <link>https://github.com/MetaMask/metamask-docs</link>
+      <description>&lt;p&gt;Developer documentation for MetaMask&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rauchg/blog</title>
+      <link>https://github.com/rauchg/blog</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huggingface/course</title>
+      <link>https://github.com/huggingface/course</link>
+      <description>&lt;p&gt;The Hugging Face course on Transformers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

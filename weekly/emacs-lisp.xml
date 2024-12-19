@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Weekly Trending</title>
+    <description>Weekly Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:34:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>karthink/gptel</title>
+      <link>https://github.com/karthink/gptel</link>
+      <description>&lt;p&gt;A simple LLM client for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>&lt;p&gt;Emacs client/library for the Language Server Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-mirror/emacs</title>
+      <link>https://github.com/emacs-mirror/emacs</link>
+      <description>&lt;p&gt;Mirror of GNU Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>positron-solutions/dslide</title>
+      <link>https://github.com/positron-solutions/dslide</link>
+      <description>&lt;p&gt;Present anything Emacs can do with programmable, extensible, configurable slides &amp; presentation steps made from org mode headings&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>melpa/melpa</title>
+      <link>https://github.com/melpa/melpa</link>
+      <description>&lt;p&gt;Recipes and build machinery for the biggest Emacs package repo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>purcell/emacs-reformatter</title>
+      <link>https://github.com/purcell/emacs-reformatter</link>
+      <description>&lt;p&gt;Define commands which run reformatters on the current Emacs buffer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lewang/ws-butler</title>
+      <link>https://github.com/lewang/ws-butler</link>
+      <description>&lt;p&gt;Unobtrusively trim extraneous white-space *ONLY* in lines edited.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CeleritasCelery/rune</title>
+      <link>https://github.com/CeleritasCelery/rune</link>
+      <description>&lt;p&gt;Rust VM for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>magit/magit</title>
+      <link>https://github.com/magit/magit</link>
+      <description>&lt;p&gt;It&#39;s Magit! A Git Porcelain inside Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>atomontage/xterm-color</title>
+      <link>https://github.com/atomontage/xterm-color</link>
+      <description>&lt;p&gt;ANSI &amp; xterm-256 color text property translator for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-dashboard/emacs-dashboard</title>
+      <link>https://github.com/emacs-dashboard/emacs-dashboard</link>
+      <description>&lt;p&gt;An extensible emacs dashboard&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joaotavora/eglot</title>
+      <link>https://github.com/joaotavora/eglot</link>
+      <description>&lt;p&gt;A client for Language Server Protocol servers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

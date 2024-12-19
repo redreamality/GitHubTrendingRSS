@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Mathematica Weekly Trending</title>
+    <description>Weekly Trending of Mathematica in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:38:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Autodesk/maya-usd</title>
+      <link>https://github.com/Autodesk/maya-usd</link>
+      <description>&lt;p&gt;A common USD (Universal Scene Description) plugin for Autodesk Maya&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unity-Technologies/com.unity.multiplayer.samples.bitesize</title>
+      <link>https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize</link>
+      <description>&lt;p&gt;A collection of smaller Bitesize samples to educate in isolation features of Netcode for GameObjects and related technologies.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

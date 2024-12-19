@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Daily Trending</title>
+    <description>Daily Trending of Shell in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:30:59 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>DaoCloud/public-image-mirror</title>
+      <link>https://github.com/DaoCloud/public-image-mirror</link>
+      <description>&lt;p&gt;很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SeleniumHQ/docker-selenium</title>
+      <link>https://github.com/SeleniumHQ/docker-selenium</link>
+      <description>&lt;p&gt;Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bitnami/containers</title>
+      <link>https://github.com/bitnami/containers</link>
+      <description>&lt;p&gt;Bitnami container images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>youngyangyang04/leetcode-master</title>
+      <link>https://github.com/youngyangyang04/leetcode-master</link>
+      <description>&lt;p&gt;《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>datawhalechina/learn-nlp-with-transformers</title>
+      <link>https://github.com/datawhalechina/learn-nlp-with-transformers</link>
+      <description>&lt;p&gt;we want to create a repo to illustrate usage of transformers in chinese&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ton-blockchain/wallet-contract</title>
+      <link>https://github.com/ton-blockchain/wallet-contract</link>
+      <description>&lt;p&gt;Wallet V4 and subscription smart contracts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/oss-fuzz</title>
+      <link>https://github.com/google/oss-fuzz</link>
+      <description>&lt;p&gt;OSS-Fuzz - continuous fuzzing for open source software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tfutils/tfenv</title>
+      <link>https://github.com/tfutils/tfenv</link>
+      <description>&lt;p&gt;Terraform version manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>&lt;p&gt;Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CISOfy/lynis</title>
+      <link>https://github.com/CISOfy/lynis</link>
+      <description>&lt;p&gt;Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>InfinityLoop1308/PipePipe</title>
+      <link>https://github.com/InfinityLoop1308/PipePipe</link>
+      <description>&lt;p&gt;A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ohmyzsh/ohmyzsh</title>
+      <link>https://github.com/ohmyzsh/ohmyzsh</link>
+      <description>&lt;p&gt;🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installomator/Installomator</title>
+      <link>https://github.com/Installomator/Installomator</link>
+      <description>&lt;p&gt;Installation script to deploy standard software on Macs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>catppuccin/tmux</title>
+      <link>https://github.com/catppuccin/tmux</link>
+      <description>&lt;p&gt;💽 Soothing pastel theme for Tmux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kodekloudhub/certified-kubernetes-administrator-course</title>
+      <link>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</link>
+      <description>&lt;p&gt;Certified Kubernetes Administrator - CKA Course&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>getsentry/self-hosted</title>
+      <link>https://github.com/getsentry/self-hosted</link>
+      <description>&lt;p&gt;Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

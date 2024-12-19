@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Daily Trending</title>
+    <description>Daily Trending of Rust in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:30:49 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>hyperium/hyper</title>
+      <link>https://github.com/hyperium/hyper</link>
+      <description>&lt;p&gt;An HTTP library for Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huggingface/candle</title>
+      <link>https://github.com/huggingface/candle</link>
+      <description>&lt;p&gt;Minimalist ML framework for Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mainmatter/100-exercises-to-learn-rust</title>
+      <link>https://github.com/mainmatter/100-exercises-to-learn-rust</link>
+      <description>&lt;p&gt;A self-paced course to learn Rust, one exercise at a time.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FuelLabs/fuel-core</title>
+      <link>https://github.com/FuelLabs/fuel-core</link>
+      <description>&lt;p&gt;Rust full node implementation of the Fuel v2 protocol.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>risingwavelabs/risingwave</title>
+      <link>https://github.com/risingwavelabs/risingwave</link>
+      <description>&lt;p&gt;Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch. PostgreSQL compatible.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>juhaku/utoipa</title>
+      <link>https://github.com/juhaku/utoipa</link>
+      <description>&lt;p&gt;Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sigp/lighthouse</title>
+      <link>https://github.com/sigp/lighthouse</link>
+      <description>&lt;p&gt;Ethereum consensus client in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lancedb/lance</title>
+      <link>https://github.com/lancedb/lance</link>
+      <description>&lt;p&gt;Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>juspay/hyperswitch</title>
+      <link>https://github.com/juspay/hyperswitch</link>
+      <description>&lt;p&gt;An open source payments switch written in Rust to make payments fast, reliable and affordable&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Schniz/fnm</title>
+      <link>https://github.com/Schniz/fnm</link>
+      <description>&lt;p&gt;🚀 Fast and simple Node.js version manager, built in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>libp2p/rust-libp2p</title>
+      <link>https://github.com/libp2p/rust-libp2p</link>
+      <description>&lt;p&gt;The Rust Implementation of the libp2p networking stack.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pola-rs/polars</title>
+      <link>https://github.com/pola-rs/polars</link>
+      <description>&lt;p&gt;Dataframes powered by a multithreaded, vectorized query engine, written in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neondatabase/neon</title>
+      <link>https://github.com/neondatabase/neon</link>
+      <description>&lt;p&gt;Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fujiapple852/trippy</title>
+      <link>https://github.com/fujiapple852/trippy</link>
+      <description>&lt;p&gt;A network diagnostic tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust-clippy</title>
+      <link>https://github.com/rust-lang/rust-clippy</link>
+      <description>&lt;p&gt;A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/windows-rs</title>
+      <link>https://github.com/microsoft/windows-rs</link>
+      <description>&lt;p&gt;Rust for Windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>thomas-mauran/chess-tui</title>
+      <link>https://github.com/thomas-mauran/chess-tui</link>
+      <description>&lt;p&gt;Play chess from your terminal 🦀&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fish-shell/fish-shell</title>
+      <link>https://github.com/fish-shell/fish-shell</link>
+      <description>&lt;p&gt;The user-friendly command line shell.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jtroo/kanata</title>
+      <link>https://github.com/jtroo/kanata</link>
+      <description>&lt;p&gt;Improve keyboard comfort and usability with advanced customization&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/datafusion</title>
+      <link>https://github.com/apache/datafusion</link>
+      <description>&lt;p&gt;Apache DataFusion SQL Query Engine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>influxdata/influxdb</title>
+      <link>https://github.com/influxdata/influxdb</link>
+      <description>&lt;p&gt;Scalable datastore for metrics, events, and real-time analytics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rgwood/systemctl-tui</title>
+      <link>https://github.com/rgwood/systemctl-tui</link>
+      <description>&lt;p&gt;A fast, simple TUI for interacting with systemd services and their logs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

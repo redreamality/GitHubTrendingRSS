@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vim Script Daily Trending</title>
+    <description>Daily Trending of Vim Script in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:31:48 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Exafunction/codeium.vim</title>
+      <link>https://github.com/Exafunction/codeium.vim</link>
+      <description>&lt;p&gt;Free, ultrafast Copilot alternative for Vim and Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim/vim</title>
+      <link>https://github.com/vim/vim</link>
+      <description>&lt;p&gt;The official Vim repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-fugitive</title>
+      <link>https://github.com/tpope/vim-fugitive</link>
+      <description>&lt;p&gt;fugitive.vim: A Git wrapper so awesome, it should be illegal&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>VundleVim/Vundle.vim</title>
+      <link>https://github.com/VundleVim/Vundle.vim</link>
+      <description>&lt;p&gt;Vundle, the plug-in manager for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim-test/vim-test</title>
+      <link>https://github.com/vim-test/vim-test</link>
+      <description>&lt;p&gt;Run your tests at the speed of thought&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>airblade/vim-rooter</title>
+      <link>https://github.com/airblade/vim-rooter</link>
+      <description>&lt;p&gt;Changes Vim working directory to project root.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sainnhe/gruvbox-material</title>
+      <link>https://github.com/sainnhe/gruvbox-material</link>
+      <description>&lt;p&gt;Gruvbox with Material Palette&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>morhetz/gruvbox</title>
+      <link>https://github.com/morhetz/gruvbox</link>
+      <description>&lt;p&gt;Retro groove color scheme for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ekalinin/Dockerfile.vim</title>
+      <link>https://github.com/ekalinin/Dockerfile.vim</link>
+      <description>&lt;p&gt;Vim syntax file &amp; snippets for Docker&#39;s Dockerfile&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skywind3000/asyncrun.vim</title>
+      <link>https://github.com/skywind3000/asyncrun.vim</link>
+      <description>&lt;p&gt;🚀 Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aklt/plantuml-syntax</title>
+      <link>https://github.com/aklt/plantuml-syntax</link>
+      <description>&lt;p&gt;vim syntax file for plantuml&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fatih/vim-go</title>
+      <link>https://github.com/fatih/vim-go</link>
+      <description>&lt;p&gt;Go development plugin for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dracula/vim</title>
+      <link>https://github.com/dracula/vim</link>
+      <description>&lt;p&gt;🧛🏻‍♂️ Dark theme for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>junegunn/fzf.vim</title>
+      <link>https://github.com/junegunn/fzf.vim</link>
+      <description>&lt;p&gt;fzf ❤️ vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>preservim/vim-markdown</title>
+      <link>https://github.com/preservim/vim-markdown</link>
+      <description>&lt;p&gt;Markdown Vim Mode&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NLKNguyen/papercolor-theme</title>
+      <link>https://github.com/NLKNguyen/papercolor-theme</link>
+      <description>&lt;p&gt;🎨 Light &amp; Dark Vim color schemes inspired by Google&#39;s Material Design&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kchmck/vim-coffee-script</title>
+      <link>https://github.com/kchmck/vim-coffee-script</link>
+      <description>&lt;p&gt;CoffeeScript support for vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mattn/vim-lsp-settings</title>
+      <link>https://github.com/mattn/vim-lsp-settings</link>
+      <description>&lt;p&gt;Auto configurations for Language Server for vim-lsp&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neovim/neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description>&lt;p&gt;Vim-fork focused on extensibility and usability&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>junegunn/vim-easy-align</title>
+      <link>https://github.com/junegunn/vim-easy-align</link>
+      <description>&lt;p&gt;🌻 A Vim alignment plugin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

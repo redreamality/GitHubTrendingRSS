@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Weekly Trending</title>
+    <description>Weekly Trending of Unknown languages in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:32:15 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ByteByteGoHq/system-design-101</title>
+      <link>https://github.com/ByteByteGoHq/system-design-101</link>
+      <description>&lt;p&gt;Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/hello-github-actions</title>
+      <link>https://github.com/skills/hello-github-actions</link>
+      <description>&lt;p&gt;Create a GitHub Action and use it in a workflow.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>trimstray/the-book-of-secret-knowledge</title>
+      <link>https://github.com/trimstray/the-book-of-secret-knowledge</link>
+      <description>&lt;p&gt;A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rockerBOO/awesome-neovim</title>
+      <link>https://github.com/rockerBOO/awesome-neovim</link>
+      <description>&lt;p&gt;Collections of awesome neovim plugins.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>n8n-io/self-hosted-ai-starter-kit</title>
+      <link>https://github.com/n8n-io/self-hosted-ai-starter-kit</link>
+      <description>&lt;p&gt;The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://github.com/skills/introduction-to-github</link>
+      <description>&lt;p&gt;Get started using GitHub in less than an hour.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/github-pages</title>
+      <link>https://github.com/skills/github-pages</link>
+      <description>&lt;p&gt;Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/copilot-codespaces-vscode</title>
+      <link>https://github.com/skills/copilot-codespaces-vscode</link>
+      <description>&lt;p&gt;Develop with AI-powered code suggestions using GitHub Copilot and VS Code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PatrickJS/awesome-cursorrules</title>
+      <link>https://github.com/PatrickJS/awesome-cursorrules</link>
+      <description>&lt;p&gt;📄 A curated list of awesome .cursorrules files&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>getify/You-Dont-Know-JS</title>
+      <link>https://github.com/getify/You-Dont-Know-JS</link>
+      <description>&lt;p&gt;A book series on JavaScript. @YDKJS on twitter.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>akullpp/awesome-java</title>
+      <link>https://github.com/akullpp/awesome-java</link>
+      <description>&lt;p&gt;A curated list of awesome frameworks, libraries and software for the Java programming language.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sindresorhus/awesome</title>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <description>&lt;p&gt;😎 Awesome lists about all kinds of interesting topics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

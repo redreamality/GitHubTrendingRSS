@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Julia Weekly Trending</title>
+    <description>Weekly Trending of Julia in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:35:35 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaRegistries/General</title>
+      <link>https://github.com/JuliaRegistries/General</link>
+      <description>&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaGPU/GPUArrays.jl</title>
+      <link>https://github.com/JuliaGPU/GPUArrays.jl</link>
+      <description>&lt;p&gt;Reusable array functionality for Julia&#39;s various GPU backends.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lindahua/NumericExtensions.jl</title>
+      <link>https://github.com/lindahua/NumericExtensions.jl</link>
+      <description>&lt;p&gt;Julia extensions to provide high performance computational support&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

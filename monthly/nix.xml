@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nix Monthly Trending</title>
+    <description>Monthly Trending of Nix in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:51:06 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nix-community/nixvim</title>
+      <link>https://github.com/nix-community/nixvim</link>
+      <description>&lt;p&gt;Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nix-community/home-manager</title>
+      <link>https://github.com/nix-community/home-manager</link>
+      <description>&lt;p&gt;Manage a user environment using Nix [maintainer=@rycee]&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ryan4yin/nixos-and-flakes-book</title>
+      <link>https://github.com/ryan4yin/nixos-and-flakes-book</link>
+      <description>&lt;p&gt;🛠️ ❤️ Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you&#39;ve come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>danth/stylix</title>
+      <link>https://github.com/danth/stylix</link>
+      <description>&lt;p&gt;System-wide colorscheming and typography for NixOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mitchellh/nixos-config</title>
+      <link>https://github.com/mitchellh/nixos-config</link>
+      <description>&lt;p&gt;My NixOS configurations.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nixpkgs</title>
+      <link>https://github.com/NixOS/nixpkgs</link>
+      <description>&lt;p&gt;Nix Packages collection &amp; NixOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LnL7/nix-darwin</title>
+      <link>https://github.com/LnL7/nix-darwin</link>
+      <description>&lt;p&gt;nix modules for darwin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nix-community/srvos</title>
+      <link>https://github.com/nix-community/srvos</link>
+      <description>&lt;p&gt;NixOS profiles for servers [maintainer=@numtide]&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dustinlyons/nixos-config</title>
+      <link>https://github.com/dustinlyons/nixos-config</link>
+      <description>&lt;p&gt;General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nixos-hardware</title>
+      <link>https://github.com/NixOS/nixos-hardware</link>
+      <description>&lt;p&gt;A collection of NixOS modules covering hardware quirks.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nix-community/plasma-manager</title>
+      <link>https://github.com/nix-community/plasma-manager</link>
+      <description>&lt;p&gt;Manage KDE Plasma with Home Manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mic92/sops-nix</title>
+      <link>https://github.com/Mic92/sops-nix</link>
+      <description>&lt;p&gt;Atomic secret provisioning for NixOS based on sops&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nix.dev</title>
+      <link>https://github.com/NixOS/nix.dev</link>
+      <description>&lt;p&gt;Official documentation for getting things done with Nix.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SaumonNet/proxmox-nixos</title>
+      <link>https://github.com/SaumonNet/proxmox-nixos</link>
+      <description>&lt;p&gt;The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @JulienMalka]&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ryantm/agenix</title>
+      <link>https://github.com/ryantm/agenix</link>
+      <description>&lt;p&gt;age-encrypted secrets for NixOS and Home manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>oxalica/rust-overlay</title>
+      <link>https://github.com/oxalica/rust-overlay</link>
+      <description>&lt;p&gt;Pure and reproducible nix overlay of binary distributed rust toolchains&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

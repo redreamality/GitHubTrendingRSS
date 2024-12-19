@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub OCaml Weekly Trending</title>
+    <description>Weekly Trending of OCaml in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:39:08 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ocaml/ocaml</title>
+      <link>https://github.com/ocaml/ocaml</link>
+      <description>&lt;p&gt;The core OCaml system: compilers, runtime system, base libraries&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>semgrep/semgrep</title>
+      <link>https://github.com/semgrep/semgrep</link>
+      <description>&lt;p&gt;Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astrada/google-drive-ocamlfuse</title>
+      <link>https://github.com/astrada/google-drive-ocamlfuse</link>
+      <description>&lt;p&gt;FUSE filesystem over Google Drive&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>facebook/flow</title>
+      <link>https://github.com/facebook/flow</link>
+      <description>&lt;p&gt;Adds static typing to JavaScript to improve developer productivity and code quality.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ocaml/opam</title>
+      <link>https://github.com/ocaml/opam</link>
+      <description>&lt;p&gt;opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ocaml/dune</title>
+      <link>https://github.com/ocaml/dune</link>
+      <description>&lt;p&gt;A composable build system for OCaml.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bcpierce00/unison</title>
+      <link>https://github.com/bcpierce00/unison</link>
+      <description>&lt;p&gt;Unison file synchronizer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>facebook/infer</title>
+      <link>https://github.com/facebook/infer</link>
+      <description>&lt;p&gt;A static analyzer for Java, C, C++, and Objective-C&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

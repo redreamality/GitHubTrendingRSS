@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:31:19 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>matt8707/ha-fusion</title>
+      <link>https://github.com/matt8707/ha-fusion</link>
+      <description>&lt;p&gt;A modern, easy-to-use and performant custom Home Assistant dashboard&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leaningtech/webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>&lt;p&gt;Virtual Machine for the Web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vkurko/calendar</title>
+      <link>https://github.com/vkurko/calendar</link>
+      <description>&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huntabyte/shadcn-svelte</title>
+      <link>https://github.com/huntabyte/shadcn-svelte</link>
+      <description>&lt;p&gt;shadcn/ui, but for Svelte. ✨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbgate/dbgate</title>
+      <link>https://github.com/dbgate/dbgate</link>
+      <description>&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>themesberg/flowbite-svelte</title>
+      <link>https://github.com/themesberg/flowbite-svelte</link>
+      <description>&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>saadeghi/daisyui</title>
+      <link>https://github.com/saadeghi/daisyui</link>
+      <description>&lt;p&gt;🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>taikoxyz/taiko-mono</title>
+      <link>https://github.com/taikoxyz/taiko-mono</link>
+      <description>&lt;p&gt;Taiko&#39;s Alethia based rollup protocol 🥁 🌸&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primocms/primo</title>
+      <link>https://github.com/primocms/primo</link>
+      <description>&lt;p&gt;Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skeletonlabs/skeleton</title>
+      <link>https://github.com/skeletonlabs/skeleton</link>
+      <description>&lt;p&gt;An adaptive design system and component solution built around Tailwind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dsek-LTH/web</title>
+      <link>https://github.com/Dsek-LTH/web</link>
+      <description>&lt;p&gt;The D-guild&#39;s primary web page&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sbondCo/Watcharr</title>
+      <link>https://github.com/sbondCo/Watcharr</link>
+      <description>&lt;p&gt;Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>classroomio/classroomio</title>
+      <link>https://github.com/classroomio/classroomio</link>
+      <description>&lt;p&gt;The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>marcusolsson/obsidian-projects</title>
+      <link>https://github.com/marcusolsson/obsidian-projects</link>
+      <description>&lt;p&gt;Plain text project planning in Obsidian&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hackclub/OnBoard</title>
+      <link>https://github.com/hackclub/OnBoard</link>
+      <description>&lt;p&gt;💡 Join 1,000 teenagers and make your first PCB with a $100 grant!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fireship-io/fireship.io</title>
+      <link>https://github.com/fireship-io/fireship.io</link>
+      <description>&lt;p&gt;Build and ship your app faster https://fireship.io&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pluja/whishper</title>
+      <link>https://github.com/pluja/whishper</link>
+      <description>&lt;p&gt;Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

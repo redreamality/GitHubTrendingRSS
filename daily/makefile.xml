@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Makefile Daily Trending</title>
+    <description>Daily Trending of Makefile in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:26:42 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>golang-standards/project-layout</title>
+      <link>https://github.com/golang-standards/project-layout</link>
+      <description>&lt;p&gt;Standard Go Project Layout&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-proto</title>
+      <link>https://github.com/open-telemetry/opentelemetry-proto</link>
+      <description>&lt;p&gt;OpenTelemetry protocol (OTLP) specification and Protobuf definitions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbt-labs/dbt-utils</title>
+      <link>https://github.com/dbt-labs/dbt-utils</link>
+      <description>&lt;p&gt;Utility functions for dbt projects.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PartialVolume/shredos.x86_64</title>
+      <link>https://github.com/PartialVolume/shredos.x86_64</link>
+      <description>&lt;p&gt;Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>reportportal/reportportal</title>
+      <link>https://github.com/reportportal/reportportal</link>
+      <description>&lt;p&gt;Main Repository. ReportPortal starts here - see readme below.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>twilio/twilio-oai</title>
+      <link>https://github.com/twilio/twilio-oai</link>
+      <description>&lt;p&gt;The Twilio OpenAPI Specification&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</title>
+      <link>https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</link>
+      <description>&lt;p&gt;The European Digital Identity Wallet&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-proto-go</title>
+      <link>https://github.com/open-telemetry/opentelemetry-proto-go</link>
+      <description>&lt;p&gt;Generated code for OpenTelemetry protobuf data model&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-telemetry/opentelemetry-specification</title>
+      <link>https://github.com/open-telemetry/opentelemetry-specification</link>
+      <description>&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbt-labs/dbt-codegen</title>
+      <link>https://github.com/dbt-labs/dbt-codegen</link>
+      <description>&lt;p&gt;Macros that generate dbt code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DS4SD/docling-serve</title>
+      <link>https://github.com/DS4SD/docling-serve</link>
+      <description>&lt;p&gt;Running Docling as an API service&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>theos/theos</title>
+      <link>https://github.com/theos/theos</link>
+      <description>&lt;p&gt;A cross-platform suite of tools for building and deploying software for iOS and other platforms.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>temporalio/api</title>
+      <link>https://github.com/temporalio/api</link>
+      <description>&lt;p&gt;Temporal gRPC API and proto files&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>container-storage-interface/spec</title>
+      <link>https://github.com/container-storage-interface/spec</link>
+      <description>&lt;p&gt;Container Storage Interface (CSI) Specification.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

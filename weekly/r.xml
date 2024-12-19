@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub R Weekly Trending</title>
+    <description>Weekly Trending of R in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:39:54 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>satijalab/seurat</title>
+      <link>https://github.com/satijalab/seurat</link>
+      <description>&lt;p&gt;R toolkit for single cell genomics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MRCIEU/TwoSampleMR</title>
+      <link>https://github.com/MRCIEU/TwoSampleMR</link>
+      <description>&lt;p&gt;R package for performing 2-sample MR using MR-Base database&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sqjin/CellChat</title>
+      <link>https://github.com/sqjin/CellChat</link>
+      <description>&lt;p&gt;R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rdatatable/data.table</title>
+      <link>https://github.com/Rdatatable/data.table</link>
+      <description>&lt;p&gt;R&#39;s data.table package extends data.frame:&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hadley/r4ds</title>
+      <link>https://github.com/hadley/r4ds</link>
+      <description>&lt;p&gt;R for data science: a book&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rmaia/pavo</title>
+      <link>https://github.com/rmaia/pavo</link>
+      <description>&lt;p&gt;tools for the analysis of color data in R&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chris-mcginnis-ucsf/DoubletFinder</title>
+      <link>https://github.com/chris-mcginnis-ucsf/DoubletFinder</link>
+      <description>&lt;p&gt;R package for detecting doublets in single-cell RNA sequencing data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>YuLab-SMU/clusterProfiler</title>
+      <link>https://github.com/YuLab-SMU/clusterProfiler</link>
+      <description>&lt;p&gt;📊 A universal enrichment tool for interpreting omics data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>benjjneb/dada2</title>
+      <link>https://github.com/benjjneb/dada2</link>
+      <description>&lt;p&gt;Accurate sample inference from amplicon data with single nucleotide resolution&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>broadinstitute/infercnv</title>
+      <link>https://github.com/broadinstitute/infercnv</link>
+      <description>&lt;p&gt;Inferring CNV from Single-Cell RNA-Seq&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GreenleafLab/ArchR</title>
+      <link>https://github.com/GreenleafLab/ArchR</link>
+      <description>&lt;p&gt;ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

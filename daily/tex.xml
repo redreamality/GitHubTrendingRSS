@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Daily Trending</title>
+    <description>Daily Trending of TeX in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:31:25 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>billryan/resume</title>
+      <link>https://github.com/billryan/resume</link>
+      <description>&lt;p&gt;An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sb2nov/resume</title>
+      <link>https://github.com/sb2nov/resume</link>
+      <description>&lt;p&gt;Software developer resume in Latex&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cplusplus/draft</title>
+      <link>https://github.com/cplusplus/draft</link>
+      <description>&lt;p&gt;C++ standards drafts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mohuangrui/ucasthesis</title>
+      <link>https://github.com/mohuangrui/ucasthesis</link>
+      <description>&lt;p&gt;LaTeX Thesis Template for the University of Chinese Academy of Sciences&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terryum/awesome-deep-learning-papers</title>
+      <link>https://github.com/terryum/awesome-deep-learning-papers</link>
+      <description>&lt;p&gt;The most cited deep learning papers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cosmos/ibc</title>
+      <link>https://github.com/cosmos/ibc</link>
+      <description>&lt;p&gt;Interchain Standards (ICS) for the Cosmos network &amp; interchain ecosystem.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/language</title>
+      <link>https://github.com/dart-lang/language</link>
+      <description>&lt;p&gt;Design of the Dart language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>&lt;p&gt;VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dnl-blkv/mcdowell-cv</title>
+      <link>https://github.com/dnl-blkv/mcdowell-cv</link>
+      <description>&lt;p&gt;A Nice-looking CV template made into LaTeX&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>&lt;p&gt;Latex code for making neural networks diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sysprog21/lkmpg</title>
+      <link>https://github.com/sysprog21/lkmpg</link>
+      <description>&lt;p&gt;The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>posquit0/Awesome-CV</title>
+      <link>https://github.com/posquit0/Awesome-CV</link>
+      <description>&lt;p&gt;📄 Awesome CV is LaTeX template for your outstanding job application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>circuitikz/circuitikz</title>
+      <link>https://github.com/circuitikz/circuitikz</link>
+      <description>&lt;p&gt;CircuiTikZ TeX/LaTeX package for drawing circuits&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wandmalfarbe/pandoc-latex-template</title>
+      <link>https://github.com/Wandmalfarbe/pandoc-latex-template</link>
+      <description>&lt;p&gt;A pandoc LaTeX template to convert markdown files to PDF or LaTeX.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheNetAdmin/zjuthesis</title>
+      <link>https://github.com/TheNetAdmin/zjuthesis</link>
+      <description>&lt;p&gt;Zhejiang University Graduation Thesis LaTeX Template&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riscv/riscv-isa-manual</title>
+      <link>https://github.com/riscv/riscv-isa-manual</link>
+      <description>&lt;p&gt;RISC-V Instruction Set Manual&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dendibakh/perf-book</title>
+      <link>https://github.com/dendibakh/perf-book</link>
+      <description>&lt;p&gt;The book &quot;Performance Analysis and Tuning on Modern CPU&quot;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vdumoulin/conv_arithmetic</title>
+      <link>https://github.com/vdumoulin/conv_arithmetic</link>
+      <description>&lt;p&gt;A technical report on convolution arithmetic in the context of deep learning&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

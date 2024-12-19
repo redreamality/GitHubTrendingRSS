@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Erlang Daily Trending</title>
+    <description>Daily Trending of Erlang in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:24:56 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>&lt;p&gt;The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws-beam/aws-erlang</title>
+      <link>https://github.com/aws-beam/aws-erlang</link>
+      <description>&lt;p&gt;Create, configure, and manage AWS services from Erlang code.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>for-GET/jesse</title>
+      <link>https://github.com/for-GET/jesse</link>
+      <description>&lt;p&gt;jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eproxus/meck</title>
+      <link>https://github.com/eproxus/meck</link>
+      <description>&lt;p&gt;A mocking library for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rabbitmq/rabbitmq-delayed-message-exchange</title>
+      <link>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</link>
+      <description>&lt;p&gt;Delayed Messaging for RabbitMQ&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>processone/ejabberd</title>
+      <link>https://github.com/processone/ejabberd</link>
+      <description>&lt;p&gt;Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>&lt;p&gt;Erlang/OTP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ninenines/gun</title>
+      <link>https://github.com/ninenines/gun</link>
+      <description>&lt;p&gt;HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>talentdeficit/jsx</title>
+      <link>https://github.com/talentdeficit/jsx</link>
+      <description>&lt;p&gt;an erlang application for consuming, producing and manipulating json. inspired by yajl&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ninenines/cowboy</title>
+      <link>https://github.com/ninenines/cowboy</link>
+      <description>&lt;p&gt;Small, fast, modern HTTP server for Erlang/OTP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp/erlfmt</title>
+      <link>https://github.com/WhatsApp/erlfmt</link>
+      <description>&lt;p&gt;An automated code formatter for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mochi/mochiweb</title>
+      <link>https://github.com/mochi/mochiweb</link>
+      <description>&lt;p&gt;MochiWeb is an Erlang library for building lightweight HTTP servers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>couchbase/couchdb</title>
+      <link>https://github.com/couchbase/couchdb</link>
+      <description>&lt;p&gt;CouchDB&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>devinus/poolboy</title>
+      <link>https://github.com/devinus/poolboy</link>
+      <description>&lt;p&gt;A hunky Erlang worker pool factory&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tomas-abrahamsson/gpb</title>
+      <link>https://github.com/tomas-abrahamsson/gpb</link>
+      <description>&lt;p&gt;A Google Protobuf implementation for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

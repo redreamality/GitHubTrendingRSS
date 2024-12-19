@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub QML Daily Trending</title>
+    <description>Daily Trending of QML in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:30:25 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jaredtao/TaoQuick</title>
+      <link>https://github.com/jaredtao/TaoQuick</link>
+      <description>&lt;p&gt;a cool QtQuick component library (一套酷炫的QtQuick基础库)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>luisbocanegra/plasma-panel-colorizer</title>
+      <link>https://github.com/luisbocanegra/plasma-panel-colorizer</link>
+      <description>&lt;p&gt;Latte-Dock and WM status bar customization features for the default KDE Plasma panel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yeyushengfan258/Win11OS-kde</title>
+      <link>https://github.com/yeyushengfan258/Win11OS-kde</link>
+      <description>&lt;p&gt;Win11OS kde is a materia Design theme for KDE Plasma desktop.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>catsout/wallpaper-engine-kde-plugin</title>
+      <link>https://github.com/catsout/wallpaper-engine-kde-plugin</link>
+      <description>&lt;p&gt;A kde wallpaper plugin integrating wallpaper engine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

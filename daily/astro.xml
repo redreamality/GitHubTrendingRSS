@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Astro Daily Trending</title>
+    <description>Daily Trending of Astro in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:23:28 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>danielcgilibert/blog-template</title>
+      <link>https://github.com/danielcgilibert/blog-template</link>
+      <description>&lt;p&gt;📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ColorlibHQ/AdminLTE</title>
+      <link>https://github.com/ColorlibHQ/AdminLTE</link>
+      <description>&lt;p&gt;AdminLTE - Free admin dashboard template based on Bootstrap 5&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>onwidget/astrowind</title>
+      <link>https://github.com/onwidget/astrowind</link>
+      <description>&lt;p&gt;⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zeon-studio/astroplate</title>
+      <link>https://github.com/zeon-studio/astroplate</link>
+      <description>&lt;p&gt;Astroplate is a free starter template built with Astro, TailwindCSS &amp; TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>manuelernestog/astrofy</title>
+      <link>https://github.com/manuelernestog/astrofy</link>
+      <description>&lt;p&gt;Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lissy93/awesome-privacy</title>
+      <link>https://github.com/Lissy93/awesome-privacy</link>
+      <description>&lt;p&gt;🦄 A curated list of privacy &amp; security-focused software and services&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hilmanski/freeStuffDev</title>
+      <link>https://github.com/hilmanski/freeStuffDev</link>
+      <description>&lt;p&gt;list of free stuff for developer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

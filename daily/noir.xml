@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Noir Daily Trending</title>
+    <description>Daily Trending of Noir in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:29:38 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>AztecProtocol/aztec-nr</title>
+      <link>https://github.com/AztecProtocol/aztec-nr</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

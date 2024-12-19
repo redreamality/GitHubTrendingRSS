@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub F# Monthly Trending</title>
+    <description>Monthly Trending of F# in GitHub</description>
+    <pubDate>Thu, 19 Dec 2024 02:43:35 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>fsprojects/Paket</title>
+      <link>https://github.com/fsprojects/Paket</link>
+      <description>&lt;p&gt;A dependency manager for .NET with support for NuGet packages and Git repositories.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dotnet/fsharp</title>
+      <link>https://github.com/dotnet/fsharp</link>
+      <description>&lt;p&gt;The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
