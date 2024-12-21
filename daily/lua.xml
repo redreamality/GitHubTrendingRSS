@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Lua Daily Trending</title>
+    <description>Daily Trending of Lua in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:17:56 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>LuaLS/lua-language-server</title>
+      <link>https://github.com/LuaLS/lua-language-server</link>
+      <description>&lt;p&gt;A language server that offers Lua language support - programmed in Lua&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Saghen/blink.cmp</title>
+      <link>https://github.com/Saghen/blink.cmp</link>
+      <description>&lt;p&gt;Performant, batteries-included completion plugin for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stevearc/oil.nvim</title>
+      <link>https://github.com/stevearc/oil.nvim</link>
+      <description>&lt;p&gt;Neovim file explorer: edit your filesystem like a buffer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yetone/avante.nvim</title>
+      <link>https://github.com/yetone/avante.nvim</link>
+      <description>&lt;p&gt;Use your Neovim like using Cursor AI IDE!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zbirenbaum/copilot.lua</title>
+      <link>https://github.com/zbirenbaum/copilot.lua</link>
+      <description>&lt;p&gt;Fully featured &amp; enhanced replacement for copilot.vim complete with API for interacting with Github Copilot&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>akinsho/toggleterm.nvim</title>
+      <link>https://github.com/akinsho/toggleterm.nvim</link>
+      <description>&lt;p&gt;A neovim lua plugin to help easily manage multiple terminal windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koreader/koreader</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description>&lt;p&gt;An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>epwalsh/obsidian.nvim</title>
+      <link>https://github.com/epwalsh/obsidian.nvim</link>
+      <description>&lt;p&gt;Obsidian 🤝 Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>williamboman/mason-lspconfig.nvim</title>
+      <link>https://github.com/williamboman/mason-lspconfig.nvim</link>
+      <description>&lt;p&gt;Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>m4xshen/hardtime.nvim</title>
+      <link>https://github.com/m4xshen/hardtime.nvim</link>
+      <description>&lt;p&gt;Establish good command workflow and quit bad habit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/apisix</title>
+      <link>https://github.com/apache/apisix</link>
+      <description>&lt;p&gt;The Cloud-Native API Gateway&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mfussenegger/nvim-lint</title>
+      <link>https://github.com/mfussenegger/nvim-lint</link>
+      <description>&lt;p&gt;An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stevearc/conform.nvim</title>
+      <link>https://github.com/stevearc/conform.nvim</link>
+      <description>&lt;p&gt;Lightweight yet powerful formatter plugin for Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mintimate/oh-my-rime</title>
+      <link>https://github.com/Mintimate/oh-my-rime</link>
+      <description>&lt;p&gt;The Simple Config Template Of Rime By Mintimate. QQ Chat-Group: 703260572&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xmake-io/xmake</title>
+      <link>https://github.com/xmake-io/xmake</link>
+      <description>&lt;p&gt;🔥 A cross-platform build utility based on Lua&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-lua/kickstart.nvim</title>
+      <link>https://github.com/nvim-lua/kickstart.nvim</link>
+      <description>&lt;p&gt;A launch point for your personal nvim configuration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>L3MON4D3/LuaSnip</title>
+      <link>https://github.com/L3MON4D3/LuaSnip</link>
+      <description>&lt;p&gt;Snippet Engine for Neovim written in Lua.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvimtools/none-ls.nvim</title>
+      <link>https://github.com/nvimtools/none-ls.nvim</link>
+      <description>&lt;p&gt;null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rcarriga/nvim-dap-ui</title>
+      <link>https://github.com/rcarriga/nvim-dap-ui</link>
+      <description>&lt;p&gt;A UI for nvim-dap&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opentibiabr/canary</title>
+      <link>https://github.com/opentibiabr/canary</link>
+      <description>&lt;p&gt;Canary Server 13.x for OpenTibia community.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

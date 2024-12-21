@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Weekly Trending</title>
+    <description>Weekly Trending of Rust in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:32:04 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tursodatabase/limbo</title>
+      <link>https://github.com/tursodatabase/limbo</link>
+      <description>&lt;p&gt;Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0xPlaygrounds/rig</title>
+      <link>https://github.com/0xPlaygrounds/rig</link>
+      <description>&lt;p&gt;⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DioxusLabs/dioxus</title>
+      <link>https://github.com/DioxusLabs/dioxus</link>
+      <description>&lt;p&gt;Fullstack app framework for web, desktop, mobile, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hyperium/hyper</title>
+      <link>https://github.com/hyperium/hyper</link>
+      <description>&lt;p&gt;An HTTP library for Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jj-vcs/jj</title>
+      <link>https://github.com/jj-vcs/jj</link>
+      <description>&lt;p&gt;A Git-compatible VCS that is both simple and powerful&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ankitects/anki</title>
+      <link>https://github.com/ankitects/anki</link>
+      <description>&lt;p&gt;Anki&#39;s shared backend and web components, and the Qt frontend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/windows-rs</title>
+      <link>https://github.com/microsoft/windows-rs</link>
+      <description>&lt;p&gt;Rust for Windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FuelLabs/fuel-core</title>
+      <link>https://github.com/FuelLabs/fuel-core</link>
+      <description>&lt;p&gt;Rust full node implementation of the Fuel v2 protocol.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>influxdata/influxdb</title>
+      <link>https://github.com/influxdata/influxdb</link>
+      <description>&lt;p&gt;Scalable datastore for metrics, events, and real-time analytics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>helix-editor/helix</title>
+      <link>https://github.com/helix-editor/helix</link>
+      <description>&lt;p&gt;A post-modern modal text editor.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FuelLabs/sway</title>
+      <link>https://github.com/FuelLabs/sway</link>
+      <description>&lt;p&gt;🌴 Empowering everyone to build reliable and efficient smart contracts.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fish-shell/fish-shell</title>
+      <link>https://github.com/fish-shell/fish-shell</link>
+      <description>&lt;p&gt;The user-friendly command line shell.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MystenLabs/sui</title>
+      <link>https://github.com/MystenLabs/sui</link>
+      <description>&lt;p&gt;Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woodruffw/zizmor</title>
+      <link>https://github.com/woodruffw/zizmor</link>
+      <description>&lt;p&gt;A static analysis tool for GitHub Actions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neondatabase/neon</title>
+      <link>https://github.com/neondatabase/neon</link>
+      <description>&lt;p&gt;Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>web-infra-dev/rspack</title>
+      <link>https://github.com/web-infra-dev/rspack</link>
+      <description>&lt;p&gt;The fast Rust-based web bundler with webpack-compatible API 🦀️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>libp2p/rust-libp2p</title>
+      <link>https://github.com/libp2p/rust-libp2p</link>
+      <description>&lt;p&gt;The Rust Implementation of the libp2p networking stack.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GyulyVGC/sniffnet</title>
+      <link>https://github.com/GyulyVGC/sniffnet</link>
+      <description>&lt;p&gt;Comfortably monitor your Internet traffic 🕵️‍♂️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>starship/starship</title>
+      <link>https://github.com/starship/starship</link>
+      <description>&lt;p&gt;☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>elkowar/eww</title>
+      <link>https://github.com/elkowar/eww</link>
+      <description>&lt;p&gt;ElKowars wacky widgets&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mainmatter/100-exercises-to-learn-rust</title>
+      <link>https://github.com/mainmatter/100-exercises-to-learn-rust</link>
+      <description>&lt;p&gt;A self-paced course to learn Rust, one exercise at a time.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

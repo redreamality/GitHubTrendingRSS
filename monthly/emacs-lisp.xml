@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Monthly Trending</title>
+    <description>Monthly Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:35:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>melpa/melpa</title>
+      <link>https://github.com/melpa/melpa</link>
+      <description>&lt;p&gt;Recipes and build machinery for the biggest Emacs package repo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>org-roam/org-roam</title>
+      <link>https://github.com/org-roam/org-roam</link>
+      <description>&lt;p&gt;Rudimentary Roam replica with Org-mode&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dominikh/go-mode.el</title>
+      <link>https://github.com/dominikh/go-mode.el</link>
+      <description>&lt;p&gt;Emacs mode for the Go programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>&lt;p&gt;Emacs client/library for the Language Server Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>akermu/emacs-libvterm</title>
+      <link>https://github.com/akermu/emacs-libvterm</link>
+      <description>&lt;p&gt;Emacs libvterm integration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>purcell/emacs-reformatter</title>
+      <link>https://github.com/purcell/emacs-reformatter</link>
+      <description>&lt;p&gt;Define commands which run reformatters on the current Emacs buffer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>doomemacs/themes</title>
+      <link>https://github.com/doomemacs/themes</link>
+      <description>&lt;p&gt;A megapack of themes for GNU Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-ui</title>
+      <link>https://github.com/emacs-lsp/lsp-ui</link>
+      <description>&lt;p&gt;UI integrations for lsp-mode&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nix-mode</title>
+      <link>https://github.com/NixOS/nix-mode</link>
+      <description>&lt;p&gt;An Emacs major mode for editing Nix expressions.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rainstormstudio/nerd-icons.el</title>
+      <link>https://github.com/rainstormstudio/nerd-icons.el</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>domtronn/all-the-icons.el</title>
+      <link>https://github.com/domtronn/all-the-icons.el</link>
+      <description>&lt;p&gt;A utility package to collect various Icon Fonts and propertize them within Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

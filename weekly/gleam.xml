@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Gleam Weekly Trending</title>
+    <description>Weekly Trending of Gleam in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:25:52 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>gleam-wisp/wisp</title>
+      <link>https://github.com/gleam-wisp/wisp</link>
+      <description>&lt;p&gt;🧚 A practical web framework for Gleam&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>giacomocavalieri/squirrel</title>
+      <link>https://github.com/giacomocavalieri/squirrel</link>
+      <description>&lt;p&gt;🐿️ Type safe SQL in Gleam&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

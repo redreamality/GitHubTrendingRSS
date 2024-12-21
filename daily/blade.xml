@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Blade Daily Trending</title>
+    <description>Daily Trending of Blade in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:14:37 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>filamentphp/filamentphp.com</title>
+      <link>https://github.com/filamentphp/filamentphp.com</link>
+      <description>&lt;p&gt;Source code for the filamentphp.com website.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prajwal100/Complete-Ecommerce-in-laravel-10</title>
+      <link>https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10</link>
+      <description>&lt;p&gt;Complete e-commerce website in laravel 10. Admin login:- https://ketramart.com/admin/login&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>livewire/flux</title>
+      <link>https://github.com/livewire/flux</link>
+      <description>&lt;p&gt;The official Livewire UI component library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

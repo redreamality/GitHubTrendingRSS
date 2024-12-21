@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Kotlin Daily Trending</title>
+    <description>Daily Trending of Kotlin in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:17:42 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>android/nowinandroid</title>
+      <link>https://github.com/android/nowinandroid</link>
+      <description>&lt;p&gt;A fully functional Android app built entirely with Kotlin and Jetpack Compose&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>square/okhttp</title>
+      <link>https://github.com/square/okhttp</link>
+      <description>&lt;p&gt;Square’s meticulous HTTP client for the JVM, Android, and GraalVM.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>home-assistant/android</title>
+      <link>https://github.com/home-assistant/android</link>
+      <description>&lt;p&gt;📱 Home Assistant Companion for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>z-huang/InnerTune</title>
+      <link>https://github.com/z-huang/InnerTune</link>
+      <description>&lt;p&gt;A Material 3 YouTube Music client for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DD3Boh/OuterTune</title>
+      <link>https://github.com/DD3Boh/OuterTune</link>
+      <description>&lt;p&gt;A Material 3 Music Player with YouTube Music support for Android. Forked from InnerTune&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JetBrains/compose-multiplatform</title>
+      <link>https://github.com/JetBrains/compose-multiplatform</link>
+      <description>&lt;p&gt;Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simplex-chat/simplex-chat</title>
+      <link>https://github.com/simplex-chat/simplex-chat</link>
+      <description>&lt;p&gt;SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>KotatsuApp/Kotatsu</title>
+      <link>https://github.com/KotatsuApp/Kotatsu</link>
+      <description>&lt;p&gt;Manga reader for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>anilbeesetti/nextplayer</title>
+      <link>https://github.com/anilbeesetti/nextplayer</link>
+      <description>&lt;p&gt;An Android native video player&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>futo-org/grayjay-android</title>
+      <link>https://github.com/futo-org/grayjay-android</link>
+      <description>&lt;p&gt;Read-only mirror of Grayjay repo for issue tracking&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JetBrains/kotlin</title>
+      <link>https://github.com/JetBrains/kotlin</link>
+      <description>&lt;p&gt;The Kotlin Programming Language.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kizitonwose/Calendar</title>
+      <link>https://github.com/kizitonwose/Calendar</link>
+      <description>&lt;p&gt;A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AkaneTan/Gramophone</title>
+      <link>https://github.com/AkaneTan/Gramophone</link>
+      <description>&lt;p&gt;A sane music player built with media3 and material design library that is following android&#39;s standard strictly.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>javalin/javalin</title>
+      <link>https://github.com/javalin/javalin</link>
+      <description>&lt;p&gt;A simple and modern Java and Kotlin web framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kotlin/kotlinx.coroutines</title>
+      <link>https://github.com/Kotlin/kotlinx.coroutines</link>
+      <description>&lt;p&gt;Library support for Kotlin coroutines&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JetBrains/ideavim</title>
+      <link>https://github.com/JetBrains/ideavim</link>
+      <description>&lt;p&gt;IdeaVim – A Vim engine for JetBrains IDEs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JetBrains/Exposed</title>
+      <link>https://github.com/JetBrains/Exposed</link>
+      <description>&lt;p&gt;Kotlin SQL Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GradleUp/shadow</title>
+      <link>https://github.com/GradleUp/shadow</link>
+      <description>&lt;p&gt;Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bannedbook/fanqiang</title>
+      <link>https://github.com/bannedbook/fanqiang</link>
+      <description>&lt;p&gt;翻墙-科学上网&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PowerShell Daily Trending</title>
+    <description>Daily Trending of PowerShell in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:21:35 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cisagov/ScubaGear</title>
+      <link>https://github.com/cisagov/ScubaGear</link>
+      <description>&lt;p&gt;Automation to assess the state of your M365 tenant against CISA&#39;s baselines&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>actions/runner-images</title>
+      <link>https://github.com/actions/runner-images</link>
+      <description>&lt;p&gt;GitHub Actions runner images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>andrew-s-taylor/public</title>
+      <link>https://github.com/andrew-s-taylor/public</link>
+      <description>&lt;p&gt;Public Scripts and Apps&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/winget-pkgs</title>
+      <link>https://github.com/microsoft/winget-pkgs</link>
+      <description>&lt;p&gt;The Microsoft community Windows Package Manager manifest repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PowerShellMafia/PowerSploit</title>
+      <link>https://github.com/PowerShellMafia/PowerSploit</link>
+      <description>&lt;p&gt;PowerSploit - A PowerShell Post-Exploitation Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ScoopInstaller/Scoop</title>
+      <link>https://github.com/ScoopInstaller/Scoop</link>
+      <description>&lt;p&gt;A command-line installer for Windows.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Micke-K/IntuneManagement</title>
+      <link>https://github.com/Micke-K/IntuneManagement</link>
+      <description>&lt;p&gt;Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CrowdStrike/psfalcon</title>
+      <link>https://github.com/CrowdStrike/psfalcon</link>
+      <description>&lt;p&gt;PowerShell for CrowdStrike&#39;s OAuth2 APIs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dotnet/core</title>
+      <link>https://github.com/dotnet/core</link>
+      <description>&lt;p&gt;.NET news, announcements, release notes, and more!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ansible-collections/ansible.windows</title>
+      <link>https://github.com/ansible-collections/ansible.windows</link>
+      <description>&lt;p&gt;Windows core collection for Ansible&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ItzLevvie/MicrosoftTeams-msinternal</title>
+      <link>https://github.com/ItzLevvie/MicrosoftTeams-msinternal</link>
+      <description>&lt;p&gt;This project was created from PowerShell which allows people to download the latest internal build of Microsoft Teams.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LeDragoX/Win-Debloat-Tools</title>
+      <link>https://github.com/LeDragoX/Win-Debloat-Tools</link>
+      <description>&lt;p&gt;Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ScoopInstaller/Extras</title>
+      <link>https://github.com/ScoopInstaller/Extras</link>
+      <description>&lt;p&gt;📦 The Extras bucket for Scoop.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2</title>
+      <link>https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2</link>
+      <description>&lt;p&gt;An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>EmpireProject/Empire</title>
+      <link>https://github.com/EmpireProject/Empire</link>
+      <description>&lt;p&gt;Empire is a PowerShell and Python post-exploitation agent.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/ARI</title>
+      <link>https://github.com/microsoft/ARI</link>
+      <description>&lt;p&gt;Azure Resource Inventory - It&#39;s a Powerful tool to create EXCEL inventory from Azure Resources with low effort&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

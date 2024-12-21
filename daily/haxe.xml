@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haxe Daily Trending</title>
+    <description>Daily Trending of Haxe in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:16:49 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>HaxeFoundation/haxe</title>
+      <link>https://github.com/HaxeFoundation/haxe</link>
+      <description>&lt;p&gt;Haxe - The Cross-Platform Toolkit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ShadowMario/FNF-PsychEngine</title>
+      <link>https://github.com/ShadowMario/FNF-PsychEngine</link>
+      <description>&lt;p&gt;Engine originally used on Mind Games mod&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HaxeFlixel/flixel</title>
+      <link>https://github.com/HaxeFlixel/flixel</link>
+      <description>&lt;p&gt;Free, cross-platform 2D game engine powered by Haxe and OpenFL&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

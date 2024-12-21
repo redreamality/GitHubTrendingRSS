@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Daily Trending</title>
+    <description>Daily Trending of CSS in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:15:32 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>animate-css/animate.css</title>
+      <link>https://github.com/animate-css/animate.css</link>
+      <description>&lt;p&gt;🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lowlighter/matcha</title>
+      <link>https://github.com/lowlighter/matcha</link>
+      <description>&lt;p&gt;🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kepano/flexoki</title>
+      <link>https://github.com/kepano/flexoki</link>
+      <description>&lt;p&gt;An inky color scheme for prose and code.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>adobe-fonts/source-code-pro</title>
+      <link>https://github.com/adobe-fonts/source-code-pro</link>
+      <description>&lt;p&gt;Monospaced font family for user interface and coding environments&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bradtraversy/50projects50days</title>
+      <link>https://github.com/bradtraversy/50projects50days</link>
+      <description>&lt;p&gt;50+ mini web projects using HTML, CSS &amp; JS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anonym-tsk/nfqws-keenetic</title>
+      <link>https://github.com/Anonym-tsk/nfqws-keenetic</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>McShelby/hugo-theme-relearn</title>
+      <link>https://github.com/McShelby/hugo-theme-relearn</link>
+      <description>&lt;p&gt;A theme for Hugo designed for documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>moveit/moveit2_tutorials</title>
+      <link>https://github.com/moveit/moveit2_tutorials</link>
+      <description>&lt;p&gt;A sphinx-based centralized documentation repo for MoveIt 2&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cssnano/cssnano</title>
+      <link>https://github.com/cssnano/cssnano</link>
+      <description>&lt;p&gt;A modular minifier, built on top of the PostCSS ecosystem.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>csstools/postcss-plugins</title>
+      <link>https://github.com/csstools/postcss-plugins</link>
+      <description>&lt;p&gt;PostCSS Tools and Plugins&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>msys2/msys2.github.io</title>
+      <link>https://github.com/msys2/msys2.github.io</link>
+      <description>&lt;p&gt;The MSYS2 homepage&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lipis/flag-icons</title>
+      <link>https://github.com/lipis/flag-icons</link>
+      <description>&lt;p&gt;🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>thewhiteh4t/seeker</title>
+      <link>https://github.com/thewhiteh4t/seeker</link>
+      <description>&lt;p&gt;Accurately Locate Smartphones using Social Engineering&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

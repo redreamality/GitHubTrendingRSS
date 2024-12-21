@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Swift Weekly Trending</title>
+    <description>Weekly Trending of Swift in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:32:37 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/CopilotForXcode</title>
+      <link>https://github.com/github/CopilotForXcode</link>
+      <description>&lt;p&gt;Xcode extension for GitHub Copilot&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stripe/stripe-ios</title>
+      <link>https://github.com/stripe/stripe-ios</link>
+      <description>&lt;p&gt;Stripe iOS SDK&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>whoeevee/EeveeSpotify</title>
+      <link>https://github.com/whoeevee/EeveeSpotify</link>
+      <description>&lt;p&gt;A tweak to get Spotify Premium for free, just like Spotilife&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SnapKit/SnapKit</title>
+      <link>https://github.com/SnapKit/SnapKit</link>
+      <description>&lt;p&gt;A Swift Autolayout DSL for iOS &amp; OS X&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>airbnb/lottie-ios</title>
+      <link>https://github.com/airbnb/lottie-ios</link>
+      <description>&lt;p&gt;An iOS library to natively render After Effects vector animations&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>onevcat/Kingfisher</title>
+      <link>https://github.com/onevcat/Kingfisher</link>
+      <description>&lt;p&gt;A lightweight, pure-Swift library for downloading and caching images from the web.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pointfreeco/swift-composable-architecture</title>
+      <link>https://github.com/pointfreeco/swift-composable-architecture</link>
+      <description>&lt;p&gt;A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-collections</title>
+      <link>https://github.com/apple/swift-collections</link>
+      <description>&lt;p&gt;Commonly used data structures for Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ReactiveX/RxSwift</title>
+      <link>https://github.com/ReactiveX/RxSwift</link>
+      <description>&lt;p&gt;Reactive Programming in Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yonaskolb/XcodeGen</title>
+      <link>https://github.com/yonaskolb/XcodeGen</link>
+      <description>&lt;p&gt;A Swift command line tool for generating your Xcode project&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vapor/vapor</title>
+      <link>https://github.com/vapor/vapor</link>
+      <description>&lt;p&gt;💧 A server-side Swift HTTP web framework.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>groue/GRDB.swift</title>
+      <link>https://github.com/groue/GRDB.swift</link>
+      <description>&lt;p&gt;A toolkit for SQLite databases, with a focus on application development&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TelegramMessenger/Telegram-iOS</title>
+      <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
+      <description>&lt;p&gt;Telegram-iOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuist/tuist</title>
+      <link>https://github.com/tuist/tuist</link>
+      <description>&lt;p&gt;Tuist&#39;s CLI&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>realm/SwiftLint</title>
+      <link>https://github.com/realm/SwiftLint</link>
+      <description>&lt;p&gt;A tool to enforce Swift style and conventions.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SDWebImage/SDWebImageSwiftUI</title>
+      <link>https://github.com/SDWebImage/SDWebImageSwiftUI</link>
+      <description>&lt;p&gt;SwiftUI Image loading and Animation framework powered by SDWebImage&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pointfreeco/swift-dependencies</title>
+      <link>https://github.com/pointfreeco/swift-dependencies</link>
+      <description>&lt;p&gt;A dependency management library inspired by SwiftUI&#39;s &quot;environment.&quot;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SwiftyJSON/SwiftyJSON</title>
+      <link>https://github.com/SwiftyJSON/SwiftyJSON</link>
+      <description>&lt;p&gt;The better way to deal with JSON data in Swift.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MacPaw/OpenAI</title>
+      <link>https://github.com/MacPaw/OpenAI</link>
+      <description>&lt;p&gt;Swift community driven package for OpenAI public API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>peripheryapp/periphery</title>
+      <link>https://github.com/peripheryapp/periphery</link>
+      <description>&lt;p&gt;A tool to identify unused code in Swift projects.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-nio</title>
+      <link>https://github.com/apple/swift-nio</link>
+      <description>&lt;p&gt;Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

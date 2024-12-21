@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Weekly Trending</title>
+    <description>Weekly Trending of CSS in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:24:55 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>bradtraversy/50projects50days</title>
+      <link>https://github.com/bradtraversy/50projects50days</link>
+      <description>&lt;p&gt;50+ mini web projects using HTML, CSS &amp; JS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>isocpp/CppCoreGuidelines</title>
+      <link>https://github.com/isocpp/CppCoreGuidelines</link>
+      <description>&lt;p&gt;The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ryanoasis/nerd-fonts</title>
+      <link>https://github.com/ryanoasis/nerd-fonts</link>
+      <description>&lt;p&gt;Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>picocss/pico</title>
+      <link>https://github.com/picocss/pico</link>
+      <description>&lt;p&gt;Minimal CSS Framework for semantic HTML&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Akifyss/obsidian-border</title>
+      <link>https://github.com/Akifyss/obsidian-border</link>
+      <description>&lt;p&gt;A theme for obsidian.md&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nakov/Practical-Cryptography-for-Developers-Book</title>
+      <link>https://github.com/nakov/Practical-Cryptography-for-Developers-Book</link>
+      <description>&lt;p&gt;Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lipis/flag-icons</title>
+      <link>https://github.com/lipis/flag-icons</link>
+      <description>&lt;p&gt;🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/sakai-ng</title>
+      <link>https://github.com/primefaces/sakai-ng</link>
+      <description>&lt;p&gt;Free Angular Admin Template by PrimeNG&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>thewhiteh4t/seeker</title>
+      <link>https://github.com/thewhiteh4t/seeker</link>
+      <description>&lt;p&gt;Accurately Locate Smartphones using Social Engineering&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>moveit/moveit2_tutorials</title>
+      <link>https://github.com/moveit/moveit2_tutorials</link>
+      <description>&lt;p&gt;A sphinx-based centralized documentation repo for MoveIt 2&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simeydotme/pokemon-cards-css</title>
+      <link>https://github.com/simeydotme/pokemon-cards-css</link>
+      <description>&lt;p&gt;A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws-samples/amplify-next-template</title>
+      <link>https://github.com/aws-samples/amplify-next-template</link>
+      <description>&lt;p&gt;This is a Next.js starter for building a fullstack app with AWS Amplify.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imfing/hextra</title>
+      <link>https://github.com/imfing/hextra</link>
+      <description>&lt;p&gt;🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

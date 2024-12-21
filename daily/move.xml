@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Move Daily Trending</title>
+    <description>Daily Trending of Move in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:20:48 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>MystenLabs/deepbookv3</title>
+      <link>https://github.com/MystenLabs/deepbookv3</link>
+      <description>&lt;p&gt;Deepbook V3&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>move-cn/letsmove</title>
+      <link>https://github.com/move-cn/letsmove</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

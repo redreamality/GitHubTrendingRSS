@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haskell Daily Trending</title>
+    <description>Daily Trending of Haskell in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:16:49 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>&lt;p&gt;Universal markup converter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koalaman/shellcheck</title>
+      <link>https://github.com/koalaman/shellcheck</link>
+      <description>&lt;p&gt;ShellCheck, a static analysis tool for shell scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucsd-progsys/liquid-fixpoint</title>
+      <link>https://github.com/ucsd-progsys/liquid-fixpoint</link>
+      <description>&lt;p&gt;Horn Clause Constraint Solving for Liquid Types&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github/semantic</title>
+      <link>https://github.com/github/semantic</link>
+      <description>&lt;p&gt;Parsing, analyzing, and comparing source code across many languages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/cardano-ledger</title>
+      <link>https://github.com/IntersectMBO/cardano-ledger</link>
+      <description>&lt;p&gt;The ledger implementation and specifications of the Cardano blockchain.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hadolint/hadolint</title>
+      <link>https://github.com/hadolint/hadolint</link>
+      <description>&lt;p&gt;Dockerfile linter, validate inline bash, written in Haskell&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/plutus</title>
+      <link>https://github.com/IntersectMBO/plutus</link>
+      <description>&lt;p&gt;The Plutus language implementation and tools&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/cardano-node</title>
+      <link>https://github.com/IntersectMBO/cardano-node</link>
+      <description>&lt;p&gt;The core component that is used to participate in a Cardano decentralised blockchain.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PostgREST/postgrest</title>
+      <link>https://github.com/PostgREST/postgrest</link>
+      <description>&lt;p&gt;REST API for any Postgres database&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/cabal</title>
+      <link>https://github.com/haskell/cabal</link>
+      <description>&lt;p&gt;Official upstream development repository for Cabal and cabal-install&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>system-f/fp-course</title>
+      <link>https://github.com/system-f/fp-course</link>
+      <description>&lt;p&gt;Functional Programming Course&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/haskell-language-server</title>
+      <link>https://github.com/haskell/haskell-language-server</link>
+      <description>&lt;p&gt;Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ghc/ghc</title>
+      <link>https://github.com/ghc/ghc</link>
+      <description>&lt;p&gt;Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC&#39;s Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

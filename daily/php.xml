@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Daily Trending</title>
+    <description>Daily Trending of PHP in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:21:26 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>shopware/shopware</title>
+      <link>https://github.com/shopware/shopware</link>
+      <description>&lt;p&gt;Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JhumanJ/OpnForm</title>
+      <link>https://github.com/JhumanJ/OpnForm</link>
+      <description>&lt;p&gt;Beautiful Open-Source Form Builder&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vitodeploy/vito</title>
+      <link>https://github.com/vitodeploy/vito</link>
+      <description>&lt;p&gt;The Ultimate Server Management Tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MISP/MISP</title>
+      <link>https://github.com/MISP/MISP</link>
+      <description>&lt;p&gt;MISP (core software) - Open Source Threat Intelligence and Sharing Platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leokhoa/laragon</title>
+      <link>https://github.com/leokhoa/laragon</link>
+      <description>&lt;p&gt;Laragon is a portable, isolated, fast &amp; powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>statamic/cms</title>
+      <link>https://github.com/statamic/cms</link>
+      <description>&lt;p&gt;The core Laravel CMS Composer package&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woocommerce/woocommerce</title>
+      <link>https://github.com/woocommerce/woocommerce</link>
+      <description>&lt;p&gt;A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cedar2025/Xboard</title>
+      <link>https://github.com/cedar2025/Xboard</link>
+      <description>&lt;p&gt;基于V2board二次开发支持新协议新特性的高性能面板&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dolibarr/dolibarr</title>
+      <link>https://github.com/Dolibarr/dolibarr</link>
+      <description>&lt;p&gt;Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part-DB/Part-DB-server</title>
+      <link>https://github.com/Part-DB/Part-DB-server</link>
+      <description>&lt;p&gt;Part-DB is an Open source inventory management system for your electronic components&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pimcore/pimcore</title>
+      <link>https://github.com/pimcore/pimcore</link>
+      <description>&lt;p&gt;Core Framework for the Open Source Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leantime/leantime</title>
+      <link>https://github.com/Leantime/leantime</link>
+      <description>&lt;p&gt;Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>glpi-project/glpi</title>
+      <link>https://github.com/glpi-project/glpi</link>
+      <description>&lt;p&gt;GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>espocrm/espocrm</title>
+      <link>https://github.com/espocrm/espocrm</link>
+      <description>&lt;p&gt;EspoCRM – Open Source CRM Application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>symfony/symfony</title>
+      <link>https://github.com/symfony/symfony</link>
+      <description>&lt;p&gt;The Symfony PHP framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>twigphp/Twig</title>
+      <link>https://github.com/twigphp/Twig</link>
+      <description>&lt;p&gt;Twig, the flexible, fast, and secure template language for PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>librenms/librenms</title>
+      <link>https://github.com/librenms/librenms</link>
+      <description>&lt;p&gt;Community-based GPL-licensed network monitoring system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cweagans/composer-patches</title>
+      <link>https://github.com/cweagans/composer-patches</link>
+      <description>&lt;p&gt;Simple patches plugin for Composer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>filamentphp/filament</title>
+      <link>https://github.com/filamentphp/filament</link>
+      <description>&lt;p&gt;A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TYPO3/typo3</title>
+      <link>https://github.com/TYPO3/typo3</link>
+      <description>&lt;p&gt;The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https://review.typo3.org/q/project:Packages/TYPO3.CMS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>matomo-org/matomo</title>
+      <link>https://github.com/matomo-org/matomo</link>
+      <description>&lt;p&gt;Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1. And we love Pull Requests!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kanboard/kanboard</title>
+      <link>https://github.com/kanboard/kanboard</link>
+      <description>&lt;p&gt;Kanban project management software&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alextselegidis/easyappointments</title>
+      <link>https://github.com/alextselegidis/easyappointments</link>
+      <description>&lt;p&gt;📅 Easy!Appointments - Self Hosted Appointment Scheduler&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Batchfile Daily Trending</title>
+    <description>Daily Trending of Batchfile in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:14:34 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>redis-windows/redis-windows</title>
+      <link>https://github.com/redis-windows/redis-windows</link>
+      <description>&lt;p&gt;Redis 6.0.20 6.2.14 7.0.15 7.2.4 7.4.0 for Windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mon5termatt/medicat_installer</title>
+      <link>https://github.com/mon5termatt/medicat_installer</link>
+      <description>&lt;p&gt;Medicat Installer Repo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>enhorse/java-interview</title>
+      <link>https://github.com/enhorse/java-interview</link>
+      <description>&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>realpython/python-guide</title>
+      <link>https://github.com/realpython/python-guide</link>
+      <description>&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DiligentGraphics/DiligentEngine</title>
+      <link>https://github.com/DiligentGraphics/DiligentEngine</link>
+      <description>&lt;p&gt;A modern cross-platform low-level graphics library and rendering framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pal1000/mesa-dist-win</title>
+      <link>https://github.com/pal1000/mesa-dist-win</link>
+      <description>&lt;p&gt;Pre-built Mesa3D drivers for Windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CesiumGS/3d-tiles</title>
+      <link>https://github.com/CesiumGS/3d-tiles</link>
+      <description>&lt;p&gt;Specification for streaming massive heterogeneous 3D geospatial datasets 🌎&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Daily Trending</title>
+    <description>Daily Trending of TeX in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:22:47 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>riscv/riscv-isa-manual</title>
+      <link>https://github.com/riscv/riscv-isa-manual</link>
+      <description>&lt;p&gt;RISC-V Instruction Set Manual&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/language</title>
+      <link>https://github.com/dart-lang/language</link>
+      <description>&lt;p&gt;Design of the Dart language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenHUTB/neuro</title>
+      <link>https://github.com/OpenHUTB/neuro</link>
+      <description>&lt;p&gt;神经科学原理&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>harvard-edge/cs249r_book</title>
+      <link>https://github.com/harvard-edge/cs249r_book</link>
+      <description>&lt;p&gt;Introduction to Machine Learning Systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>billryan/resume</title>
+      <link>https://github.com/billryan/resume</link>
+      <description>&lt;p&gt;An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aaronwangy/Data-Science-Cheatsheet</title>
+      <link>https://github.com/aaronwangy/Data-Science-Cheatsheet</link>
+      <description>&lt;p&gt;A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tuna/thuthesis</title>
+      <link>https://github.com/tuna/thuthesis</link>
+      <description>&lt;p&gt;LaTeX Thesis Template for Tsinghua University&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pllk/cphb</title>
+      <link>https://github.com/pllk/cphb</link>
+      <description>&lt;p&gt;Competitive Programmer&#39;s Handbook&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>&lt;p&gt;Latex code for making neural networks diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheNetAdmin/zjuthesis</title>
+      <link>https://github.com/TheNetAdmin/zjuthesis</link>
+      <description>&lt;p&gt;Zhejiang University Graduation Thesis LaTeX Template&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wandmalfarbe/pandoc-latex-template</title>
+      <link>https://github.com/Wandmalfarbe/pandoc-latex-template</link>
+      <description>&lt;p&gt;A pandoc LaTeX template to convert markdown files to PDF or LaTeX.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>&lt;p&gt;VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lib-pku/libpku</title>
+      <link>https://github.com/lib-pku/libpku</link>
+      <description>&lt;p&gt;贵校课程资料民间整理&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rstudio/cheatsheets</title>
+      <link>https://github.com/rstudio/cheatsheets</link>
+      <description>&lt;p&gt;Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sanjib-sen/WebLaTex</title>
+      <link>https://github.com/sanjib-sen/WebLaTex</link>
+      <description>&lt;p&gt;A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar &amp; Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>exacity/deeplearningbook-chinese</title>
+      <link>https://github.com/exacity/deeplearningbook-chinese</link>
+      <description>&lt;p&gt;Deep Learning Book Chinese Translation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>acl-org/acl-style-files</title>
+      <link>https://github.com/acl-org/acl-style-files</link>
+      <description>&lt;p&gt;Official style files for papers submitted to venues of the Association for Computational Linguistics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vdumoulin/conv_arithmetic</title>
+      <link>https://github.com/vdumoulin/conv_arithmetic</link>
+      <description>&lt;p&gt;A technical report on convolution arithmetic in the context of deep learning&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

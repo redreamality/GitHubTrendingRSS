@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:22:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>saadeghi/daisyui</title>
+      <link>https://github.com/saadeghi/daisyui</link>
+      <description>&lt;p&gt;🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vkurko/calendar</title>
+      <link>https://github.com/vkurko/calendar</link>
+      <description>&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skeletonlabs/skeleton</title>
+      <link>https://github.com/skeletonlabs/skeleton</link>
+      <description>&lt;p&gt;An adaptive design system and component solution built around Tailwind.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hackclub/OnBoard</title>
+      <link>https://github.com/hackclub/OnBoard</link>
+      <description>&lt;p&gt;💡 Join 1,000 teenagers and make your first PCB with a $100 grant!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>snoww/loa-logs</title>
+      <link>https://github.com/snoww/loa-logs</link>
+      <description>&lt;p&gt;LOA Logs - Modern DPS Meter for Lost Ark&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huntabyte/shadcn-svelte</title>
+      <link>https://github.com/huntabyte/shadcn-svelte</link>
+      <description>&lt;p&gt;shadcn/ui, but for Svelte. ✨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NoCrypt/migu</title>
+      <link>https://github.com/NoCrypt/migu</link>
+      <description>&lt;p&gt;Stream anime torrents, real-time with no waiting for downloads&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primocms/primo</title>
+      <link>https://github.com/primocms/primo</link>
+      <description>&lt;p&gt;Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbgate/dbgate</title>
+      <link>https://github.com/dbgate/dbgate</link>
+      <description>&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>themesberg/flowbite-svelte</title>
+      <link>https://github.com/themesberg/flowbite-svelte</link>
+      <description>&lt;p&gt;Official Svelte components built for Flowbite and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pluja/whishper</title>
+      <link>https://github.com/pluja/whishper</link>
+      <description>&lt;p&gt;Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>classroomio/classroomio</title>
+      <link>https://github.com/classroomio/classroomio</link>
+      <description>&lt;p&gt;The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>marcusolsson/obsidian-projects</title>
+      <link>https://github.com/marcusolsson/obsidian-projects</link>
+      <description>&lt;p&gt;Plain text project planning in Obsidian&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Figma-Linux/figma-linux</title>
+      <link>https://github.com/Figma-Linux/figma-linux</link>
+      <description>&lt;p&gt;Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openneno/neno</title>
+      <link>https://github.com/openneno/neno</link>
+      <description>&lt;p&gt;使用svelte+tailwindcss 仿照 浮墨 写的pwa应用&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

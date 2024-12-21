@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub SCSS Daily Trending</title>
+    <description>Daily Trending of SCSS in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:22:16 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>just-the-docs/just-the-docs</title>
+      <link>https://github.com/just-the-docs/just-the-docs</link>
+      <description>&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documentation with built-in search.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>keyvanakbary/learning-notes</title>
+      <link>https://github.com/keyvanakbary/learning-notes</link>
+      <description>&lt;p&gt;Notes on books I read, talks I watch, articles I study, and papers I love&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>creativetimofficial/material-dashboard</title>
+      <link>https://github.com/creativetimofficial/material-dashboard</link>
+      <description>&lt;p&gt;Material Dashboard - Open Source Bootstrap 5 Material Design Admin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ileriayo/markdown-badges</title>
+      <link>https://github.com/Ileriayo/markdown-badges</link>
+      <description>&lt;p&gt;Badges for your personal developer branding, profile, and projects.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>selectize/selectize.js</title>
+      <link>https://github.com/selectize/selectize.js</link>
+      <description>&lt;p&gt;Selectize is the hybrid of a textbox and &lt;select&gt; box. It&#39;s jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/minima</title>
+      <link>https://github.com/jekyll/minima</link>
+      <description>&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MyEtherWallet/MyEtherWallet</title>
+      <link>https://github.com/MyEtherWallet/MyEtherWallet</link>
+      <description>&lt;p&gt;MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>thingsym/hugo-theme-techdoc</title>
+      <link>https://github.com/thingsym/hugo-theme-techdoc</link>
+      <description>&lt;p&gt;The Techdoc is a Hugo Theme for technical documentation.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>uswds/uswds</title>
+      <link>https://github.com/uswds/uswds</link>
+      <description>&lt;p&gt;The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>creativetimofficial/soft-ui-dashboard</title>
+      <link>https://github.com/creativetimofficial/soft-ui-dashboard</link>
+      <description>&lt;p&gt;Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>creativetimofficial/vue-argon-design-system</title>
+      <link>https://github.com/creativetimofficial/vue-argon-design-system</link>
+      <description>&lt;p&gt;Vue Argon Design System&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>andrewbanchich/forty-jekyll-theme</title>
+      <link>https://github.com/andrewbanchich/forty-jekyll-theme</link>
+      <description>&lt;p&gt;A Jekyll version of the &quot;Forty&quot; theme by HTML5 UP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primereact-sass-theme</title>
+      <link>https://github.com/primefaces/primereact-sass-theme</link>
+      <description>&lt;p&gt;PrimeReact Theming with SASS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dorota1997/react-frontend-dev-portfolio</title>
+      <link>https://github.com/Dorota1997/react-frontend-dev-portfolio</link>
+      <description>&lt;p&gt;Easy to adapt and deploy React portfolio inspired with solutions found at GitHub.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kodekloudhub/learning-app-ecommerce</title>
+      <link>https://github.com/kodekloudhub/learning-app-ecommerce</link>
+      <description>&lt;p&gt;A sample e-commerce learning app&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/cayman</title>
+      <link>https://github.com/pages-themes/cayman</link>
+      <description>&lt;p&gt;Cayman is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Keldos-Li/typora-latex-theme</title>
+      <link>https://github.com/Keldos-Li/typora-latex-theme</link>
+      <description>&lt;p&gt;将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

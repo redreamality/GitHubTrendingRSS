@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haskell Weekly Trending</title>
+    <description>Weekly Trending of Haskell in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:26:18 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>&lt;p&gt;Universal markup converter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hadolint/hadolint</title>
+      <link>https://github.com/hadolint/hadolint</link>
+      <description>&lt;p&gt;Dockerfile linter, validate inline bash, written in Haskell&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koalaman/shellcheck</title>
+      <link>https://github.com/koalaman/shellcheck</link>
+      <description>&lt;p&gt;ShellCheck, a static analysis tool for shell scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>crytic/echidna</title>
+      <link>https://github.com/crytic/echidna</link>
+      <description>&lt;p&gt;Ethereum smart contract fuzzer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simplex-chat/simplexmq</title>
+      <link>https://github.com/simplex-chat/simplexmq</link>
+      <description>&lt;p&gt;⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/plutus</title>
+      <link>https://github.com/IntersectMBO/plutus</link>
+      <description>&lt;p&gt;The Plutus language implementation and tools&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unisonweb/unison</title>
+      <link>https://github.com/unisonweb/unison</link>
+      <description>&lt;p&gt;A friendly programming language from the future&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/cabal</title>
+      <link>https://github.com/haskell/cabal</link>
+      <description>&lt;p&gt;Official upstream development repository for Cabal and cabal-install&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/haskell-language-server</title>
+      <link>https://github.com/haskell/haskell-language-server</link>
+      <description>&lt;p&gt;Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kmonad/kmonad</title>
+      <link>https://github.com/kmonad/kmonad</link>
+      <description>&lt;p&gt;An advanced keyboard manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>olivierverdier/zsh-git-prompt</title>
+      <link>https://github.com/olivierverdier/zsh-git-prompt</link>
+      <description>&lt;p&gt;Informative git prompt for zsh&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

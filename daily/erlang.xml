@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Erlang Daily Trending</title>
+    <description>Daily Trending of Erlang in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:16:10 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>&lt;p&gt;The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>virtan/eep</title>
+      <link>https://github.com/virtan/eep</link>
+      <description>&lt;p&gt;Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/couchdb</title>
+      <link>https://github.com/apache/couchdb</link>
+      <description>&lt;p&gt;Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ferd/recon</title>
+      <link>https://github.com/ferd/recon</link>
+      <description>&lt;p&gt;Collection of functions and scripts to debug Erlang in production.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>eproxus/meck</title>
+      <link>https://github.com/eproxus/meck</link>
+      <description>&lt;p&gt;A mocking library for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>josefs/Gradualizer</title>
+      <link>https://github.com/josefs/Gradualizer</link>
+      <description>&lt;p&gt;A Gradual type system for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>couchbase/couchdb</title>
+      <link>https://github.com/couchbase/couchdb</link>
+      <description>&lt;p&gt;CouchDB&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>erlydtl/erlydtl</title>
+      <link>https://github.com/erlydtl/erlydtl</link>
+      <description>&lt;p&gt;Django templates for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>processone/ejabberd</title>
+      <link>https://github.com/processone/ejabberd</link>
+      <description>&lt;p&gt;Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chef/chef-server</title>
+      <link>https://github.com/chef/chef-server</link>
+      <description>&lt;p&gt;Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jcomellas/getopt</title>
+      <link>https://github.com/jcomellas/getopt</link>
+      <description>&lt;p&gt;Erlang module to parse command line arguments using the GNU getopt syntax&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>uwiger/gproc</title>
+      <link>https://github.com/uwiger/gproc</link>
+      <description>&lt;p&gt;Extended process registry for Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rabbitmq/rabbitmq-delayed-message-exchange</title>
+      <link>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</link>
+      <description>&lt;p&gt;Delayed Messaging for RabbitMQ&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>benoitc/hackney</title>
+      <link>https://github.com/benoitc/hackney</link>
+      <description>&lt;p&gt;simple HTTP client in Erlang&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

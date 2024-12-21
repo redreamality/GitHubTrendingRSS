@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CMake Daily Trending</title>
+    <description>Daily Trending of CMake in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:15:21 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cpm-cmake/CPM.cmake</title>
+      <link>https://github.com/cpm-cmake/CPM.cmake</link>
+      <description>&lt;p&gt;📦 CMake&#39;s missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ROCm/rocm-cmake</title>
+      <link>https://github.com/ROCm/rocm-cmake</link>
+      <description>&lt;p&gt;CMake modules used within the ROCm libraries&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>swiftlang/swift-installer-scripts</title>
+      <link>https://github.com/swiftlang/swift-installer-scripts</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>moveit/moveit_msgs</title>
+      <link>https://github.com/moveit/moveit_msgs</link>
+      <description>&lt;p&gt;ROS messages used by MoveIt&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bilke/cmake-modules</title>
+      <link>https://github.com/bilke/cmake-modules</link>
+      <description>&lt;p&gt;Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>StableCoder/cmake-scripts</title>
+      <link>https://github.com/StableCoder/cmake-scripts</link>
+      <description>&lt;p&gt;Easy-to-add enhancements for any C/C++ CMake project. Including AFL fuzzing, code-coverage, Thread/Address/Leak/Address/Undefined sanitizer instrumentation, compilation of GLSL shaders and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ttroy50/cmake-examples</title>
+      <link>https://github.com/ttroy50/cmake-examples</link>
+      <description>&lt;p&gt;Useful CMake Examples&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

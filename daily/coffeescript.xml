@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CoffeeScript Daily Trending</title>
+    <description>Daily Trending of CoffeeScript in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:15:23 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FelisCatus/SwitchyOmega</title>
+      <link>https://github.com/FelisCatus/SwitchyOmega</link>
+      <description>&lt;p&gt;Manage and switch between multiple proxies quickly &amp; easily.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>oozcitak/xmlbuilder-js</title>
+      <link>https://github.com/oozcitak/xmlbuilder-js</link>
+      <description>&lt;p&gt;An XML builder for node.js&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>slackapi/hubot-slack</title>
+      <link>https://github.com/slackapi/hubot-slack</link>
+      <description>&lt;p&gt;Slack Developer Kit for Hubot&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>adaltas/node-csv</title>
+      <link>https://github.com/adaltas/node-csv</link>
+      <description>&lt;p&gt;Full featured CSV parser with simple api and tested against large datasets.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

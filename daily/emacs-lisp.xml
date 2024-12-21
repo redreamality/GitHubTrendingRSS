@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Daily Trending</title>
+    <description>Daily Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:16:08 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>karthink/gptel</title>
+      <link>https://github.com/karthink/gptel</link>
+      <description>&lt;p&gt;A simple LLM client for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-mirror/emacs</title>
+      <link>https://github.com/emacs-mirror/emacs</link>
+      <description>&lt;p&gt;Mirror of GNU Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>qjcg/awesome-typst</title>
+      <link>https://github.com/qjcg/awesome-typst</link>
+      <description>&lt;p&gt;Awesome Typst Links&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>millejoh/emacs-ipython-notebook</title>
+      <link>https://github.com/millejoh/emacs-ipython-notebook</link>
+      <description>&lt;p&gt;Jupyter notebook client in Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rougier/nano-emacs</title>
+      <link>https://github.com/rougier/nano-emacs</link>
+      <description>&lt;p&gt;GNU Emacs / N Λ N O - Emacs made simple&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>radian-software/straight.el</title>
+      <link>https://github.com/radian-software/straight.el</link>
+      <description>&lt;p&gt;🍀 Next-generation, purely functional package manager for the Emacs hacker.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dominikh/go-mode.el</title>
+      <link>https://github.com/dominikh/go-mode.el</link>
+      <description>&lt;p&gt;Emacs mode for the Go programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joaotavora/yasnippet</title>
+      <link>https://github.com/joaotavora/yasnippet</link>
+      <description>&lt;p&gt;A template system for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>immerrr/lua-mode</title>
+      <link>https://github.com/immerrr/lua-mode</link>
+      <description>&lt;p&gt;Emacs major mode for editing Lua&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yoshiki/yaml-mode</title>
+      <link>https://github.com/yoshiki/yaml-mode</link>
+      <description>&lt;p&gt;The emacs major mode for editing files in the YAML data serialization format.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>magit/magit</title>
+      <link>https://github.com/magit/magit</link>
+      <description>&lt;p&gt;It&#39;s Magit! A Git Porcelain inside Emacs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>&lt;p&gt;Emacs client/library for the Language Server Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

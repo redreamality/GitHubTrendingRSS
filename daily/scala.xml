@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scala Daily Trending</title>
+    <description>Daily Trending of Scala in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:22:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>apache/spark</title>
+      <link>https://github.com/apache/spark</link>
+      <description>&lt;p&gt;Apache Spark - A unified analytics engine for large-scale data processing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>twitter/the-algorithm</title>
+      <link>https://github.com/twitter/the-algorithm</link>
+      <description>&lt;p&gt;Source code for Twitter&#39;s Recommendation Algorithm&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joernio/joern</title>
+      <link>https://github.com/joernio/joern</link>
+      <description>&lt;p&gt;Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>scala/scala3</title>
+      <link>https://github.com/scala/scala3</link>
+      <description>&lt;p&gt;The Scala 3 compiler, also known as Dotty.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zio/zio</title>
+      <link>https://github.com/zio/zio</link>
+      <description>&lt;p&gt;ZIO — A type-safe, composable library for async and concurrent programming in Scala&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-korean-text/open-korean-text</title>
+      <link>https://github.com/open-korean-text/open-korean-text</link>
+      <description>&lt;p&gt;Open Korean Text Processor - An Open-source Korean Text Processor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>delta-io/delta-sharing</title>
+      <link>https://github.com/delta-io/delta-sharing</link>
+      <description>&lt;p&gt;An open protocol for secure data sharing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/incubator-gluten</title>
+      <link>https://github.com/apache/incubator-gluten</link>
+      <description>&lt;p&gt;Gluten is a middle layer responsible for offloading JVM-based SQL engines&#39; execution to native engines.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>delta-io/delta</title>
+      <link>https://github.com/delta-io/delta</link>
+      <description>&lt;p&gt;An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>playframework/playframework</title>
+      <link>https://github.com/playframework/playframework</link>
+      <description>&lt;p&gt;The Community Maintained High Velocity Web Framework For Java and Scala.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>scala/scala</title>
+      <link>https://github.com/scala/scala</link>
+      <description>&lt;p&gt;Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/chiseltest</title>
+      <link>https://github.com/ucb-bar/chiseltest</link>
+      <description>&lt;p&gt;The batteries-included testing and formal verification library for Chisel-based RTL designs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>broadinstitute/cromwell</title>
+      <link>https://github.com/broadinstitute/cromwell</link>
+      <description>&lt;p&gt;Scientific workflow engine designed for simplicity &amp; scalability. Trivially transition between one off use cases to massive scale production environments&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>akka/akka</title>
+      <link>https://github.com/akka/akka</link>
+      <description>&lt;p&gt;A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yahoo/CMAK</title>
+      <link>https://github.com/yahoo/CMAK</link>
+      <description>&lt;p&gt;CMAK is a tool for managing Apache Kafka clusters&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chipsalliance/chisel</title>
+      <link>https://github.com/chipsalliance/chisel</link>
+      <description>&lt;p&gt;Chisel: A Modern Hardware Design Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/kyuubi</title>
+      <link>https://github.com/apache/kyuubi</link>
+      <description>&lt;p&gt;Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sbt/sbt</title>
+      <link>https://github.com/sbt/sbt</link>
+      <description>&lt;p&gt;sbt, the interactive build tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gatling/gatling</title>
+      <link>https://github.com/gatling/gatling</link>
+      <description>&lt;p&gt;Modern Load Testing as Code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gitbucket/gitbucket</title>
+      <link>https://github.com/gitbucket/gitbucket</link>
+      <description>&lt;p&gt;A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aimacode/aima-scala</title>
+      <link>https://github.com/aimacode/aima-scala</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

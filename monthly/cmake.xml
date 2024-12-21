@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CMake Monthly Trending</title>
+    <description>Monthly Trending of CMake in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:34:42 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ttroy50/cmake-examples</title>
+      <link>https://github.com/ttroy50/cmake-examples</link>
+      <description>&lt;p&gt;Useful CMake Examples&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>shinchiro/mpv-winbuild-cmake</title>
+      <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+      <description>&lt;p&gt;CMake-based MinGW-w64 Cross Toolchain&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>friendlyanon/cmake-init</title>
+      <link>https://github.com/friendlyanon/cmake-init</link>
+      <description>&lt;p&gt;The missing CMake project initializer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>corrosion-rs/corrosion</title>
+      <link>https://github.com/corrosion-rs/corrosion</link>
+      <description>&lt;p&gt;Marrying Rust and CMake - Easy Rust and C/C++ Integration!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>editorconfig/editorconfig-core-test</title>
+      <link>https://github.com/editorconfig/editorconfig-core-test</link>
+      <description>&lt;p&gt;Testings for EditorConfig Core&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheRobotStudio/SO-ARM100</title>
+      <link>https://github.com/TheRobotStudio/SO-ARM100</link>
+      <description>&lt;p&gt;Standard Open Arm 100&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CogRob/catkin_grpc</title>
+      <link>https://github.com/CogRob/catkin_grpc</link>
+      <description>&lt;p&gt;Integrates gRPC into Catkin/ROS ecosystem.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ecmwf/ecbuild</title>
+      <link>https://github.com/ecmwf/ecbuild</link>
+      <description>&lt;p&gt;A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pingcap/kvproto</title>
+      <link>https://github.com/pingcap/kvproto</link>
+      <description>&lt;p&gt;Protocol buffer files for TiKV&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

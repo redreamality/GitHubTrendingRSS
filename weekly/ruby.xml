@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Weekly Trending</title>
+    <description>Weekly Trending of Ruby in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:32:02 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rails/rails</title>
+      <link>https://github.com/rails/rails</link>
+      <description>&lt;p&gt;Ruby on Rails&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>maybe-finance/maybe</title>
+      <link>https://github.com/maybe-finance/maybe</link>
+      <description>&lt;p&gt;The OS for your personal finances&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kilimchoi/engineering-blogs</title>
+      <link>https://github.com/kilimchoi/engineering-blogs</link>
+      <description>&lt;p&gt;A curated list of engineering blogs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Freika/dawarich</title>
+      <link>https://github.com/Freika/dawarich</link>
+      <description>&lt;p&gt;Self-hosted alternative to Google Location History (Google Maps Timeline)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruby/debug</title>
+      <link>https://github.com/ruby/debug</link>
+      <description>&lt;p&gt;Debugging functionality for Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopify/liquid</title>
+      <link>https://github.com/Shopify/liquid</link>
+      <description>&lt;p&gt;Liquid markup language. Safe, customer facing template language for flexible web apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github-linguist/linguist</title>
+      <link>https://github.com/github-linguist/linguist</link>
+      <description>&lt;p&gt;Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/jekyll</title>
+      <link>https://github.com/jekyll/jekyll</link>
+      <description>&lt;p&gt;🌐 Jekyll is a blog-aware static site generator in Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheOdinProject/theodinproject</title>
+      <link>https://github.com/TheOdinProject/theodinproject</link>
+      <description>&lt;p&gt;Main Website for The Odin Project&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zammad/zammad</title>
+      <link>https://github.com/zammad/zammad</link>
+      <description>&lt;p&gt;Zammad is a web based open source helpdesk/customer support system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>spree/spree</title>
+      <link>https://github.com/spree/spree</link>
+      <description>&lt;p&gt;An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hotwired/turbo-rails</title>
+      <link>https://github.com/hotwired/turbo-rails</link>
+      <description>&lt;p&gt;Use Turbo in your Ruby on Rails app&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>solidusio/solidus</title>
+      <link>https://github.com/solidusio/solidus</link>
+      <description>&lt;p&gt;🛒 Solidus, the open-source eCommerce framework for industry trailblazers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>heartcombo/devise</title>
+      <link>https://github.com/heartcombo/devise</link>
+      <description>&lt;p&gt;Flexible authentication solution for Rails with Warden.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github/choosealicense.com</title>
+      <link>https://github.com/github/choosealicense.com</link>
+      <description>&lt;p&gt;A site to provide non-judgmental guidance on choosing a license for your open source project&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>&lt;p&gt;🤖 Dependabot&#39;s core logic for creating update PRs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chef/chef</title>
+      <link>https://github.com/chef/chef</link>
+      <description>&lt;p&gt;Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hashicorp/vagrant</title>
+      <link>https://github.com/hashicorp/vagrant</link>
+      <description>&lt;p&gt;Vagrant is a tool for building and distributing development environments.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rubocop/rubocop</title>
+      <link>https://github.com/rubocop/rubocop</link>
+      <description>&lt;p&gt;A Ruby static code analyzer and formatter, based on the community Ruby style guide.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>teamcapybara/capybara</title>
+      <link>https://github.com/teamcapybara/capybara</link>
+      <description>&lt;p&gt;Acceptance test framework for web applications&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/homebrew-cask</title>
+      <link>https://github.com/Homebrew/homebrew-cask</link>
+      <description>&lt;p&gt;🍻 A CLI workflow for the administration of macOS applications distributed as binaries&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>getsentry/sentry-ruby</title>
+      <link>https://github.com/getsentry/sentry-ruby</link>
+      <description>&lt;p&gt;Sentry SDK for Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>instructure/canvas-lms</title>
+      <link>https://github.com/instructure/canvas-lms</link>
+      <description>&lt;p&gt;The open LMS by Instructure, Inc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

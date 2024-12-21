@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Pug Daily Trending</title>
+    <description>Daily Trending of Pug in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:21:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>StartBootstrap/startbootstrap-landing-page</title>
+      <link>https://github.com/StartBootstrap/startbootstrap-landing-page</link>
+      <description>&lt;p&gt;A responsive, Bootstrap landing page template created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure/actions-workflow-samples</title>
+      <link>https://github.com/Azure/actions-workflow-samples</link>
+      <description>&lt;p&gt;Help developers to easily get started with GitHub Action workflows to deploy to Azure&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

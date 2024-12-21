@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Daily Trending</title>
+    <description>Daily Trending of Rust in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:22:12 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>meilisearch/meilisearch</title>
+      <link>https://github.com/meilisearch/meilisearch</link>
+      <description>&lt;p&gt;A lightning-fast search API that fits effortlessly into your apps, websites, and workflow&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>biomejs/biome</title>
+      <link>https://github.com/biomejs/biome</link>
+      <description>&lt;p&gt;A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fish-shell/fish-shell</title>
+      <link>https://github.com/fish-shell/fish-shell</link>
+      <description>&lt;p&gt;The user-friendly command line shell.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GreptimeTeam/greptimedb</title>
+      <link>https://github.com/GreptimeTeam/greptimedb</link>
+      <description>&lt;p&gt;An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>web-infra-dev/rspack</title>
+      <link>https://github.com/web-infra-dev/rspack</link>
+      <description>&lt;p&gt;The fast Rust-based web bundler with webpack-compatible API 🦀️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mainmatter/100-exercises-to-learn-rust</title>
+      <link>https://github.com/mainmatter/100-exercises-to-learn-rust</link>
+      <description>&lt;p&gt;A self-paced course to learn Rust, one exercise at a time.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rerun-io/rerun</title>
+      <link>https://github.com/rerun-io/rerun</link>
+      <description>&lt;p&gt;Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TabbyML/tabby</title>
+      <link>https://github.com/TabbyML/tabby</link>
+      <description>&lt;p&gt;Self-hosted AI coding assistant&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bevyengine/bevy</title>
+      <link>https://github.com/bevyengine/bevy</link>
+      <description>&lt;p&gt;A refreshingly simple data-driven game engine built in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tokio-rs/axum</title>
+      <link>https://github.com/tokio-rs/axum</link>
+      <description>&lt;p&gt;Ergonomic and modular web framework built with Tokio, Tower, and Hyper&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>embassy-rs/embassy</title>
+      <link>https://github.com/embassy-rs/embassy</link>
+      <description>&lt;p&gt;Modern embedded framework, using Rust and async.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/datafusion</title>
+      <link>https://github.com/apache/datafusion</link>
+      <description>&lt;p&gt;Apache DataFusion SQL Query Engine&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pola-rs/polars</title>
+      <link>https://github.com/pola-rs/polars</link>
+      <description>&lt;p&gt;Dataframes powered by a multithreaded, vectorized query engine, written in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>influxdata/influxdb</title>
+      <link>https://github.com/influxdata/influxdb</link>
+      <description>&lt;p&gt;Scalable datastore for metrics, events, and real-time analytics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neondatabase/neon</title>
+      <link>https://github.com/neondatabase/neon</link>
+      <description>&lt;p&gt;Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MystenLabs/sui</title>
+      <link>https://github.com/MystenLabs/sui</link>
+      <description>&lt;p&gt;Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/mdBook</title>
+      <link>https://github.com/rust-lang/mdBook</link>
+      <description>&lt;p&gt;Create book from markdown files. Like Gitbook but implemented in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lancedb/lance</title>
+      <link>https://github.com/lancedb/lance</link>
+      <description>&lt;p&gt;Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>anoma/namada</title>
+      <link>https://github.com/anoma/namada</link>
+      <description>&lt;p&gt;Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>huggingface/text-embeddings-inference</title>
+      <link>https://github.com/huggingface/text-embeddings-inference</link>
+      <description>&lt;p&gt;A blazing fast inference solution for text embeddings models&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tree-sitter/tree-sitter</title>
+      <link>https://github.com/tree-sitter/tree-sitter</link>
+      <description>&lt;p&gt;An incremental parsing system for programming tools&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cloudflare/pingora</title>
+      <link>https://github.com/cloudflare/pingora</link>
+      <description>&lt;p&gt;A library for building fast, reliable and evolvable network services.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

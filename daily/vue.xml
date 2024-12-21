@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vue Daily Trending</title>
+    <description>Daily Trending of Vue in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:23:12 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>luckjiawei/frpc-desktop</title>
+      <link>https://github.com/luckjiawei/frpc-desktop</link>
+      <description>&lt;p&gt;frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unovue/shadcn-vue</title>
+      <link>https://github.com/unovue/shadcn-vue</link>
+      <description>&lt;p&gt;Vue port of shadcn-ui&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vbenjs/vue-vben-admin</title>
+      <link>https://github.com/vbenjs/vue-vben-admin</link>
+      <description>&lt;p&gt;A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>frappe/crm</title>
+      <link>https://github.com/frappe/crm</link>
+      <description>&lt;p&gt;Fully featured, open source CRM&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kailong321200875/vue-element-plus-admin</title>
+      <link>https://github.com/kailong321200875/vue-element-plus-admin</link>
+      <description>&lt;p&gt;A backend management system based on vue3, typescript, element-plus, and vite&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Akryum/vue-virtual-scroller</title>
+      <link>https://github.com/Akryum/vue-virtual-scroller</link>
+      <description>&lt;p&gt;⚡️ Blazing fast scrolling for any amount of data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primevue</title>
+      <link>https://github.com/primefaces/primevue</link>
+      <description>&lt;p&gt;Next Generation Vue UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tiny-craft/tiny-rdm</title>
+      <link>https://github.com/tiny-craft/tiny-rdm</link>
+      <description>&lt;p&gt;Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HalseySpicy/Geeker-Admin</title>
+      <link>https://github.com/HalseySpicy/Geeker-Admin</link>
+      <description>&lt;p&gt;✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unovue/radix-vue</title>
+      <link>https://github.com/unovue/radix-vue</link>
+      <description>&lt;p&gt;Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jd-opensource/nutui</title>
+      <link>https://github.com/jd-opensource/nutui</link>
+      <description>&lt;p&gt;京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LOG1997/log-lottery</title>
+      <link>https://github.com/LOG1997/log-lottery</link>
+      <description>&lt;p&gt;🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zhontai/Admin.Core</title>
+      <link>https://github.com/zhontai/Admin.Core</link>
+      <description>&lt;p&gt;中台Admin基于 .Net9 和 Vue3 + Element Plus、uniapp + uviewui 开发的前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vueComponent/ant-design-vue</title>
+      <link>https://github.com/vueComponent/ant-design-vue</link>
+      <description>&lt;p&gt;🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bluexsx/box-im</title>
+      <link>https://github.com/bluexsx/box-im</link>
+      <description>&lt;p&gt;盒子IM是一个仿微信的聊天工具。后端采用springboot+netty实现，web端使用vue，移动端使用uniapp，支持私聊、群聊、离线消息、发送图片、文件、语音、emoji表情、视频聊天等功能。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lissy93/dashy</title>
+      <link>https://github.com/Lissy93/dashy</link>
+      <description>&lt;p&gt;🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yin-Hongwei/music-website</title>
+      <link>https://github.com/Yin-Hongwei/music-website</link>
+      <description>&lt;p&gt;🎧 Vue + SpringBoot + MyBatis 音乐网站&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ElemeFE/element</title>
+      <link>https://github.com/ElemeFE/element</link>
+      <description>&lt;p&gt;A Vue.js 2.0 UI Toolkit for Web&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

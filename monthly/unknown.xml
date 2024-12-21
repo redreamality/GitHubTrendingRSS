@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Monthly Trending</title>
+    <description>Monthly Trending of Unknown languages in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:33:39 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://github.com/ruanyf/weekly</link>
+      <description>&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>skills/introduction-to-github</title>
+      <link>https://github.com/skills/introduction-to-github</link>
+      <description>&lt;p&gt;Get started using GitHub in less than an hour.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ByteByteGoHq/system-design-101</title>
+      <link>https://github.com/ByteByteGoHq/system-design-101</link>
+      <description>&lt;p&gt;Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sdmg15/Best-websites-a-programmer-should-visit</title>
+      <link>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
+      <description>&lt;p&gt;🔗 Some useful websites for programmers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mtdvio/every-programmer-should-know</title>
+      <link>https://github.com/mtdvio/every-programmer-should-know</link>
+      <description>&lt;p&gt;A collection of (mostly) technical things every software developer should know about&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0x90n/InfoSec-Black-Friday</title>
+      <link>https://github.com/0x90n/InfoSec-Black-Friday</link>
+      <description>&lt;p&gt;All the deals for InfoSec related software/tools this Black Friday&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0voice/expert_readed_books</title>
+      <link>https://github.com/0voice/expert_readed_books</link>
+      <description>&lt;p&gt;2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CVEProject/cvelistV5</title>
+      <link>https://github.com/CVEProject/cvelistV5</link>
+      <description>&lt;p&gt;CVE cache of the official CVE List in CVE JSON 5 format&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>trungdq88/Awesome-Black-Friday-Cyber-Monday</title>
+      <link>https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday</link>
+      <description>&lt;p&gt;Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ngosang/trackerslist</title>
+      <link>https://github.com/ngosang/trackerslist</link>
+      <description>&lt;p&gt;Updated list of public BitTorrent trackers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>n8n-io/self-hosted-ai-starter-kit</title>
+      <link>https://github.com/n8n-io/self-hosted-ai-starter-kit</link>
+      <description>&lt;p&gt;The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github/gitignore</title>
+      <link>https://github.com/github/gitignore</link>
+      <description>&lt;p&gt;A collection of useful .gitignore templates&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>justjavac/free-programming-books-zh_CN</title>
+      <link>https://github.com/justjavac/free-programming-books-zh_CN</link>
+      <description>&lt;p&gt;📚 免费的计算机编程类中文书籍，欢迎投稿&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>elevenlabs/elevenlabs-examples</title>
+      <link>https://github.com/elevenlabs/elevenlabs-examples</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PatrickJS/awesome-cursorrules</title>
+      <link>https://github.com/PatrickJS/awesome-cursorrules</link>
+      <description>&lt;p&gt;📄 A curated list of awesome .cursorrules files&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jwasham/coding-interview-university</title>
+      <link>https://github.com/jwasham/coding-interview-university</link>
+      <description>&lt;p&gt;A complete computer science study plan to become a software engineer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>milanm/DevOps-Roadmap</title>
+      <link>https://github.com/milanm/DevOps-Roadmap</link>
+      <description>&lt;p&gt;DevOps Roadmap for 2024. with learning resources&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>binhnguyennus/awesome-scalability</title>
+      <link>https://github.com/binhnguyennus/awesome-scalability</link>
+      <description>&lt;p&gt;The Patterns of Scalable, Reliable, and Performant Large-Scale Systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

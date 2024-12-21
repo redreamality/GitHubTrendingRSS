@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smalltalk Daily Trending</title>
+    <description>Daily Trending of Smalltalk in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:22:23 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pharo-contributions/OSSubprocess</title>
+      <link>https://github.com/pharo-contributions/OSSubprocess</link>
+      <description>&lt;p&gt;Forking Operating System Processes from within Pharo Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pharo-graphics/Bloc</title>
+      <link>https://github.com/pharo-graphics/Bloc</link>
+      <description>&lt;p&gt;Low-level UI infrastructure &amp; framework for Pharo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pharo-rdbms/Pharo-SQLite3</title>
+      <link>https://github.com/pharo-rdbms/Pharo-SQLite3</link>
+      <description>&lt;p&gt;Community-owned official SQLite3 binding for Pharo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

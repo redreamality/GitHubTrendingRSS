@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub GDScript Weekly Trending</title>
+    <description>Weekly Trending of GDScript in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:25:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Alexofp/BDCC</title>
+      <link>https://github.com/Alexofp/BDCC</link>
+      <description>&lt;p&gt;Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>godotengine/godot-demo-projects</title>
+      <link>https://github.com/godotengine/godot-demo-projects</link>
+      <description>&lt;p&gt;Demonstration and Template Projects&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BenjaTK/Gaea</title>
+      <link>https://github.com/BenjaTK/Gaea</link>
+      <description>&lt;p&gt;Procedural generation add-on for Godot 4.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Orama-Interactive/Pixelorama</title>
+      <link>https://github.com/Orama-Interactive/Pixelorama</link>
+      <description>&lt;p&gt;Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pablogila/TileMapDual</title>
+      <link>https://github.com/pablogila/TileMapDual</link>
+      <description>&lt;p&gt;An automatic, real-time dual-grid tileset system for Godot&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>derkork/godot-statecharts</title>
+      <link>https://github.com/derkork/godot-statecharts</link>
+      <description>&lt;p&gt;A state charts extension for Godot 4&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>face-hh/wattesigma</title>
+      <link>https://github.com/face-hh/wattesigma</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Phazorknight/Cogito</title>
+      <link>https://github.com/Phazorknight/Cogito</link>
+      <description>&lt;p&gt;Immersive Sim Template Project for GODOT 4&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zylann/godot_heightmap_plugin</title>
+      <link>https://github.com/Zylann/godot_heightmap_plugin</link>
+      <description>&lt;p&gt;HeightMap terrain for Godot implemented in GDScript&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GDQuest/learn-gdscript</title>
+      <link>https://github.com/GDQuest/learn-gdscript</link>
+      <description>&lt;p&gt;Learn Godot&#39;s GDScript programming language from zero, right in your browser, for free.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

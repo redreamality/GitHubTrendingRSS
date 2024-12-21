@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Monthly Trending</title>
+    <description>Monthly Trending of Ruby in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:44:29 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>&lt;p&gt;Metasploit Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github-linguist/linguist</title>
+      <link>https://github.com/github-linguist/linguist</link>
+      <description>&lt;p&gt;Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chatwoot/chatwoot</title>
+      <link>https://github.com/chatwoot/chatwoot</link>
+      <description>&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>&lt;p&gt;OpenProject is the leading open source project management software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>&lt;p&gt;A platform for community discussion. Free, open, simple.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/homebrew-core</title>
+      <link>https://github.com/Homebrew/homebrew-core</link>
+      <description>&lt;p&gt;🍻 Default formulae for the missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Freika/dawarich</title>
+      <link>https://github.com/Freika/dawarich</link>
+      <description>&lt;p&gt;Self-hosted alternative to Google Location History (Google Maps Timeline)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>citation-style-language/styles</title>
+      <link>https://github.com/citation-style-language/styles</link>
+      <description>&lt;p&gt;Official repository for Citation Style Language (CSL) citation styles.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/brew</title>
+      <link>https://github.com/Homebrew/brew</link>
+      <description>&lt;p&gt;🍺 The missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruby/debug</title>
+      <link>https://github.com/ruby/debug</link>
+      <description>&lt;p&gt;Debugging functionality for Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sidekiq/sidekiq</title>
+      <link>https://github.com/sidekiq/sidekiq</link>
+      <description>&lt;p&gt;Simple, efficient background processing for Ruby&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rails/rails</title>
+      <link>https://github.com/rails/rails</link>
+      <description>&lt;p&gt;Ruby on Rails&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>&lt;p&gt;🤖 Dependabot&#39;s core logic for creating update PRs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>forem/forem</title>
+      <link>https://github.com/forem/forem</link>
+      <description>&lt;p&gt;For empowering community 🌱&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tradingview/charting-library-examples</title>
+      <link>https://github.com/tradingview/charting-library-examples</link>
+      <description>&lt;p&gt;Examples of Charting Library integrations with other libraries, frameworks and data transports&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopify/liquid</title>
+      <link>https://github.com/Shopify/liquid</link>
+      <description>&lt;p&gt;Liquid markup language. Safe, customer facing template language for flexible web apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mastodon/mastodon</title>
+      <link>https://github.com/mastodon/mastodon</link>
+      <description>&lt;p&gt;Your self-hosted, globally interconnected microblogging community&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>carrierwaveuploader/carrierwave</title>
+      <link>https://github.com/carrierwaveuploader/carrierwave</link>
+      <description>&lt;p&gt;Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>railsadminteam/rails_admin</title>
+      <link>https://github.com/railsadminteam/rails_admin</link>
+      <description>&lt;p&gt;RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DataDog/datadog-api-client-ruby</title>
+      <link>https://github.com/DataDog/datadog-api-client-ruby</link>
+      <description>&lt;p&gt;Ruby client for the Datadog API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruby/gem_rbs_collection</title>
+      <link>https://github.com/ruby/gem_rbs_collection</link>
+      <description>&lt;p&gt;A collection of RBS for gems.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

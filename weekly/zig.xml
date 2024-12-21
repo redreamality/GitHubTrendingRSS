@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Zig Weekly Trending</title>
+    <description>Weekly Trending of Zig in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:33:31 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>&lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tigerbeetle/tigerbeetle</title>
+      <link>https://github.com/tigerbeetle/tigerbeetle</link>
+      <description>&lt;p&gt;The financial transactions database designed for mission critical safety and performance.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ziglang/zig</title>
+      <link>https://github.com/ziglang/zig</link>
+      <description>&lt;p&gt;General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fairyglade/ly</title>
+      <link>https://github.com/fairyglade/ly</link>
+      <description>&lt;p&gt;display manager with console UI&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neurocyte/flow</title>
+      <link>https://github.com/neurocyte/flow</link>
+      <description>&lt;p&gt;Flow Control: a programmer&#39;s text editor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zml/zml</title>
+      <link>https://github.com/zml/zml</link>
+      <description>&lt;p&gt;Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hexops/mach</title>
+      <link>https://github.com/hexops/mach</link>
+      <description>&lt;p&gt;zig game engine &amp; graphics toolkit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mitchellh/libxev</title>
+      <link>https://github.com/mitchellh/libxev</link>
+      <description>&lt;p&gt;libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>blackboardsh/electrobun</title>
+      <link>https://github.com/blackboardsh/electrobun</link>
+      <description>&lt;p&gt;Build ultra fast, tiny, and cross-platform desktop apps with Typescript.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riverwm/river</title>
+      <link>https://github.com/riverwm/river</link>
+      <description>&lt;p&gt;[mirror] A dynamic tiling Wayland compositor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

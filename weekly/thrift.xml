@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Thrift Weekly Trending</title>
+    <description>Weekly Trending of Thrift in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:32:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>quintoandar/hive-metastore-client</title>
+      <link>https://github.com/quintoandar/hive-metastore-client</link>
+      <description>&lt;p&gt;A client for connecting and running DDLs on hive metastore.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/parquet-format</title>
+      <link>https://github.com/apache/parquet-format</link>
+      <description>&lt;p&gt;Apache Parquet Format&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jaegertracing/jaeger-idl</title>
+      <link>https://github.com/jaegertracing/jaeger-idl</link>
+      <description>&lt;p&gt;A set of shared data model definitions used by Jaeger components.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

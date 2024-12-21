@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub GLSL Monthly Trending</title>
+    <description>Monthly Trending of GLSL in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:35:53 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>SaschaWillems/Vulkan</title>
+      <link>https://github.com/SaschaWillems/Vulkan</link>
+      <description>&lt;p&gt;C++ examples for the Vulkan graphics API&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>patriciogonzalezvivo/thebookofshaders</title>
+      <link>https://github.com/patriciogonzalezvivo/thebookofshaders</link>
+      <description>&lt;p&gt;Step-by-step guide through the abstract and complex universe of Fragment Shaders.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open4Es/Open4Es-Shader-Android</title>
+      <link>https://github.com/Open4Es/Open4Es-Shader-Android</link>
+      <description>&lt;p&gt;This is a shader can running on Minecraft Java Edition For Phone project which uses GL4ES. This repository contains source code for Android platform.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sixthsurge/photon</title>
+      <link>https://github.com/sixthsurge/photon</link>
+      <description>&lt;p&gt;A gameplay-focused shader pack for Minecraft&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>patriciogonzalezvivo/lygia</title>
+      <link>https://github.com/patriciogonzalezvivo/lygia</link>
+      <description>&lt;p&gt;LYGIA, it&#39;s a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

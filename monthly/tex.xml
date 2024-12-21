@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Monthly Trending</title>
+    <description>Monthly Trending of TeX in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:45:09 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tuhdo/os01</title>
+      <link>https://github.com/tuhdo/os01</link>
+      <description>&lt;p&gt;Bootstrap yourself to write an OS from scratch. A book for self-learner.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>acl-org/acl-style-files</title>
+      <link>https://github.com/acl-org/acl-style-files</link>
+      <description>&lt;p&gt;Official style files for papers submitted to venues of the Association for Computational Linguistics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riscv/riscv-isa-manual</title>
+      <link>https://github.com/riscv/riscv-isa-manual</link>
+      <description>&lt;p&gt;RISC-V Instruction Set Manual&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>&lt;p&gt;Latex code for making neural networks diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>&lt;p&gt;VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>harvard-edge/cs249r_book</title>
+      <link>https://github.com/harvard-edge/cs249r_book</link>
+      <description>&lt;p&gt;Introduction to Machine Learning Systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dendibakh/perf-book</title>
+      <link>https://github.com/dendibakh/perf-book</link>
+      <description>&lt;p&gt;The book &quot;Performance Analysis and Tuning on Modern CPU&quot;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>billryan/resume</title>
+      <link>https://github.com/billryan/resume</link>
+      <description>&lt;p&gt;An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dart-lang/language</title>
+      <link>https://github.com/dart-lang/language</link>
+      <description>&lt;p&gt;Design of the Dart language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cplusplus/draft</title>
+      <link>https://github.com/cplusplus/draft</link>
+      <description>&lt;p&gt;C++ standards drafts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wandmalfarbe/pandoc-latex-template</title>
+      <link>https://github.com/Wandmalfarbe/pandoc-latex-template</link>
+      <description>&lt;p&gt;A pandoc LaTeX template to convert markdown files to PDF or LaTeX.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AllenDowney/ThinkPython2</title>
+      <link>https://github.com/AllenDowney/ThinkPython2</link>
+      <description>&lt;p&gt;LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hmemcpy/milewski-ctfp-pdf</title>
+      <link>https://github.com/hmemcpy/milewski-ctfp-pdf</link>
+      <description>&lt;p&gt;Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheNetAdmin/zjuthesis</title>
+      <link>https://github.com/TheNetAdmin/zjuthesis</link>
+      <description>&lt;p&gt;Zhejiang University Graduation Thesis LaTeX Template&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zhanwen/MathModel</title>
+      <link>https://github.com/zhanwen/MathModel</link>
+      <description>&lt;p&gt;研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>libretro/docs</title>
+      <link>https://github.com/libretro/docs</link>
+      <description>&lt;p&gt;This is a repo of the RetroArch official document page.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

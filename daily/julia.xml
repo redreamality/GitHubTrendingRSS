@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Julia Daily Trending</title>
+    <description>Daily Trending of Julia in GitHub</description>
+    <pubDate>Sat, 21 Dec 2024 02:17:30 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>compintell/Mooncake.jl</title>
+      <link>https://github.com/compintell/Mooncake.jl</link>
+      <description>&lt;p&gt;language level autograd compiler for Julia&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaTimeSteppers.jl</title>
+      <link>https://github.com/CliMA/ClimaTimeSteppers.jl</link>
+      <description>&lt;p&gt;A CPU- and GPU-friendly package for solving ordinary differential equations&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CliMA/CloudMicrophysics.jl</title>
+      <link>https://github.com/CliMA/CloudMicrophysics.jl</link>
+      <description>&lt;p&gt;A library of cloud microphysics parameterizations&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaMolSim/Molly.jl</title>
+      <link>https://github.com/JuliaMolSim/Molly.jl</link>
+      <description>&lt;p&gt;Molecular simulation in Julia&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CliMA/Oceananigans.jl</title>
+      <link>https://github.com/CliMA/Oceananigans.jl</link>
+      <description>&lt;p&gt;🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaAtmos.jl</title>
+      <link>https://github.com/CliMA/ClimaAtmos.jl</link>
+      <description>&lt;p&gt;ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaRegistries/General</title>
+      <link>https://github.com/JuliaRegistries/General</link>
+      <description>&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaLang/julia</title>
+      <link>https://github.com/JuliaLang/julia</link>
+      <description>&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaCoupler.jl</title>
+      <link>https://github.com/CliMA/ClimaCoupler.jl</link>
+      <description>&lt;p&gt;ClimaCoupler: bringing atmosphere, land, and ocean together&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CliMA/ClimaOcean.jl</title>
+      <link>https://github.com/CliMA/ClimaOcean.jl</link>
+      <description>&lt;p&gt;🌎 Framework for realistic regional-to-global ocean simulations, and coupled ocean + sea-ice simulations based on Oceananigans and ClimaSeaIce. Basis for the ocean and sea-ice component of CliMA&#39;s Earth system model.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JuliaCI/PkgTemplates.jl</title>
+      <link>https://github.com/JuliaCI/PkgTemplates.jl</link>
+      <description>&lt;p&gt;Create new Julia packages, the easy way&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>EnzymeAD/Reactant.jl</title>
+      <link>https://github.com/EnzymeAD/Reactant.jl</link>
+      <description>&lt;p&gt;Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
