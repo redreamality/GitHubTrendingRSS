@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Solidity Daily Trending</title>
+    <description>Daily Trending of Solidity in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:56 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Uniswap/v2-periphery</title>
+      <link>https://github.com/Uniswap/v2-periphery</link>
+      <description>&lt;p&gt;🎚 Peripheral smart contracts for interacting with Uniswap V2&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PaulRBerg/prb-math</title>
+      <link>https://github.com/PaulRBerg/prb-math</link>
+      <description>&lt;p&gt;Solidity library for advanced fixed-point math&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>morpho-org/morpho-blue</title>
+      <link>https://github.com/morpho-org/morpho-blue</link>
+      <description>&lt;p&gt;Morpho Blue Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>semgrep/semgrep-rules</title>
+      <link>https://github.com/semgrep/semgrep-rules</link>
+      <description>&lt;p&gt;Semgrep rules registry&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bnb-chain/BEPs</title>
+      <link>https://github.com/bnb-chain/BEPs</link>
+      <description>&lt;p&gt;BNB Evolution Proposals&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bgd-labs/aave-helpers</title>
+      <link>https://github.com/bgd-labs/aave-helpers</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>smartcontractkit/chainlink-brownie-contracts</title>
+      <link>https://github.com/smartcontractkit/chainlink-brownie-contracts</link>
+      <description>&lt;p&gt;A repository for automatically using the latest chainlink repo from the core chainlink repo.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uniswap/v4-periphery</title>
+      <link>https://github.com/Uniswap/v4-periphery</link>
+      <description>&lt;p&gt;🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arachnid/solidity-stringutils</title>
+      <link>https://github.com/Arachnid/solidity-stringutils</link>
+      <description>&lt;p&gt;Basic string utilities for Solidity&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LayerZero-Labs/LayerZero-v2</title>
+      <link>https://github.com/LayerZero-Labs/LayerZero-v2</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>transmissions11/solmate</title>
+      <link>https://github.com/transmissions11/solmate</link>
+      <description>&lt;p&gt;Modern, opinionated, and gas optimized building blocks for smart contract development.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenZeppelin/openzeppelin-contracts</title>
+      <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
+      <description>&lt;p&gt;OpenZeppelin Contracts is a library for secure smart contract development.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

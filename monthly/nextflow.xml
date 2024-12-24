@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nextflow Monthly Trending</title>
+    <description>Monthly Trending of Nextflow in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:42:09 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nf-core/modules</title>
+      <link>https://github.com/nf-core/modules</link>
+      <description>&lt;p&gt;Repository to host tool-specific module files for the Nextflow DSL2 community!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nf-core/rnaseq</title>
+      <link>https://github.com/nf-core/rnaseq</link>
+      <description>&lt;p&gt;RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nf-core/sarek</title>
+      <link>https://github.com/nf-core/sarek</link>
+      <description>&lt;p&gt;Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nf-core/differentialabundance</title>
+      <link>https://github.com/nf-core/differentialabundance</link>
+      <description>&lt;p&gt;Differential abundance analysis for feature/ observation matrices from platforms such as RNA-seq&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nf-core/methylseq</title>
+      <link>https://github.com/nf-core/methylseq</link>
+      <description>&lt;p&gt;Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nf-core/oncoanalyser</title>
+      <link>https://github.com/nf-core/oncoanalyser</link>
+      <description>&lt;p&gt;A comprehensive cancer DNA/RNA analysis and reporting pipeline&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nf-core/fastquorum</title>
+      <link>https://github.com/nf-core/fastquorum</link>
+      <description>&lt;p&gt;Pipeline to produce consensus reads using unique molecular indexes/barcodes (UMIs)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nf-core/scdownstream</title>
+      <link>https://github.com/nf-core/scdownstream</link>
+      <description>&lt;p&gt;A single cell transcriptomics pipeline for QC, integration and making the data presentable&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nf-core/rnasplice</title>
+      <link>https://github.com/nf-core/rnasplice</link>
+      <description>&lt;p&gt;rnasplice is a bioinformatics pipeline for RNA-seq alternative splicing analysis&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

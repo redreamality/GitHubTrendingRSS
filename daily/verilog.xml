@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Verilog Daily Trending</title>
+    <description>Daily Trending of Verilog in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:23:35 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>The-OpenROAD-Project/OpenROAD</title>
+      <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
+      <description>&lt;p&gt;OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vortexgpgpu/vortex</title>
+      <link>https://github.com/vortexgpgpu/vortex</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexforencich/verilog-ethernet</title>
+      <link>https://github.com/alexforencich/verilog-ethernet</link>
+      <description>&lt;p&gt;Verilog Ethernet components for FPGA implementation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OSCPU/yosys-sta</title>
+      <link>https://github.com/OSCPU/yosys-sta</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

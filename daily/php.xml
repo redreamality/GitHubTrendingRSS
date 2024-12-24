@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Daily Trending</title>
+    <description>Daily Trending of PHP in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:21:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>filamentphp/filament</title>
+      <link>https://github.com/filamentphp/filament</link>
+      <description>&lt;p&gt;A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>danielmiessler/SecLists</title>
+      <link>https://github.com/danielmiessler/SecLists</link>
+      <description>&lt;p&gt;SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FreshRSS/FreshRSS</title>
+      <link>https://github.com/FreshRSS/FreshRSS</link>
+      <description>&lt;p&gt;A free, self-hostable news aggregator…&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PrivateBin/PrivateBin</title>
+      <link>https://github.com/PrivateBin/PrivateBin</link>
+      <description>&lt;p&gt;A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>shopware/shopware</title>
+      <link>https://github.com/shopware/shopware</link>
+      <description>&lt;p&gt;Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>invoiceninja/invoiceninja</title>
+      <link>https://github.com/invoiceninja/invoiceninja</link>
+      <description>&lt;p&gt;A source-available invoice, quote, project and time-tracking app built with Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pterodactyl/panel</title>
+      <link>https://github.com/pterodactyl/panel</link>
+      <description>&lt;p&gt;Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>glpi-project/glpi</title>
+      <link>https://github.com/glpi-project/glpi</link>
+      <description>&lt;p&gt;GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/all-in-one</title>
+      <link>https://github.com/nextcloud/all-in-one</link>
+      <description>&lt;p&gt;📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nikic/PHP-Parser</title>
+      <link>https://github.com/nikic/PHP-Parser</link>
+      <description>&lt;p&gt;A PHP parser written in PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BookStackApp/BookStack</title>
+      <link>https://github.com/BookStackApp/BookStack</link>
+      <description>&lt;p&gt;A platform to create documentation/wiki content built with PHP &amp; Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2board/v2board</title>
+      <link>https://github.com/v2board/v2board</link>
+      <description>&lt;p&gt;🚀A multiple proxy protocol manage panel application interface&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prasathmani/tinyfilemanager</title>
+      <link>https://github.com/prasathmani/tinyfilemanager</link>
+      <description>&lt;p&gt;Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opencart/opencart</title>
+      <link>https://github.com/opencart/opencart</link>
+      <description>&lt;p&gt;A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ellite/Wallos</title>
+      <link>https://github.com/ellite/Wallos</link>
+      <description>&lt;p&gt;Wallos: Open-Source Personal Subscription Tracker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nextcloud/server</title>
+      <link>https://github.com/nextcloud/server</link>
+      <description>&lt;p&gt;☁️ Nextcloud server, a safe home for all your data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass</title>
+      <link>https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass</link>
+      <description>&lt;p&gt;A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vitodeploy/vito</title>
+      <link>https://github.com/vitodeploy/vito</link>
+      <description>&lt;p&gt;Free and Self-Hosted Server Management Tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pmmp/PocketMine-MP</title>
+      <link>https://github.com/pmmp/PocketMine-MP</link>
+      <description>&lt;p&gt;A server software for Minecraft: Bedrock Edition in PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>coollabsio/coolify</title>
+      <link>https://github.com/coollabsio/coolify</link>
+      <description>&lt;p&gt;An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

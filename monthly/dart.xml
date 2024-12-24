@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Dart Monthly Trending</title>
+    <description>Monthly Trending of Dart in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:36:09 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>KRTirtho/spotube</title>
+      <link>https://github.com/KRTirtho/spotube</link>
+      <description>&lt;p&gt;🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flutter/samples</title>
+      <link>https://github.com/flutter/samples</link>
+      <description>&lt;p&gt;A collection of Flutter examples and demos&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flame-engine/flame</title>
+      <link>https://github.com/flame-engine/flame</link>
+      <description>&lt;p&gt;A Flutter based game engine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ImranR98/Obtainium</title>
+      <link>https://github.com/ImranR98/Obtainium</link>
+      <description>&lt;p&gt;Get Android app updates straight from the source.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>anandnet/Harmony-Music</title>
+      <link>https://github.com/anandnet/Harmony-Music</link>
+      <description>&lt;p&gt;A cross platform App for streaming Music&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ReVanced/revanced-manager</title>
+      <link>https://github.com/ReVanced/revanced-manager</link>
+      <description>&lt;p&gt;💊 Application to use ReVanced on Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chen08209/FlClash</title>
+      <link>https://github.com/chen08209/FlClash</link>
+      <description>&lt;p&gt;A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xiaoyaocz/dart_simple_live</title>
+      <link>https://github.com/xiaoyaocz/dart_simple_live</link>
+      <description>&lt;p&gt;简简单单的看直播&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Notsfsssf/pixez-flutter</title>
+      <link>https://github.com/Notsfsssf/pixez-flutter</link>
+      <description>&lt;p&gt;一个支持免代理直连及查看动图的第三方Pixiv flutter客户端&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>guozhigq/pilipala</title>
+      <link>https://github.com/guozhigq/pilipala</link>
+      <description>&lt;p&gt;PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ente-io/ente</title>
+      <link>https://github.com/ente-io/ente</link>
+      <description>&lt;p&gt;FOSS, End to End Encrypted alternative to Google Photos and Apple Photos&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jameskokoska/Cashew</title>
+      <link>https://github.com/jameskokoska/Cashew</link>
+      <description>&lt;p&gt;💸 An app created to help users manage a budget and purchases&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hiddify/hiddify-app</title>
+      <link>https://github.com/hiddify/hiddify-app</link>
+      <description>&lt;p&gt;Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>abuanwar072/E-commerce-Complete-Flutter-UI</title>
+      <link>https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI</link>
+      <description>&lt;p&gt;The FlutterShop template makes it easier to develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flutter.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cake-tech/cake_wallet</title>
+      <link>https://github.com/cake-tech/cake_wallet</link>
+      <description>&lt;p&gt;The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>toly1994328/FlutterUnit</title>
+      <link>https://github.com/toly1994328/FlutterUnit</link>
+      <description>&lt;p&gt;All Platform Flutter Experience App&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gokadzev/Musify</title>
+      <link>https://github.com/gokadzev/Musify</link>
+      <description>&lt;p&gt;Unlock the full potential of music: Stream effortlessly with one app!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>miguelpruivo/flutter_file_picker</title>
+      <link>https://github.com/miguelpruivo/flutter_file_picker</link>
+      <description>&lt;p&gt;File picker plugin for Flutter, compatible with mobile (iOS &amp; Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imaNNeo/fl_chart</title>
+      <link>https://github.com/imaNNeo/fl_chart</link>
+      <description>&lt;p&gt;FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DJDoubleD/refreezer</title>
+      <link>https://github.com/DJDoubleD/refreezer</link>
+      <description>&lt;p&gt;An alternative Deezer music streaming &amp; downloading client, based on Freezer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

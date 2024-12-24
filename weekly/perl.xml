@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Perl Weekly Trending</title>
+    <description>Weekly Trending of Perl in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:31:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>OpenKore/openkore</title>
+      <link>https://github.com/OpenKore/openkore</link>
+      <description>&lt;p&gt;A free/open source client and automation tool for Ragnarok Online&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>get-iplayer/get_iplayer</title>
+      <link>https://github.com/get-iplayer/get_iplayer</link>
+      <description>&lt;p&gt;A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rjbs/Email-Sender</title>
+      <link>https://github.com/rjbs/Email-Sender</link>
+      <description>&lt;p&gt;a perl library for sending email&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>holzschu/a-shell</title>
+      <link>https://github.com/holzschu/a-shell</link>
+      <description>&lt;p&gt;A terminal for iOS, with multiple windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LMS-Community/slimserver</title>
+      <link>https://github.com/LMS-Community/slimserver</link>
+      <description>&lt;p&gt;Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>adrienverge/openfortivpn</title>
+      <link>https://github.com/adrienverge/openfortivpn</link>
+      <description>&lt;p&gt;Client for PPP+TLS VPN tunnel services&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>linux-test-project/lcov</title>
+      <link>https://github.com/linux-test-project/lcov</link>
+      <description>&lt;p&gt;LCOV&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Difegue/LANraragi</title>
+      <link>https://github.com/Difegue/LANraragi</link>
+      <description>&lt;p&gt;Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Perl/perl5</title>
+      <link>https://github.com/Perl/perl5</link>
+      <description>&lt;p&gt;🐪 The Perl programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

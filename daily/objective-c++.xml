@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C++ Daily Trending</title>
+    <description>Daily Trending of Objective-C++ in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:21:20 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pocketsvg/PocketSVG</title>
+      <link>https://github.com/pocketsvg/PocketSVG</link>
+      <description>&lt;p&gt;Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>KhronosGroup/MoltenVK</title>
+      <link>https://github.com/KhronosGroup/MoltenVK</link>
+      <description>&lt;p&gt;MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple&#39;s Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sbmpost/AutoRaise</title>
+      <link>https://github.com/sbmpost/AutoRaise</link>
+      <description>&lt;p&gt;AutoRaise (and focus) a window when hovering over it with the mouse&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>facebookarchive/pop</title>
+      <link>https://github.com/facebookarchive/pop</link>
+      <description>&lt;p&gt;An extensible iOS and OS X animation library, useful for physics-based interactions.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dongyuwei/hallelujahIM</title>
+      <link>https://github.com/dongyuwei/hallelujahIM</link>
+      <description>&lt;p&gt;hallelujahIM(哈利路亚 英文输入法) is an intelligent English input method with auto-suggestions and spell check features.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

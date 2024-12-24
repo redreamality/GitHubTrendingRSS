@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Monthly Trending</title>
+    <description>Monthly Trending of PHP in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:42:46 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>firefly-iii/firefly-iii</title>
+      <link>https://github.com/firefly-iii/firefly-iii</link>
+      <description>&lt;p&gt;Firefly III: a personal finances manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>snipe/snipe-it</title>
+      <link>https://github.com/snipe/snipe-it</link>
+      <description>&lt;p&gt;A free open source IT asset/license management system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vitodeploy/vito</title>
+      <link>https://github.com/vitodeploy/vito</link>
+      <description>&lt;p&gt;Free and Self-Hosted Server Management Tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bagisto/bagisto</title>
+      <link>https://github.com/bagisto/bagisto</link>
+      <description>&lt;p&gt;Free and open source laravel eCommerce platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opencart/opencart</title>
+      <link>https://github.com/opencart/opencart</link>
+      <description>&lt;p&gt;A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woocommerce/woocommerce</title>
+      <link>https://github.com/woocommerce/woocommerce</link>
+      <description>&lt;p&gt;A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>invoiceninja/invoiceninja</title>
+      <link>https://github.com/invoiceninja/invoiceninja</link>
+      <description>&lt;p&gt;A source-available invoice, quote, project and time-tracking app built with Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DenverCoder1/github-readme-streak-stats</title>
+      <link>https://github.com/DenverCoder1/github-readme-streak-stats</link>
+      <description>&lt;p&gt;🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>danielmiessler/SecLists</title>
+      <link>https://github.com/danielmiessler/SecLists</link>
+      <description>&lt;p&gt;SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>filamentphp/filament</title>
+      <link>https://github.com/filamentphp/filament</link>
+      <description>&lt;p&gt;A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pterodactyl/panel</title>
+      <link>https://github.com/pterodactyl/panel</link>
+      <description>&lt;p&gt;Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PrivateBin/PrivateBin</title>
+      <link>https://github.com/PrivateBin/PrivateBin</link>
+      <description>&lt;p&gt;A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>livewire/livewire</title>
+      <link>https://github.com/livewire/livewire</link>
+      <description>&lt;p&gt;A full-stack framework for Laravel that takes the pain out of building dynamic UIs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexjustesen/speedtest-tracker</title>
+      <link>https://github.com/alexjustesen/speedtest-tracker</link>
+      <description>&lt;p&gt;Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leokhoa/laragon</title>
+      <link>https://github.com/leokhoa/laragon</link>
+      <description>&lt;p&gt;Laragon is a portable, isolated, fast &amp; powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seldaek/monolog</title>
+      <link>https://github.com/Seldaek/monolog</link>
+      <description>&lt;p&gt;Sends your logs to files, sockets, inboxes, databases and various web services&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>symfony/symfony</title>
+      <link>https://github.com/symfony/symfony</link>
+      <description>&lt;p&gt;The Symfony PHP framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rectorphp/rector</title>
+      <link>https://github.com/rectorphp/rector</link>
+      <description>&lt;p&gt;Instant Upgrades and Automated Refactoring of any PHP 5.3+ code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>laravel/laravel</title>
+      <link>https://github.com/laravel/laravel</link>
+      <description>&lt;p&gt;Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>laravel/pint</title>
+      <link>https://github.com/laravel/pint</link>
+      <description>&lt;p&gt;Laravel Pint is an opinionated PHP code style fixer for minimalists.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dompdf/dompdf</title>
+      <link>https://github.com/dompdf/dompdf</link>
+      <description>&lt;p&gt;HTML to PDF converter for PHP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

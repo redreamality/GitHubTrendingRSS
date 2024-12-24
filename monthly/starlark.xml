@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Starlark Monthly Trending</title>
+    <description>Monthly Trending of Starlark in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:44:23 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>GoogleContainerTools/distroless</title>
+      <link>https://github.com/GoogleContainerTools/distroless</link>
+      <description>&lt;p&gt;🥑 Language focused docker images, minus the operating system.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethpandaops/ethereum-package</title>
+      <link>https://github.com/ethpandaops/ethereum-package</link>
+      <description>&lt;p&gt;A Kurtosis package that deploys a private, portable, and modular Ethereum devnet&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/cel-spec</title>
+      <link>https://github.com/google/cel-spec</link>
+      <description>&lt;p&gt;Common Expression Language -- specification and binary representation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/bazel-central-registry</title>
+      <link>https://github.com/bazelbuild/bazel-central-registry</link>
+      <description>&lt;p&gt;The central registry of Bazel modules for the Bzlmod external dependency system.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/rules_perl</title>
+      <link>https://github.com/bazel-contrib/rules_perl</link>
+      <description>&lt;p&gt;Perl rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_proto</title>
+      <link>https://github.com/bazelbuild/rules_proto</link>
+      <description>&lt;p&gt;Protocol buffer rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/bazel-common</title>
+      <link>https://github.com/google/bazel-common</link>
+      <description>&lt;p&gt;Common functionality for Google&#39;s open-source libraries that are built with bazel.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mvukov/rules_ros</title>
+      <link>https://github.com/mvukov/rules_ros</link>
+      <description>&lt;p&gt;Build ROS (1) with Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_docker</title>
+      <link>https://github.com/bazelbuild/rules_docker</link>
+      <description>&lt;p&gt;Rules for building and handling Docker images with Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/rules_jvm_external</title>
+      <link>https://github.com/bazel-contrib/rules_jvm_external</link>
+      <description>&lt;p&gt;Bazel rules to resolve, fetch and export Maven artifacts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pybind/pybind11_bazel</title>
+      <link>https://github.com/pybind/pybind11_bazel</link>
+      <description>&lt;p&gt;Bazel wrapper around the pybind11 repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_rust</title>
+      <link>https://github.com/bazelbuild/rules_rust</link>
+      <description>&lt;p&gt;Rust rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/starlark</title>
+      <link>https://github.com/bazelbuild/starlark</link>
+      <description>&lt;p&gt;Starlark Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazel-contrib/bazel-lib</title>
+      <link>https://github.com/bazel-contrib/bazel-lib</link>
+      <description>&lt;p&gt;Common useful functions for writing BUILD files and Starlark macros/rules&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_appengine</title>
+      <link>https://github.com/bazelbuild/rules_appengine</link>
+      <description>&lt;p&gt;AppEngine rules for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ash2k/bazel-tools</title>
+      <link>https://github.com/ash2k/bazel-tools</link>
+      <description>&lt;p&gt;Reusable bits for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_pkg</title>
+      <link>https://github.com/bazelbuild/rules_pkg</link>
+      <description>&lt;p&gt;Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/rules_apple</title>
+      <link>https://github.com/bazelbuild/rules_apple</link>
+      <description>&lt;p&gt;Bazel rules to build apps for Apple platforms.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/apple_support</title>
+      <link>https://github.com/bazelbuild/apple_support</link>
+      <description>&lt;p&gt;Apple support for Bazel rules&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GoogleContainerTools/rules_distroless</title>
+      <link>https://github.com/GoogleContainerTools/rules_distroless</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bazelbuild/examples</title>
+      <link>https://github.com/bazelbuild/examples</link>
+      <description>&lt;p&gt;Examples for Bazel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

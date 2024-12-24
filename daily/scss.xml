@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub SCSS Daily Trending</title>
+    <description>Daily Trending of SCSS in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:43 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cobiwave/simplefolio</title>
+      <link>https://github.com/cobiwave/simplefolio</link>
+      <description>&lt;p&gt;⚡️ A minimal portfolio template for Developers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/minimal</title>
+      <link>https://github.com/pages-themes/minimal</link>
+      <description>&lt;p&gt;Minimal is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vinceliuice/WhiteSur-gtk-theme</title>
+      <link>https://github.com/vinceliuice/WhiteSur-gtk-theme</link>
+      <description>&lt;p&gt;MacOS like theme for all gtk based desktops&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/hacker</title>
+      <link>https://github.com/pages-themes/hacker</link>
+      <description>&lt;p&gt;Hacker is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>thingsym/hugo-theme-techdoc</title>
+      <link>https://github.com/thingsym/hugo-theme-techdoc</link>
+      <description>&lt;p&gt;The Techdoc is a Hugo Theme for technical documentation.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ermongroup/cs228-notes</title>
+      <link>https://github.com/ermongroup/cs228-notes</link>
+      <description>&lt;p&gt;Course notes for CS228: Probabilistic Graphical Models.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>black7375/Firefox-UI-Fix</title>
+      <link>https://github.com/black7375/Firefox-UI-Fix</link>
+      <description>&lt;p&gt;🦊 I respect proton UI and aim to improve it.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>andrewbanchich/forty-jekyll-theme</title>
+      <link>https://github.com/andrewbanchich/forty-jekyll-theme</link>
+      <description>&lt;p&gt;A Jekyll version of the &quot;Forty&quot; theme by HTML5 UP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kitian616/jekyll-TeXt-theme</title>
+      <link>https://github.com/kitian616/jekyll-TeXt-theme</link>
+      <description>&lt;p&gt;💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LineageOS/lineage_wiki</title>
+      <link>https://github.com/LineageOS/lineage_wiki</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rstacruz/cheatsheets</title>
+      <link>https://github.com/rstacruz/cheatsheets</link>
+      <description>&lt;p&gt;Cheatsheets for web development - devhints.io&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IanLunn/Hover</title>
+      <link>https://github.com/IanLunn/Hover</link>
+      <description>&lt;p&gt;A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dorota1997/react-frontend-dev-portfolio</title>
+      <link>https://github.com/Dorota1997/react-frontend-dev-portfolio</link>
+      <description>&lt;p&gt;Easy to adapt and deploy React portfolio inspired with solutions found at GitHub.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sujaykundu777/devlopr-jekyll</title>
+      <link>https://github.com/sujaykundu777/devlopr-jekyll</link>
+      <description>&lt;p&gt;(FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS 🚀 in minutes built for developers. (with CMS) ✨&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>theicfire/makefiletutorial</title>
+      <link>https://github.com/theicfire/makefiletutorial</link>
+      <description>&lt;p&gt;Learn make by example&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vinceliuice/Colloid-gtk-theme</title>
+      <link>https://github.com/vinceliuice/Colloid-gtk-theme</link>
+      <description>&lt;p&gt;Colloid gtk theme for linux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primereact-sass-theme</title>
+      <link>https://github.com/primefaces/primereact-sass-theme</link>
+      <description>&lt;p&gt;PrimeReact Theming with SASS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>odoo/design-themes</title>
+      <link>https://github.com/odoo/design-themes</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>papercss/papercss</title>
+      <link>https://github.com/papercss/papercss</link>
+      <description>&lt;p&gt;The Less Formal CSS Framework&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

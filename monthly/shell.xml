@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Monthly Trending</title>
+    <description>Monthly Trending of Shell in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:44:06 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>QwenLM/Qwen2.5</title>
+      <link>https://github.com/QwenLM/Qwen2.5</link>
+      <description>&lt;p&gt;Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pystardust/ani-cli</title>
+      <link>https://github.com/pystardust/ani-cli</link>
+      <description>&lt;p&gt;A cli tool to browse and play anime&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>itzg/docker-minecraft-server</title>
+      <link>https://github.com/itzg/docker-minecraft-server</link>
+      <description>&lt;p&gt;Docker image that provides a Minecraft Server that will automatically download selected version at startup&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenBMB/ChatDev</title>
+      <link>https://github.com/OpenBMB/ChatDev</link>
+      <description>&lt;p&gt;Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xzhih/one-key-hidpi</title>
+      <link>https://github.com/xzhih/one-key-hidpi</link>
+      <description>&lt;p&gt;Enable macOS HiDPI and have a native setting.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>&lt;p&gt;Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>conda-forge/miniforge</title>
+      <link>https://github.com/conda-forge/miniforge</link>
+      <description>&lt;p&gt;A conda-forge distribution.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>acmesh-official/acme.sh</title>
+      <link>https://github.com/acmesh-official/acme.sh</link>
+      <description>&lt;p&gt;A pure Unix shell script implementing ACME client protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DaoCloud/public-image-mirror</title>
+      <link>https://github.com/DaoCloud/public-image-mirror</link>
+      <description>&lt;p&gt;很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp/proxy</title>
+      <link>https://github.com/WhatsApp/proxy</link>
+      <description>&lt;p&gt;This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wolfi-dev/os</title>
+      <link>https://github.com/wolfi-dev/os</link>
+      <description>&lt;p&gt;Main package repository for production Wolfi images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

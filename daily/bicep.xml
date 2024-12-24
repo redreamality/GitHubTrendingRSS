@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Bicep Daily Trending</title>
+    <description>Daily Trending of Bicep in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:17:21 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Azure/bicep-registry-modules</title>
+      <link>https://github.com/Azure/bicep-registry-modules</link>
+      <description>&lt;p&gt;Bicep registry modules&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github-copilot-resources/copilot-metrics-viewer</title>
+      <link>https://github.com/github-copilot-resources/copilot-metrics-viewer</link>
+      <description>&lt;p&gt;Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure-Samples/aks-store-demo</title>
+      <link>https://github.com/Azure-Samples/aks-store-demo</link>
+      <description>&lt;p&gt;Sample microservices app for AKS demos, tutorials, and experiments&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Azure-Samples/contoso-chat</title>
+      <link>https://github.com/Azure-Samples/contoso-chat</link>
+      <description>&lt;p&gt;This sample has the full End2End process of creating RAG application with Prompty and Azure AI Foundry. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

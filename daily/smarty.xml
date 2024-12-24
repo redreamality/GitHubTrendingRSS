@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smarty Daily Trending</title>
+    <description>Daily Trending of Smarty in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:54 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>truecharts/public</title>
+      <link>https://github.com/truecharts/public</link>
+      <description>&lt;p&gt;Community Helm Chart Repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mongodb/helm-charts</title>
+      <link>https://github.com/mongodb/helm-charts</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>truenas/charts</title>
+      <link>https://github.com/truenas/charts</link>
+      <description>&lt;p&gt;TrueNAS SCALE Apps Catalogs &amp; Charts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sysdiglabs/charts</title>
+      <link>https://github.com/sysdiglabs/charts</link>
+      <description>&lt;p&gt;The official source for Sysdig’s Helm charts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>plexinc/pms-docker</title>
+      <link>https://github.com/plexinc/pms-docker</link>
+      <description>&lt;p&gt;Plex Media Server Docker repo, for all your PMS docker needs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wiz-sec/charts</title>
+      <link>https://github.com/wiz-sec/charts</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sidpalas/devops-directive-kubernetes-course</title>
+      <link>https://github.com/sidpalas/devops-directive-kubernetes-course</link>
+      <description>&lt;p&gt;This is the companion repo for the DevOps Directive &quot;Kubernetes: Beginner to Pro&quot; course!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>grafana/helm-charts</title>
+      <link>https://github.com/grafana/helm-charts</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bitnami/charts</title>
+      <link>https://github.com/bitnami/charts</link>
+      <description>&lt;p&gt;Bitnami Helm Charts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>grafana/k8s-monitoring-helm</title>
+      <link>https://github.com/grafana/k8s-monitoring-helm</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Daily Trending</title>
+    <description>Daily Trending of Rust in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:37 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>rivet-gg/rivet</title>
+      <link>https://github.com/rivet-gg/rivet</link>
+      <description>&lt;p&gt;🔩 Run and scale realtime applications with Rivet Actors.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sxyazi/yazi</title>
+      <link>https://github.com/sxyazi/yazi</link>
+      <description>&lt;p&gt;💥 Blazing fast terminal file manager written in Rust, based on async I/O.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tw93/Pake</title>
+      <link>https://github.com/tw93/Pake</link>
+      <description>&lt;p&gt;🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bevyengine/bevy</title>
+      <link>https://github.com/bevyengine/bevy</link>
+      <description>&lt;p&gt;A refreshingly simple data-driven game engine built in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>paradigmxyz/reth</title>
+      <link>https://github.com/paradigmxyz/reth</link>
+      <description>&lt;p&gt;Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>probe-rs/probe-rs</title>
+      <link>https://github.com/probe-rs/probe-rs</link>
+      <description>&lt;p&gt;A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>slint-ui/slint</title>
+      <link>https://github.com/slint-ui/slint</link>
+      <description>&lt;p&gt;Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>YaLTeR/niri</title>
+      <link>https://github.com/YaLTeR/niri</link>
+      <description>&lt;p&gt;A scrollable-tiling Wayland compositor.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>starkware-libs/cairo</title>
+      <link>https://github.com/starkware-libs/cairo</link>
+      <description>&lt;p&gt;Cairo is the first Turing-complete language for creating provable programs for general computation.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fish-shell/fish-shell</title>
+      <link>https://github.com/fish-shell/fish-shell</link>
+      <description>&lt;p&gt;The user-friendly command line shell.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pola-rs/polars</title>
+      <link>https://github.com/pola-rs/polars</link>
+      <description>&lt;p&gt;Dataframes powered by a multithreaded, vectorized query engine, written in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>google/comprehensive-rust</title>
+      <link>https://github.com/google/comprehensive-rust</link>
+      <description>&lt;p&gt;This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jtroo/kanata</title>
+      <link>https://github.com/jtroo/kanata</link>
+      <description>&lt;p&gt;Improve keyboard comfort and usability with advanced customization&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>iced-rs/iced</title>
+      <link>https://github.com/iced-rs/iced</link>
+      <description>&lt;p&gt;A cross-platform GUI library for Rust, inspired by Elm&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>modrinth/code</title>
+      <link>https://github.com/modrinth/code</link>
+      <description>&lt;p&gt;The Modrinth monorepo containing all code which powers Modrinth!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0xPlaygrounds/rig</title>
+      <link>https://github.com/0xPlaygrounds/rig</link>
+      <description>&lt;p&gt;⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>wez/wezterm</title>
+      <link>https://github.com/wez/wezterm</link>
+      <description>&lt;p&gt;A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vercel/turborepo</title>
+      <link>https://github.com/vercel/turborepo</link>
+      <description>&lt;p&gt;Build system optimized for JavaScript and TypeScript, written in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sharkdp/bat</title>
+      <link>https://github.com/sharkdp/bat</link>
+      <description>&lt;p&gt;A cat(1) clone with wings.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zellij-org/zellij</title>
+      <link>https://github.com/zellij-org/zellij</link>
+      <description>&lt;p&gt;A terminal workspace with batteries included&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Universal-Debloater-Alliance/universal-android-debloater-next-generation</title>
+      <link>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</link>
+      <description>&lt;p&gt;Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>&lt;p&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gfx-rs/wgpu</title>
+      <link>https://github.com/gfx-rs/wgpu</link>
+      <description>&lt;p&gt;A cross-platform, safe, pure-Rust graphics API.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>golemcloud/golem</title>
+      <link>https://github.com/golemcloud/golem</link>
+      <description>&lt;p&gt;Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LGFae/swww</title>
+      <link>https://github.com/LGFae/swww</link>
+      <description>&lt;p&gt;A Solution to your Wayland Wallpaper Woes&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

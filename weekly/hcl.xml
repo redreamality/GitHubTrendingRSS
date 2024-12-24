@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HCL Weekly Trending</title>
+    <description>Weekly Trending of HCL in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:26:50 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-eks</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+      <description>&lt;p&gt;Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>antonputra/tutorials</title>
+      <link>https://github.com/antonputra/tutorials</link>
+      <description>&lt;p&gt;DevOps Tutorials&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+      <description>&lt;p&gt;Configures opinionated GKE clusters&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-vpc</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+      <description>&lt;p&gt;Terraform module to create AWS VPC resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-ecs</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
+      <description>&lt;p&gt;Terraform module to create AWS ECS resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-iam</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
+      <description>&lt;p&gt;Terraform module to create AWS IAM resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-lambda</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+      <description>&lt;p&gt;Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws-ia/terraform-aws-eks-blueprints</title>
+      <link>https://github.com/aws-ia/terraform-aws-eks-blueprints</link>
+      <description>&lt;p&gt;Configure and deploy complete EKS clusters.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>btkrausen/hashicorp</title>
+      <link>https://github.com/btkrausen/hashicorp</link>
+      <description>&lt;p&gt;Random code for HashiCorp related projects, training, etc.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>umotif-public/terraform-aws-waf-webaclv2</title>
+      <link>https://github.com/umotif-public/terraform-aws-waf-webaclv2</link>
+      <description>&lt;p&gt;Terraform module to configure WAF V2 Web ACL with managed rules for Application Load Balancer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

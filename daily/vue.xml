@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vue Daily Trending</title>
+    <description>Daily Trending of Vue in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:23:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>frappe/crm</title>
+      <link>https://github.com/frappe/crm</link>
+      <description>&lt;p&gt;Fully featured, open source CRM&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>AutomaApp/automa</title>
+      <link>https://github.com/AutomaApp/automa</link>
+      <description>&lt;p&gt;A browser extension for automating your browser by connecting blocks&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bastienwirtz/homer</title>
+      <link>https://github.com/bastienwirtz/homer</link>
+      <description>&lt;p&gt;A very simple static homepage for your server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imsyy/SPlayer</title>
+      <link>https://github.com/imsyy/SPlayer</link>
+      <description>&lt;p&gt;🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imsyy/home</title>
+      <link>https://github.com/imsyy/home</link>
+      <description>&lt;p&gt;个人主页，我的个人主页，个人主页源码，主页模板，homepage&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>crmeb/CRMEB</title>
+      <link>https://github.com/crmeb/CRMEB</link>
+      <description>&lt;p&gt;🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ccbikai/Sink</title>
+      <link>https://github.com/ccbikai/Sink</link>
+      <description>&lt;p&gt;⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>advplyr/audiobookshelf-app</title>
+      <link>https://github.com/advplyr/audiobookshelf-app</link>
+      <description>&lt;p&gt;Mobile application for Audiobookshelf&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RikkaApps/websites</title>
+      <link>https://github.com/RikkaApps/websites</link>
+      <description>&lt;p&gt;Websites for Rikka apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>primefaces/primevue</title>
+      <link>https://github.com/primefaces/primevue</link>
+      <description>&lt;p&gt;Next Generation Vue UI Component Library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yangzongzhuan/RuoYi-Vue3</title>
+      <link>https://github.com/yangzongzhuan/RuoYi-Vue3</link>
+      <description>&lt;p&gt;🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lissy93/dashy</title>
+      <link>https://github.com/Lissy93/dashy</link>
+      <description>&lt;p&gt;🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hslr-s/sun-panel</title>
+      <link>https://github.com/hslr-s/sun-panel</link>
+      <description>&lt;p&gt;A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LinJHS/AntiRec</title>
+      <link>https://github.com/LinJHS/AntiRec</link>
+      <description>&lt;p&gt;A cross-platform client application designed for real-time audio capture, processing, and playback. Built using the Tauri framework, AntiRec provides a seamless experience across different operating systems, enabling efficient and portable audio handling capabilities.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ccfddl/ccf-deadlines</title>
+      <link>https://github.com/ccfddl/ccf-deadlines</link>
+      <description>&lt;p&gt;⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dreamhunter2333/cloudflare_temp_email</title>
+      <link>https://github.com/dreamhunter2333/cloudflare_temp_email</link>
+      <description>&lt;p&gt;CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dullage/flatnotes</title>
+      <link>https://github.com/dullage/flatnotes</link>
+      <description>&lt;p&gt;A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simjanos-dev/LinguaCafe</title>
+      <link>https://github.com/simjanos-dev/LinguaCafe</link>
+      <description>&lt;p&gt;LinguaCafe is a self-hosted software that helps language learners read foreign languages.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bronya0/Kafka-King</title>
+      <link>https://github.com/Bronya0/Kafka-King</link>
+      <description>&lt;p&gt;A modern and practical kafka GUI client&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

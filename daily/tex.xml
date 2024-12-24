@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub TeX Daily Trending</title>
+    <description>Daily Trending of TeX in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:23:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>HarisIqbal88/PlotNeuralNet</title>
+      <link>https://github.com/HarisIqbal88/PlotNeuralNet</link>
+      <description>&lt;p&gt;Latex code for making neural networks diagrams&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sjtug/SJTUThesis</title>
+      <link>https://github.com/sjtug/SJTUThesis</link>
+      <description>&lt;p&gt;上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sanjib-sen/WebLaTex</title>
+      <link>https://github.com/sanjib-sen/WebLaTex</link>
+      <description>&lt;p&gt;A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar &amp; Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openmlsys/openmlsys-zh</title>
+      <link>https://github.com/openmlsys/openmlsys-zh</link>
+      <description>&lt;p&gt;《Machine Learning Systems: Design and Implementation》- Chinese Version&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chaofengc/Awesome-Image-Quality-Assessment</title>
+      <link>https://github.com/chaofengc/Awesome-Image-Quality-Assessment</link>
+      <description>&lt;p&gt;A comprehensive collection of IQA papers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hendricius/the-sourdough-framework</title>
+      <link>https://github.com/hendricius/the-sourdough-framework</link>
+      <description>&lt;p&gt;Open source book dedicated to helping you to make the best possible sourdough bread at home.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>libretro/docs</title>
+      <link>https://github.com/libretro/docs</link>
+      <description>&lt;p&gt;This is a repo of the RetroArch official document page.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheNetAdmin/zjuthesis</title>
+      <link>https://github.com/TheNetAdmin/zjuthesis</link>
+      <description>&lt;p&gt;Zhejiang University Graduation Thesis LaTeX Template&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>exacity/deeplearningbook-chinese</title>
+      <link>https://github.com/exacity/deeplearningbook-chinese</link>
+      <description>&lt;p&gt;Deep Learning Book Chinese Translation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sysprog21/lkmpg</title>
+      <link>https://github.com/sysprog21/lkmpg</link>
+      <description>&lt;p&gt;The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenHUTB/neuro</title>
+      <link>https://github.com/OpenHUTB/neuro</link>
+      <description>&lt;p&gt;神经科学原理&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>riscv/riscv-isa-manual</title>
+      <link>https://github.com/riscv/riscv-isa-manual</link>
+      <description>&lt;p&gt;RISC-V Instruction Set Manual&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sb2nov/resume</title>
+      <link>https://github.com/sb2nov/resume</link>
+      <description>&lt;p&gt;Software developer resume in Latex&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lervag/vimtex</title>
+      <link>https://github.com/lervag/vimtex</link>
+      <description>&lt;p&gt;VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>posquit0/Awesome-CV</title>
+      <link>https://github.com/posquit0/Awesome-CV</link>
+      <description>&lt;p&gt;📄 Awesome CV is LaTeX template for your outstanding job application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nunjucks Weekly Trending</title>
+    <description>Weekly Trending of Nunjucks in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:31:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>xdesro/personalsit.es</title>
+      <link>https://github.com/xdesro/personalsit.es</link>
+      <description>&lt;p&gt;📇 A little directory of people&#39;s personal sites&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

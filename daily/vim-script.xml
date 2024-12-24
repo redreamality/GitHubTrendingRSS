@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Vim Script Daily Trending</title>
+    <description>Daily Trending of Vim Script in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:23:38 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>neovim/neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description>&lt;p&gt;Vim-fork focused on extensibility and usability&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>morhetz/gruvbox</title>
+      <link>https://github.com/morhetz/gruvbox</link>
+      <description>&lt;p&gt;Retro groove color scheme for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim/vim</title>
+      <link>https://github.com/vim/vim</link>
+      <description>&lt;p&gt;The official Vim repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>junegunn/vim-plug</title>
+      <link>https://github.com/junegunn/vim-plug</link>
+      <description>&lt;p&gt;🌺 Minimalist Vim Plugin Manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fatih/vim-go</title>
+      <link>https://github.com/fatih/vim-go</link>
+      <description>&lt;p&gt;Go development plugin for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vim-airline/vim-airline</title>
+      <link>https://github.com/vim-airline/vim-airline</link>
+      <description>&lt;p&gt;lean &amp; mean status/tabline for vim that&#39;s light as air&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-fugitive</title>
+      <link>https://github.com/tpope/vim-fugitive</link>
+      <description>&lt;p&gt;fugitive.vim: A Git wrapper so awesome, it should be illegal&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sainnhe/gruvbox-material</title>
+      <link>https://github.com/sainnhe/gruvbox-material</link>
+      <description>&lt;p&gt;Gruvbox with Material Palette&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>liuchengxu/vista.vim</title>
+      <link>https://github.com/liuchengxu/vista.vim</link>
+      <description>&lt;p&gt;🌵 Viewer &amp; Finder for LSP symbols and tags&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tpope/vim-dadbod</title>
+      <link>https://github.com/tpope/vim-dadbod</link>
+      <description>&lt;p&gt;dadbod.vim: Modern database interface for Vim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>derekhe/msfs2020-map-enhancement</title>
+      <link>https://github.com/derekhe/msfs2020-map-enhancement</link>
+      <description>&lt;p&gt;MSFS2020 Map Enhancement&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lambdalisue/vim-fern</title>
+      <link>https://github.com/lambdalisue/vim-fern</link>
+      <description>&lt;p&gt;🌿 General purpose asynchronous tree viewer written in Pure Vim script&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rbong/vim-flog</title>
+      <link>https://github.com/rbong/vim-flog</link>
+      <description>&lt;p&gt;A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mileszs/ack.vim</title>
+      <link>https://github.com/mileszs/ack.vim</link>
+      <description>&lt;p&gt;Vim plugin for the Perl module / CLI script &#39;ack&#39;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exafunction/codeium.vim</title>
+      <link>https://github.com/Exafunction/codeium.vim</link>
+      <description>&lt;p&gt;Free, ultrafast Copilot alternative for Vim and Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ervandew/supertab</title>
+      <link>https://github.com/ervandew/supertab</link>
+      <description>&lt;p&gt;Perform all your vim insert mode completions with Tab&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pangloss/vim-javascript</title>
+      <link>https://github.com/pangloss/vim-javascript</link>
+      <description>&lt;p&gt;Vastly improved Javascript indentation and syntax support in Vim.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tyru/open-browser.vim</title>
+      <link>https://github.com/tyru/open-browser.vim</link>
+      <description>&lt;p&gt;Open URI with your favorite browser from your most favorite editor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>moll/vim-bbye</title>
+      <link>https://github.com/moll/vim-bbye</link>
+      <description>&lt;p&gt;Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dense-analysis/ale</title>
+      <link>https://github.com/dense-analysis/ale</link>
+      <description>&lt;p&gt;Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>slim-template/vim-slim</title>
+      <link>https://github.com/slim-template/vim-slim</link>
+      <description>&lt;p&gt;Syntax highlighting for VIM&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>xolox/vim-session</title>
+      <link>https://github.com/xolox/vim-session</link>
+      <description>&lt;p&gt;Extended session management for Vim (:mksession on steroids)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gelguy/wilder.nvim</title>
+      <link>https://github.com/gelguy/wilder.nvim</link>
+      <description>&lt;p&gt;A more adventurous wildmenu&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mhinz/vim-galore</title>
+      <link>https://github.com/mhinz/vim-galore</link>
+      <description>&lt;p&gt;🎓 All things Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

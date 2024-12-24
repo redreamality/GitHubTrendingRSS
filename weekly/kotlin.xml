@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Kotlin Weekly Trending</title>
+    <description>Weekly Trending of Kotlin in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:27:50 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>z-huang/InnerTune</title>
+      <link>https://github.com/z-huang/InnerTune</link>
+      <description>&lt;p&gt;A Material 3 YouTube Music client for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethereum-lists/chains</title>
+      <link>https://github.com/ethereum-lists/chains</link>
+      <description>&lt;p&gt;provides metadata for chains&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lizongying/my-tv-0</title>
+      <link>https://github.com/lizongying/my-tv-0</link>
+      <description>&lt;p&gt;我的電視·〇 電視視頻播放軟件，可以自定義視頻源&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>android/compose-samples</title>
+      <link>https://github.com/android/compose-samples</link>
+      <description>&lt;p&gt;Official Jetpack Compose samples.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>android/architecture-samples</title>
+      <link>https://github.com/android/architecture-samples</link>
+      <description>&lt;p&gt;A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DD3Boh/OuterTune</title>
+      <link>https://github.com/DD3Boh/OuterTune</link>
+      <description>&lt;p&gt;A Material 3 Music Player with YouTube Music support for Android. Forked from InnerTune&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>iSoron/uhabits</title>
+      <link>https://github.com/iSoron/uhabits</link>
+      <description>&lt;p&gt;Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JetBrains/compose-multiplatform</title>
+      <link>https://github.com/JetBrains/compose-multiplatform</link>
+      <description>&lt;p&gt;Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>android/nowinandroid</title>
+      <link>https://github.com/android/nowinandroid</link>
+      <description>&lt;p&gt;A fully functional Android app built entirely with Kotlin and Jetpack Compose&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RikkaApps/Shizuku</title>
+      <link>https://github.com/RikkaApps/Shizuku</link>
+      <description>&lt;p&gt;Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gedoor/legado</title>
+      <link>https://github.com/gedoor/legado</link>
+      <description>&lt;p&gt;Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tiann/KernelSU</title>
+      <link>https://github.com/tiann/KernelSU</link>
+      <description>&lt;p&gt;A Kernel based root solution for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DerGoogler/MMRL</title>
+      <link>https://github.com/DerGoogler/MMRL</link>
+      <description>&lt;p&gt;MMRL is an Android app that helps manage your own modules repository.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>home-assistant/android</title>
+      <link>https://github.com/home-assistant/android</link>
+      <description>&lt;p&gt;📱 Home Assistant Companion for Android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simplex-chat/simplex-chat</title>
+      <link>https://github.com/simplex-chat/simplex-chat</link>
+      <description>&lt;p&gt;SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>futo-org/grayjay-android</title>
+      <link>https://github.com/futo-org/grayjay-android</link>
+      <description>&lt;p&gt;Read-only mirror of Grayjay repo for issue tracking&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>toasterofbread/spmp</title>
+      <link>https://github.com/toasterofbread/spmp</link>
+      <description>&lt;p&gt;A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gotson/komga</title>
+      <link>https://github.com/gotson/komga</link>
+      <description>&lt;p&gt;Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kotlin/kotlinx.coroutines</title>
+      <link>https://github.com/Kotlin/kotlinx.coroutines</link>
+      <description>&lt;p&gt;Library support for Kotlin coroutines&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kizitonwose/Calendar</title>
+      <link>https://github.com/kizitonwose/Calendar</link>
+      <description>&lt;p&gt;A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

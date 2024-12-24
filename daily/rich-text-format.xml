@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rich Text Format Daily Trending</title>
+    <description>Daily Trending of Rich Text Format in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:18 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Maradonna90/NewGAN-Manager</title>
+      <link>https://github.com/Maradonna90/NewGAN-Manager</link>
+      <description>&lt;p&gt;A tool to generate and manage xml configs for the Newgen Facepack.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nicehash/NiceHashMiner</title>
+      <link>https://github.com/nicehash/NiceHashMiner</link>
+      <description>&lt;p&gt;NiceHash Miner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

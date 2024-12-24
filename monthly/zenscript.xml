@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub ZenScript Monthly Trending</title>
+    <description>Monthly Trending of ZenScript in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:45:28 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>sainagh/meatballcraft</title>
+      <link>https://github.com/sainagh/meatballcraft</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pa1nki113r/Project_Brutality</title>
+      <link>https://github.com/pa1nki113r/Project_Brutality</link>
+      <description>&lt;p&gt;This is the primary repository for collaborative efforts between Doom developers on Project Brutality. This is the bleeding-edge version that is constantly being developed on, and not meant in any way shape or form to be representative of the final version of the mod.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

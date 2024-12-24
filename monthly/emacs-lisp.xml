@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Monthly Trending</title>
+    <description>Monthly Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:36:41 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>melpa/melpa</title>
+      <link>https://github.com/melpa/melpa</link>
+      <description>&lt;p&gt;Recipes and build machinery for the biggest Emacs package repo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>millejoh/emacs-ipython-notebook</title>
+      <link>https://github.com/millejoh/emacs-ipython-notebook</link>
+      <description>&lt;p&gt;Jupyter notebook client in Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>akermu/emacs-libvterm</title>
+      <link>https://github.com/akermu/emacs-libvterm</link>
+      <description>&lt;p&gt;Emacs libvterm integration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>&lt;p&gt;Emacs client/library for the Language Server Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dominikh/go-mode.el</title>
+      <link>https://github.com/dominikh/go-mode.el</link>
+      <description>&lt;p&gt;Emacs mode for the Go programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>purcell/emacs-reformatter</title>
+      <link>https://github.com/purcell/emacs-reformatter</link>
+      <description>&lt;p&gt;Define commands which run reformatters on the current Emacs buffer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bbatsov/projectile</title>
+      <link>https://github.com/bbatsov/projectile</link>
+      <description>&lt;p&gt;Project Interaction Library for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rainstormstudio/nerd-icons.el</title>
+      <link>https://github.com/rainstormstudio/nerd-icons.el</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rejeep/f.el</title>
+      <link>https://github.com/rejeep/f.el</link>
+      <description>&lt;p&gt;Modern API for working with files and directories in Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>abo-abo/swiper</title>
+      <link>https://github.com/abo-abo/swiper</link>
+      <description>&lt;p&gt;Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>radian-software/straight.el</title>
+      <link>https://github.com/radian-software/straight.el</link>
+      <description>&lt;p&gt;🍀 Next-generation, purely functional package manager for the Emacs hacker.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>magit/transient</title>
+      <link>https://github.com/magit/transient</link>
+      <description>&lt;p&gt;Transient commands&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

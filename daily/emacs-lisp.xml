@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Emacs Lisp Daily Trending</title>
+    <description>Daily Trending of Emacs Lisp in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:18:49 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>doomemacs/doomemacs</title>
+      <link>https://github.com/doomemacs/doomemacs</link>
+      <description>&lt;p&gt;An Emacs framework for the stubborn martian hacker&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>&lt;p&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#39;s Emacs *and* Vim!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>melpa/melpa</title>
+      <link>https://github.com/melpa/melpa</link>
+      <description>&lt;p&gt;Recipes and build machinery for the biggest Emacs package repo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-mirror/emacs</title>
+      <link>https://github.com/emacs-mirror/emacs</link>
+      <description>&lt;p&gt;Mirror of GNU Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>karthink/gptel</title>
+      <link>https://github.com/karthink/gptel</link>
+      <description>&lt;p&gt;A simple LLM client for Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kaorahi/howm</title>
+      <link>https://github.com/kaorahi/howm</link>
+      <description>&lt;p&gt;note-taking tool on Emacs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/haskell-mode</title>
+      <link>https://github.com/haskell/haskell-mode</link>
+      <description>&lt;p&gt;Emacs mode for Haskell&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dominikh/go-mode.el</title>
+      <link>https://github.com/dominikh/go-mode.el</link>
+      <description>&lt;p&gt;Emacs mode for the Go programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>qjcg/awesome-typst</title>
+      <link>https://github.com/qjcg/awesome-typst</link>
+      <description>&lt;p&gt;Awesome Typst Links&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/rust-mode</title>
+      <link>https://github.com/rust-lang/rust-mode</link>
+      <description>&lt;p&gt;Emacs configuration for Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emacs-lsp/lsp-mode</title>
+      <link>https://github.com/emacs-lsp/lsp-mode</link>
+      <description>&lt;p&gt;Emacs client/library for the Language Server Protocol&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dimitri/el-get</title>
+      <link>https://github.com/dimitri/el-get</link>
+      <description>&lt;p&gt;Manage the external elisp bits and pieces upon which you depend!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

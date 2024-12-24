@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub MoonBit Daily Trending</title>
+    <description>Daily Trending of MoonBit in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:20:56 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>moonbitlang/moonbit-docs</title>
+      <link>https://github.com/moonbitlang/moonbit-docs</link>
+      <description>&lt;p&gt;The docs of MoonBit programming language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>moonbitlang/core</title>
+      <link>https://github.com/moonbitlang/core</link>
+      <description>&lt;p&gt;MoonBit&#39;s Core library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

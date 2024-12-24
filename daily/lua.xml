@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Lua Daily Trending</title>
+    <description>Daily Trending of Lua in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:20:29 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>yetone/avante.nvim</title>
+      <link>https://github.com/yetone/avante.nvim</link>
+      <description>&lt;p&gt;Use your Neovim like using Cursor AI IDE!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mrcjkb/rustaceanvim</title>
+      <link>https://github.com/mrcjkb/rustaceanvim</link>
+      <description>&lt;p&gt;🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MathIsFun0/Cryptid</title>
+      <link>https://github.com/MathIsFun0/Cryptid</link>
+      <description>&lt;p&gt;An unbalanced Balatro mod&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koreader/koreader</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description>&lt;p&gt;An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>williamboman/mason-lspconfig.nvim</title>
+      <link>https://github.com/williamboman/mason-lspconfig.nvim</link>
+      <description>&lt;p&gt;Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-tree/nvim-web-devicons</title>
+      <link>https://github.com/nvim-tree/nvim-web-devicons</link>
+      <description>&lt;p&gt;Provides Nerd Font icons (glyphs) for use by neovim plugins&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-lua/plenary.nvim</title>
+      <link>https://github.com/nvim-lua/plenary.nvim</link>
+      <description>&lt;p&gt;plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>stevearc/dressing.nvim</title>
+      <link>https://github.com/stevearc/dressing.nvim</link>
+      <description>&lt;p&gt;Neovim plugin to improve the default vim.ui interfaces&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neovim/nvim-lspconfig</title>
+      <link>https://github.com/neovim/nvim-lspconfig</link>
+      <description>&lt;p&gt;Quickstart configs for Nvim LSP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mrjones2014/smart-splits.nvim</title>
+      <link>https://github.com/mrjones2014/smart-splits.nvim</link>
+      <description>&lt;p&gt;🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of &quot;up/down/left/right&quot;.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-tree/nvim-tree.lua</title>
+      <link>https://github.com/nvim-tree/nvim-tree.lua</link>
+      <description>&lt;p&gt;A file explorer tree for neovim written in lua&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>josean-dev/dev-environment-files</title>
+      <link>https://github.com/josean-dev/dev-environment-files</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LazyVim/starter</title>
+      <link>https://github.com/LazyVim/starter</link>
+      <description>&lt;p&gt;Starter template for LazyVim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>echasnovski/mini.nvim</title>
+      <link>https://github.com/echasnovski/mini.nvim</link>
+      <description>&lt;p&gt;Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DNLHC/glance.nvim</title>
+      <link>https://github.com/DNLHC/glance.nvim</link>
+      <description>&lt;p&gt;Peek preview window for LSP locations in Neovim&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NeogitOrg/neogit</title>
+      <link>https://github.com/NeogitOrg/neogit</link>
+      <description>&lt;p&gt;An interactive and powerful Git interface for Neovim, inspired by Magit&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvim-lua/kickstart.nvim</title>
+      <link>https://github.com/nvim-lua/kickstart.nvim</link>
+      <description>&lt;p&gt;A launch point for your personal nvim configuration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

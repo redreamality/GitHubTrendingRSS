@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub PHP Weekly Trending</title>
+    <description>Weekly Trending of PHP in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:31:41 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>shopware/shopware</title>
+      <link>https://github.com/shopware/shopware</link>
+      <description>&lt;p&gt;Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bagisto/bagisto</title>
+      <link>https://github.com/bagisto/bagisto</link>
+      <description>&lt;p&gt;Free and open source laravel eCommerce platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>monicahq/monica</title>
+      <link>https://github.com/monicahq/monica</link>
+      <description>&lt;p&gt;Personal CRM. Remember everything about your friends, family and business relationships.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vitodeploy/vito</title>
+      <link>https://github.com/vitodeploy/vito</link>
+      <description>&lt;p&gt;Free and Self-Hosted Server Management Tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>glpi-project/glpi</title>
+      <link>https://github.com/glpi-project/glpi</link>
+      <description>&lt;p&gt;GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>filamentphp/filament</title>
+      <link>https://github.com/filamentphp/filament</link>
+      <description>&lt;p&gt;A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mautic/mautic</title>
+      <link>https://github.com/mautic/mautic</link>
+      <description>&lt;p&gt;Mautic: Open Source Marketing Automation Software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>danielmiessler/SecLists</title>
+      <link>https://github.com/danielmiessler/SecLists</link>
+      <description>&lt;p&gt;SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leokhoa/laragon</title>
+      <link>https://github.com/leokhoa/laragon</link>
+      <description>&lt;p&gt;Laragon is a portable, isolated, fast &amp; powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>woocommerce/woocommerce</title>
+      <link>https://github.com/woocommerce/woocommerce</link>
+      <description>&lt;p&gt;A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>matomo-org/matomo</title>
+      <link>https://github.com/matomo-org/matomo</link>
+      <description>&lt;p&gt;Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1. And we love Pull Requests!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pterodactyl/panel</title>
+      <link>https://github.com/pterodactyl/panel</link>
+      <description>&lt;p&gt;Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firefly-iii/firefly-iii</title>
+      <link>https://github.com/firefly-iii/firefly-iii</link>
+      <description>&lt;p&gt;Firefly III: a personal finances manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexjustesen/speedtest-tracker</title>
+      <link>https://github.com/alexjustesen/speedtest-tracker</link>
+      <description>&lt;p&gt;Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rectorphp/rector</title>
+      <link>https://github.com/rectorphp/rector</link>
+      <description>&lt;p&gt;Instant Upgrades and Automated Refactoring of any PHP 5.3+ code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JhumanJ/OpnForm</title>
+      <link>https://github.com/JhumanJ/OpnForm</link>
+      <description>&lt;p&gt;Beautiful Open-Source Form Builder&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>espocrm/espocrm</title>
+      <link>https://github.com/espocrm/espocrm</link>
+      <description>&lt;p&gt;EspoCRM – Open Source CRM Application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>snipe/snipe-it</title>
+      <link>https://github.com/snipe/snipe-it</link>
+      <description>&lt;p&gt;A free open source IT asset/license management system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>elementor/elementor</title>
+      <link>https://github.com/elementor/elementor</link>
+      <description>&lt;p&gt;The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>librenms/librenms</title>
+      <link>https://github.com/librenms/librenms</link>
+      <description>&lt;p&gt;Community-based GPL-licensed network monitoring system&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>invoiceninja/invoiceninja</title>
+      <link>https://github.com/invoiceninja/invoiceninja</link>
+      <description>&lt;p&gt;A source-available invoice, quote, project and time-tracking app built with Laravel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alextselegidis/easyappointments</title>
+      <link>https://github.com/alextselegidis/easyappointments</link>
+      <description>&lt;p&gt;📅 Easy!Appointments - Self Hosted Appointment Scheduler&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

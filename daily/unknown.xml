@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Daily Trending</title>
+    <description>Daily Trending of Unknown languages in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:16:47 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>practical-tutorials/project-based-learning</title>
+      <link>https://github.com/practical-tutorials/project-based-learning</link>
+      <description>&lt;p&gt;Curated list of project-based tutorials&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jwasham/coding-interview-university</title>
+      <link>https://github.com/jwasham/coding-interview-university</link>
+      <description>&lt;p&gt;A complete computer science study plan to become a software engineer.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hijkzzz/Awesome-LLM-Strawberry</title>
+      <link>https://github.com/hijkzzz/Awesome-LLM-Strawberry</link>
+      <description>&lt;p&gt;A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pathwaycom/llm-app</title>
+      <link>https://github.com/pathwaycom/llm-app</link>
+      <description>&lt;p&gt;Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ngosang/trackerslist</title>
+      <link>https://github.com/ngosang/trackerslist</link>
+      <description>&lt;p&gt;Updated list of public BitTorrent trackers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>emmabostian/developer-portfolios</title>
+      <link>https://github.com/emmabostian/developer-portfolios</link>
+      <description>&lt;p&gt;A list of developer portfolios for your inspiration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ossu/computer-science</title>
+      <link>https://github.com/ossu/computer-science</link>
+      <description>&lt;p&gt;🎓 Path to a free self-taught education in Computer Science!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nostr-protocol/nips</title>
+      <link>https://github.com/nostr-protocol/nips</link>
+      <description>&lt;p&gt;Nostr Implementation Possibilities&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hack-with-Github/Awesome-Hacking</title>
+      <link>https://github.com/Hack-with-Github/Awesome-Hacking</link>
+      <description>&lt;p&gt;A collection of various awesome lists for hackers, pentesters and security researchers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prakhar1989/awesome-courses</title>
+      <link>https://github.com/prakhar1989/awesome-courses</link>
+      <description>&lt;p&gt;📚 List of awesome university courses for learning Computer Science!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>birobirobiro/awesome-shadcn-ui</title>
+      <link>https://github.com/birobirobiro/awesome-shadcn-ui</link>
+      <description>&lt;p&gt;A curated list of awesome things related to shadcn/ui.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lukasz-madon/awesome-remote-job</title>
+      <link>https://github.com/lukasz-madon/awesome-remote-job</link>
+      <description>&lt;p&gt;A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

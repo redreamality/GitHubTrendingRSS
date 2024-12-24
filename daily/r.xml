@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub R Daily Trending</title>
+    <description>Daily Trending of R in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:08 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>r-lib/tree-sitter-r</title>
+      <link>https://github.com/r-lib/tree-sitter-r</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>swirldev/swirl_courses</title>
+      <link>https://github.com/swirldev/swirl_courses</link>
+      <description>&lt;p&gt;🎓 A collection of interactive courses for the swirl R package.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>satijalab/seurat</title>
+      <link>https://github.com/satijalab/seurat</link>
+      <description>&lt;p&gt;R toolkit for single cell genomics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

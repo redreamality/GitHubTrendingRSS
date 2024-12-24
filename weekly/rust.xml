@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rust Weekly Trending</title>
+    <description>Weekly Trending of Rust in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:32:45 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tursodatabase/limbo</title>
+      <link>https://github.com/tursodatabase/limbo</link>
+      <description>&lt;p&gt;Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sxyazi/yazi</title>
+      <link>https://github.com/sxyazi/yazi</link>
+      <description>&lt;p&gt;💥 Blazing fast terminal file manager written in Rust, based on async I/O.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>0xPlaygrounds/rig</title>
+      <link>https://github.com/0xPlaygrounds/rig</link>
+      <description>&lt;p&gt;⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>DioxusLabs/dioxus</title>
+      <link>https://github.com/DioxusLabs/dioxus</link>
+      <description>&lt;p&gt;Fullstack app framework for web, desktop, mobile, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>meilisearch/meilisearch</title>
+      <link>https://github.com/meilisearch/meilisearch</link>
+      <description>&lt;p&gt;A lightning-fast search API that fits effortlessly into your apps, websites, and workflow&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hyperium/hyper</title>
+      <link>https://github.com/hyperium/hyper</link>
+      <description>&lt;p&gt;An HTTP library for Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>neondatabase/neon</title>
+      <link>https://github.com/neondatabase/neon</link>
+      <description>&lt;p&gt;Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>influxdata/influxdb</title>
+      <link>https://github.com/influxdata/influxdb</link>
+      <description>&lt;p&gt;Scalable datastore for metrics, events, and real-time analytics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>denoland/deno</title>
+      <link>https://github.com/denoland/deno</link>
+      <description>&lt;p&gt;A modern runtime for JavaScript and TypeScript.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jj-vcs/jj</title>
+      <link>https://github.com/jj-vcs/jj</link>
+      <description>&lt;p&gt;A Git-compatible VCS that is both simple and powerful&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fish-shell/fish-shell</title>
+      <link>https://github.com/fish-shell/fish-shell</link>
+      <description>&lt;p&gt;The user-friendly command line shell.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>embassy-rs/embassy</title>
+      <link>https://github.com/embassy-rs/embassy</link>
+      <description>&lt;p&gt;Modern embedded framework, using Rust and async.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/windows-rs</title>
+      <link>https://github.com/microsoft/windows-rs</link>
+      <description>&lt;p&gt;Rust for Windows&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>helix-editor/helix</title>
+      <link>https://github.com/helix-editor/helix</link>
+      <description>&lt;p&gt;A post-modern modal text editor.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dani-garcia/vaultwarden</title>
+      <link>https://github.com/dani-garcia/vaultwarden</link>
+      <description>&lt;p&gt;Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>yetanotherco/aligned_layer</title>
+      <link>https://github.com/yetanotherco/aligned_layer</link>
+      <description>&lt;p&gt;Aligned is a verification layer for zero-knowledge proofs using EigenLayer. Our mission is to accelerate the adoption of zero-knowledge and validity proofs on Ethereum.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>paradigmxyz/reth</title>
+      <link>https://github.com/paradigmxyz/reth</link>
+      <description>&lt;p&gt;Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mainmatter/100-exercises-to-learn-rust</title>
+      <link>https://github.com/mainmatter/100-exercises-to-learn-rust</link>
+      <description>&lt;p&gt;A self-paced course to learn Rust, one exercise at a time.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FuelLabs/fuel-core</title>
+      <link>https://github.com/FuelLabs/fuel-core</link>
+      <description>&lt;p&gt;Rust full node implementation of the Fuel v2 protocol.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sharkdp/bat</title>
+      <link>https://github.com/sharkdp/bat</link>
+      <description>&lt;p&gt;A cat(1) clone with wings.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>biomejs/biome</title>
+      <link>https://github.com/biomejs/biome</link>
+      <description>&lt;p&gt;A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>libp2p/rust-libp2p</title>
+      <link>https://github.com/libp2p/rust-libp2p</link>
+      <description>&lt;p&gt;The Rust Implementation of the libp2p networking stack.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>web-infra-dev/rspack</title>
+      <link>https://github.com/web-infra-dev/rspack</link>
+      <description>&lt;p&gt;The fast Rust-based web bundler with webpack-compatible API 🦀️&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-unofficial/awesome-rust</title>
+      <link>https://github.com/rust-unofficial/awesome-rust</link>
+      <description>&lt;p&gt;A curated list of Rust code and resources.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

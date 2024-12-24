@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Smalltalk Daily Trending</title>
+    <description>Daily Trending of Smalltalk in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:50 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pharo-contributions/OSSubprocess</title>
+      <link>https://github.com/pharo-contributions/OSSubprocess</link>
+      <description>&lt;p&gt;Forking Operating System Processes from within Pharo Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

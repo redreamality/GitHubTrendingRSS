@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub SystemVerilog Daily Trending</title>
+    <description>Daily Trending of SystemVerilog in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:23:09 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>openhwgroup/cv-hpdcache</title>
+      <link>https://github.com/openhwgroup/cv-hpdcache</link>
+      <description>&lt;p&gt;RTL sources of the High-Performance L1 Dcache (HPDcache) for OpenHW CV cores&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pulp-platform/riscv-dbg</title>
+      <link>https://github.com/pulp-platform/riscv-dbg</link>
+      <description>&lt;p&gt;RISC-V Debug Support for our PULP RISC-V Cores&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lowRISC/ibex</title>
+      <link>https://github.com/lowRISC/ibex</link>
+      <description>&lt;p&gt;Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chipsalliance/sv-tests</title>
+      <link>https://github.com/chipsalliance/sv-tests</link>
+      <description>&lt;p&gt;Test suite designed to check compliance with the SystemVerilog standard.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bespoke-silicon-group/basejump_stl</title>
+      <link>https://github.com/bespoke-silicon-group/basejump_stl</link>
+      <description>&lt;p&gt;BaseJump STL: A Standard Template Library for SystemVerilog&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pulp-platform/axi</title>
+      <link>https://github.com/pulp-platform/axi</link>
+      <description>&lt;p&gt;AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

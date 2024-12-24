@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scheme Weekly Trending</title>
+    <description>Weekly Trending of Scheme in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:32:51 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nvim-treesitter/nvim-treesitter</title>
+      <link>https://github.com/nvim-treesitter/nvim-treesitter</link>
+      <description>&lt;p&gt;Nvim Treesitter configurations and abstraction layer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RRethy/nvim-treesitter-textsubjects</title>
+      <link>https://github.com/RRethy/nvim-treesitter-textsubjects</link>
+      <description>&lt;p&gt;Location and syntax aware text objects which *do what you mean*&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

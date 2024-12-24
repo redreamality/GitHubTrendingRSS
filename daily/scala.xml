@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Scala Daily Trending</title>
+    <description>Daily Trending of Scala in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:41 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>lichess-org/lila</title>
+      <link>https://github.com/lichess-org/lila</link>
+      <description>&lt;p&gt;♞ lichess.org: the forever free, adless and open source chess server ♞&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/spark</title>
+      <link>https://github.com/apache/spark</link>
+      <description>&lt;p&gt;Apache Spark - A unified analytics engine for large-scale data processing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenXiangShan/XiangShan</title>
+      <link>https://github.com/OpenXiangShan/XiangShan</link>
+      <description>&lt;p&gt;Open-source high-performance RISC-V processor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>open-korean-text/open-korean-text</title>
+      <link>https://github.com/open-korean-text/open-korean-text</link>
+      <description>&lt;p&gt;Open Korean Text Processor - An Open-source Korean Text Processor&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/incubator-livy</title>
+      <link>https://github.com/apache/incubator-livy</link>
+      <description>&lt;p&gt;Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aimacode/aima-scala</title>
+      <link>https://github.com/aimacode/aima-scala</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>delta-io/delta</title>
+      <link>https://github.com/delta-io/delta</link>
+      <description>&lt;p&gt;An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rtyley/bfg-repo-cleaner</title>
+      <link>https://github.com/rtyley/bfg-repo-cleaner</link>
+      <description>&lt;p&gt;Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>twitter/the-algorithm</title>
+      <link>https://github.com/twitter/the-algorithm</link>
+      <description>&lt;p&gt;Source code for Twitter&#39;s Recommendation Algorithm&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chipsalliance/rocket-chip</title>
+      <link>https://github.com/chipsalliance/rocket-chip</link>
+      <description>&lt;p&gt;Rocket Chip Generator&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>broadinstitute/cromwell</title>
+      <link>https://github.com/broadinstitute/cromwell</link>
+      <description>&lt;p&gt;Scientific workflow engine designed for simplicity &amp; scalability. Trivially transition between one off use cases to massive scale production environments&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>scala/scala</title>
+      <link>https://github.com/scala/scala</link>
+      <description>&lt;p&gt;Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>digital-asset/daml</title>
+      <link>https://github.com/digital-asset/daml</link>
+      <description>&lt;p&gt;The Daml smart contract language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/chipyard</title>
+      <link>https://github.com/ucb-bar/chipyard</link>
+      <description>&lt;p&gt;An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>typelevel/cats-effect</title>
+      <link>https://github.com/typelevel/cats-effect</link>
+      <description>&lt;p&gt;The pure asynchronous runtime for Scala&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucb-bar/berkeley-hardfloat</title>
+      <link>https://github.com/ucb-bar/berkeley-hardfloat</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/carbondata</title>
+      <link>https://github.com/apache/carbondata</link>
+      <description>&lt;p&gt;High performance data store solution&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sbt/sbt</title>
+      <link>https://github.com/sbt/sbt</link>
+      <description>&lt;p&gt;sbt, the interactive build tool&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firesim/firesim</title>
+      <link>https://github.com/firesim/firesim</link>
+      <description>&lt;p&gt;FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apache/kyuubi</title>
+      <link>https://github.com/apache/kyuubi</link>
+      <description>&lt;p&gt;Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

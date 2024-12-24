@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CSS Daily Trending</title>
+    <description>Daily Trending of CSS in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:18:12 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imfing/hextra</title>
+      <link>https://github.com/imfing/hextra</link>
+      <description>&lt;p&gt;🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>joy-of-react/project-wordle</title>
+      <link>https://github.com/joy-of-react/project-wordle</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>lipis/flag-icons</title>
+      <link>https://github.com/lipis/flag-icons</link>
+      <description>&lt;p&gt;🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>EthicalSource/contributor_covenant</title>
+      <link>https://github.com/EthicalSource/contributor_covenant</link>
+      <description>&lt;p&gt;Pledge your respect and appreciation for contributors of all kinds to your open source project.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>thewhiteh4t/seeker</title>
+      <link>https://github.com/thewhiteh4t/seeker</link>
+      <description>&lt;p&gt;Accurately Locate Smartphones using Social Engineering&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>spring-projects/spring-petclinic</title>
+      <link>https://github.com/spring-projects/spring-petclinic</link>
+      <description>&lt;p&gt;A sample Spring-based application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>panr/hugo-theme-terminal</title>
+      <link>https://github.com/panr/hugo-theme-terminal</link>
+      <description>&lt;p&gt;A simple, retro theme for Hugo&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-lang/nomicon</title>
+      <link>https://github.com/rust-lang/nomicon</link>
+      <description>&lt;p&gt;The Dark Arts of Advanced and Unsafe Rust Programming&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>McShelby/hugo-theme-relearn</title>
+      <link>https://github.com/McShelby/hugo-theme-relearn</link>
+      <description>&lt;p&gt;A theme for Hugo designed for documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jothepro/doxygen-awesome-css</title>
+      <link>https://github.com/jothepro/doxygen-awesome-css</link>
+      <description>&lt;p&gt;Custom CSS theme for doxygen html-documentation with lots of customization parameters.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Daily Trending</title>
+    <description>Daily Trending of Shell in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:46 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pi-hole/docker-pi-hole</title>
+      <link>https://github.com/pi-hole/docker-pi-hole</link>
+      <description>&lt;p&gt;Pi-hole in a docker container&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>termux/termux-packages</title>
+      <link>https://github.com/termux/termux-packages</link>
+      <description>&lt;p&gt;A package build system for Termux.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mylinuxforwork/dotfiles</title>
+      <link>https://github.com/mylinuxforwork/dotfiles</link>
+      <description>&lt;p&gt;The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributions.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kaldi-asr/kaldi</title>
+      <link>https://github.com/kaldi-asr/kaldi</link>
+      <description>&lt;p&gt;kaldi-asr/kaldi is the official location of the Kaldi project.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zigbee2mqtt/hassio-zigbee2mqtt</title>
+      <link>https://github.com/zigbee2mqtt/hassio-zigbee2mqtt</link>
+      <description>&lt;p&gt;Official Zigbee2MQTT Home Assistant add-on&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>&lt;p&gt;Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>void-linux/void-packages</title>
+      <link>https://github.com/void-linux/void-packages</link>
+      <description>&lt;p&gt;The Void source packages collection&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pi-hole/pi-hole</title>
+      <link>https://github.com/pi-hole/pi-hole</link>
+      <description>&lt;p&gt;A black hole for Internet advertisements&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>prasanthrangan/hyprdots</title>
+      <link>https://github.com/prasanthrangan/hyprdots</link>
+      <description>&lt;p&gt;// Aesthetic, dynamic and minimal dots for Arch hyprland&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>itzg/docker-minecraft-server</title>
+      <link>https://github.com/itzg/docker-minecraft-server</link>
+      <description>&lt;p&gt;Docker image that provides a Minecraft Server that will automatically download selected version at startup&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ton-blockchain/wallet-contract</title>
+      <link>https://github.com/ton-blockchain/wallet-contract</link>
+      <description>&lt;p&gt;Wallet V4 and subscription smart contracts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kiddin9/Kwrt</title>
+      <link>https://github.com/kiddin9/Kwrt</link>
+      <description>&lt;p&gt;一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P, 树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>docker-mailserver/docker-mailserver</title>
+      <link>https://github.com/docker-mailserver/docker-mailserver</link>
+      <description>&lt;p&gt;Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>catppuccin/tmux</title>
+      <link>https://github.com/catppuccin/tmux</link>
+      <description>&lt;p&gt;💽 Soothing pastel theme for Tmux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>geerlingguy/mac-dev-playbook</title>
+      <link>https://github.com/geerlingguy/mac-dev-playbook</link>
+      <description>&lt;p&gt;Mac setup and configuration via Ansible.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Swift Daily Trending</title>
+    <description>Daily Trending of Swift in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:23:10 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>github/CopilotForXcode</title>
+      <link>https://github.com/github/CopilotForXcode</link>
+      <description>&lt;p&gt;Xcode extension for GitHub Copilot&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RevenueCat/purchases-ios</title>
+      <link>https://github.com/RevenueCat/purchases-ios</link>
+      <description>&lt;p&gt;In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>seemoo-lab/openhaystack</title>
+      <link>https://github.com/seemoo-lab/openhaystack</link>
+      <description>&lt;p&gt;Build your own &#39;AirTags&#39; 🏷 today! Framework for tracking personal Bluetooth devices via Apple&#39;s massive Find My network.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Whisky-App/Whisky</title>
+      <link>https://github.com/Whisky-App/Whisky</link>
+      <description>&lt;p&gt;A modern Wine wrapper for macOS built with SwiftUI&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sindresorhus/KeyboardShortcuts</title>
+      <link>https://github.com/sindresorhus/KeyboardShortcuts</link>
+      <description>&lt;p&gt;⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-openapi-generator</title>
+      <link>https://github.com/apple/swift-openapi-generator</link>
+      <description>&lt;p&gt;Generate Swift client and server code from an OpenAPI document.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mrousavy/react-native-vision-camera</title>
+      <link>https://github.com/mrousavy/react-native-vision-camera</link>
+      <description>&lt;p&gt;📸 A powerful, high-performance React Native Camera library.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>whoeevee/EeveeSpotify</title>
+      <link>https://github.com/whoeevee/EeveeSpotify</link>
+      <description>&lt;p&gt;A tweak to get Spotify Premium for free, just like Spotilife&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>macmade/Hot</title>
+      <link>https://github.com/macmade/Hot</link>
+      <description>&lt;p&gt;Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>quoid/userscripts</title>
+      <link>https://github.com/quoid/userscripts</link>
+      <description>&lt;p&gt;An open-source userscript manager for Safari&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>khcrysalis/Feather</title>
+      <link>https://github.com/khcrysalis/Feather</link>
+      <description>&lt;p&gt;Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>utmapp/UTM</title>
+      <link>https://github.com/utmapp/UTM</link>
+      <description>&lt;p&gt;Virtual machines for iOS and macOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws-samples/amazon-bedrock-client-for-mac</title>
+      <link>https://github.com/aws-samples/amazon-bedrock-client-for-mac</link>
+      <description>&lt;p&gt;A sleek and powerful macOS client for Amazon Bedrock, bringing AI models to your desktop&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>home-assistant/iOS</title>
+      <link>https://github.com/home-assistant/iOS</link>
+      <description>&lt;p&gt;📱 Home Assistant for Apple platforms&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>altstoreio/AltStore</title>
+      <link>https://github.com/altstoreio/AltStore</link>
+      <description>&lt;p&gt;AltStore is an alternative app store for non-jailbroken iOS devices.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vapor/vapor</title>
+      <link>https://github.com/vapor/vapor</link>
+      <description>&lt;p&gt;💧 A server-side Swift HTTP web framework.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChartsOrg/Charts</title>
+      <link>https://github.com/ChartsOrg/Charts</link>
+      <description>&lt;p&gt;Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ReactiveX/RxSwift</title>
+      <link>https://github.com/ReactiveX/RxSwift</link>
+      <description>&lt;p&gt;Reactive Programming in Swift&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>argmaxinc/WhisperKit</title>
+      <link>https://github.com/argmaxinc/WhisperKit</link>
+      <description>&lt;p&gt;On-device Speech Recognition for Apple Silicon&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>onevcat/Kingfisher</title>
+      <link>https://github.com/onevcat/Kingfisher</link>
+      <description>&lt;p&gt;A lightweight, pure-Swift library for downloading and caching images from the web.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SwifterSwift/SwifterSwift</title>
+      <link>https://github.com/SwifterSwift/SwifterSwift</link>
+      <description>&lt;p&gt;A handy collection of more than 500 native Swift extensions to boost your productivity.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>groue/GRDB.swift</title>
+      <link>https://github.com/groue/GRDB.swift</link>
+      <description>&lt;p&gt;A toolkit for SQLite databases, with a focus on application development&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>EhPanda-Team/EhPanda</title>
+      <link>https://github.com/EhPanda-Team/EhPanda</link>
+      <description>&lt;p&gt;An unofficial E-Hentai App for iOS built with SwiftUI &amp; TCA.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

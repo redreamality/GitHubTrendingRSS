@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Assembly Daily Trending</title>
+    <description>Daily Trending of Assembly in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:17:14 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>pret/pokered</title>
+      <link>https://github.com/pret/pokered</link>
+      <description>&lt;p&gt;Disassembly of Pokémon Red/Blue&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Apress/low-level-programming</title>
+      <link>https://github.com/Apress/low-level-programming</link>
+      <description>&lt;p&gt;Source code for &#39;Low-Level Programming&#39; by Igor Zhirkov&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leachim6/hello-world</title>
+      <link>https://github.com/leachim6/hello-world</link>
+      <description>&lt;p&gt;Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>boostorg/context</title>
+      <link>https://github.com/boostorg/context</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JSsixtyfour/smashremix</title>
+      <link>https://github.com/JSsixtyfour/smashremix</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chrislgarry/Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <description>&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rangi42/polishedcrystal</title>
+      <link>https://github.com/Rangi42/polishedcrystal</link>
+      <description>&lt;p&gt;An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bitdump/BLHeli</title>
+      <link>https://github.com/bitdump/BLHeli</link>
+      <description>&lt;p&gt;BLHeli for brushless ESC firmware&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SheerSt/pokewilds</title>
+      <link>https://github.com/SheerSt/pokewilds</link>
+      <description>&lt;p&gt;PokeWilds - A Gen 2 Game/Engine using libGDX&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>openhwgroup/cva6</title>
+      <link>https://github.com/openhwgroup/cva6</link>
+      <description>&lt;p&gt;The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>apple/swift-crypto</title>
+      <link>https://github.com/apple/swift-crypto</link>
+      <description>&lt;p&gt;Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>giaf/blasfeo</title>
+      <link>https://github.com/giaf/blasfeo</link>
+      <description>&lt;p&gt;Basic linear algebra subroutines for embedded optimization&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pooler/cpuminer</title>
+      <link>https://github.com/pooler/cpuminer</link>
+      <description>&lt;p&gt;CPU miner for Litecoin and Bitcoin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BLAKE3-team/BLAKE3</title>
+      <link>https://github.com/BLAKE3-team/BLAKE3</link>
+      <description>&lt;p&gt;the official Rust and C implementations of the BLAKE3 cryptographic hash function&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

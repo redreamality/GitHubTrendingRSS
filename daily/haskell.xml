@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Haskell Daily Trending</title>
+    <description>Daily Trending of Haskell in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:19:28 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>b3nj5m1n/xdg-ninja</title>
+      <link>https://github.com/b3nj5m1n/xdg-ninja</link>
+      <description>&lt;p&gt;A shell script which checks your $HOME for unwanted files and directories.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kmonad/kmonad</title>
+      <link>https://github.com/kmonad/kmonad</link>
+      <description>&lt;p&gt;An advanced keyboard manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PostgREST/postgrest</title>
+      <link>https://github.com/PostgREST/postgrest</link>
+      <description>&lt;p&gt;REST API for any Postgres database&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>NixOS/nixfmt</title>
+      <link>https://github.com/NixOS/nixfmt</link>
+      <description>&lt;p&gt;The official (but not yet stable) formatter for Nix code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koka-lang/koka</title>
+      <link>https://github.com/koka-lang/koka</link>
+      <description>&lt;p&gt;Koka language compiler and interpreter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ucsd-progsys/liquid-fixpoint</title>
+      <link>https://github.com/ucsd-progsys/liquid-fixpoint</link>
+      <description>&lt;p&gt;Horn Clause Constraint Solving for Liquid Types&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>simplex-chat/simplexmq</title>
+      <link>https://github.com/simplex-chat/simplexmq</link>
+      <description>&lt;p&gt;⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>haskell/cabal</title>
+      <link>https://github.com/haskell/cabal</link>
+      <description>&lt;p&gt;Official upstream development repository for Cabal and cabal-install&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>koalaman/shellcheck</title>
+      <link>https://github.com/koalaman/shellcheck</link>
+      <description>&lt;p&gt;ShellCheck, a static analysis tool for shell scripts&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tweag/ormolu</title>
+      <link>https://github.com/tweag/ormolu</link>
+      <description>&lt;p&gt;A formatter for Haskell source code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>unisonweb/unison</title>
+      <link>https://github.com/unisonweb/unison</link>
+      <description>&lt;p&gt;A friendly programming language from the future&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IntersectMBO/cardano-node</title>
+      <link>https://github.com/IntersectMBO/cardano-node</link>
+      <description>&lt;p&gt;The core component that is used to participate in a Cardano decentralised blockchain.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>&lt;p&gt;Universal markup converter&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

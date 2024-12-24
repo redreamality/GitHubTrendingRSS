@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Shell Weekly Trending</title>
+    <description>Weekly Trending of Shell in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:32:58 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>prasanthrangan/hyprdots</title>
+      <link>https://github.com/prasanthrangan/hyprdots</link>
+      <description>&lt;p&gt;// Aesthetic, dynamic and minimal dots for Arch hyprland&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>1N3/Sn1per</title>
+      <link>https://github.com/1N3/Sn1per</link>
+      <description>&lt;p&gt;Attack Surface Management Platform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ohmyzsh/ohmyzsh</title>
+      <link>https://github.com/ohmyzsh/ohmyzsh</link>
+      <description>&lt;p&gt;🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kodekloudhub/certified-kubernetes-administrator-course</title>
+      <link>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</link>
+      <description>&lt;p&gt;Certified Kubernetes Administrator - CKA Course&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>termux/termux-packages</title>
+      <link>https://github.com/termux/termux-packages</link>
+      <description>&lt;p&gt;A package build system for Termux.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>samsesh/SocialBox-Termux</title>
+      <link>https://github.com/samsesh/SocialBox-Termux</link>
+      <description>&lt;p&gt;SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>linux-surface/linux-surface</title>
+      <link>https://github.com/linux-surface/linux-surface</link>
+      <description>&lt;p&gt;Linux Kernel for Surface Devices&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bitnami/containers</title>
+      <link>https://github.com/bitnami/containers</link>
+      <description>&lt;p&gt;Bitnami container images&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>VSCodium/vscodium</title>
+      <link>https://github.com/VSCodium/vscodium</link>
+      <description>&lt;p&gt;binary releases of VS Code without MS branding/telemetry/licensing&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ublue-os/bazzite</title>
+      <link>https://github.com/ublue-os/bazzite</link>
+      <description>&lt;p&gt;Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

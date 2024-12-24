@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub SCSS Monthly Trending</title>
+    <description>Monthly Trending of SCSS in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:44:03 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>just-the-docs/just-the-docs</title>
+      <link>https://github.com/just-the-docs/just-the-docs</link>
+      <description>&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documentation with built-in search.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jekyll/minima</title>
+      <link>https://github.com/jekyll/minima</link>
+      <description>&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>duckduckgo/duckduckgo-help-pages</title>
+      <link>https://github.com/duckduckgo/duckduckgo-help-pages</link>
+      <description>&lt;p&gt;DuckDuckGo Help Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cobiwave/simplefolio</title>
+      <link>https://github.com/cobiwave/simplefolio</link>
+      <description>&lt;p&gt;⚡️ A minimal portfolio template for Developers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>black7375/Firefox-UI-Fix</title>
+      <link>https://github.com/black7375/Firefox-UI-Fix</link>
+      <description>&lt;p&gt;🦊 I respect proton UI and aim to improve it.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>keyvanakbary/learning-notes</title>
+      <link>https://github.com/keyvanakbary/learning-notes</link>
+      <description>&lt;p&gt;Notes on books I read, talks I watch, articles I study, and papers I love&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/architect</title>
+      <link>https://github.com/pages-themes/architect</link>
+      <description>&lt;p&gt;Architect is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>conventional-commits/conventionalcommits.org</title>
+      <link>https://github.com/conventional-commits/conventionalcommits.org</link>
+      <description>&lt;p&gt;The conventional commits specification&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>catppuccin/discord</title>
+      <link>https://github.com/catppuccin/discord</link>
+      <description>&lt;p&gt;🎮 Soothing pastel theme for Discord&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>maildev/maildev</title>
+      <link>https://github.com/maildev/maildev</link>
+      <description>&lt;p&gt;📫 SMTP Server + Web Interface for viewing and testing emails during development.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>andrewbanchich/forty-jekyll-theme</title>
+      <link>https://github.com/andrewbanchich/forty-jekyll-theme</link>
+      <description>&lt;p&gt;A Jekyll version of the &quot;Forty&quot; theme by HTML5 UP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>oleeskild/digitalgarden</title>
+      <link>https://github.com/oleeskild/digitalgarden</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>IanLunn/Hover</title>
+      <link>https://github.com/IanLunn/Hover</link>
+      <description>&lt;p&gt;A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>creativetimofficial/material-dashboard</title>
+      <link>https://github.com/creativetimofficial/material-dashboard</link>
+      <description>&lt;p&gt;Material Dashboard - Open Source Bootstrap 5 Material Design Admin&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pages-themes/hacker</title>
+      <link>https://github.com/pages-themes/hacker</link>
+      <description>&lt;p&gt;Hacker is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>daviddarnes/alembic</title>
+      <link>https://github.com/daviddarnes/alembic</link>
+      <description>&lt;p&gt;⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

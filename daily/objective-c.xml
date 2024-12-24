@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Objective-C Daily Trending</title>
+    <description>Daily Trending of Objective-C in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:21:20 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>objective-see/LuLu</title>
+      <link>https://github.com/objective-see/LuLu</link>
+      <description>&lt;p&gt;LuLu is the free macOS firewall&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>realm/realm-swift</title>
+      <link>https://github.com/realm/realm-swift</link>
+      <description>&lt;p&gt;Realm is a mobile database: a replacement for Core Data &amp; SQLite&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hammerspoon/hammerspoon</title>
+      <link>https://github.com/Hammerspoon/hammerspoon</link>
+      <description>&lt;p&gt;Staggeringly powerful macOS desktop automation with Lua&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>PojavLauncherTeam/PojavLauncher_iOS</title>
+      <link>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</link>
+      <description>&lt;p&gt;A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for iOS/iPadOS platform.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mixpanel/mixpanel-iphone</title>
+      <link>https://github.com/mixpanel/mixpanel-iphone</link>
+      <description>&lt;p&gt;Official iOS (Objective-C) Tracking Library for Mixpanel Analytics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>opa334/TrollStore</title>
+      <link>https://github.com/opa334/TrollStore</link>
+      <description>&lt;p&gt;Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rentzsch/jrswizzle</title>
+      <link>https://github.com/rentzsch/jrswizzle</link>
+      <description>&lt;p&gt;one-stop-shop for all your method swizzling needs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>HeshamMegid/HMSegmentedControl</title>
+      <link>https://github.com/HeshamMegid/HMSegmentedControl</link>
+      <description>&lt;p&gt;A highly customizable drop-in replacement for UISegmentedControl.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>FLEXTool/FLEX</title>
+      <link>https://github.com/FLEXTool/FLEX</link>
+      <description>&lt;p&gt;An in-app debugging and exploration tool for iOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>specta/specta</title>
+      <link>https://github.com/specta/specta</link>
+      <description>&lt;p&gt;A light-weight TDD / BDD framework for Objective-C &amp; Cocoa&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flipboard/FLAnimatedImage</title>
+      <link>https://github.com/Flipboard/FLAnimatedImage</link>
+      <description>&lt;p&gt;Performant animated GIF engine for iOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>iziz/libPhoneNumber-iOS</title>
+      <link>https://github.com/iziz/libPhoneNumber-iOS</link>
+      <description>&lt;p&gt;iOS port from libphonenumber (Google&#39;s phone number handling library)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

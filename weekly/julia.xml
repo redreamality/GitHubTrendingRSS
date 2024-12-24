@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Julia Weekly Trending</title>
+    <description>Weekly Trending of Julia in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:27:40 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>JuliaRegistries/General</title>
+      <link>https://github.com/JuliaRegistries/General</link>
+      <description>&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>fonsp/Pluto.jl</title>
+      <link>https://github.com/fonsp/Pluto.jl</link>
+      <description>&lt;p&gt;🎈 Simple reactive notebooks for Julia&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

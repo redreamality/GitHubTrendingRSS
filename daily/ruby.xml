@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Ruby Daily Trending</title>
+    <description>Daily Trending of Ruby in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:22:33 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Freika/dawarich</title>
+      <link>https://github.com/Freika/dawarich</link>
+      <description>&lt;p&gt;Self-hosted alternative to Google Location History (Google Maps Timeline)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruby/ruby</title>
+      <link>https://github.com/ruby/ruby</link>
+      <description>&lt;p&gt;The Ruby Programming Language&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>hashicorp/vagrant</title>
+      <link>https://github.com/hashicorp/vagrant</link>
+      <description>&lt;p&gt;Vagrant is a tool for building and distributing development environments.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rails/solid_queue</title>
+      <link>https://github.com/rails/solid_queue</link>
+      <description>&lt;p&gt;Database-backed Active Job backend&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kilimchoi/engineering-blogs</title>
+      <link>https://github.com/kilimchoi/engineering-blogs</link>
+      <description>&lt;p&gt;A curated list of engineering blogs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bullet-train-co/bullet_train</title>
+      <link>https://github.com/bullet-train-co/bullet_train</link>
+      <description>&lt;p&gt;The Open Source Ruby on Rails SaaS Template&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>basecamp/kamal</title>
+      <link>https://github.com/basecamp/kamal</link>
+      <description>&lt;p&gt;Deploy web apps anywhere.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bayandin/awesome-awesomeness</title>
+      <link>https://github.com/bayandin/awesome-awesomeness</link>
+      <description>&lt;p&gt;A curated list of awesome awesomeness&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>&lt;p&gt;🤖 Dependabot&#39;s core logic for creating update PRs.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/brew</title>
+      <link>https://github.com/Homebrew/brew</link>
+      <description>&lt;p&gt;🍺 The missing package manager for macOS (or Linux)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>d12frosted/homebrew-emacs-plus</title>
+      <link>https://github.com/d12frosted/homebrew-emacs-plus</link>
+      <description>&lt;p&gt;Emacs Plus formulae for the Homebrew package manager&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>&lt;p&gt;A platform for community discussion. Free, open, simple.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rubygems/rubygems</title>
+      <link>https://github.com/rubygems/rubygems</link>
+      <description>&lt;p&gt;Library packaging and distribution for Ruby.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>github/choosealicense.com</title>
+      <link>https://github.com/github/choosealicense.com</link>
+      <description>&lt;p&gt;A site to provide non-judgmental guidance on choosing a license for your open source project&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mastodon/mastodon</title>
+      <link>https://github.com/mastodon/mastodon</link>
+      <description>&lt;p&gt;Your self-hosted, globally interconnected microblogging community&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Homebrew/homebrew-cask</title>
+      <link>https://github.com/Homebrew/homebrew-cask</link>
+      <description>&lt;p&gt;🍻 A CLI workflow for the administration of macOS applications distributed as binaries&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rubysec/ruby-advisory-db</title>
+      <link>https://github.com/rubysec/ruby-advisory-db</link>
+      <description>&lt;p&gt;A database of vulnerable Ruby Gems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

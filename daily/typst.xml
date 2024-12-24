@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Typst Daily Trending</title>
+    <description>Daily Trending of Typst in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:23:23 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>mintyfrankie/brilliant-CV</title>
+      <link>https://github.com/mintyfrankie/brilliant-CV</link>
+      <description>&lt;p&gt;💼 another CV template for your job application, yet powered by Typst and more&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

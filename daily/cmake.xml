@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub CMake Daily Trending</title>
+    <description>Daily Trending of CMake in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:18:01 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>microsoft/vcpkg</title>
+      <link>https://github.com/microsoft/vcpkg</link>
+      <description>&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cpm-cmake/CPM.cmake</title>
+      <link>https://github.com/cpm-cmake/CPM.cmake</link>
+      <description>&lt;p&gt;📦 CMake&#39;s missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>corrosion-rs/corrosion</title>
+      <link>https://github.com/corrosion-rs/corrosion</link>
+      <description>&lt;p&gt;Marrying Rust and CMake - Easy Rust and C/C++ Integration!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>boostorg/cmake</title>
+      <link>https://github.com/boostorg/cmake</link>
+      <description>&lt;p&gt;CMake support infrastructure Boost submodule&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheRobotStudio/SO-ARM100</title>
+      <link>https://github.com/TheRobotStudio/SO-ARM100</link>
+      <description>&lt;p&gt;Standard Open Arm 100&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>abdes/cryptopp-cmake</title>
+      <link>https://github.com/abdes/cryptopp-cmake</link>
+      <description>&lt;p&gt;A modern CMake build project for Crypto++ (https://github.com/weidai11/cryptopp).&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>arsenm/sanitizers-cmake</title>
+      <link>https://github.com/arsenm/sanitizers-cmake</link>
+      <description>&lt;p&gt;CMake modules to help use sanitizers&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>leetal/ios-cmake</title>
+      <link>https://github.com/leetal/ios-cmake</link>
+      <description>&lt;p&gt;A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TheLartians/PackageProject.cmake</title>
+      <link>https://github.com/TheLartians/PackageProject.cmake</link>
+      <description>&lt;p&gt;🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>steinbergmedia/vst3sdk</title>
+      <link>https://github.com/steinbergmedia/vst3sdk</link>
+      <description>&lt;p&gt;VST 3 Plug-In SDK&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>flathub/shared-modules</title>
+      <link>https://github.com/flathub/shared-modules</link>
+      <description>&lt;p&gt;Common Flatpak modules that can be used as a git submodule&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

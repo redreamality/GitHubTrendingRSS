@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub R Weekly Trending</title>
+    <description>Weekly Trending of R in GitHub</description>
+    <pubDate>Tue, 24 Dec 2024 02:32:17 GMT</pubDate>
+    <link>http://redreamality.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>tidyverse/dplyr</title>
+      <link>https://github.com/tidyverse/dplyr</link>
+      <description>&lt;p&gt;dplyr: A grammar of data manipulation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>satijalab/seurat</title>
+      <link>https://github.com/satijalab/seurat</link>
+      <description>&lt;p&gt;R toolkit for single cell genomics&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MRCIEU/TwoSampleMR</title>
+      <link>https://github.com/MRCIEU/TwoSampleMR</link>
+      <description>&lt;p&gt;R package for performing 2-sample MR using MR-Base database&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sqjin/CellChat</title>
+      <link>https://github.com/sqjin/CellChat</link>
+      <description>&lt;p&gt;R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>chris-mcginnis-ucsf/DoubletFinder</title>
+      <link>https://github.com/chris-mcginnis-ucsf/DoubletFinder</link>
+      <description>&lt;p&gt;R package for detecting doublets in single-cell RNA sequencing data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rmaia/pavo</title>
+      <link>https://github.com/rmaia/pavo</link>
+      <description>&lt;p&gt;tools for the analysis of color data in R&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>YuLab-SMU/clusterProfiler</title>
+      <link>https://github.com/YuLab-SMU/clusterProfiler</link>
+      <description>&lt;p&gt;📊 A universal enrichment tool for interpreting omics data&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>broadinstitute/infercnv</title>
+      <link>https://github.com/broadinstitute/infercnv</link>
+      <description>&lt;p&gt;Inferring CNV from Single-Cell RNA-Seq&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>qinwf/awesome-R</title>
+      <link>https://github.com/qinwf/awesome-R</link>
+      <description>&lt;p&gt;A curated list of awesome R packages, frameworks and software.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>tidyverse/ellmer</title>
+      <link>https://github.com/tidyverse/ellmer</link>
+      <description>&lt;p&gt;Call LLM APIs from R&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>immunogenomics/harmony</title>
+      <link>https://github.com/immunogenomics/harmony</link>
+      <description>&lt;p&gt;Fast, sensitive and accurate integration of single-cell data with Harmony&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GreenleafLab/ArchR</title>
+      <link>https://github.com/GreenleafLab/ArchR</link>
+      <description>&lt;p&gt;ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cole-trapnell-lab/monocle3</title>
+      <link>https://github.com/cole-trapnell-lab/monocle3</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
