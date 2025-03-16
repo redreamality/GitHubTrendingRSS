@@ -81,7 +81,7 @@
         <h2 id="frontend" class="title is-3">Frontend Development</h2>
         <div class="row columns is-multiline">
           {% for link, urlEncodedName in languageTrendingLinks %}
-          {% if link.displayName in ['JavaScript', 'TypeScript', 'Vue', 'React'] %}
+          {% if link.displayName == 'JavaScript' or link.displayName == 'TypeScript' or link.displayName == 'Vue' or link.displayName == 'React' %}
           <div class="column is-one-third">
             <div class="card language">
               <div class="card-content">
@@ -105,7 +105,7 @@
         <h2 id="backend" class="title is-3">Backend Development</h2>
         <div class="row columns is-multiline">
           {% for link, urlEncodedName in languageTrendingLinks %}
-          {% if link.displayName in ['Python', 'Java', 'C++', 'Go', 'Ruby', 'PHP'] %}
+          {% if link.displayName == 'Python' or link.displayName == 'Java' or link.displayName == 'C++' or link.displayName == 'Go' or link.displayName == 'Ruby' or link.displayName == 'PHP' %}
           <div class="column is-one-third">
             <div class="card language">
               <div class="card-content">
@@ -129,7 +129,7 @@
         <h2 id="mobile" class="title is-3">Mobile Development</h2>
         <div class="row columns is-multiline">
           {% for link, urlEncodedName in languageTrendingLinks %}
-          {% if link.displayName in ['Swift', 'Kotlin', 'Dart'] %}
+          {% if link.displayName == 'Swift' or link.displayName == 'Kotlin' or link.displayName == 'Dart' %}
           <div class="column is-one-third">
             <div class="card language">
               <div class="card-content">
@@ -153,7 +153,7 @@
         <h2 id="other" class="title is-3">Other Languages</h2>
         <div class="row columns is-multiline">
           {% for link, urlEncodedName in languageTrendingLinks %}
-          {% if not link.displayName in ['JavaScript', 'TypeScript', 'Vue', 'React', 'Python', 'Java', 'C++', 'Go', 'Ruby', 'PHP', 'Swift', 'Kotlin', 'Dart'] %}
+          {% if not (link.displayName == 'JavaScript' or link.displayName == 'TypeScript' or link.displayName == 'Vue' or link.displayName == 'React' or link.displayName == 'Python' or link.displayName == 'Java' or link.displayName == 'C++' or link.displayName == 'Go' or link.displayName == 'Ruby' or link.displayName == 'PHP' or link.displayName == 'Swift' or link.displayName == 'Kotlin' or link.displayName == 'Dart') %}
           <div class="column is-one-third">
             <div class="card language">
               <div class="card-content">
