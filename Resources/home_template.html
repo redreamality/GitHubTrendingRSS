@@ -10,6 +10,8 @@
     <meta content="./static/img/favicon-196.png" property="og:image" />
     <meta content="{{ information.rssHomeURL }}" property="og:url" />
     <meta content="en_US" property="og:locale" />
+    <meta name="description" content="GitHub Trending RSS Feeds - Stay updated with the most popular repositories on GitHub through RSS feeds" />
+    <meta name="keywords" content="GitHub,Trending,RSS,Developer,Programming,Repository,Open Source" />
     <title>{{ information.pageTitle }}</title>
     <link rel="stylesheet prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
@@ -23,61 +25,179 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', '{{ information.googleAnalyticsTrackingCode }}');
-      </script>
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "{{ information.pageTitle }}",
+      "url": "{{ information.rssHomeURL }}",
+      "description": "GitHub Trending RSS Feeds - Stay updated with the most popular repositories on GitHub through RSS feeds",
+      "author": {
+        "@type": "Person",
+        "name": "{{ information.author }}"
+      }
+    }
+    </script>
   </head>
   <body>
-    <section class="hero is-info is-small">
+    <header class="hero is-info is-small">
       <div class="hero-body">
         <div class="container has-text-centered">
-          <p class="title">
-          {{ information.pageTitle }}
-          </p>
+          <h1 class="title">
+            {{ information.pageTitle }}
+          </h1>
           <div class="content">
             <p>
-            <a href="https://github.com/redreamality/GitHubTrendingRSS/actions?query=workflow%3A%22Fetch+and+Generate+RSS+Feeds%22">
-              <img src="https://github.com/redreamality/GitHubTrendingRSS/workflows/Fetch%20and%20Generate%20RSS%20Feeds/badge.svg?event=schedule">
-                </a>
-            <a class="github-button" href="https://github.com/redreamality/GitHubTrendingRSS" data-size="small" data-show-count="true" aria-label="Star redreamality/GitHubTrendingRSS on GitHub">
-              Star
-            </a>
+              <a href="https://github.com/redreamality/GitHubTrendingRSS/actions?query=workflow%3A%22Fetch+and+Generate+RSS+Feeds%22">
+                <img src="https://github.com/redreamality/GitHubTrendingRSS/workflows/Fetch%20and%20Generate%20RSS%20Feeds/badge.svg?event=schedule" alt="Build Status">
+              </a>
+              <a class="github-button" href="https://github.com/redreamality/GitHubTrendingRSS" data-size="small" data-show-count="true" aria-label="Star redreamality/GitHubTrendingRSS on GitHub">
+                Star
+              </a>
             </p>
-            <p>The latest build: {{ latestBuildDate }}</p>
+            <p>Last Updated: {{ latestBuildDate }}</p>
           </div>
         </div>
       </div>
-    </section>
-    <section class="container">
+    </header>
+
+    <nav class="navbar is-light" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-menu">
+          <div class="navbar-start">
+            <a href="#frontend" class="navbar-item">Frontend</a>
+            <a href="#backend" class="navbar-item">Backend</a>
+            <a href="#mobile" class="navbar-item">Mobile</a>
+            <a href="#other" class="navbar-item">Other</a>
+            <a href="#faq" class="navbar-item">FAQ</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container">
       <div class="section">
+        <h2 id="frontend" class="title is-3">Frontend Development</h2>
         <div class="row columns is-multiline">
           {% for link, urlEncodedName in languageTrendingLinks %}
+          {% if link.displayName in ['JavaScript', 'TypeScript', 'Vue', 'React'] %}
           <div class="column is-one-third">
             <div class="card language">
               <div class="card-content">
                 <div class="media">
                   <div class="media-content has-text-centered">
-                    <p class="title is-4">
-                    {{ link.displayName }}
-                    </p>
+                    <h3 class="title is-4">{{ link.displayName }}</h3>
                   </div>
                 </div>
               </div>
               <footer class="card-footer">
                 {% for name, capitalizedName in periods %}
-                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">
-                  {{ capitalizedName }}
-                </a>
+                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">{{ capitalizedName }}</a>
                 {% endfor %}
               </footer>
             </div>
           </div>
+          {% endif %}
           {% endfor %}
         </div>
+
+        <h2 id="backend" class="title is-3">Backend Development</h2>
+        <div class="row columns is-multiline">
+          {% for link, urlEncodedName in languageTrendingLinks %}
+          {% if link.displayName in ['Python', 'Java', 'C++', 'Go', 'Ruby', 'PHP'] %}
+          <div class="column is-one-third">
+            <div class="card language">
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content has-text-centered">
+                    <h3 class="title is-4">{{ link.displayName }}</h3>
+                  </div>
+                </div>
+              </div>
+              <footer class="card-footer">
+                {% for name, capitalizedName in periods %}
+                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">{{ capitalizedName }}</a>
+                {% endfor %}
+              </footer>
+            </div>
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
+
+        <h2 id="mobile" class="title is-3">Mobile Development</h2>
+        <div class="row columns is-multiline">
+          {% for link, urlEncodedName in languageTrendingLinks %}
+          {% if link.displayName in ['Swift', 'Kotlin', 'Dart'] %}
+          <div class="column is-one-third">
+            <div class="card language">
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content has-text-centered">
+                    <h3 class="title is-4">{{ link.displayName }}</h3>
+                  </div>
+                </div>
+              </div>
+              <footer class="card-footer">
+                {% for name, capitalizedName in periods %}
+                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">{{ capitalizedName }}</a>
+                {% endfor %}
+              </footer>
+            </div>
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
+
+        <h2 id="other" class="title is-3">Other Languages</h2>
+        <div class="row columns is-multiline">
+          {% for link, urlEncodedName in languageTrendingLinks %}
+          {% if not link.displayName in ['JavaScript', 'TypeScript', 'Vue', 'React', 'Python', 'Java', 'C++', 'Go', 'Ruby', 'PHP', 'Swift', 'Kotlin', 'Dart'] %}
+          <div class="column is-one-third">
+            <div class="card language">
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content has-text-centered">
+                    <h3 class="title is-4">{{ link.displayName }}</h3>
+                  </div>
+                </div>
+              </div>
+              <footer class="card-footer">
+                {% for name, capitalizedName in periods %}
+                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">{{ capitalizedName }}</a>
+                {% endfor %}
+              </footer>
+            </div>
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
+
+        <section id="faq" class="section content">
+          <h2 class="title is-3">Frequently Asked Questions</h2>
+          <div class="content">
+            <h3>What is GitHub Trending RSS?</h3>
+            <p>GitHub Trending RSS is a service that converts GitHub's trending repositories into RSS feeds, making it easy to stay updated with the most popular projects in your favorite programming languages.</p>
+
+            <h3>How often are the feeds updated?</h3>
+            <p>The feeds are automatically updated daily to ensure you get the latest trending repositories.</p>
+
+            <h3>How do I use these RSS feeds?</h3>
+            <p>Simply copy the RSS feed URL for your preferred programming language and time period, then add it to your favorite RSS reader.</p>
+
+            <h3>Why use RSS feeds for GitHub trends?</h3>
+            <p>RSS feeds provide a convenient way to monitor trending repositories without having to visit GitHub regularly. They can be integrated into your daily workflow through RSS readers.</p>
+          </div>
+        </section>
       </div>
-    </section>
+    </main>
+
     <footer class="footer">
       <div class="container">
         <div class="content has-text-centered">
-          <a href="{{ information.gitHubRepositoryURL }}">
+          <p>Stay updated with the latest trends in open source development</p>
+          <a href="{{ information.gitHubRepositoryURL }}" aria-label="GitHub Repository">
             <i class="fab fa-github fa-2x"></i>
           </a>
         </div>
