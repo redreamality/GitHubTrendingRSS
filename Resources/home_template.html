@@ -10,8 +10,8 @@
     <meta content="./static/img/favicon-196.png" property="og:image" />
     <meta content="{{ information.rssHomeURL }}" property="og:url" />
     <meta content="en_US" property="og:locale" />
-    <meta name="description" content="GitHub Trending RSS Feeds - Stay updated with the most popular repositories on GitHub through RSS feeds" />
-    <meta name="keywords" content="GitHub,Trending,RSS,Developer,Programming,Repository,Open Source" />
+    <meta name="description" content="Stay updated with GitHub's trending repositories through RSS feeds, delivered daily for various programming languages. Subscribe now!" />
+    <meta name="keywords" content="GitHub Trending,RSS Feeds,Frontend Development,Backend Development,Mobile Development,Programming Languages,Trending Repositories,GitHub Trends" />
     <title>{{ information.pageTitle }}</title>
     <link rel="stylesheet prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
@@ -78,6 +78,93 @@
 
     <main class="container">
       <div class="section">
+        <div class="content has-text-centered">
+          <h2 class="title is-3">Stay Updated with GitHub's Latest Trends</h2>
+          <p class="subtitle is-5">
+            Get daily, weekly, and monthly updates on trending repositories across all major programming languages,
+            delivered directly to your favorite RSS reader.
+          </p>
+        </div>
+
+        <div class="columns is-centered mt-6">
+          <div class="column is-4">
+            <div class="box has-text-centered mt-6">
+              <span class="icon is-large has-text-info">
+                <i class="fas fa-rocket fa-2x"></i>
+              </span>
+              <h3 class="title is-4 mt-4">Get Started</h3>
+              <div class="content">
+                <ol class="has-text-left">
+                  <li>Browse categories below</li>
+                  <li>Pick your language</li>
+                  <li>Choose update frequency</li>
+                  <li>Subscribe via RSS</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+
+          <div class="column is-8">
+            <div class="box">
+              <h3 class="title is-4 has-text-centered">Key Features</h3>
+              <div class="columns is-multiline">
+                <div class="column is-6">
+                  <div class="media">
+                    <div class="media-left">
+                      <span class="icon has-text-info">
+                        <i class="fas fa-sync-alt"></i>
+                      </span>
+                    </div>
+                    <div class="media-content">
+                      <h4 class="title is-5">Daily Updates</h4>
+                      <p>Fresh content delivered every day</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="column is-6">
+                  <div class="media">
+                    <div class="media-left">
+                      <span class="icon has-text-info">
+                        <i class="fas fa-code"></i>
+                      </span>
+                    </div>
+                    <div class="media-content">
+                      <h4 class="title is-5">Multiple Languages</h4>
+                      <p>Support for all major programming languages</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="column is-6">
+                  <div class="media">
+                    <div class="media-left">
+                      <span class="icon has-text-info">
+                        <i class="fas fa-clock"></i>
+                      </span>
+                    </div>
+                    <div class="media-content">
+                      <h4 class="title is-5">Flexible Timeframes</h4>
+                      <p>Daily, weekly, or monthly trending feeds</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="column is-6">
+                  <div class="media">
+                    <div class="media-left">
+                      <span class="icon has-text-info">
+                        <i class="fas fa-rss"></i>
+                      </span>
+                    </div>
+                    <div class="media-content">
+                      <h4 class="title is-5">RSS Compatible</h4>
+                      <p>Works with all major RSS readers</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <h2 id="frontend" class="title is-3">Frontend Development</h2>
         <div class="row columns is-multiline">
           {% for link, urlEncodedName in languageTrendingLinks %}
@@ -184,7 +271,15 @@
             <p>The feeds are automatically updated daily to ensure you get the latest trending repositories.</p>
 
             <h3>How do I use these RSS feeds?</h3>
-            <p>Simply copy the RSS feed URL for your preferred programming language and time period, then add it to your favorite RSS reader.</p>
+            <p>To use these RSS feeds, follow these simple steps:</p>
+            <ol>
+                <li>Choose your preferred programming language from the sections above</li>
+                <li>Select a time period (daily, weekly, or monthly)</li>
+                <li>Click the link to get the RSS feed URL</li>
+                <li>Copy the URL and paste it into your favorite RSS reader (like Feedly, Follow, Inoreader, or NewsBlur)</li>
+                <li>Your reader will now automatically fetch updates about trending repositories in your chosen language</li>
+            </ol>
+            <p>Most modern browsers also support RSS feeds directly, allowing you to bookmark and check updates easily.</p>
 
             <h3>Why use RSS feeds for GitHub trends?</h3>
             <p>RSS feeds provide a convenient way to monitor trending repositories without having to visit GitHub regularly. They can be integrated into your daily workflow through RSS readers.</p>
