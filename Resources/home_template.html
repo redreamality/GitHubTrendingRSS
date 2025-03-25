@@ -39,6 +39,28 @@
       }
     }
     </script>
+    <style>
+      .time-period-nav {
+        margin-bottom: 1.5rem;
+        border-bottom: 1px solid #eee;
+      }
+      .time-period-nav .tabs {
+        margin-bottom: 0;
+      }
+      .language-item {
+        padding: 1rem;
+        margin-bottom: 1.5rem;
+        transition: transform 0.2s;
+        border-radius: 4px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+      .language-item:hover {
+        transform: translateY(-3px);
+      }
+      .language-title {
+        margin-bottom: 0.5rem !important;
+      }
+    </style>
   </head>
   <body>
     <header class="hero is-info is-small">
@@ -166,100 +188,128 @@
         </div>
 
         <h2 id="frontend" class="title is-3">Frontend Development</h2>
-        <div class="row columns is-multiline">
-          {% for link, urlEncodedName in languageTrendingLinks %}
-          {% if link.displayName == 'JavaScript' or link.displayName == 'TypeScript' or link.displayName == 'Vue' or link.displayName == 'React' %}
-          <div class="column is-one-third">
-            <div class="card language">
-              <div class="card-content">
-                <div class="media">
-                  <div class="media-content has-text-centered">
-                    <h3 class="title is-4">{{ link.displayName }}</h3>
-                  </div>
-                </div>
-              </div>
-              <footer class="card-footer">
-                {% for name, capitalizedName in periods %}
-                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">{{ capitalizedName }}</a>
-                {% endfor %}
-              </footer>
-            </div>
+        <div class="time-period-nav">
+          <div class="tabs">
+            <ul>
+              {% for name, capitalizedName in periods %}
+              <li class="{% if loop.first %}is-active{% endif %}"><a href="#frontend-{{ name }}">{{ capitalizedName }}</a></li>
+              {% endfor %}
+            </ul>
           </div>
-          {% endif %}
-          {% endfor %}
         </div>
+        
+        {% for name, capitalizedName in periods %}
+        <div id="frontend-{{ name }}" class="tab-content" {% if not loop.first %}style="display: none;"{% endif %}>
+          <div class="columns is-multiline">
+            {% for link, urlEncodedName in languageTrendingLinks %}
+            {% if link.displayName == 'JavaScript' or link.displayName == 'TypeScript' or link.displayName == 'Vue' or link.displayName == 'React' %}
+            <div class="column is-one-third">
+              <div class="language-item has-background-white-ter">
+                <h3 class="title is-5 language-title">{{ link.displayName }} RSS Feeds</h3>
+                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="button is-small is-info">
+                  <span class="icon"><i class="fas fa-rss"></i></span>
+                  <span>Subscribe</span>
+                </a>
+              </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
 
         <h2 id="backend" class="title is-3">Backend Development</h2>
-        <div class="row columns is-multiline">
-          {% for link, urlEncodedName in languageTrendingLinks %}
-          {% if link.displayName == 'Python' or link.displayName == 'Java' or link.displayName == 'C++' or link.displayName == 'Go' or link.displayName == 'Ruby' or link.displayName == 'PHP' %}
-          <div class="column is-one-third">
-            <div class="card language">
-              <div class="card-content">
-                <div class="media">
-                  <div class="media-content has-text-centered">
-                    <h3 class="title is-4">{{ link.displayName }}</h3>
-                  </div>
-                </div>
-              </div>
-              <footer class="card-footer">
-                {% for name, capitalizedName in periods %}
-                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">{{ capitalizedName }}</a>
-                {% endfor %}
-              </footer>
-            </div>
+        <div class="time-period-nav">
+          <div class="tabs">
+            <ul>
+              {% for name, capitalizedName in periods %}
+              <li class="{% if loop.first %}is-active{% endif %}"><a href="#backend-{{ name }}">{{ capitalizedName }}</a></li>
+              {% endfor %}
+            </ul>
           </div>
-          {% endif %}
-          {% endfor %}
         </div>
+        
+        {% for name, capitalizedName in periods %}
+        <div id="backend-{{ name }}" class="tab-content" {% if not loop.first %}style="display: none;"{% endif %}>
+          <div class="columns is-multiline">
+            {% for link, urlEncodedName in languageTrendingLinks %}
+            {% if link.displayName == 'Python' or link.displayName == 'Java' or link.displayName == 'C++' or link.displayName == 'Go' or link.displayName == 'Ruby' or link.displayName == 'PHP' %}
+            <div class="column is-one-third">
+              <div class="language-item has-background-white-ter">
+                <h3 class="title is-5 language-title">{{ link.displayName }} RSS Feeds</h3>
+                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="button is-small is-info">
+                  <span class="icon"><i class="fas fa-rss"></i></span>
+                  <span>Subscribe</span>
+                </a>
+              </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
 
         <h2 id="mobile" class="title is-3">Mobile Development</h2>
-        <div class="row columns is-multiline">
-          {% for link, urlEncodedName in languageTrendingLinks %}
-          {% if link.displayName == 'Swift' or link.displayName == 'Kotlin' or link.displayName == 'Dart' %}
-          <div class="column is-one-third">
-            <div class="card language">
-              <div class="card-content">
-                <div class="media">
-                  <div class="media-content has-text-centered">
-                    <h3 class="title is-4">{{ link.displayName }}</h3>
-                  </div>
-                </div>
-              </div>
-              <footer class="card-footer">
-                {% for name, capitalizedName in periods %}
-                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">{{ capitalizedName }}</a>
-                {% endfor %}
-              </footer>
-            </div>
+        <div class="time-period-nav">
+          <div class="tabs">
+            <ul>
+              {% for name, capitalizedName in periods %}
+              <li class="{% if loop.first %}is-active{% endif %}"><a href="#mobile-{{ name }}">{{ capitalizedName }}</a></li>
+              {% endfor %}
+            </ul>
           </div>
-          {% endif %}
-          {% endfor %}
         </div>
+        
+        {% for name, capitalizedName in periods %}
+        <div id="mobile-{{ name }}" class="tab-content" {% if not loop.first %}style="display: none;"{% endif %}>
+          <div class="columns is-multiline">
+            {% for link, urlEncodedName in languageTrendingLinks %}
+            {% if link.displayName == 'Swift' or link.displayName == 'Kotlin' or link.displayName == 'Dart' %}
+            <div class="column is-one-third">
+              <div class="language-item has-background-white-ter">
+                <h3 class="title is-5 language-title">{{ link.displayName }} RSS Feeds</h3>
+                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="button is-small is-info">
+                  <span class="icon"><i class="fas fa-rss"></i></span>
+                  <span>Subscribe</span>
+                </a>
+              </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
 
         <h2 id="other" class="title is-3">Other Languages</h2>
-        <div class="row columns is-multiline">
-          {% for link, urlEncodedName in languageTrendingLinks %}
-          {% if not (link.displayName == 'JavaScript' or link.displayName == 'TypeScript' or link.displayName == 'Vue' or link.displayName == 'React' or link.displayName == 'Python' or link.displayName == 'Java' or link.displayName == 'C++' or link.displayName == 'Go' or link.displayName == 'Ruby' or link.displayName == 'PHP' or link.displayName == 'Swift' or link.displayName == 'Kotlin' or link.displayName == 'Dart') %}
-          <div class="column is-one-third">
-            <div class="card language">
-              <div class="card-content">
-                <div class="media">
-                  <div class="media-content has-text-centered">
-                    <h3 class="title is-4">{{ link.displayName }}</h3>
-                  </div>
-                </div>
-              </div>
-              <footer class="card-footer">
-                {% for name, capitalizedName in periods %}
-                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="card-footer-item">{{ capitalizedName }}</a>
-                {% endfor %}
-              </footer>
-            </div>
+        <div class="time-period-nav">
+          <div class="tabs">
+            <ul>
+              {% for name, capitalizedName in periods %}
+              <li class="{% if loop.first %}is-active{% endif %}"><a href="#other-{{ name }}">{{ capitalizedName }}</a></li>
+              {% endfor %}
+            </ul>
           </div>
-          {% endif %}
-          {% endfor %}
         </div>
+        
+        {% for name, capitalizedName in periods %}
+        <div id="other-{{ name }}" class="tab-content" {% if not loop.first %}style="display: none;"{% endif %}>
+          <div class="columns is-multiline">
+            {% for link, urlEncodedName in languageTrendingLinks %}
+            {% if not (link.displayName == 'JavaScript' or link.displayName == 'TypeScript' or link.displayName == 'Vue' or link.displayName == 'React' or link.displayName == 'Python' or link.displayName == 'Java' or link.displayName == 'C++' or link.displayName == 'Go' or link.displayName == 'Ruby' or link.displayName == 'PHP' or link.displayName == 'Swift' or link.displayName == 'Kotlin' or link.displayName == 'Dart') %}
+            <div class="column is-one-third">
+              <div class="language-item has-background-white-ter">
+                <h3 class="title is-5 language-title">{{ link.displayName }} RSS Feeds</h3>
+                <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="button is-small is-info">
+                  <span class="icon"><i class="fas fa-rss"></i></span>
+                  <span>Subscribe</span>
+                </a>
+              </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
 
         <section id="faq" class="section content">
           <h2 class="title is-3">Frequently Asked Questions</h2>
@@ -299,5 +349,40 @@
       </div>
     </footer>
     <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        // Tab navigation functionality
+        const tabs = document.querySelectorAll('.tabs li');
+        const tabContentDivs = document.querySelectorAll('.tab-content');
+        
+        tabs.forEach(tab => {
+          tab.addEventListener('click', () => {
+            const target = document.querySelector(tab.querySelector('a').getAttribute('href'));
+            
+            // Find parent section
+            const parentSection = tab.closest('.time-period-nav').nextElementSibling.parentElement;
+            
+            // Hide all tab content in this section
+            parentSection.querySelectorAll('.tab-content').forEach(content => {
+              content.style.display = 'none';
+            });
+            
+            // Show target tab content
+            if (target) {
+              target.style.display = 'block';
+            }
+            
+            // Update active tab
+            tab.parentElement.querySelectorAll('li').forEach(t => {
+              t.classList.remove('is-active');
+            });
+            tab.classList.add('is-active');
+            
+            // Prevent default action
+            event.preventDefault();
+          });
+        });
+      });
+    </script>
   </body>
 </html>
