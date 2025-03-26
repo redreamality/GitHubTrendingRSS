@@ -15,7 +15,6 @@
     <title>{{ information.pageTitle }}</title>
     <link rel="stylesheet prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
-    <link rel="stylesheet" href="./static/css/main.css" />
     <link href="./static/img/favicon-196.png" rel="shortcut icon" type="image/png" />
     <link href="./static/img/favicon-196.png" rel="shortcut icon" sizes="196x196" />
     <link href="./static/img/favicon-196.png" rel="apple-touch-icon" />
@@ -40,25 +39,274 @@
     }
     </script>
     <style>
+      :root {
+        --primary-color: #3273dc;
+        --secondary-color: #363636;
+        --gradient-start: #4a90e2;
+        --gradient-end: #3273dc;
+        --bg-color: #121212;
+        --card-bg-color: #1e1e1e;
+        --text-color: #e1e1e1;
+        --secondary-text: #aaaaaa;
+        --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+        --accent-color: #50b7f5;
+        --border-color: #333;
+      }
+      
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        line-height: 1.6;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+      }
+      
+      .hero.is-info {
+        background: linear-gradient(135deg, #ff69b4, #4a66e0, #00bfff);
+        background-color: #121212;
+        color: var(--text-color);
+        box-shadow: 0 4px 15px rgba(255, 105, 180, 0.3);
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+      }
+      
+      .hero::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(45deg, rgba(255,105,180,0.1) 25%, transparent 25%),
+                    linear-gradient(-45deg, rgba(0,191,255,0.1) 25%, transparent 25%);
+        background-size: 60px 60px;
+        opacity: 0.3;
+        animation: heroPattern 60s linear infinite;
+      }
+      
+      @keyframes heroPattern {
+        from { background-position: 0 0; }
+        to { background-position: 120px 120px; }
+      }
+      
+      .hero .title {
+        font-size: 2.5rem;
+        font-weight: 800;
+        letter-spacing: -0.5px;
+        margin-bottom: 2rem;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        animation: fadeInDown 0.6s ease-out;
+      }
+      
+      .hero .content {
+        animation: fadeInUp 0.6s ease-out 0.2s both;
+      }
+      
+      .hero .content p {
+        margin-bottom: 1rem;
+      }
+      
+      .hero .content a {
+        margin: 0 0.5rem;
+        display: inline-block;
+        transition: transform 0.2s ease;
+      }
+      
+      .hero .content a:hover {
+        transform: translateY(-2px);
+      }
+      
+      @keyframes fadeInDown {
+        from {
+          opacity: 0;
+          transform: translateY(-20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      .section {
+        padding: 3rem 1.5rem;
+      }
+      
+      .card.language {
+        border-radius: 12px;
+        box-shadow: var(--card-shadow);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        overflow: hidden;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        background-color: var(--card-bg-color);
+      }
+      
+      .card.language:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+      }
+      
+      .box {
+        background-color: var(--card-bg-color);
+        color: var(--text-color);
+        box-shadow: var(--card-shadow);
+        border: 1px solid var(--border-color);
+      }
+      
+      .title, .subtitle {
+        color: var(--text-color);
+      }
+      
+      .navbar.is-light {
+        background-color: #1a1a1a;
+      }
+      
+      .navbar.is-light .navbar-item {
+        color: var(--text-color);
+      }
+      
+      .navbar.is-light .navbar-item:hover {
+        background-color: #252525 !important;
+        color: var(--accent-color);
+      }
+      
+      .button.is-info {
+        background-color: var(--accent-color);
+      }
+      
+      .button.is-info:hover {
+        background-color: #3aa0e0;
+      }
+      
+      .card-content {
+        padding: 1.5rem;
+        flex-grow: 1;
+      }
+      
+      .media-content {
+        overflow: hidden;
+      }
+      
+      .media-content .title {
+        color: var(--text-color);
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+      }
+      
+      .card-footer {
+        border-top: 1px solid var(--border-color);
+        background: var(--card-bg-color);
+      }
+      
+      .card-footer-item {
+        padding: 1rem;
+        color: var(--accent-color);
+        font-weight: 500;
+        transition: background-color 0.2s ease;
+      }
+      
+      .card-footer-item:hover {
+        background-color: #2a2a2a;
+        color: var(--accent-color);
+        text-decoration: none;
+      }
+      
+      .footer {
+        background-color: #0a0a0a;
+        padding: 3rem 1.5rem;
+        margin-top: 3rem;
+        border-top: 1px solid var(--border-color);
+      }
+      
+      .fab {
+        color: var(--text-color);
+        margin: 10px;
+        transition: transform 0.2s ease, opacity 0.2s ease;
+      }
+      
+      .fab:hover {
+        transform: scale(1.1);
+        opacity: 0.8;
+      }
+      
+      @media screen and (max-width: 768px) {
+        .hero-body {
+          padding: 2rem 1rem;
+        }
+        
+        .section {
+          padding: 2rem 1rem;
+        }
+        
+        .card.language {
+          margin-bottom: 1rem;
+        }
+      }
+      
       .time-period-nav {
         margin-bottom: 1.5rem;
-        border-bottom: 1px solid #eee;
+        border-bottom: 1px solid var(--border-color);
       }
+      
       .time-period-nav .tabs {
         margin-bottom: 0;
       }
+      
+      .tabs li.is-active a {
+        color: var(--accent-color);
+        border-bottom-color: var(--accent-color);
+      }
+      
+      .tabs a {
+        color: var(--text-color);
+      }
+      
+      .tabs a:hover {
+        color: var(--accent-color);
+      }
+      
       .language-item {
         padding: 1rem;
         margin-bottom: 1.5rem;
         transition: transform 0.2s;
         border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        box-shadow: var(--card-shadow);
+        background-color: var(--card-bg-color);
+        border: 1px solid var(--border-color);
       }
+      
       .language-item:hover {
         transform: translateY(-3px);
+        box-shadow: 0 4px 12px rgba(0,0,0,0.3);
       }
+      
       .language-title {
         margin-bottom: 0.5rem !important;
+        color: var(--text-color);
+      }
+      
+      .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+        color: var(--text-color);
+      }
+      
+      .content p, .content li {
+        color: var(--secondary-text);
+      }
+      
+      .icon.has-text-info {
+        color: var(--accent-color) !important;
       }
     </style>
   </head>
@@ -192,19 +440,19 @@
           <div class="tabs">
             <ul>
               {% for name, capitalizedName in periods %}
-              <li class="{% if loop.first %}is-active{% endif %}"><a href="#frontend-{{ name }}">{{ capitalizedName }}</a></li>
+              <li class="{% if name == 'daily' %}is-active{% endif %}"><a href="#frontend-{{ name }}">{{ capitalizedName }}</a></li>
               {% endfor %}
             </ul>
           </div>
         </div>
         
         {% for name, capitalizedName in periods %}
-        <div id="frontend-{{ name }}" class="tab-content" {% if not loop.first %}style="display: none;"{% endif %}>
+        <div id="frontend-{{ name }}" class="tab-content" {% if name != 'daily' %}style="display: none;"{% endif %}>
           <div class="columns is-multiline">
             {% for link, urlEncodedName in languageTrendingLinks %}
             {% if link.displayName == 'JavaScript' or link.displayName == 'TypeScript' or link.displayName == 'Vue' or link.displayName == 'React' %}
             <div class="column is-one-third">
-              <div class="language-item has-background-white-ter">
+              <div class="language-item">
                 <h3 class="title is-5 language-title">{{ link.displayName }} RSS Feeds</h3>
                 <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="button is-small is-info">
                   <span class="icon"><i class="fas fa-rss"></i></span>
@@ -223,19 +471,19 @@
           <div class="tabs">
             <ul>
               {% for name, capitalizedName in periods %}
-              <li class="{% if loop.first %}is-active{% endif %}"><a href="#backend-{{ name }}">{{ capitalizedName }}</a></li>
+              <li class="{% if name == 'daily' %}is-active{% endif %}"><a href="#backend-{{ name }}">{{ capitalizedName }}</a></li>
               {% endfor %}
             </ul>
           </div>
         </div>
         
         {% for name, capitalizedName in periods %}
-        <div id="backend-{{ name }}" class="tab-content" {% if not loop.first %}style="display: none;"{% endif %}>
+        <div id="backend-{{ name }}" class="tab-content" {% if name != 'daily' %}style="display: none;"{% endif %}>
           <div class="columns is-multiline">
             {% for link, urlEncodedName in languageTrendingLinks %}
             {% if link.displayName == 'Python' or link.displayName == 'Java' or link.displayName == 'C++' or link.displayName == 'Go' or link.displayName == 'Ruby' or link.displayName == 'PHP' %}
             <div class="column is-one-third">
-              <div class="language-item has-background-white-ter">
+              <div class="language-item">
                 <h3 class="title is-5 language-title">{{ link.displayName }} RSS Feeds</h3>
                 <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="button is-small is-info">
                   <span class="icon"><i class="fas fa-rss"></i></span>
@@ -254,19 +502,19 @@
           <div class="tabs">
             <ul>
               {% for name, capitalizedName in periods %}
-              <li class="{% if loop.first %}is-active{% endif %}"><a href="#mobile-{{ name }}">{{ capitalizedName }}</a></li>
+              <li class="{% if name == 'daily' %}is-active{% endif %}"><a href="#mobile-{{ name }}">{{ capitalizedName }}</a></li>
               {% endfor %}
             </ul>
           </div>
         </div>
         
         {% for name, capitalizedName in periods %}
-        <div id="mobile-{{ name }}" class="tab-content" {% if not loop.first %}style="display: none;"{% endif %}>
+        <div id="mobile-{{ name }}" class="tab-content" {% if name != 'daily' %}style="display: none;"{% endif %}>
           <div class="columns is-multiline">
             {% for link, urlEncodedName in languageTrendingLinks %}
             {% if link.displayName == 'Swift' or link.displayName == 'Kotlin' or link.displayName == 'Dart' %}
             <div class="column is-one-third">
-              <div class="language-item has-background-white-ter">
+              <div class="language-item">
                 <h3 class="title is-5 language-title">{{ link.displayName }} RSS Feeds</h3>
                 <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="button is-small is-info">
                   <span class="icon"><i class="fas fa-rss"></i></span>
@@ -285,19 +533,19 @@
           <div class="tabs">
             <ul>
               {% for name, capitalizedName in periods %}
-              <li class="{% if loop.first %}is-active{% endif %}"><a href="#other-{{ name }}">{{ capitalizedName }}</a></li>
+              <li class="{% if name == 'daily' %}is-active{% endif %}"><a href="#other-{{ name }}">{{ capitalizedName }}</a></li>
               {% endfor %}
             </ul>
           </div>
         </div>
         
         {% for name, capitalizedName in periods %}
-        <div id="other-{{ name }}" class="tab-content" {% if not loop.first %}style="display: none;"{% endif %}>
+        <div id="other-{{ name }}" class="tab-content" {% if name != 'daily' %}style="display: none;"{% endif %}>
           <div class="columns is-multiline">
             {% for link, urlEncodedName in languageTrendingLinks %}
             {% if not (link.displayName == 'JavaScript' or link.displayName == 'TypeScript' or link.displayName == 'Vue' or link.displayName == 'React' or link.displayName == 'Python' or link.displayName == 'Java' or link.displayName == 'C++' or link.displayName == 'Go' or link.displayName == 'Ruby' or link.displayName == 'PHP' or link.displayName == 'Swift' or link.displayName == 'Kotlin' or link.displayName == 'Dart') %}
             <div class="column is-one-third">
-              <div class="language-item has-background-white-ter">
+              <div class="language-item">
                 <h3 class="title is-5 language-title">{{ link.displayName }} RSS Feeds</h3>
                 <a href="./{{ name }}/{{ urlEncodedName }}.xml" class="button is-small is-info">
                   <span class="icon"><i class="fas fa-rss"></i></span>
